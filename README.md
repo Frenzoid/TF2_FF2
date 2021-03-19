@@ -113,7 +113,7 @@
 - `addons/sourcemod/config/adminmenu_custom.txt`: custom admin menu, make it more easier for your server operators to manage plugins in-game.
 
 - `mce_menustyle` `"1"`: Mapchooser-extended is set to use the old style valve menu, this is to avoid mindless voting, so people who want to actually contribute to the vote have to go back to the main menu and select a map from a pop-up window.
-
+- The command `find ./ -name "*.bz2" -exec bzip2 -d {} + &` can be used to uncompress all bz2 files in their respective folders.
 ## External links:
 - [Suggestions and feedback survey][feedbacksurvey]
 
