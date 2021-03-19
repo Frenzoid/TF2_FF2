@@ -9,3 +9,99 @@ L 03/19/2021 - 08:55:03: [basecommands.smx] "Nezzie<2><[U:1:107910185]><>" chang
 L 03/19/2021 - 08:55:06: [SM] Changed map to "vsh_apg_reworked_b2"
 L 03/19/2021 - 08:55:07: -------- Mapchange to vsh_apg_reworked_b2 --------
 L 03/19/2021 - 08:55:14: [mapchooser_extended.smx] Loaded map list for tf.
+L 03/19/2021 - 09:15:29: [mapchooser_extended.smx] Voting for next map has started.
+L 03/19/2021 - 09:22:17: SourceMod log file session started (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/L20210319.log") (Version "1.10.0.6490")
+L 03/19/2021 - 09:22:17: [TF2ITEMS] "GiveNamedItem" offset = 484
+L 03/19/2021 - 09:22:18: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 03/19/2021 - 09:22:18: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 03/19/2021 - 09:22:18: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 03/19/2021 - 09:22:18: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 03/19/2021 - 09:22:27: [mapchooser_extended.smx] Loaded map list for tf.
+L 03/19/2021 - 09:23:35: SourceMod log file session started (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/L20210319.log") (Version "1.10.0.6490")
+L 03/19/2021 - 09:23:35: [TF2ITEMS] "GiveNamedItem" offset = 484
+L 03/19/2021 - 09:23:36: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 03/19/2021 - 09:23:36: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 03/19/2021 - 09:23:36: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 03/19/2021 - 09:23:36: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 03/19/2021 - 09:23:44: [mapchooser_extended.smx] Loaded map list for tf.
+L 03/19/2021 - 09:32:39: [playercommands.smx] "Nezzie<2><[U:1:107910185]><>" slayed "CryBaby<3><BOT><>"
+L 03/19/2021 - 09:32:39: [playercommands.smx] "Nezzie<2><[U:1:107910185]><>" slayed "ThatGuy<4><BOT><>"
+L 03/19/2021 - 09:32:39: [playercommands.smx] "Nezzie<2><[U:1:107910185]><>" slayed "Hat-Wearing MAN<5><BOT><>"
+L 03/19/2021 - 09:32:40: [playercommands.smx] "Nezzie<2><[U:1:107910185]><>" slayed "Numnutz<6><BOT><>"
+L 03/19/2021 - 09:32:40: [playercommands.smx] "Nezzie<2><[U:1:107910185]><>" slayed "The G-Man<7><BOT><>"
+L 03/19/2021 - 09:33:40: [respawn.smx] "Nezzie<2><[U:1:107910185]><>" respawned "The Combine<8><BOT><>"
+L 03/19/2021 - 09:33:40: [respawn.smx] "Nezzie<2><[U:1:107910185]><>" respawned "Pow!<9><BOT><>"
+L 03/19/2021 - 09:33:40: [respawn.smx] "Nezzie<2><[U:1:107910185]><>" respawned "THEM<10><BOT><>"
+L 03/19/2021 - 09:33:40: [respawn.smx] "Nezzie<2><[U:1:107910185]><>" respawned "10001011101<11><BOT><>"
+L 03/19/2021 - 09:33:40: [respawn.smx] "Nezzie<2><[U:1:107910185]><>" respawned "ZAWMBEEZ<12><BOT><>"
+L 03/19/2021 - 09:33:40: [respawn.smx] "Nezzie<2><[U:1:107910185]><>" respawned "TAAAAANK!<13><BOT><>"
+L 03/19/2021 - 09:33:40: [respawn.smx] "Nezzie<2><[U:1:107910185]><>" respawned "Black Mesa<14><BOT><>"
+L 03/19/2021 - 09:33:40: [respawn.smx] "Nezzie<2><[U:1:107910185]><>" respawned "CEDA<15><BOT><>"
+L 03/19/2021 - 09:33:40: [respawn.smx] "Nezzie<2><[U:1:107910185]><>" respawned "NotMe<16><BOT><>"
+L 03/19/2021 - 09:33:40: [respawn.smx] "Nezzie<2><[U:1:107910185]><>" respawned "BoomerBile<17><BOT><>"
+L 03/19/2021 - 09:33:40: [respawn.smx] "Nezzie<2><[U:1:107910185]><>" respawned "Mann Co.<18><BOT><>"
+L 03/19/2021 - 09:33:40: [respawn.smx] "Nezzie<2><[U:1:107910185]><>" respawned "Kaboom!<19><BOT><>"
+L 03/19/2021 - 09:33:40: [respawn.smx] "Nezzie<2><[U:1:107910185]><>" respawned "0xDEADBEEF<20><BOT><>"
+L 03/19/2021 - 09:33:40: [respawn.smx] "Nezzie<2><[U:1:107910185]><>" respawned "SomeDude<21><BOT><>"
+L 03/19/2021 - 09:33:40: [respawn.smx] "Nezzie<2><[U:1:107910185]><>" respawned "Hostage<22><BOT><>"
+L 03/19/2021 - 09:33:40: [respawn.smx] "Nezzie<2><[U:1:107910185]><>" respawned "CrySomeMore<23><BOT><>"
+L 03/19/2021 - 09:33:40: [respawn.smx] "Nezzie<2><[U:1:107910185]><>" respawned "Humans Are Weak<24><BOT><>"
+L 03/19/2021 - 09:33:40: [respawn.smx] "Nezzie<2><[U:1:107910185]><>" respawned "C++<25><BOT><>"
+L 03/19/2021 - 09:33:40: [respawn.smx] "Nezzie<2><[U:1:107910185]><>" respawned "Nobody<26><BOT><>"
+L 03/19/2021 - 09:33:40: [respawn.smx] "Nezzie<2><[U:1:107910185]><>" respawned "RageQuit<27><BOT><>"
+L 03/19/2021 - 09:33:40: [respawn.smx] "Nezzie<2><[U:1:107910185]><>" respawned "Ze Ubermensch<28><BOT><>"
+L 03/19/2021 - 09:33:50: [respawn.smx] "Nezzie<2><[U:1:107910185]><>" respawned "Nobody<26><BOT><>"
+L 03/19/2021 - 09:33:50: [respawn.smx] "Nezzie<2><[U:1:107910185]><>" respawned "Ze Ubermensch<28><BOT><>"
+L 03/19/2021 - 09:34:25: [respawn.smx] "Nezzie<2><[U:1:107910185]><>" respawned "Nobody<26><BOT><>"
+L 03/19/2021 - 09:34:41: [basecommands.smx] "Nezzie<2><[U:1:107910185]><>" kicked "Nobody<26><BOT><>" (reason "")
+L 03/19/2021 - 09:39:25: [nominations_extended.smx] Nezzie nominated vsh_apg_reworked_b2
+L 03/19/2021 - 09:40:58: [basechat.smx] "Console<0><Console><Console>" triggered sm_say (text The round time has ended, omaewa-mou shindeiru)
+L 03/19/2021 - 09:40:58: [playercommands.smx] "Console<0><Console><Console>" slayed "Hat-Wearing MAN<5><BOT><>"
+L 03/19/2021 - 09:40:58: [playercommands.smx] "Console<0><Console><Console>" slayed "Numnutz<6><BOT><>"
+L 03/19/2021 - 09:40:58: [playercommands.smx] "Console<0><Console><Console>" slayed "The G-Man<7><BOT><>"
+L 03/19/2021 - 09:40:58: [playercommands.smx] "Console<0><Console><Console>" slayed "The Combine<8><BOT><>"
+L 03/19/2021 - 09:40:58: [playercommands.smx] "Console<0><Console><Console>" slayed "Pow!<9><BOT><>"
+L 03/19/2021 - 09:40:58: [playercommands.smx] "Console<0><Console><Console>" slayed "THEM<10><BOT><>"
+L 03/19/2021 - 09:40:58: [playercommands.smx] "Console<0><Console><Console>" slayed "10001011101<11><BOT><>"
+L 03/19/2021 - 09:40:58: [playercommands.smx] "Console<0><Console><Console>" slayed "ZAWMBEEZ<12><BOT><>"
+L 03/19/2021 - 09:40:58: [playercommands.smx] "Console<0><Console><Console>" slayed "TAAAAANK!<13><BOT><>"
+L 03/19/2021 - 09:40:58: [playercommands.smx] "Console<0><Console><Console>" slayed "Black Mesa<14><BOT><>"
+L 03/19/2021 - 09:40:58: [playercommands.smx] "Console<0><Console><Console>" slayed "CEDA<15><BOT><>"
+L 03/19/2021 - 09:40:58: [playercommands.smx] "Console<0><Console><Console>" slayed "NotMe<16><BOT><>"
+L 03/19/2021 - 09:40:58: [playercommands.smx] "Console<0><Console><Console>" slayed "BoomerBile<17><BOT><>"
+L 03/19/2021 - 09:40:58: [playercommands.smx] "Console<0><Console><Console>" slayed "Mann Co.<18><BOT><>"
+L 03/19/2021 - 09:40:58: [playercommands.smx] "Console<0><Console><Console>" slayed "Kaboom!<19><BOT><>"
+L 03/19/2021 - 09:40:58: [playercommands.smx] "Console<0><Console><Console>" slayed "0xDEADBEEF<20><BOT><>"
+L 03/19/2021 - 09:40:58: [playercommands.smx] "Console<0><Console><Console>" slayed "SomeDude<21><BOT><>"
+L 03/19/2021 - 09:40:58: [playercommands.smx] "Console<0><Console><Console>" slayed "Hostage<22><BOT><>"
+L 03/19/2021 - 09:40:58: [playercommands.smx] "Console<0><Console><Console>" slayed "CrySomeMore<23><BOT><>"
+L 03/19/2021 - 09:40:58: [playercommands.smx] "Console<0><Console><Console>" slayed "Humans Are Weak<24><BOT><>"
+L 03/19/2021 - 09:40:58: [playercommands.smx] "Console<0><Console><Console>" slayed "C++<25><BOT><>"
+L 03/19/2021 - 09:40:58: [playercommands.smx] "Console<0><Console><Console>" slayed "RageQuit<27><BOT><>"
+L 03/19/2021 - 09:41:01: [basecommands.smx] "Nezzie<2><[U:1:107910185]><>" changed map to "vsh_apg_reworked_b2"
+L 03/19/2021 - 09:41:04: [SM] Changed map to "vsh_apg_reworked_b2"
+L 03/19/2021 - 09:41:05: -------- Mapchange to vsh_apg_reworked_b2 --------
+L 03/19/2021 - 09:41:12: [mapchooser_extended.smx] Loaded map list for tf.
+L 03/19/2021 - 09:42:34: [basecommands.smx] "Nezzie<2><[U:1:107910185]><>" changed map to "vsh_apg_reworked_b2"
+L 03/19/2021 - 09:42:37: [SM] Changed map to "vsh_apg_reworked_b2"
+L 03/19/2021 - 09:42:38: -------- Mapchange to vsh_apg_reworked_b2 --------
+L 03/19/2021 - 09:42:44: [mapchooser_extended.smx] Loaded map list for tf.
+L 03/19/2021 - 09:44:17: SourceMod log file session started (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/L20210319.log") (Version "1.10.0.6490")
+L 03/19/2021 - 09:44:17: [TF2ITEMS] "GiveNamedItem" offset = 484
+L 03/19/2021 - 09:44:17: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 03/19/2021 - 09:44:17: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 03/19/2021 - 09:44:17: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 03/19/2021 - 09:44:18: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 03/19/2021 - 09:44:26: [mapchooser_extended.smx] Loaded map list for tf.
+L 03/19/2021 - 09:45:48: [playercommands.smx] "Nezzie<2><[U:1:107910185]><>" slayed "Ze Ubermensch<4><BOT><>"
+L 03/19/2021 - 09:45:48: [playercommands.smx] "Nezzie<2><[U:1:107910185]><>" slayed "CRITRAWKETS<5><BOT><>"
+L 03/19/2021 - 09:45:48: [playercommands.smx] "Nezzie<2><[U:1:107910185]><>" slayed "Target Practice<7><BOT><>"
+L 03/19/2021 - 09:45:48: [playercommands.smx] "Nezzie<2><[U:1:107910185]><>" slayed "Crowbar<8><BOT><>"
+L 03/19/2021 - 09:45:48: [playercommands.smx] "Nezzie<2><[U:1:107910185]><>" slayed "Cannon Fodder<10><BOT><>"
+L 03/19/2021 - 09:45:48: [playercommands.smx] "Nezzie<2><[U:1:107910185]><>" slayed "GENTLE MANNE of LEISURE<12><BOT><>"
+L 03/19/2021 - 09:45:48: [playercommands.smx] "Nezzie<2><[U:1:107910185]><>" slayed "Force of Nature<14><BOT><>"
+L 03/19/2021 - 09:45:48: [playercommands.smx] "Nezzie<2><[U:1:107910185]><>" slayed "SMELLY UNFORTUNATE<17><BOT><>"
+L 03/19/2021 - 09:45:48: [playercommands.smx] "Nezzie<2><[U:1:107910185]><>" slayed "Mentlegen<18><BOT><>"
+L 03/19/2021 - 09:45:48: [playercommands.smx] "Nezzie<2><[U:1:107910185]><>" slayed "Glorified Toaster with Legs<21><BOT><>"
+L 03/19/2021 - 09:45:48: [playercommands.smx] "Nezzie<2><[U:1:107910185]><>" slayed "CryBaby<22><BOT><>"
+L 03/19/2021 - 10:04:43: [mapchooser_extended.smx] Voting for next map has started.
