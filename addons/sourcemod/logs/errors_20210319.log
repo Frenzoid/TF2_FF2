@@ -63,3 +63,7 @@ L 03/19/2021 - 09:48:18: [SM]   [7] Call_Finish
 L 03/19/2021 - 09:48:18: [SM]   [8] Line 16949, Unofficial Freak Fortress::UseAbility
 L 03/19/2021 - 09:48:18: [SM]   [9] Line 11243, Unofficial Freak Fortress::ActivateAbilitySlot
 L 03/19/2021 - 09:48:18: [SM]   [10] Line 12183, Unofficial Freak Fortress::OnPlayerHurt
+L 03/19/2021 - 13:12:20: SourceMod error session started
+L 03/19/2021 - 13:12:20: Info (map "arena_lumberyard") (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/errors_20210319.log")
+L 03/19/2021 - 13:12:20: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 03/19/2021 - 13:12:20: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)

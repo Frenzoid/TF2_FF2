@@ -105,3 +105,10 @@ L 03/19/2021 - 09:45:48: [playercommands.smx] "Nezzie<2><[U:1:107910185]><>" sla
 L 03/19/2021 - 09:45:48: [playercommands.smx] "Nezzie<2><[U:1:107910185]><>" slayed "Glorified Toaster with Legs<21><BOT><>"
 L 03/19/2021 - 09:45:48: [playercommands.smx] "Nezzie<2><[U:1:107910185]><>" slayed "CryBaby<22><BOT><>"
 L 03/19/2021 - 10:04:43: [mapchooser_extended.smx] Voting for next map has started.
+L 03/19/2021 - 13:12:20: SourceMod log file session started (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/L20210319.log") (Version "1.10.0.6490")
+L 03/19/2021 - 13:12:20: [TF2ITEMS] "GiveNamedItem" offset = 484
+L 03/19/2021 - 13:12:20: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 03/19/2021 - 13:12:20: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 03/19/2021 - 13:12:20: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 03/19/2021 - 13:12:21: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 03/19/2021 - 13:12:31: [mapchooser_extended.smx] Loaded map list for tf.
