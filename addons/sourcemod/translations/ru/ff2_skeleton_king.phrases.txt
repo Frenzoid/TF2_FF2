@@ -1,0 +1,35 @@
+"Phrases"
+{
+	"charge_status"
+	{
+		"ru"	"Бросок из ада: {1}%"
+	}
+	"charge_cooldown"
+	{
+		"ru"	"Бросок из ада: {1} сек."
+	}
+	"charge_ready"
+	{	
+		"ru"	"Бросок из ада: Готово! Нажми Reload для броска!"
+	}
+	"rage_available_in_ground"
+	{
+		"ru"	"Данная способность доступна только когда ты стоишь на земле"
+	}
+	"reincarnation_cooldown"
+	{
+		"ru"	"Возрождение: {1} сек."
+	}
+	"reincarnation_ready"
+	{	
+		"ru"	"Возрождение: Готово!"
+	}
+	"reincarnation_info"
+	{	
+		"ru"	"Быстрее! У вас есть {1} секунд пока {2} не может возродиться снова!"
+	}
+	"reincarnation_invulnerable"
+	{	
+		"ru"	"{1} неуязвим. Нет смысла его атаковать сейчас."
+	}	
+}

@@ -1,0 +1,17 @@
+L 01/24/2021 - 00:19:01: SourceMod log file session started (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/L20210124.log") (Version "1.10.0.6490")
+L 01/24/2021 - 00:19:01: [mapchooser_extended.smx] Voting for next map has started.
+L 01/24/2021 - 22:49:26: [SM] Changed map to "vsh_area_54tress_b4"
+L 01/24/2021 - 22:49:33: -------- Mapchange to vsh_area_54tress_b4 --------
+L 01/24/2021 - 22:49:49: [mapchooser_extended.smx] Loaded map list for tf.
+L 01/24/2021 - 23:10:10: [mapchooser_extended.smx] Voting for next map has started.
+L 01/24/2021 - 23:10:31: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_chinatown_b3.
+L 01/24/2021 - 23:20:43: [SM] Changed map to "vsh_chinatown_b3"
+L 01/24/2021 - 23:20:50: -------- Mapchange to vsh_chinatown_b3 --------
+L 01/24/2021 - 23:21:04: [mapchooser_extended.smx] Loaded map list for tf.
+L 01/24/2021 - 23:41:26: [mapchooser_extended.smx] Voting for next map has started.
+L 01/24/2021 - 23:41:40: [mapchooser_extended.smx] Voting for next map has started.
+L 01/24/2021 - 23:42:01: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_necropolis_b1.
+L 01/24/2021 - 23:55:25: [SM] Changed map to "vsh_necropolis_b1"
+L 01/24/2021 - 23:55:28: -------- Mapchange to vsh_necropolis_b1 --------
+L 01/24/2021 - 23:55:40: [mapchooser_extended.smx] Loaded map list for tf.
+L 01/25/2021 - 00:15:56: Log file closed.

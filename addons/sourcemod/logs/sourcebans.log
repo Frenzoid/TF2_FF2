@@ -1,0 +1,35 @@
+L 08/10/2020 - 12:16:34: [sbpp_main.smx] Database failure: Could not find Database conf "sourcebans". See Docs: https://sbpp.github.io/docs/
+L 08/10/2020 - 12:38:19: [sbpp_main.smx] plugins/basebans.smx was unloaded and moved to plugins/disabled/basebans.smx
+L 08/10/2020 - 22:22:51: [sbpp_main.smx] Verify Ban Query Failed: Can't connect to MySQL server on 'oldbox.cloud' (111)
+L 08/10/2020 - 22:23:36: [sbpp_main.smx] Verify Ban Query Failed: Can't connect to MySQL server on 'oldbox.cloud' (111)
+L 08/10/2020 - 22:24:21: [sbpp_main.smx] Verify Ban Query Failed: Can't connect to MySQL server on 'oldbox.cloud' (111)
+L 08/10/2020 - 22:25:04: [sbpp_main.smx] Failed to retrieve overrides from the database, Can't connect to MySQL server on 'oldbox.cloud' (111)
+L 08/10/2020 - 22:25:04: [sbpp_main.smx] Failed to retrieve groups from the database, Can't connect to MySQL server on 'oldbox.cloud' (111)
+L 08/10/2020 - 22:25:04: [sbpp_main.smx] Failed to retrieve admins from the database, Can't connect to MySQL server on 'oldbox.cloud' (111)
+L 08/10/2020 - 22:25:04: [sbpp_main.smx] Verify Ban Query Failed: Can't connect to MySQL server on 'oldbox.cloud' (111)
+L 08/10/2020 - 22:25:49: [sbpp_main.smx] Verify Ban Query Failed: Can't connect to MySQL server on 'oldbox.cloud' (111)
+L 08/10/2020 - 22:26:34: [sbpp_main.smx] Verify Ban Query Failed: Can't connect to MySQL server on 'oldbox.cloud' (111)
+L 08/10/2020 - 22:26:49: [sbpp_main.smx] Database failure: [2003]: Can't connect to MySQL server on 'oldbox.cloud' (111). See Docs: https://sbpp.github.io/docs/
+L 08/10/2020 - 22:28:08: [sbpp_main.smx] Database failure: [2003]: Can't connect to MySQL server on 'oldbox.cloud' (111). See Docs: https://sbpp.github.io/docs/
+L 08/10/2020 - 22:30:56: [sbpp_main.smx] Database failure: [2003]: Can't connect to MySQL server on 'oldbox.cloud' (111). See Docs: https://sbpp.github.io/docs/
+L 08/11/2020 - 09:51:50: [sbpp_main.smx] Database failure: [2003]: Can't connect to MySQL server on 'oldbox.cloud' (111). See Docs: https://sbpp.github.io/docs/
+L 01/14/2021 - 01:56:26: [sbpp_main.smx] Failed to retrieve overrides from the database, Unknown MySQL server host 'oldbox.cloud' (11)
+L 01/14/2021 - 01:56:26: [sbpp_main.smx] Failed to retrieve groups from the database, Unknown MySQL server host 'oldbox.cloud' (11)
+L 01/14/2021 - 01:56:26: [sbpp_main.smx] Failed to retrieve admins from the database, Unknown MySQL server host 'oldbox.cloud' (11)
+L 01/14/2021 - 01:57:15: [sbpp_main.smx] Verify Ban Query Failed: Unknown MySQL server host 'oldbox.cloud' (11)
+L 01/14/2021 - 01:58:36: [sbpp_main.smx] Verify Ban Query Failed: Unknown MySQL server host 'oldbox.cloud' (11)
+L 01/14/2021 - 01:59:16: [sbpp_main.smx] Verify Ban Query Failed: Unknown MySQL server host 'oldbox.cloud' (11)
+L 01/14/2021 - 02:00:36: [sbpp_main.smx] Verify Ban Query Failed: Unknown MySQL server host 'oldbox.cloud' (11)
+L 01/14/2021 - 02:01:16: [sbpp_main.smx] Verify Ban Query Failed: Unknown MySQL server host 'oldbox.cloud' (11)
+L 01/14/2021 - 02:02:36: [sbpp_main.smx] Verify Ban Query Failed: Unknown MySQL server host 'oldbox.cloud' (11)
+L 01/14/2021 - 02:03:16: [sbpp_main.smx] Verify Ban Query Failed: Unknown MySQL server host 'oldbox.cloud' (11)
+L 01/14/2021 - 02:04:36: [sbpp_main.smx] Verify Ban Query Failed: Unknown MySQL server host 'oldbox.cloud' (11)
+L 01/14/2021 - 02:05:16: [sbpp_main.smx] Verify Ban Query Failed: Unknown MySQL server host 'oldbox.cloud' (11)
+L 01/14/2021 - 02:06:36: [sbpp_main.smx] Verify Ban Query Failed: Unknown MySQL server host 'oldbox.cloud' (11)
+L 01/14/2021 - 02:07:16: [sbpp_main.smx] Verify Ban Query Failed: Unknown MySQL server host 'oldbox.cloud' (11)
+L 01/14/2021 - 02:08:02: [sbpp_main.smx] Verify Ban Query Failed: Unknown MySQL server host 'oldbox.cloud' (11)
+L 01/14/2021 - 02:08:42: [sbpp_main.smx] Verify Ban Query Failed: Unknown MySQL server host 'oldbox.cloud' (11)
+L 01/14/2021 - 02:09:27: [sbpp_main.smx] Verify Ban Query Failed: Unknown MySQL server host 'oldbox.cloud' (11)
+L 01/14/2021 - 02:10:07: [sbpp_main.smx] Verify Ban Query Failed: Unknown MySQL server host 'oldbox.cloud' (11)
+L 01/14/2021 - 02:10:42: [sbpp_main.smx] Verify Ban Query Failed: Unknown MySQL server host 'oldbox.cloud' (11)
+L 01/18/2021 - 09:00:27: [sbpp_main.smx] Verify Ban Query Failed: Unknown MySQL server host 'oldbox.cloud' (11)

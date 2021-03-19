@@ -1,0 +1,273 @@
+L 12/29/2020 - 00:04:30: SourceMod log file session started (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/L20201229.log") (Version "1.10.0.6490")
+L 12/29/2020 - 00:04:30: [mapchooser_extended.smx] Voting for next map has started.
+L 12/29/2020 - 14:21:47: [SM] Changed map to "vsh_cairo_pyramid_v4"
+L 12/29/2020 - 14:21:49: -------- Mapchange to vsh_cairo_pyramid_v4 --------
+L 12/29/2020 - 14:21:59: [mapchooser_extended.smx] Loaded map list for tf.
+L 12/29/2020 - 14:42:15: [mapchooser_extended.smx] Voting for next map has started.
+L 12/29/2020 - 14:42:25: [mapchooser_extended.smx] Voting for next map has started.
+L 12/29/2020 - 14:42:29: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_minegay_reworked_v2.
+L 12/29/2020 - 14:46:44: [rockthevote_extended.smx] RTV changing map manually
+L 12/29/2020 - 14:46:44: [SM] Changed map to "vsh_minegay_reworked_v2"
+L 12/29/2020 - 14:46:46: -------- Mapchange to vsh_minegay_reworked_v2 --------
+L 12/29/2020 - 14:46:57: [mapchooser_extended.smx] Loaded map list for tf.
+L 12/29/2020 - 15:07:15: [mapchooser_extended.smx] Voting for next map has started.
+L 12/29/2020 - 15:07:19: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_castle_siege_unreal_sg1.
+L 12/29/2020 - 19:21:20: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 12/29/2020 - 19:21:20: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 12/29/2020 - 19:21:20: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 12/29/2020 - 19:21:21: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 12/29/2020 - 19:21:21: [mapchooser_extended.smx] Loaded map list for tf.
+L 12/29/2020 - 19:21:39: [SM] Changed map to "vsh_nebula_rc1"
+L 12/29/2020 - 19:21:42: -------- Mapchange to vsh_nebula_rc1 --------
+L 12/29/2020 - 19:21:53: [mapchooser_extended.smx] Loaded map list for tf.
+L 12/29/2020 - 19:26:08: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 12/29/2020 - 19:26:08: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 12/29/2020 - 19:26:08: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 12/29/2020 - 19:26:09: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 12/29/2020 - 19:26:09: [mapchooser_extended.smx] Loaded map list for tf.
+L 12/29/2020 - 19:27:43: [basecommands.smx] "Nezzie<97><[U:1:107910185]><>" changed map to "vsh_castle_siege_unreal_sg1"
+L 12/29/2020 - 19:27:46: [SM] Changed map to "vsh_castle_siege_unreal_sg1"
+L 12/29/2020 - 19:27:48: -------- Mapchange to vsh_castle_siege_unreal_sg1 --------
+L 12/29/2020 - 19:27:58: [mapchooser_extended.smx] Loaded map list for tf.
+L 12/29/2020 - 19:31:11: [basevotes.smx] "Nezzie<97><[U:1:107910185]><>" initiated a generic vote.
+L 12/29/2020 - 19:34:37: [sbpp_comms.smx] "Nezzie<97><[U:1:107910185]><>" silenced "Reborn Zoom<99><[U:1:1090520790]><>" (minutes "1") (reason "NO >:(")
+L 12/29/2020 - 19:34:53: [sbpp_comms.smx] "Nezzie<97><[U:1:107910185]><>" unmuted "Reborn Zoom<99><[U:1:1090520790]><>" (reason "")
+L 12/29/2020 - 19:34:53: [sbpp_comms.smx] "Nezzie<97><[U:1:107910185]><>" ungagged "Reborn Zoom<99><[U:1:1090520790]><>" (reason "")
+L 12/29/2020 - 19:34:53: [sbpp_comms.smx] "Nezzie<97><[U:1:107910185]><>" removed mute for STEAM_0:0:545260395 from DB
+L 12/29/2020 - 19:34:53: [sbpp_comms.smx] "Nezzie<97><[U:1:107910185]><>" removed gag for STEAM_0:0:545260395 from DB
+L 12/29/2020 - 19:36:09: [playercommands.smx] "unspacy<98><[U:1:130638097]><>" slapped "unspacy<98><[U:1:130638097]><>" (damage "0")
+L 12/29/2020 - 19:36:10: [playercommands.smx] "unspacy<98><[U:1:130638097]><>" slapped "unspacy<98><[U:1:130638097]><>" (damage "0")
+L 12/29/2020 - 19:36:10: [playercommands.smx] "unspacy<98><[U:1:130638097]><>" slapped "unspacy<98><[U:1:130638097]><>" (damage "0")
+L 12/29/2020 - 19:36:10: [playercommands.smx] "unspacy<98><[U:1:130638097]><>" slapped "unspacy<98><[U:1:130638097]><>" (damage "0")
+L 12/29/2020 - 19:36:10: [playercommands.smx] "unspacy<98><[U:1:130638097]><>" slapped "unspacy<98><[U:1:130638097]><>" (damage "0")
+L 12/29/2020 - 19:36:11: [playercommands.smx] "unspacy<98><[U:1:130638097]><>" slapped "unspacy<98><[U:1:130638097]><>" (damage "0")
+L 12/29/2020 - 19:36:11: [playercommands.smx] "unspacy<98><[U:1:130638097]><>" slapped "unspacy<98><[U:1:130638097]><>" (damage "0")
+L 12/29/2020 - 19:48:13: [mapchooser_extended.smx] Voting for next map has started.
+L 12/29/2020 - 19:48:39: [mapchooser_extended.smx] Voting for next map has started.
+L 12/29/2020 - 19:49:00: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_egyptyspot_v2.
+L 12/29/2020 - 19:49:07: [funcommandsX.smx] "Draconic (Azel)<96><[U:1:101368949]><>" made "Draconic (Azel)<96><[U:1:101368949]><>" blue
+L 12/29/2020 - 19:49:19: [funcommandsX.smx] "unspacy<98><[U:1:130638097]><>" made "unspacy<98><[U:1:130638097]><>" blue
+L 12/29/2020 - 19:49:35: [funcommandsX.smx] "Draconic (Azel)<96><[U:1:101368949]><>" made "Draconic (Azel)<96><[U:1:101368949]><>" red
+L 12/29/2020 - 19:51:04: [respawn.smx] "Draconic (Azel)<96><[U:1:101368949]><>" respawned "Reborn Zoom<99><[U:1:1090520790]><>"
+L 12/29/2020 - 19:51:31: [funcommandsX.smx] "Draconic (Azel)<96><[U:1:101368949]><>" made "Reborn Zoom<99><[U:1:1090520790]><>" purple
+L 12/29/2020 - 19:52:02: [funcommandsX.smx] "Nezzie<97><[U:1:107910185]><>" enabled disco mode
+L 12/29/2020 - 19:52:35: [respawn.smx] "M1STY F1SH<100><[U:1:445849108]><>" respawned "M1STY F1SH<100><[U:1:445849108]><>"
+L 12/29/2020 - 19:53:40: [respawn.smx] "M1STY F1SH<100><[U:1:445849108]><>" respawned "M1STY F1SH<100><[U:1:445849108]><>"
+L 12/29/2020 - 19:53:56: [respawn.smx] "Draconic (Azel)<96><[U:1:101368949]><>" respawned "Draconic (Azel)<96><[U:1:101368949]><>"
+L 12/29/2020 - 19:54:33: [respawn.smx] "unspacy<98><[U:1:130638097]><>" respawned "unspacy<98><[U:1:130638097]><>"
+L 12/29/2020 - 19:54:38: [funcommandsX.smx] "Draconic (Azel)<96><[U:1:101368949]><>" made "Draconic (Azel)<96><[U:1:101368949]><>" blue
+L 12/29/2020 - 19:55:20: [funcommands.smx] "Nezzie<97><[U:1:107910185]><>" froze "unspacy<98><[U:1:130638097]><>"
+L 12/29/2020 - 19:55:36: [funcommands.smx] "Nezzie<97><[U:1:107910185]><>" ignited "unspacy<98><[U:1:130638097]><>" (seconds "20.000000")
+L 12/29/2020 - 19:55:42: [playercommands.smx] "unspacy<98><[U:1:130638097]><>" slapped "unspacy<98><[U:1:130638097]><>" (damage "0")
+L 12/29/2020 - 19:56:00: [funcommands.smx] "Nezzie<97><[U:1:107910185]><>" set a TimeBomb on "unspacy<98><[U:1:130638097]><>"
+L 12/29/2020 - 19:56:20: [funcommands.smx] "Nezzie<97><[U:1:107910185]><>" set a TimeBomb on "Draconic (Azel)<96><[U:1:101368949]><>"
+L 12/29/2020 - 19:56:30: [funcommands.smx] "Nezzie<97><[U:1:107910185]><>" removed a TimeBomb on "Draconic (Azel)<96><[U:1:101368949]><>"
+L 12/29/2020 - 19:59:23: [respawn.smx] "Nezzie<97><[U:1:107910185]><>" respawned "Draconic (Azel)<96><[U:1:101368949]><>"
+L 12/29/2020 - 19:59:50: [SM] Changed map to "vsh_egyptyspot_v2"
+L 12/29/2020 - 19:59:52: -------- Mapchange to vsh_egyptyspot_v2 --------
+L 12/29/2020 - 20:00:05: [mapchooser_extended.smx] Loaded map list for tf.
+L 12/29/2020 - 20:00:58: [respawn.smx] "Nezzie<97><[U:1:107910185]><>" respawned "Nezzie<97><[U:1:107910185]><>"
+L 12/29/2020 - 20:09:05: [playercommands.smx] "Nezzie<97><[U:1:107910185]><>" slapped "unspacy<98><[U:1:130638097]><>" (damage "0")
+L 12/29/2020 - 20:09:05: [playercommands.smx] "Nezzie<97><[U:1:107910185]><>" slapped "unspacy<98><[U:1:130638097]><>" (damage "0")
+L 12/29/2020 - 20:09:05: [playercommands.smx] "Nezzie<97><[U:1:107910185]><>" slapped "unspacy<98><[U:1:130638097]><>" (damage "0")
+L 12/29/2020 - 20:09:06: [playercommands.smx] "Nezzie<97><[U:1:107910185]><>" slapped "unspacy<98><[U:1:130638097]><>" (damage "0")
+L 12/29/2020 - 20:09:06: [playercommands.smx] "Nezzie<97><[U:1:107910185]><>" slapped "unspacy<98><[U:1:130638097]><>" (damage "0")
+L 12/29/2020 - 20:09:06: [playercommands.smx] "Nezzie<97><[U:1:107910185]><>" slapped "unspacy<98><[U:1:130638097]><>" (damage "0")
+L 12/29/2020 - 20:09:06: [playercommands.smx] "Nezzie<97><[U:1:107910185]><>" slapped "unspacy<98><[U:1:130638097]><>" (damage "0")
+L 12/29/2020 - 20:09:06: [playercommands.smx] "Nezzie<97><[U:1:107910185]><>" slapped "unspacy<98><[U:1:130638097]><>" (damage "0")
+L 12/29/2020 - 20:09:06: [playercommands.smx] "Nezzie<97><[U:1:107910185]><>" slapped "unspacy<98><[U:1:130638097]><>" (damage "0")
+L 12/29/2020 - 20:09:06: [playercommands.smx] "Nezzie<97><[U:1:107910185]><>" slapped "unspacy<98><[U:1:130638097]><>" (damage "0")
+L 12/29/2020 - 20:09:07: [playercommands.smx] "unspacy<98><[U:1:130638097]><>" slapped "unspacy<98><[U:1:130638097]><>" (damage "0")
+L 12/29/2020 - 20:09:07: [playercommands.smx] "Nezzie<97><[U:1:107910185]><>" slapped "unspacy<98><[U:1:130638097]><>" (damage "0")
+L 12/29/2020 - 20:09:07: [playercommands.smx] "unspacy<98><[U:1:130638097]><>" slapped "unspacy<98><[U:1:130638097]><>" (damage "0")
+L 12/29/2020 - 20:09:07: [playercommands.smx] "Nezzie<97><[U:1:107910185]><>" slapped "unspacy<98><[U:1:130638097]><>" (damage "0")
+L 12/29/2020 - 20:09:07: [playercommands.smx] "Nezzie<97><[U:1:107910185]><>" slapped "unspacy<98><[U:1:130638097]><>" (damage "0")
+L 12/29/2020 - 20:09:07: [playercommands.smx] "unspacy<98><[U:1:130638097]><>" slapped "unspacy<98><[U:1:130638097]><>" (damage "0")
+L 12/29/2020 - 20:09:07: [playercommands.smx] "unspacy<98><[U:1:130638097]><>" slapped "unspacy<98><[U:1:130638097]><>" (damage "0")
+L 12/29/2020 - 20:09:07: [playercommands.smx] "unspacy<98><[U:1:130638097]><>" slapped "unspacy<98><[U:1:130638097]><>" (damage "0")
+L 12/29/2020 - 20:09:08: [playercommands.smx] "unspacy<98><[U:1:130638097]><>" slapped "unspacy<98><[U:1:130638097]><>" (damage "0")
+L 12/29/2020 - 20:09:08: [playercommands.smx] "unspacy<98><[U:1:130638097]><>" slapped "unspacy<98><[U:1:130638097]><>" (damage "0")
+L 12/29/2020 - 20:09:08: [playercommands.smx] "Nezzie<97><[U:1:107910185]><>" slapped "unspacy<98><[U:1:130638097]><>" (damage "0")
+L 12/29/2020 - 20:09:08: [playercommands.smx] "unspacy<98><[U:1:130638097]><>" slapped "unspacy<98><[U:1:130638097]><>" (damage "0")
+L 12/29/2020 - 20:09:08: [playercommands.smx] "Nezzie<97><[U:1:107910185]><>" slapped "unspacy<98><[U:1:130638097]><>" (damage "0")
+L 12/29/2020 - 20:09:08: [playercommands.smx] "Nezzie<97><[U:1:107910185]><>" slapped "unspacy<98><[U:1:130638097]><>" (damage "0")
+L 12/29/2020 - 20:09:08: [playercommands.smx] "unspacy<98><[U:1:130638097]><>" slapped "unspacy<98><[U:1:130638097]><>" (damage "0")
+L 12/29/2020 - 20:09:08: [playercommands.smx] "unspacy<98><[U:1:130638097]><>" slapped "unspacy<98><[U:1:130638097]><>" (damage "0")
+L 12/29/2020 - 20:09:08: [playercommands.smx] "Nezzie<97><[U:1:107910185]><>" slapped "unspacy<98><[U:1:130638097]><>" (damage "0")
+L 12/29/2020 - 20:09:08: [playercommands.smx] "Nezzie<97><[U:1:107910185]><>" slapped "unspacy<98><[U:1:130638097]><>" (damage "0")
+L 12/29/2020 - 20:09:08: [playercommands.smx] "unspacy<98><[U:1:130638097]><>" slapped "unspacy<98><[U:1:130638097]><>" (damage "0")
+L 12/29/2020 - 20:09:09: [playercommands.smx] "Nezzie<97><[U:1:107910185]><>" slapped "unspacy<98><[U:1:130638097]><>" (damage "0")
+L 12/29/2020 - 20:09:09: [playercommands.smx] "unspacy<98><[U:1:130638097]><>" slapped "unspacy<98><[U:1:130638097]><>" (damage "0")
+L 12/29/2020 - 20:09:09: [playercommands.smx] "Nezzie<97><[U:1:107910185]><>" slapped "unspacy<98><[U:1:130638097]><>" (damage "0")
+L 12/29/2020 - 20:09:09: [playercommands.smx] "Nezzie<97><[U:1:107910185]><>" slapped "unspacy<98><[U:1:130638097]><>" (damage "0")
+L 12/29/2020 - 20:09:09: [playercommands.smx] "unspacy<98><[U:1:130638097]><>" slapped "unspacy<98><[U:1:130638097]><>" (damage "0")
+L 12/29/2020 - 20:09:09: [playercommands.smx] "Nezzie<97><[U:1:107910185]><>" slapped "unspacy<98><[U:1:130638097]><>" (damage "0")
+L 12/29/2020 - 20:09:09: [playercommands.smx] "unspacy<98><[U:1:130638097]><>" slapped "unspacy<98><[U:1:130638097]><>" (damage "0")
+L 12/29/2020 - 20:09:09: [playercommands.smx] "Nezzie<97><[U:1:107910185]><>" slapped "unspacy<98><[U:1:130638097]><>" (damage "0")
+L 12/29/2020 - 20:09:09: [playercommands.smx] "Nezzie<97><[U:1:107910185]><>" slapped "unspacy<98><[U:1:130638097]><>" (damage "0")
+L 12/29/2020 - 20:09:09: [playercommands.smx] "unspacy<98><[U:1:130638097]><>" slapped "unspacy<98><[U:1:130638097]><>" (damage "0")
+L 12/29/2020 - 20:09:09: [playercommands.smx] "Nezzie<97><[U:1:107910185]><>" slapped "unspacy<98><[U:1:130638097]><>" (damage "0")
+L 12/29/2020 - 20:09:09: [playercommands.smx] "unspacy<98><[U:1:130638097]><>" slapped "unspacy<98><[U:1:130638097]><>" (damage "0")
+L 12/29/2020 - 20:09:09: [playercommands.smx] "Nezzie<97><[U:1:107910185]><>" slapped "unspacy<98><[U:1:130638097]><>" (damage "0")
+L 12/29/2020 - 20:09:09: [playercommands.smx] "unspacy<98><[U:1:130638097]><>" slapped "unspacy<98><[U:1:130638097]><>" (damage "0")
+L 12/29/2020 - 20:09:09: [playercommands.smx] "Nezzie<97><[U:1:107910185]><>" slapped "unspacy<98><[U:1:130638097]><>" (damage "0")
+L 12/29/2020 - 20:09:10: [playercommands.smx] "Nezzie<97><[U:1:107910185]><>" slapped "unspacy<98><[U:1:130638097]><>" (damage "0")
+L 12/29/2020 - 20:09:10: [playercommands.smx] "unspacy<98><[U:1:130638097]><>" slapped "unspacy<98><[U:1:130638097]><>" (damage "0")
+L 12/29/2020 - 20:09:10: [playercommands.smx] "Nezzie<97><[U:1:107910185]><>" slapped "unspacy<98><[U:1:130638097]><>" (damage "0")
+L 12/29/2020 - 20:09:10: [playercommands.smx] "unspacy<98><[U:1:130638097]><>" slapped "unspacy<98><[U:1:130638097]><>" (damage "0")
+L 12/29/2020 - 20:09:10: [playercommands.smx] "Nezzie<97><[U:1:107910185]><>" slapped "unspacy<98><[U:1:130638097]><>" (damage "0")
+L 12/29/2020 - 20:09:10: [playercommands.smx] "unspacy<98><[U:1:130638097]><>" slapped "unspacy<98><[U:1:130638097]><>" (damage "0")
+L 12/29/2020 - 20:09:10: [playercommands.smx] "Nezzie<97><[U:1:107910185]><>" slapped "unspacy<98><[U:1:130638097]><>" (damage "0")
+L 12/29/2020 - 20:09:10: [playercommands.smx] "Nezzie<97><[U:1:107910185]><>" slapped "unspacy<98><[U:1:130638097]><>" (damage "0")
+L 12/29/2020 - 20:09:10: [playercommands.smx] "unspacy<98><[U:1:130638097]><>" slapped "unspacy<98><[U:1:130638097]><>" (damage "0")
+L 12/29/2020 - 20:09:10: [playercommands.smx] "Nezzie<97><[U:1:107910185]><>" slapped "unspacy<98><[U:1:130638097]><>" (damage "0")
+L 12/29/2020 - 20:09:10: [playercommands.smx] "Nezzie<97><[U:1:107910185]><>" slapped "unspacy<98><[U:1:130638097]><>" (damage "0")
+L 12/29/2020 - 20:09:10: [playercommands.smx] "unspacy<98><[U:1:130638097]><>" slapped "unspacy<98><[U:1:130638097]><>" (damage "0")
+L 12/29/2020 - 20:09:10: [playercommands.smx] "Nezzie<97><[U:1:107910185]><>" slapped "unspacy<98><[U:1:130638097]><>" (damage "0")
+L 12/29/2020 - 20:09:11: [playercommands.smx] "unspacy<98><[U:1:130638097]><>" slapped "unspacy<98><[U:1:130638097]><>" (damage "0")
+L 12/29/2020 - 20:09:11: [playercommands.smx] "Nezzie<97><[U:1:107910185]><>" slapped "unspacy<98><[U:1:130638097]><>" (damage "0")
+L 12/29/2020 - 20:09:11: [playercommands.smx] "unspacy<98><[U:1:130638097]><>" slapped "unspacy<98><[U:1:130638097]><>" (damage "0")
+L 12/29/2020 - 20:09:11: [playercommands.smx] "Nezzie<97><[U:1:107910185]><>" slapped "unspacy<98><[U:1:130638097]><>" (damage "0")
+L 12/29/2020 - 20:09:11: [playercommands.smx] "Nezzie<97><[U:1:107910185]><>" slapped "unspacy<98><[U:1:130638097]><>" (damage "0")
+L 12/29/2020 - 20:09:11: [playercommands.smx] "unspacy<98><[U:1:130638097]><>" slapped "unspacy<98><[U:1:130638097]><>" (damage "0")
+L 12/29/2020 - 20:09:11: [playercommands.smx] "Nezzie<97><[U:1:107910185]><>" slapped "unspacy<98><[U:1:130638097]><>" (damage "0")
+L 12/29/2020 - 20:09:11: [playercommands.smx] "unspacy<98><[U:1:130638097]><>" slapped "unspacy<98><[U:1:130638097]><>" (damage "0")
+L 12/29/2020 - 20:09:12: [playercommands.smx] "unspacy<98><[U:1:130638097]><>" slapped "unspacy<98><[U:1:130638097]><>" (damage "0")
+L 12/29/2020 - 20:09:12: [playercommands.smx] "unspacy<98><[U:1:130638097]><>" slapped "unspacy<98><[U:1:130638097]><>" (damage "0")
+L 12/29/2020 - 20:09:12: [playercommands.smx] "unspacy<98><[U:1:130638097]><>" slapped "unspacy<98><[U:1:130638097]><>" (damage "0")
+L 12/29/2020 - 20:09:12: [playercommands.smx] "unspacy<98><[U:1:130638097]><>" slapped "unspacy<98><[U:1:130638097]><>" (damage "0")
+L 12/29/2020 - 20:09:12: [playercommands.smx] "unspacy<98><[U:1:130638097]><>" slapped "unspacy<98><[U:1:130638097]><>" (damage "0")
+L 12/29/2020 - 20:09:13: [playercommands.smx] "unspacy<98><[U:1:130638097]><>" slapped "unspacy<98><[U:1:130638097]><>" (damage "0")
+L 12/29/2020 - 20:09:13: [playercommands.smx] "unspacy<98><[U:1:130638097]><>" slapped "unspacy<98><[U:1:130638097]><>" (damage "0")
+L 12/29/2020 - 20:09:13: [playercommands.smx] "unspacy<98><[U:1:130638097]><>" slapped "unspacy<98><[U:1:130638097]><>" (damage "0")
+L 12/29/2020 - 20:09:13: [playercommands.smx] "unspacy<98><[U:1:130638097]><>" slapped "unspacy<98><[U:1:130638097]><>" (damage "0")
+L 12/29/2020 - 20:09:13: [playercommands.smx] "unspacy<98><[U:1:130638097]><>" slapped "unspacy<98><[U:1:130638097]><>" (damage "0")
+L 12/29/2020 - 20:11:02: [respawn.smx] "Nezzie<97><[U:1:107910185]><>" respawned "Nezzie<97><[U:1:107910185]><>"
+L 12/29/2020 - 20:11:48: [respawn.smx] "M1STY F1SH<100><[U:1:445849108]><>" respawned "M1STY F1SH<100><[U:1:445849108]><>"
+L 12/29/2020 - 20:12:28: [respawn.smx] "M1STY F1SH<100><[U:1:445849108]><>" respawned "M1STY F1SH<100><[U:1:445849108]><>"
+L 12/29/2020 - 20:14:40: [respawn.smx] "M1STY F1SH<100><[U:1:445849108]><>" respawned "M1STY F1SH<100><[U:1:445849108]><>"
+L 12/29/2020 - 20:18:36: [respawn.smx] "M1STY F1SH<100><[U:1:445849108]><>" respawned "M1STY F1SH<100><[U:1:445849108]><>"
+L 12/29/2020 - 20:20:21: [mapchooser_extended.smx] Voting for next map has started.
+L 12/29/2020 - 20:20:47: [mapchooser_extended.smx] Voting for next map has started.
+L 12/29/2020 - 20:21:08: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_intrusion_rc2.
+L 12/29/2020 - 20:27:17: [respawn.smx] "Draconic (Azel)<96><[U:1:101368949]><>" respawned "Draconic (Azel)<96><[U:1:101368949]><>"
+L 12/29/2020 - 20:31:24: [SM] Changed map to "vsh_intrusion_rc2"
+L 12/29/2020 - 20:31:30: -------- Mapchange to vsh_intrusion_rc2 --------
+L 12/29/2020 - 20:31:41: [mapchooser_extended.smx] Loaded map list for tf.
+L 12/29/2020 - 20:33:01: [respawn.smx] "Hailstorm<103><[U:1:181986054]><>" respawned "Giggity<105><[U:1:899071019]><>"
+L 12/29/2020 - 20:50:11: [nominations_extended.smx] ✦|Xp nominated vsh_skyhigh_resort_b8_sg4
+L 12/29/2020 - 20:51:59: [mapchooser_extended.smx] Voting for next map has started.
+L 12/29/2020 - 20:52:06: [respawn.smx] "Nezzie<97><[U:1:107910185]><>" respawned "Nezzie<97><[U:1:107910185]><>"
+L 12/29/2020 - 20:52:15: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_dirtmound_b9.
+L 12/29/2020 - 20:52:33: [respawn.smx] "Nezzie<97><[U:1:107910185]><>" respawned "Nezzie<97><[U:1:107910185]><>"
+L 12/29/2020 - 21:02:09: [SM] Changed map to "vsh_dirtmound_b9"
+L 12/29/2020 - 21:02:12: -------- Mapchange to vsh_dirtmound_b9 --------
+L 12/29/2020 - 21:02:25: [mapchooser_extended.smx] Loaded map list for tf.
+L 12/29/2020 - 21:22:39: [mapchooser_extended.smx] Voting for next map has started.
+L 12/29/2020 - 22:36:37: [basecommands.smx] "Nezzie<114><[U:1:107910185]><>" changed map to "vsh_dirtmound_b9"
+L 12/29/2020 - 22:36:40: [SM] Changed map to "vsh_dirtmound_b9"
+L 12/29/2020 - 22:36:43: -------- Mapchange to vsh_dirtmound_b9 --------
+L 12/29/2020 - 22:36:54: [mapchooser_extended.smx] Loaded map list for tf.
+L 12/29/2020 - 22:37:40: [funcommandsX.smx] "Nezzie<114><[U:1:107910185]><>" teleported "test1<118><BOT><>"
+L 12/29/2020 - 22:38:17: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 12/29/2020 - 22:38:17: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 12/29/2020 - 22:38:17: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 12/29/2020 - 22:38:17: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 12/29/2020 - 22:38:17: [mapchooser_extended.smx] Loaded map list for tf.
+L 12/29/2020 - 22:38:36: [funcommandsX.smx] "Nezzie<114><[U:1:107910185]><>" teleported "test1<118><BOT><>"
+L 12/29/2020 - 22:39:01: [respawn.smx] "Nezzie<114><[U:1:107910185]><>" respawned "Crazed Gunman<120><BOT><>"
+L 12/29/2020 - 22:39:01: [respawn.smx] "Nezzie<114><[U:1:107910185]><>" respawned "Grim Bloody Fable<121><BOT><>"
+L 12/29/2020 - 22:39:01: [respawn.smx] "Nezzie<114><[U:1:107910185]><>" respawned "Poopy Joe<122><BOT><>"
+L 12/29/2020 - 22:39:01: [respawn.smx] "Nezzie<114><[U:1:107910185]><>" respawned "A Professional With Standards<123><BOT><>"
+L 12/29/2020 - 22:39:01: [respawn.smx] "Nezzie<114><[U:1:107910185]><>" respawned "Freakin' Unbelievable<124><BOT><>"
+L 12/29/2020 - 22:39:01: [respawn.smx] "Nezzie<114><[U:1:107910185]><>" respawned "SMELLY UNFORTUNATE<125><BOT><>"
+L 12/29/2020 - 22:39:01: [respawn.smx] "Nezzie<114><[U:1:107910185]><>" respawned "The Administrator<126><BOT><>"
+L 12/29/2020 - 22:39:01: [respawn.smx] "Nezzie<114><[U:1:107910185]><>" respawned "Mentlegen<127><BOT><>"
+L 12/29/2020 - 22:39:01: [respawn.smx] "Nezzie<114><[U:1:107910185]><>" respawned "Archimedes!<128><BOT><>"
+L 12/29/2020 - 22:39:01: [respawn.smx] "Nezzie<114><[U:1:107910185]><>" respawned "Ribs Grow Back<129><BOT><>"
+L 12/29/2020 - 22:39:01: [respawn.smx] "Nezzie<114><[U:1:107910185]><>" respawned "It's Filthy in There!<130><BOT><>"
+L 12/29/2020 - 22:39:01: [respawn.smx] "Nezzie<114><[U:1:107910185]><>" respawned "Mega Baboon<131><BOT><>"
+L 12/29/2020 - 22:39:01: [respawn.smx] "Nezzie<114><[U:1:107910185]><>" respawned "Kill Me<132><BOT><>"
+L 12/29/2020 - 22:39:01: [respawn.smx] "Nezzie<114><[U:1:107910185]><>" respawned "Glorified Toaster with Legs<133><BOT><>"
+L 12/29/2020 - 22:39:01: [respawn.smx] "Nezzie<114><[U:1:107910185]><>" respawned "Chucklenuts<134><BOT><>"
+L 12/29/2020 - 22:39:01: [respawn.smx] "Nezzie<114><[U:1:107910185]><>" respawned "CryBaby<135><BOT><>"
+L 12/29/2020 - 22:39:01: [respawn.smx] "Nezzie<114><[U:1:107910185]><>" respawned "WITCH<136><BOT><>"
+L 12/29/2020 - 22:39:01: [respawn.smx] "Nezzie<114><[U:1:107910185]><>" respawned "ThatGuy<137><BOT><>"
+L 12/29/2020 - 22:39:01: [respawn.smx] "Nezzie<114><[U:1:107910185]><>" respawned "Still Alive<138><BOT><>"
+L 12/29/2020 - 22:39:01: [respawn.smx] "Nezzie<114><[U:1:107910185]><>" respawned "Hat-Wearing MAN<139><BOT><>"
+L 12/29/2020 - 22:39:20: [funcommandsX.smx] "Nezzie<114><[U:1:107910185]><>" teleported "Nezzie<114><[U:1:107910185]><>"
+L 12/29/2020 - 22:39:21: [funcommandsX.smx] "Nezzie<114><[U:1:107910185]><>" teleported "Nezzie<114><[U:1:107910185]><>"
+L 12/29/2020 - 22:39:22: [funcommandsX.smx] "Nezzie<114><[U:1:107910185]><>" teleported "Nezzie<114><[U:1:107910185]><>"
+L 12/29/2020 - 22:39:23: [funcommandsX.smx] "Nezzie<114><[U:1:107910185]><>" teleported "Nezzie<114><[U:1:107910185]><>"
+L 12/29/2020 - 22:39:24: [funcommandsX.smx] "Nezzie<114><[U:1:107910185]><>" teleported "Nezzie<114><[U:1:107910185]><>"
+L 12/29/2020 - 22:40:05: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 12/29/2020 - 22:40:05: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 12/29/2020 - 22:40:05: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 12/29/2020 - 22:40:05: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 12/29/2020 - 22:40:05: [mapchooser_extended.smx] Loaded map list for tf.
+L 12/29/2020 - 22:40:19: [funcommandsX.smx] "Nezzie<114><[U:1:107910185]><>" teleported "Nezzie<114><[U:1:107910185]><>"
+L 12/29/2020 - 22:40:20: [funcommandsX.smx] "Nezzie<114><[U:1:107910185]><>" teleported "Nezzie<114><[U:1:107910185]><>"
+L 12/29/2020 - 22:40:20: [funcommandsX.smx] "Nezzie<114><[U:1:107910185]><>" teleported "Nezzie<114><[U:1:107910185]><>"
+L 12/29/2020 - 22:40:21: [funcommandsX.smx] "Nezzie<114><[U:1:107910185]><>" teleported "Nezzie<114><[U:1:107910185]><>"
+L 12/29/2020 - 22:40:22: [funcommandsX.smx] "Nezzie<114><[U:1:107910185]><>" teleported "Nezzie<114><[U:1:107910185]><>"
+L 12/29/2020 - 22:40:22: [funcommandsX.smx] "Nezzie<114><[U:1:107910185]><>" teleported "Nezzie<114><[U:1:107910185]><>"
+L 12/29/2020 - 22:40:23: [funcommandsX.smx] "Nezzie<114><[U:1:107910185]><>" teleported "Nezzie<114><[U:1:107910185]><>"
+L 12/29/2020 - 22:40:42: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 12/29/2020 - 22:40:42: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 12/29/2020 - 22:40:42: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 12/29/2020 - 22:40:42: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 12/29/2020 - 22:40:42: [mapchooser_extended.smx] Loaded map list for tf.
+L 12/29/2020 - 22:40:55: [funcommandsX.smx] "Nezzie<114><[U:1:107910185]><>" teleported "Nezzie<114><[U:1:107910185]><>"
+L 12/29/2020 - 22:40:56: [funcommandsX.smx] "Nezzie<114><[U:1:107910185]><>" teleported "Nezzie<114><[U:1:107910185]><>"
+L 12/29/2020 - 22:40:56: [funcommandsX.smx] "Nezzie<114><[U:1:107910185]><>" teleported "Nezzie<114><[U:1:107910185]><>"
+L 12/29/2020 - 22:40:57: [funcommandsX.smx] "Nezzie<114><[U:1:107910185]><>" teleported "Nezzie<114><[U:1:107910185]><>"
+L 12/29/2020 - 22:40:58: [funcommandsX.smx] "Nezzie<114><[U:1:107910185]><>" teleported "Nezzie<114><[U:1:107910185]><>"
+L 12/29/2020 - 22:40:58: [funcommandsX.smx] "Nezzie<114><[U:1:107910185]><>" teleported "Nezzie<114><[U:1:107910185]><>"
+L 12/29/2020 - 22:40:59: [funcommandsX.smx] "Nezzie<114><[U:1:107910185]><>" teleported "Nezzie<114><[U:1:107910185]><>"
+L 12/29/2020 - 22:41:00: [funcommandsX.smx] "Nezzie<114><[U:1:107910185]><>" teleported "Nezzie<114><[U:1:107910185]><>"
+L 12/29/2020 - 22:41:41: [playercommands.smx] "Nezzie<114><[U:1:107910185]><>" slayed "Hat-Wearing MAN<139><BOT><>"
+L 12/29/2020 - 22:41:54: [funcommandsX.smx] "Nezzie<114><[U:1:107910185]><>" teleported "Nezzie<114><[U:1:107910185]><>"
+L 12/29/2020 - 22:41:55: [funcommandsX.smx] "Nezzie<114><[U:1:107910185]><>" teleported "Nezzie<114><[U:1:107910185]><>"
+L 12/29/2020 - 22:41:55: [funcommandsX.smx] "Nezzie<114><[U:1:107910185]><>" teleported "Nezzie<114><[U:1:107910185]><>"
+L 12/29/2020 - 22:41:56: [funcommandsX.smx] "Nezzie<114><[U:1:107910185]><>" teleported "Nezzie<114><[U:1:107910185]><>"
+L 12/29/2020 - 22:41:56: [funcommandsX.smx] "Nezzie<114><[U:1:107910185]><>" teleported "Nezzie<114><[U:1:107910185]><>"
+L 12/29/2020 - 22:41:57: [funcommandsX.smx] "Nezzie<114><[U:1:107910185]><>" teleported "Nezzie<114><[U:1:107910185]><>"
+L 12/29/2020 - 22:42:10: [respawn.smx] "Nezzie<114><[U:1:107910185]><>" respawned "Nezzie<114><[U:1:107910185]><>"
+L 12/29/2020 - 22:42:17: [funcommandsX.smx] "Nezzie<114><[U:1:107910185]><>" teleported "Nezzie<114><[U:1:107910185]><>"
+L 12/29/2020 - 22:43:09: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 12/29/2020 - 22:43:09: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 12/29/2020 - 22:43:09: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 12/29/2020 - 22:43:10: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 12/29/2020 - 22:43:10: [mapchooser_extended.smx] Loaded map list for tf.
+L 12/29/2020 - 22:43:32: [funcommandsX.smx] "Nezzie<114><[U:1:107910185]><>" teleported "Dozii<140><[U:1:94212661]><>"
+L 12/29/2020 - 22:43:54: [playercommands.smx] "Nezzie<114><[U:1:107910185]><>" slayed "Dozii<140><[U:1:94212661]><>"
+L 12/29/2020 - 22:44:08: [funcommandsX.smx] "Nezzie<114><[U:1:107910185]><>" teleported "Nezzie<114><[U:1:107910185]><>"
+L 12/29/2020 - 22:44:08: [funcommandsX.smx] "Nezzie<114><[U:1:107910185]><>" teleported "Nezzie<114><[U:1:107910185]><>"
+L 12/29/2020 - 22:44:09: [funcommandsX.smx] "Nezzie<114><[U:1:107910185]><>" teleported "Nezzie<114><[U:1:107910185]><>"
+L 12/29/2020 - 22:44:10: [funcommandsX.smx] "Nezzie<114><[U:1:107910185]><>" teleported "Nezzie<114><[U:1:107910185]><>"
+L 12/29/2020 - 22:44:11: [funcommandsX.smx] "Nezzie<114><[U:1:107910185]><>" teleported "Nezzie<114><[U:1:107910185]><>"
+L 12/29/2020 - 22:44:28: [funcommands.smx] "Nezzie<114><[U:1:107910185]><>" froze "Hat-Wearing MAN<139><BOT><>"
+L 12/29/2020 - 22:50:07: [playercommands.smx] "Nezzie<114><[U:1:107910185]><>" slayed "Hat-Wearing MAN<139><BOT><>"
+L 12/29/2020 - 22:53:59: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 12/29/2020 - 22:53:59: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 12/29/2020 - 22:53:59: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 12/29/2020 - 22:53:59: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 12/29/2020 - 22:54:00: [mapchooser_extended.smx] Loaded map list for tf.
+L 12/29/2020 - 22:57:12: [respawn.smx] "Nezzie<114><[U:1:107910185]><>" respawned "Nezzie<114><[U:1:107910185]><>"
+L 12/29/2020 - 22:57:21: [mapchooser_extended.smx] Voting for next map has started.
+L 12/29/2020 - 22:57:37: [mapchooser_extended.smx] Voting for next map has started.
+L 12/29/2020 - 22:57:39: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_tranquil_b5.
+L 12/29/2020 - 23:08:54: SourceMod log file session started (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/L20201229.log") (Version "1.10.0.6490")
+L 12/29/2020 - 23:08:54: [TF2ITEMS] "GiveNamedItem" offset = 484
+L 12/29/2020 - 23:08:55: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 12/29/2020 - 23:08:55: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 12/29/2020 - 23:08:55: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 12/29/2020 - 23:08:56: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 12/29/2020 - 23:09:17: [mapchooser_extended.smx] Loaded map list for tf.
+L 12/29/2020 - 23:41:25: [mapchooser_extended.smx] Voting for next map has started.
+L 12/29/2020 - 23:41:38: [mapchooser_extended.smx] Voting for next map has started.
+L 12/29/2020 - 23:41:59: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_apg_v2_sg1.
+L 12/29/2020 - 23:51:54: [SM] Changed map to "vsh_apg_v2_sg1"
+L 12/29/2020 - 23:51:57: -------- Mapchange to vsh_apg_v2_sg1 --------
+L 12/29/2020 - 23:52:08: [mapchooser_extended.smx] Loaded map list for tf.
+L 12/30/2020 - 00:02:33: Log file closed.

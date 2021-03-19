@@ -1,0 +1,611 @@
+L 12/10/2020 - 00:15:40: SourceMod log file session started (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/L20201210.log") (Version "1.10.0.6490")
+L 12/10/2020 - 00:15:40: [TF2ITEMS] "GiveNamedItem" offset = 484
+L 12/10/2020 - 00:15:41: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 12/10/2020 - 00:15:41: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 12/10/2020 - 00:15:41: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 12/10/2020 - 00:15:41: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 12/10/2020 - 00:15:55: [UPDATER] Successfully updated gamedata file "sm-cstrike.games/game.csgo.txt"
+L 12/10/2020 - 00:15:55: [UPDATER] SourceMod has been updated, please reload it or restart your server.
+L 12/10/2020 - 00:15:55: [mapchooser_extended.smx] Loaded map list for tf.
+L 12/10/2020 - 00:31:33: [respawn.smx] "Hailstorm<4><[U:1:181986054]><>" respawned "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>"
+L 12/10/2020 - 00:36:23: [mapchooser_extended.smx] Voting for next map has started.
+L 12/10/2020 - 00:36:44: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_abandoned_warehouse_final_v3.
+L 12/10/2020 - 00:41:56: [respawn.smx] "Hailstorm<4><[U:1:181986054]><>" respawned "Draconic (Azel)<2><[U:1:101368949]><>"
+L 12/10/2020 - 00:41:56: [respawn.smx] "Hailstorm<4><[U:1:181986054]><>" respawned "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>"
+L 12/10/2020 - 00:41:57: [respawn.smx] "Hailstorm<4><[U:1:181986054]><>" respawned "Hailstorm<4><[U:1:181986054]><>"
+L 12/10/2020 - 00:42:58: [respawn.smx] "Hailstorm<4><[U:1:181986054]><>" respawned "Draconic (Azel)<2><[U:1:101368949]><>"
+L 12/10/2020 - 00:42:59: [respawn.smx] "Hailstorm<4><[U:1:181986054]><>" respawned "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>"
+L 12/10/2020 - 00:46:57: [SM] Changed map to "vsh_abandoned_warehouse_final_v3"
+L 12/10/2020 - 00:47:00: -------- Mapchange to vsh_abandoned_warehouse_final_v3 --------
+L 12/10/2020 - 00:47:10: [mapchooser_extended.smx] Loaded map list for tf.
+L 12/10/2020 - 00:55:52: [SetSpeed.smx] "Hailstorm<4><[U:1:181986054]><>" set speed of  "Draconic (Azel)<2><[U:1:101368949]><>" to (100.000000)
+L 12/10/2020 - 00:55:52: [SetSpeed.smx] "Hailstorm<4><[U:1:181986054]><>" set speed of  "Hailstorm<4><[U:1:181986054]><>" to (100.000000)
+L 12/10/2020 - 00:55:52: [SetSpeed.smx] "Hailstorm<4><[U:1:181986054]><>" set speed of  "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" to (100.000000)
+L 12/10/2020 - 00:56:19: [SetSpeed.smx] "Hailstorm<4><[U:1:181986054]><>" set speed of  "Draconic (Azel)<2><[U:1:101368949]><>" to (520.000000)
+L 12/10/2020 - 00:56:19: [SetSpeed.smx] "Hailstorm<4><[U:1:181986054]><>" set speed of  "Hailstorm<4><[U:1:181986054]><>" to (520.000000)
+L 12/10/2020 - 00:56:19: [SetSpeed.smx] "Hailstorm<4><[U:1:181986054]><>" set speed of  "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" to (520.000000)
+L 12/10/2020 - 00:56:40: [SetSpeed.smx] "Hailstorm<4><[U:1:181986054]><>" set speed of  "Draconic (Azel)<2><[U:1:101368949]><>" to (300.000000)
+L 12/10/2020 - 00:56:40: [SetSpeed.smx] "Hailstorm<4><[U:1:181986054]><>" set speed of  "Hailstorm<4><[U:1:181986054]><>" to (300.000000)
+L 12/10/2020 - 00:56:40: [SetSpeed.smx] "Hailstorm<4><[U:1:181986054]><>" set speed of  "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" to (300.000000)
+L 12/10/2020 - 00:56:48: [SetSpeed.smx] "Hailstorm<4><[U:1:181986054]><>" set speed of  "Draconic (Azel)<2><[U:1:101368949]><>" to (400.000000)
+L 12/10/2020 - 00:56:48: [SetSpeed.smx] "Hailstorm<4><[U:1:181986054]><>" set speed of  "Hailstorm<4><[U:1:181986054]><>" to (400.000000)
+L 12/10/2020 - 00:56:48: [SetSpeed.smx] "Hailstorm<4><[U:1:181986054]><>" set speed of  "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" to (400.000000)
+L 12/10/2020 - 00:57:08: [funcommandsX.smx] "Hailstorm<4><[U:1:181986054]><>" made "Draconic (Azel)<2><[U:1:101368949]><>" tomato
+L 12/10/2020 - 00:57:46: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "Draconic (Azel)<2><[U:1:101368949]><>" (damage "0")
+L 12/10/2020 - 00:57:46: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "Draconic (Azel)<2><[U:1:101368949]><>" (damage "0")
+L 12/10/2020 - 00:57:47: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "Draconic (Azel)<2><[U:1:101368949]><>" (damage "0")
+L 12/10/2020 - 00:57:47: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "Draconic (Azel)<2><[U:1:101368949]><>" (damage "0")
+L 12/10/2020 - 00:57:47: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "Draconic (Azel)<2><[U:1:101368949]><>" (damage "0")
+L 12/10/2020 - 00:57:48: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "Draconic (Azel)<2><[U:1:101368949]><>" (damage "0")
+L 12/10/2020 - 00:57:48: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "Draconic (Azel)<2><[U:1:101368949]><>" (damage "0")
+L 12/10/2020 - 00:57:49: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "Draconic (Azel)<2><[U:1:101368949]><>" (damage "0")
+L 12/10/2020 - 00:57:49: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "Draconic (Azel)<2><[U:1:101368949]><>" (damage "0")
+L 12/10/2020 - 00:57:49: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "Draconic (Azel)<2><[U:1:101368949]><>" (damage "0")
+L 12/10/2020 - 00:57:50: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "Draconic (Azel)<2><[U:1:101368949]><>" (damage "0")
+L 12/10/2020 - 00:58:24: [SetSpeed.smx] "Hailstorm<4><[U:1:181986054]><>" reset speed of  "Draconic (Azel)<2><[U:1:101368949]><>" to Normal
+L 12/10/2020 - 00:58:24: [SetSpeed.smx] "Hailstorm<4><[U:1:181986054]><>" reset speed of  "Hailstorm<4><[U:1:181986054]><>" to Normal
+L 12/10/2020 - 00:58:24: [SetSpeed.smx] "Hailstorm<4><[U:1:181986054]><>" reset speed of  "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" to Normal
+L 12/10/2020 - 01:03:07: [respawn.smx] "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" respawned "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>"
+L 12/10/2020 - 01:03:20: [respawn.smx] "Hailstorm<4><[U:1:181986054]><>" respawned "mute<7><[U:1:395117391]><>"
+L 12/10/2020 - 01:03:41: [playercommands.smx] "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" slapped "mute<7><[U:1:395117391]><>" (damage "0")
+L 12/10/2020 - 01:03:42: [playercommands.smx] "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" slapped "mute<7><[U:1:395117391]><>" (damage "0")
+L 12/10/2020 - 01:03:42: [playercommands.smx] "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" slapped "mute<7><[U:1:395117391]><>" (damage "0")
+L 12/10/2020 - 01:03:42: [playercommands.smx] "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" slapped "mute<7><[U:1:395117391]><>" (damage "0")
+L 12/10/2020 - 01:03:42: [playercommands.smx] "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" slapped "mute<7><[U:1:395117391]><>" (damage "0")
+L 12/10/2020 - 01:03:43: [playercommands.smx] "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" slapped "mute<7><[U:1:395117391]><>" (damage "0")
+L 12/10/2020 - 01:07:25: [mapchooser_extended.smx] Voting for next map has started.
+L 12/10/2020 - 01:07:46: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_intrusion_rc2.
+L 12/10/2020 - 01:09:36: [funcommands.smx] "Hailstorm<4><[U:1:181986054]><>" set a beacon on "mute<7><[U:1:395117391]><>"
+L 12/10/2020 - 01:09:36: [funcommands.smx] "Hailstorm<4><[U:1:181986054]><>" set a beacon on "Draconic (Azel)<2><[U:1:101368949]><>"
+L 12/10/2020 - 01:09:49: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "Draconic (Azel)<2><[U:1:101368949]><>" (damage "0")
+L 12/10/2020 - 01:09:49: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "Draconic (Azel)<2><[U:1:101368949]><>" (damage "0")
+L 12/10/2020 - 01:09:50: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "Draconic (Azel)<2><[U:1:101368949]><>" (damage "0")
+L 12/10/2020 - 01:09:50: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "Draconic (Azel)<2><[U:1:101368949]><>" (damage "0")
+L 12/10/2020 - 01:09:50: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "Draconic (Azel)<2><[U:1:101368949]><>" (damage "0")
+L 12/10/2020 - 01:09:51: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "Draconic (Azel)<2><[U:1:101368949]><>" (damage "0")
+L 12/10/2020 - 01:09:51: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "Draconic (Azel)<2><[U:1:101368949]><>" (damage "0")
+L 12/10/2020 - 01:09:51: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "Draconic (Azel)<2><[U:1:101368949]><>" (damage "0")
+L 12/10/2020 - 01:09:52: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "Draconic (Azel)<2><[U:1:101368949]><>" (damage "0")
+L 12/10/2020 - 01:09:52: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "Draconic (Azel)<2><[U:1:101368949]><>" (damage "0")
+L 12/10/2020 - 01:09:53: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "Draconic (Azel)<2><[U:1:101368949]><>" (damage "0")
+L 12/10/2020 - 01:09:53: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "Draconic (Azel)<2><[U:1:101368949]><>" (damage "0")
+L 12/10/2020 - 01:09:54: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "Draconic (Azel)<2><[U:1:101368949]><>" (damage "0")
+L 12/10/2020 - 01:09:54: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "Draconic (Azel)<2><[U:1:101368949]><>" (damage "0")
+L 12/10/2020 - 01:14:56: [respawn.smx] "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" respawned "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>"
+L 12/10/2020 - 01:16:00: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "Hailstorm<4><[U:1:181986054]><>" (damage "99")
+L 12/10/2020 - 01:16:01: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "Hailstorm<4><[U:1:181986054]><>" (damage "99")
+L 12/10/2020 - 01:16:01: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "Hailstorm<4><[U:1:181986054]><>" (damage "99")
+L 12/10/2020 - 01:16:01: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "Hailstorm<4><[U:1:181986054]><>" (damage "99")
+L 12/10/2020 - 01:16:02: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "Hailstorm<4><[U:1:181986054]><>" (damage "99")
+L 12/10/2020 - 01:16:02: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "Hailstorm<4><[U:1:181986054]><>" (damage "99")
+L 12/10/2020 - 01:16:02: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "Hailstorm<4><[U:1:181986054]><>" (damage "99")
+L 12/10/2020 - 01:16:03: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "Hailstorm<4><[U:1:181986054]><>" (damage "99")
+L 12/10/2020 - 01:16:03: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "Hailstorm<4><[U:1:181986054]><>" (damage "99")
+L 12/10/2020 - 01:16:03: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "Hailstorm<4><[U:1:181986054]><>" (damage "99")
+L 12/10/2020 - 01:16:04: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "Hailstorm<4><[U:1:181986054]><>" (damage "99")
+L 12/10/2020 - 01:16:04: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "Hailstorm<4><[U:1:181986054]><>" (damage "99")
+L 12/10/2020 - 01:16:05: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "Hailstorm<4><[U:1:181986054]><>" (damage "99")
+L 12/10/2020 - 01:16:05: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "Hailstorm<4><[U:1:181986054]><>" (damage "99")
+L 12/10/2020 - 01:16:05: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "Hailstorm<4><[U:1:181986054]><>" (damage "99")
+L 12/10/2020 - 01:16:06: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "Hailstorm<4><[U:1:181986054]><>" (damage "99")
+L 12/10/2020 - 01:16:06: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "Hailstorm<4><[U:1:181986054]><>" (damage "99")
+L 12/10/2020 - 01:16:06: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "Hailstorm<4><[U:1:181986054]><>" (damage "99")
+L 12/10/2020 - 01:16:07: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "Hailstorm<4><[U:1:181986054]><>" (damage "99")
+L 12/10/2020 - 01:16:07: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "Hailstorm<4><[U:1:181986054]><>" (damage "99")
+L 12/10/2020 - 01:16:08: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "Hailstorm<4><[U:1:181986054]><>" (damage "99")
+L 12/10/2020 - 01:16:08: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "Hailstorm<4><[U:1:181986054]><>" (damage "99")
+L 12/10/2020 - 01:16:08: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "Hailstorm<4><[U:1:181986054]><>" (damage "99")
+L 12/10/2020 - 01:16:09: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "Hailstorm<4><[U:1:181986054]><>" (damage "99")
+L 12/10/2020 - 01:18:16: [SM] Changed map to "vsh_intrusion_rc2"
+L 12/10/2020 - 01:18:20: -------- Mapchange to vsh_intrusion_rc2 --------
+L 12/10/2020 - 01:18:31: [mapchooser_extended.smx] Loaded map list for tf.
+L 12/10/2020 - 01:21:10: [respawn.smx] "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" respawned "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>"
+L 12/10/2020 - 01:28:44: [funcommands.smx] "Hailstorm<4><[U:1:181986054]><>" set a beacon on "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>"
+L 12/10/2020 - 01:28:44: [funcommands.smx] "Hailstorm<4><[U:1:181986054]><>" set a beacon on "Hailstorm<4><[U:1:181986054]><>"
+L 12/10/2020 - 01:28:45: [funcommands.smx] "Hailstorm<4><[U:1:181986054]><>" set a beacon on "Draconic (Azel)<2><[U:1:101368949]><>"
+L 12/10/2020 - 01:29:27: [respawn.smx] "Hailstorm<4><[U:1:181986054]><>" respawned "Hailstorm<4><[U:1:181986054]><>"
+L 12/10/2020 - 01:29:55: [funcommandsX.smx] "Hailstorm<4><[U:1:181986054]><>" teleported "Hailstorm<4><[U:1:181986054]><>"
+L 12/10/2020 - 01:30:06: [funcommandsX.smx] "Hailstorm<4><[U:1:181986054]><>" teleported "Hailstorm<4><[U:1:181986054]><>"
+L 12/10/2020 - 01:30:07: [funcommandsX.smx] "Hailstorm<4><[U:1:181986054]><>" teleported "Hailstorm<4><[U:1:181986054]><>"
+L 12/10/2020 - 01:30:08: [funcommandsX.smx] "Hailstorm<4><[U:1:181986054]><>" teleported "Hailstorm<4><[U:1:181986054]><>"
+L 12/10/2020 - 01:30:09: [funcommandsX.smx] "Hailstorm<4><[U:1:181986054]><>" teleported "Hailstorm<4><[U:1:181986054]><>"
+L 12/10/2020 - 01:30:10: [funcommandsX.smx] "Hailstorm<4><[U:1:181986054]><>" teleported "Hailstorm<4><[U:1:181986054]><>"
+L 12/10/2020 - 01:30:11: [funcommandsX.smx] "Hailstorm<4><[U:1:181986054]><>" teleported "Hailstorm<4><[U:1:181986054]><>"
+L 12/10/2020 - 01:30:13: [funcommandsX.smx] "Hailstorm<4><[U:1:181986054]><>" teleported "Hailstorm<4><[U:1:181986054]><>"
+L 12/10/2020 - 01:30:27: [funcommandsX.smx] "Hailstorm<4><[U:1:181986054]><>" teleported "Hailstorm<4><[U:1:181986054]><>"
+L 12/10/2020 - 01:30:33: [funcommandsX.smx] "Hailstorm<4><[U:1:181986054]><>" teleported "Hailstorm<4><[U:1:181986054]><>"
+L 12/10/2020 - 01:30:35: [funcommandsX.smx] "Hailstorm<4><[U:1:181986054]><>" teleported "Hailstorm<4><[U:1:181986054]><>"
+L 12/10/2020 - 01:30:36: [funcommandsX.smx] "Hailstorm<4><[U:1:181986054]><>" teleported "Hailstorm<4><[U:1:181986054]><>"
+L 12/10/2020 - 01:30:38: [funcommandsX.smx] "Hailstorm<4><[U:1:181986054]><>" teleported "Hailstorm<4><[U:1:181986054]><>"
+L 12/10/2020 - 01:30:39: [funcommandsX.smx] "Hailstorm<4><[U:1:181986054]><>" teleported "Hailstorm<4><[U:1:181986054]><>"
+L 12/10/2020 - 01:30:40: [funcommandsX.smx] "Hailstorm<4><[U:1:181986054]><>" teleported "Hailstorm<4><[U:1:181986054]><>"
+L 12/10/2020 - 01:30:42: [funcommandsX.smx] "Hailstorm<4><[U:1:181986054]><>" teleported "Hailstorm<4><[U:1:181986054]><>"
+L 12/10/2020 - 01:30:44: [funcommandsX.smx] "Hailstorm<4><[U:1:181986054]><>" teleported "Hailstorm<4><[U:1:181986054]><>"
+L 12/10/2020 - 01:30:47: [funcommandsX.smx] "Hailstorm<4><[U:1:181986054]><>" teleported "Hailstorm<4><[U:1:181986054]><>"
+L 12/10/2020 - 01:30:50: [funcommandsX.smx] "Hailstorm<4><[U:1:181986054]><>" teleported "Hailstorm<4><[U:1:181986054]><>"
+L 12/10/2020 - 01:31:18: [respawn.smx] "Hailstorm<4><[U:1:181986054]><>" respawned "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>"
+L 12/10/2020 - 01:31:26: [funcommandsX.smx] "Hailstorm<4><[U:1:181986054]><>" teleported "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>"
+L 12/10/2020 - 01:38:00: [respawn.smx] "Hailstorm<4><[U:1:181986054]><>" respawned "Draconic (Azel)<2><[U:1:101368949]><>"
+L 12/10/2020 - 01:38:46: [mapchooser_extended.smx] Voting for next map has started.
+L 12/10/2020 - 01:39:07: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_jealo_rc2.
+L 12/10/2020 - 01:40:33: [respawn.smx] "Hailstorm<4><[U:1:181986054]><>" respawned "Draconic (Azel)<2><[U:1:101368949]><>"
+L 12/10/2020 - 01:44:24: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:44:25: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:44:25: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:44:25: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:44:25: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:44:26: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:44:26: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:44:26: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:44:26: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:44:27: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:44:27: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:44:27: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:44:27: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:44:28: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:44:28: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:44:28: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:44:28: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:44:29: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:44:29: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:44:29: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:44:29: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:44:30: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:44:30: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:44:30: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:44:30: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:44:31: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:44:31: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:44:31: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:44:31: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:44:31: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:44:32: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:44:32: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:44:32: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:44:33: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:44:33: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:44:33: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:44:33: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:44:33: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:44:34: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:44:34: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:44:35: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:44:35: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:44:35: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:44:35: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:44:35: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:44:36: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:44:36: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:44:36: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:44:36: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:44:37: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:44:37: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:44:45: [funcommands.smx] "Hailstorm<4><[U:1:181986054]><>" set gravity on "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (amount "0.100000")
+L 12/10/2020 - 01:45:06: [funcommandsX.smx] "Hailstorm<4><[U:1:181986054]><>" teleported "Draconic (Azel)<2><[U:1:101368949]><>"
+L 12/10/2020 - 01:45:07: [funcommandsX.smx] "Hailstorm<4><[U:1:181986054]><>" teleported "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>"
+L 12/10/2020 - 01:45:37: [funcommands.smx] "Hailstorm<4><[U:1:181986054]><>" set gravity on "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (amount "0.100000")
+L 12/10/2020 - 01:45:43: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:45:44: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:45:44: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:45:44: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:45:44: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:45:45: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:45:45: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:45:45: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:45:45: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:45:46: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:45:46: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:45:46: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:45:46: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:45:47: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:45:47: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:45:47: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:45:47: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:45:48: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:45:48: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:45:48: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:45:48: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:45:48: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:45:49: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:45:49: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:45:49: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:45:49: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:45:50: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:45:50: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:45:50: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:45:50: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:45:51: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:45:51: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:45:51: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:45:51: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:45:52: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:45:53: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:45:53: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:45:53: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:45:53: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:45:54: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:45:54: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:45:54: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:45:54: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:45:55: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:45:55: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:45:55: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:45:55: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:45:56: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:45:56: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:45:56: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:45:57: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:45:57: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:45:57: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:45:58: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:45:58: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:45:58: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:45:59: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:45:59: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:45:59: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:46:00: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:46:00: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:46:00: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:46:01: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:46:01: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:46:01: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:46:02: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:46:02: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:46:02: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:46:03: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:46:05: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:46:06: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:46:06: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:46:07: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:46:08: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:46:08: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:46:08: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:46:09: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:46:09: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<5><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 01:46:20: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "Draconic (Azel)<2><[U:1:101368949]><>" (damage "0")
+L 12/10/2020 - 01:46:20: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "Draconic (Azel)<2><[U:1:101368949]><>" (damage "0")
+L 12/10/2020 - 01:46:20: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "Draconic (Azel)<2><[U:1:101368949]><>" (damage "0")
+L 12/10/2020 - 01:46:20: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "Draconic (Azel)<2><[U:1:101368949]><>" (damage "0")
+L 12/10/2020 - 01:46:20: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "Draconic (Azel)<2><[U:1:101368949]><>" (damage "0")
+L 12/10/2020 - 01:46:21: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "Draconic (Azel)<2><[U:1:101368949]><>" (damage "0")
+L 12/10/2020 - 01:46:21: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "Draconic (Azel)<2><[U:1:101368949]><>" (damage "0")
+L 12/10/2020 - 01:46:21: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "Draconic (Azel)<2><[U:1:101368949]><>" (damage "0")
+L 12/10/2020 - 01:46:22: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "Draconic (Azel)<2><[U:1:101368949]><>" (damage "0")
+L 12/10/2020 - 01:46:22: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "Draconic (Azel)<2><[U:1:101368949]><>" (damage "0")
+L 12/10/2020 - 01:46:22: [playercommands.smx] "Hailstorm<4><[U:1:181986054]><>" slapped "Draconic (Azel)<2><[U:1:101368949]><>" (damage "0")
+L 12/10/2020 - 01:46:46: [funcommandsX.smx] "Hailstorm<4><[U:1:181986054]><>" enabled disco mode
+L 12/10/2020 - 01:49:49: [SM] Changed map to "vsh_jealo_rc2"
+L 12/10/2020 - 01:49:52: -------- Mapchange to vsh_jealo_rc2 --------
+L 12/10/2020 - 01:50:03: [mapchooser_extended.smx] Loaded map list for tf.
+L 12/10/2020 - 02:10:17: [mapchooser_extended.smx] Voting for next map has started.
+L 12/10/2020 - 07:48:50: [SM] Changed map to "vsh_abandoned_warehouse_final_v3"
+L 12/10/2020 - 07:48:52: -------- Mapchange to vsh_abandoned_warehouse_final_v3 --------
+L 12/10/2020 - 07:49:02: [mapchooser_extended.smx] Loaded map list for tf.
+L 12/10/2020 - 08:09:17: [mapchooser_extended.smx] Voting for next map has started.
+L 12/10/2020 - 08:09:27: [mapchooser_extended.smx] Voting for next map has started.
+L 12/10/2020 - 08:09:31: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_palanquin_ship_novpk.
+L 12/10/2020 - 08:20:14: [SM] Changed map to "vsh_palanquin_ship_novpk"
+L 12/10/2020 - 08:20:16: -------- Mapchange to vsh_palanquin_ship_novpk --------
+L 12/10/2020 - 08:20:26: [mapchooser_extended.smx] Loaded map list for tf.
+L 12/10/2020 - 08:38:37: [mapchooser_extended.smx] Starting map vote because outside request
+L 12/10/2020 - 08:38:53: [mapchooser_extended.smx] Voting for next map has started.
+L 12/10/2020 - 08:39:05: [mapchooser_extended.smx] Voting for next map has started.
+L 12/10/2020 - 08:39:10: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_intrusion_rc2.
+L 12/10/2020 - 08:39:14: [SM] Changed map to "vsh_intrusion_rc2"
+L 12/10/2020 - 08:39:19: -------- Mapchange to vsh_intrusion_rc2 --------
+L 12/10/2020 - 08:39:28: [mapchooser_extended.smx] Loaded map list for tf.
+L 12/10/2020 - 08:59:47: [mapchooser_extended.smx] Voting for next map has started.
+L 12/10/2020 - 19:07:54: [SM] Changed map to "vsh_nebula_rc1"
+L 12/10/2020 - 19:07:58: -------- Mapchange to vsh_nebula_rc1 --------
+L 12/10/2020 - 19:08:09: [mapchooser_extended.smx] Loaded map list for tf.
+L 12/10/2020 - 19:28:23: [mapchooser_extended.smx] Voting for next map has started.
+L 12/10/2020 - 20:44:59: [basecommands.smx] "Nezzie<21><[U:1:107910185]><>" changed map to "vsh_dirtmound_b9"
+L 12/10/2020 - 20:45:02: [SM] Changed map to "vsh_dirtmound_b9"
+L 12/10/2020 - 20:45:05: -------- Mapchange to vsh_dirtmound_b9 --------
+L 12/10/2020 - 20:45:15: [mapchooser_extended.smx] Loaded map list for tf.
+L 12/10/2020 - 20:46:46: [respawn.smx] "Nezzie<21><[U:1:107910185]><>" respawned "Nezzie<21><[U:1:107910185]><>"
+L 12/10/2020 - 20:50:08: [respawn.smx] "FROSTY F1SH (ART COMMS. OPEN)<27><[U:1:445849108]><>" respawned "FROSTY F1SH (ART COMMS. OPEN)<27><[U:1:445849108]><>"
+L 12/10/2020 - 20:50:35: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 12/10/2020 - 20:50:35: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 12/10/2020 - 20:50:35: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 12/10/2020 - 20:50:36: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 12/10/2020 - 20:50:36: [mapchooser_extended.smx] Loaded map list for tf.
+L 12/10/2020 - 20:58:10: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 12/10/2020 - 20:58:10: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 12/10/2020 - 20:58:10: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 12/10/2020 - 20:58:11: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 12/10/2020 - 20:58:11: [mapchooser_extended.smx] Loaded map list for tf.
+L 12/10/2020 - 20:58:36: [basecommands.smx] "Nezzie<21><[U:1:107910185]><>" changed map to "vsh_dirtmound_b9"
+L 12/10/2020 - 20:58:39: [SM] Changed map to "vsh_dirtmound_b9"
+L 12/10/2020 - 20:58:41: -------- Mapchange to vsh_dirtmound_b9 --------
+L 12/10/2020 - 20:58:50: [mapchooser_extended.smx] Loaded map list for tf.
+L 12/10/2020 - 21:00:14: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 12/10/2020 - 21:00:14: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 12/10/2020 - 21:00:14: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 12/10/2020 - 21:00:14: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 12/10/2020 - 21:00:14: [mapchooser_extended.smx] Loaded map list for tf.
+L 12/10/2020 - 21:00:45: [basecommands.smx] "Nezzie<21><[U:1:107910185]><>" changed map to "vsh_dirtmound_b9"
+L 12/10/2020 - 21:00:48: [SM] Changed map to "vsh_dirtmound_b9"
+L 12/10/2020 - 21:00:50: -------- Mapchange to vsh_dirtmound_b9 --------
+L 12/10/2020 - 21:00:59: [mapchooser_extended.smx] Loaded map list for tf.
+L 12/10/2020 - 21:01:30: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 12/10/2020 - 21:01:30: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 12/10/2020 - 21:01:30: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 12/10/2020 - 21:01:30: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 12/10/2020 - 21:01:30: [mapchooser_extended.smx] Loaded map list for tf.
+L 12/10/2020 - 21:01:36: [basecommands.smx] "Nezzie<21><[U:1:107910185]><>" changed map to "vsh_dirtmound_b9"
+L 12/10/2020 - 21:01:39: [SM] Changed map to "vsh_dirtmound_b9"
+L 12/10/2020 - 21:01:41: -------- Mapchange to vsh_dirtmound_b9 --------
+L 12/10/2020 - 21:01:49: [mapchooser_extended.smx] Loaded map list for tf.
+L 12/10/2020 - 21:02:53: [basecommands.smx] "Nezzie<21><[U:1:107910185]><>" changed map to "vsh_dirtmound_b9"
+L 12/10/2020 - 21:02:56: [SM] Changed map to "vsh_dirtmound_b9"
+L 12/10/2020 - 21:02:58: -------- Mapchange to vsh_dirtmound_b9 --------
+L 12/10/2020 - 21:03:07: [mapchooser_extended.smx] Loaded map list for tf.
+L 12/10/2020 - 21:05:22: [basecommands.smx] "Nezzie<21><[U:1:107910185]><>" changed map to "vsh_Hakurei_Winter_v2"
+L 12/10/2020 - 21:05:25: [basecommands.smx] "Nezzie<21><[U:1:107910185]><>" changed map to "vsh_dirtmound_b9"
+L 12/10/2020 - 21:05:25: [SM] Changed map to "vsh_Hakurei_Winter_v2"
+L 12/10/2020 - 21:05:30: -------- Mapchange to vsh_Hakurei_Winter_v2 --------
+L 12/10/2020 - 21:05:39: [mapchooser_extended.smx] Loaded map list for tf.
+L 12/10/2020 - 21:05:42: [SM] Changed map to "vsh_dirtmound_b9"
+L 12/10/2020 - 21:05:45: -------- Mapchange to vsh_dirtmound_b9 --------
+L 12/10/2020 - 21:05:54: [mapchooser_extended.smx] Loaded map list for tf.
+L 12/10/2020 - 21:07:14: [basecommands.smx] "Nezzie<35><[U:1:107910185]><>" changed map to "vsh_dirtmound_b9"
+L 12/10/2020 - 21:07:17: [SM] Changed map to "vsh_dirtmound_b9"
+L 12/10/2020 - 21:07:19: -------- Mapchange to vsh_dirtmound_b9 --------
+L 12/10/2020 - 21:07:28: [mapchooser_extended.smx] Loaded map list for tf.
+L 12/10/2020 - 21:11:05: [respawn.smx] "Nezzie<35><[U:1:107910185]><>" respawned "Nezzie<35><[U:1:107910185]><>"
+L 12/10/2020 - 21:13:01: [respawn.smx] "Nezzie<35><[U:1:107910185]><>" respawned "Nezzie<35><[U:1:107910185]><>"
+L 12/10/2020 - 21:27:43: [mapchooser_extended.smx] Voting for next map has started.
+L 12/10/2020 - 22:09:45: [respawn.smx] "Hailstorm<41><[U:1:181986054]><>" respawned "Hailstorm<41><[U:1:181986054]><>"
+L 12/10/2020 - 22:12:12: [respawn.smx] "FROSTY F1SH (ART COMMS. OPEN)<43><[U:1:445849108]><>" respawned "Hailstorm<41><[U:1:181986054]><>"
+L 12/10/2020 - 22:12:24: [SM] Changed map to "vsh_nebula_rc1"
+L 12/10/2020 - 22:12:28: -------- Mapchange to vsh_nebula_rc1 --------
+L 12/10/2020 - 22:12:38: [mapchooser_extended.smx] Loaded map list for tf.
+L 12/10/2020 - 22:16:53: [basecommands.smx] "Nezzie<42><[U:1:107910185]><>" changed map to "vsh_nebula_rc1"
+L 12/10/2020 - 22:16:56: [SM] Changed map to "vsh_nebula_rc1"
+L 12/10/2020 - 22:16:59: -------- Mapchange to vsh_nebula_rc1 --------
+L 12/10/2020 - 22:17:09: [mapchooser_extended.smx] Loaded map list for tf.
+L 12/10/2020 - 22:18:27: [playercommands.smx] "Nezzie<42><[U:1:107910185]><>" slayed "Draconic (Azel)<44><[U:1:101368949]><>"
+L 12/10/2020 - 22:24:40: [basecommands.smx] "Nezzie<42><[U:1:107910185]><>" changed map to "vsh_nebula_rc1"
+L 12/10/2020 - 22:24:43: [SM] Changed map to "vsh_nebula_rc1"
+L 12/10/2020 - 22:24:46: -------- Mapchange to vsh_nebula_rc1 --------
+L 12/10/2020 - 22:24:56: [mapchooser_extended.smx] Loaded map list for tf.
+L 12/10/2020 - 22:27:33: [playercommands.smx] "Hailstorm<41><[U:1:181986054]><>" slapped "Draconic (Azel)<44><[U:1:101368949]><>" (damage "0")
+L 12/10/2020 - 22:27:57: [basecommands.smx] "Nezzie<42><[U:1:107910185]><>" changed map to "vsh_castle_siege_unreal_sg1"
+L 12/10/2020 - 22:28:00: [SM] Changed map to "vsh_castle_siege_unreal_sg1"
+L 12/10/2020 - 22:28:04: -------- Mapchange to vsh_castle_siege_unreal_sg1 --------
+L 12/10/2020 - 22:28:14: [mapchooser_extended.smx] Loaded map list for tf.
+L 12/10/2020 - 22:31:46: [respawn.smx] "Nezzie<42><[U:1:107910185]><>" respawned "Nezzie<42><[U:1:107910185]><>"
+L 12/10/2020 - 22:35:17: [respawn.smx] "Hailstorm<41><[U:1:181986054]><>" respawned "Draconic (Azel)<44><[U:1:101368949]><>"
+L 12/10/2020 - 22:35:18: [respawn.smx] "Hailstorm<41><[U:1:181986054]><>" respawned "FROSTY F1SH (ART COMMS. OPEN)<43><[U:1:445849108]><>"
+L 12/10/2020 - 22:43:55: [basecommands.smx] "Nezzie<42><[U:1:107910185]><>" changed map to "vsh_palanquin_ship_novpk"
+L 12/10/2020 - 22:43:58: [SM] Changed map to "vsh_palanquin_ship_novpk"
+L 12/10/2020 - 22:44:02: -------- Mapchange to vsh_palanquin_ship_novpk --------
+L 12/10/2020 - 22:44:14: [mapchooser_extended.smx] Loaded map list for tf.
+L 12/10/2020 - 22:49:58: [basecommands.smx] "Nezzie<42><[U:1:107910185]><>" changed map to "vsh_nebula_rc1"
+L 12/10/2020 - 22:50:01: [SM] Changed map to "vsh_nebula_rc1"
+L 12/10/2020 - 22:50:07: -------- Mapchange to vsh_nebula_rc1 --------
+L 12/10/2020 - 22:50:17: [mapchooser_extended.smx] Loaded map list for tf.
+L 12/10/2020 - 22:55:53: [basecommands.smx] "Nezzie<42><[U:1:107910185]><>" changed map to "vsh_nebula_rc1"
+L 12/10/2020 - 22:55:56: [SM] Changed map to "vsh_nebula_rc1"
+L 12/10/2020 - 22:55:59: -------- Mapchange to vsh_nebula_rc1 --------
+L 12/10/2020 - 22:56:10: [mapchooser_extended.smx] Loaded map list for tf.
+L 12/10/2020 - 22:58:05: [playercommands.smx] "Nezzie<42><[U:1:107910185]><>" slapped "Hailstorm<41><[U:1:181986054]><>" (damage "99")
+L 12/10/2020 - 22:58:06: [playercommands.smx] "Nezzie<42><[U:1:107910185]><>" slapped "Hailstorm<41><[U:1:181986054]><>" (damage "99")
+L 12/10/2020 - 22:58:06: [playercommands.smx] "Nezzie<42><[U:1:107910185]><>" slapped "Hailstorm<41><[U:1:181986054]><>" (damage "99")
+L 12/10/2020 - 22:58:10: [playercommands.smx] "Nezzie<42><[U:1:107910185]><>" slapped "Hailstorm<41><[U:1:181986054]><>" (damage "99")
+L 12/10/2020 - 22:58:10: [playercommands.smx] "Nezzie<42><[U:1:107910185]><>" slapped "Hailstorm<41><[U:1:181986054]><>" (damage "99")
+L 12/10/2020 - 22:58:11: [playercommands.smx] "Nezzie<42><[U:1:107910185]><>" slapped "Hailstorm<41><[U:1:181986054]><>" (damage "99")
+L 12/10/2020 - 22:58:13: [playercommands.smx] "Nezzie<42><[U:1:107910185]><>" slapped "Hailstorm<41><[U:1:181986054]><>" (damage "99")
+L 12/10/2020 - 22:58:13: [playercommands.smx] "Nezzie<42><[U:1:107910185]><>" slapped "Hailstorm<41><[U:1:181986054]><>" (damage "99")
+L 12/10/2020 - 22:58:13: [playercommands.smx] "Nezzie<42><[U:1:107910185]><>" slapped "Hailstorm<41><[U:1:181986054]><>" (damage "99")
+L 12/10/2020 - 22:58:20: [playercommands.smx] "Nezzie<42><[U:1:107910185]><>" slapped "Hailstorm<41><[U:1:181986054]><>" (damage "99")
+L 12/10/2020 - 22:58:20: [playercommands.smx] "Nezzie<42><[U:1:107910185]><>" slapped "Hailstorm<41><[U:1:181986054]><>" (damage "99")
+L 12/10/2020 - 22:58:20: [playercommands.smx] "Nezzie<42><[U:1:107910185]><>" slapped "Hailstorm<41><[U:1:181986054]><>" (damage "99")
+L 12/10/2020 - 23:02:33: [basecommands.smx] "Nezzie<42><[U:1:107910185]><>" changed map to "vsh_nebula_rc1"
+L 12/10/2020 - 23:02:36: [SM] Changed map to "vsh_nebula_rc1"
+L 12/10/2020 - 23:02:40: -------- Mapchange to vsh_nebula_rc1 --------
+L 12/10/2020 - 23:02:50: [mapchooser_extended.smx] Loaded map list for tf.
+L 12/10/2020 - 23:07:25: [basecommands.smx] "Nezzie<42><[U:1:107910185]><>" changed map to "vsh_nebula_rc1"
+L 12/10/2020 - 23:07:28: [SM] Changed map to "vsh_nebula_rc1"
+L 12/10/2020 - 23:07:31: -------- Mapchange to vsh_nebula_rc1 --------
+L 12/10/2020 - 23:07:41: [mapchooser_extended.smx] Loaded map list for tf.
+L 12/10/2020 - 23:12:01: [basecommands.smx] "Nezzie<42><[U:1:107910185]><>" changed map to "vsh_nebula_rc1"
+L 12/10/2020 - 23:12:04: [SM] Changed map to "vsh_nebula_rc1"
+L 12/10/2020 - 23:12:08: -------- Mapchange to vsh_nebula_rc1 --------
+L 12/10/2020 - 23:12:18: [mapchooser_extended.smx] Loaded map list for tf.
+L 12/10/2020 - 23:13:11: [playercommands.smx] "Nezzie<42><[U:1:107910185]><>" slapped "Hailstorm<41><[U:1:181986054]><>" (damage "99")
+L 12/10/2020 - 23:13:12: [playercommands.smx] "Nezzie<42><[U:1:107910185]><>" slapped "Hailstorm<41><[U:1:181986054]><>" (damage "99")
+L 12/10/2020 - 23:13:15: [playercommands.smx] "Nezzie<42><[U:1:107910185]><>" slapped "Hailstorm<41><[U:1:181986054]><>" (damage "99")
+L 12/10/2020 - 23:13:15: [playercommands.smx] "Nezzie<42><[U:1:107910185]><>" slapped "Hailstorm<41><[U:1:181986054]><>" (damage "99")
+L 12/10/2020 - 23:13:17: [playercommands.smx] "Nezzie<42><[U:1:107910185]><>" slapped "Hailstorm<41><[U:1:181986054]><>" (damage "99")
+L 12/10/2020 - 23:14:24: [basecommands.smx] "Nezzie<42><[U:1:107910185]><>" changed map to "vsh_nebula_rc1"
+L 12/10/2020 - 23:14:27: [SM] Changed map to "vsh_nebula_rc1"
+L 12/10/2020 - 23:14:31: -------- Mapchange to vsh_nebula_rc1 --------
+L 12/10/2020 - 23:14:41: [mapchooser_extended.smx] Loaded map list for tf.
+L 12/10/2020 - 23:15:42: [respawn.smx] "FROSTY F1SH (ART COMMS. OPEN)<43><[U:1:445849108]><>" respawned "FROSTY F1SH (ART COMMS. OPEN)<43><[U:1:445849108]><>"
+L 12/10/2020 - 23:15:46: [playercommands.smx] "Hailstorm<41><[U:1:181986054]><>" slapped "Draconic (Azel)<44><[U:1:101368949]><>" (damage "0")
+L 12/10/2020 - 23:15:47: [playercommands.smx] "Hailstorm<41><[U:1:181986054]><>" slapped "Draconic (Azel)<44><[U:1:101368949]><>" (damage "0")
+L 12/10/2020 - 23:15:47: [playercommands.smx] "Hailstorm<41><[U:1:181986054]><>" slapped "Draconic (Azel)<44><[U:1:101368949]><>" (damage "0")
+L 12/10/2020 - 23:15:47: [playercommands.smx] "Hailstorm<41><[U:1:181986054]><>" slapped "Draconic (Azel)<44><[U:1:101368949]><>" (damage "0")
+L 12/10/2020 - 23:15:48: [playercommands.smx] "Hailstorm<41><[U:1:181986054]><>" slapped "Draconic (Azel)<44><[U:1:101368949]><>" (damage "0")
+L 12/10/2020 - 23:15:48: [playercommands.smx] "Hailstorm<41><[U:1:181986054]><>" slapped "Draconic (Azel)<44><[U:1:101368949]><>" (damage "0")
+L 12/10/2020 - 23:15:48: [playercommands.smx] "Hailstorm<41><[U:1:181986054]><>" slapped "Draconic (Azel)<44><[U:1:101368949]><>" (damage "0")
+L 12/10/2020 - 23:15:48: [playercommands.smx] "Hailstorm<41><[U:1:181986054]><>" slapped "Draconic (Azel)<44><[U:1:101368949]><>" (damage "0")
+L 12/10/2020 - 23:15:48: [playercommands.smx] "Hailstorm<41><[U:1:181986054]><>" slapped "Draconic (Azel)<44><[U:1:101368949]><>" (damage "0")
+L 12/10/2020 - 23:15:49: [playercommands.smx] "Hailstorm<41><[U:1:181986054]><>" slapped "Draconic (Azel)<44><[U:1:101368949]><>" (damage "0")
+L 12/10/2020 - 23:15:49: [playercommands.smx] "Hailstorm<41><[U:1:181986054]><>" slapped "Draconic (Azel)<44><[U:1:101368949]><>" (damage "0")
+L 12/10/2020 - 23:15:49: [playercommands.smx] "Hailstorm<41><[U:1:181986054]><>" slapped "Draconic (Azel)<44><[U:1:101368949]><>" (damage "0")
+L 12/10/2020 - 23:15:49: [playercommands.smx] "Hailstorm<41><[U:1:181986054]><>" slapped "Draconic (Azel)<44><[U:1:101368949]><>" (damage "0")
+L 12/10/2020 - 23:15:49: [playercommands.smx] "Hailstorm<41><[U:1:181986054]><>" slapped "Draconic (Azel)<44><[U:1:101368949]><>" (damage "0")
+L 12/10/2020 - 23:15:50: [playercommands.smx] "Hailstorm<41><[U:1:181986054]><>" slapped "Draconic (Azel)<44><[U:1:101368949]><>" (damage "0")
+L 12/10/2020 - 23:16:04: [playercommands.smx] "Draconic (Azel)<44><[U:1:101368949]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<43><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 23:16:04: [playercommands.smx] "Draconic (Azel)<44><[U:1:101368949]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<43><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 23:16:04: [playercommands.smx] "Draconic (Azel)<44><[U:1:101368949]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<43><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 23:16:05: [playercommands.smx] "Draconic (Azel)<44><[U:1:101368949]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<43><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 23:16:05: [playercommands.smx] "Draconic (Azel)<44><[U:1:101368949]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<43><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 23:16:05: [playercommands.smx] "Draconic (Azel)<44><[U:1:101368949]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<43><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 23:16:05: [playercommands.smx] "Draconic (Azel)<44><[U:1:101368949]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<43><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 23:16:05: [playercommands.smx] "Draconic (Azel)<44><[U:1:101368949]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<43><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 23:16:05: [playercommands.smx] "Draconic (Azel)<44><[U:1:101368949]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<43><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 23:16:06: [playercommands.smx] "Draconic (Azel)<44><[U:1:101368949]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<43><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 23:16:06: [playercommands.smx] "Draconic (Azel)<44><[U:1:101368949]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<43><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 23:16:06: [playercommands.smx] "Draconic (Azel)<44><[U:1:101368949]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<43><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 23:16:06: [playercommands.smx] "Draconic (Azel)<44><[U:1:101368949]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<43><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 23:16:06: [playercommands.smx] "Draconic (Azel)<44><[U:1:101368949]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<43><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 23:16:06: [playercommands.smx] "Draconic (Azel)<44><[U:1:101368949]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<43><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 23:16:07: [playercommands.smx] "Draconic (Azel)<44><[U:1:101368949]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<43><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 23:16:07: [playercommands.smx] "Draconic (Azel)<44><[U:1:101368949]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<43><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 23:16:13: [playercommands.smx] "Draconic (Azel)<44><[U:1:101368949]><>" slapped "Hailstorm<41><[U:1:181986054]><>" (damage "0")
+L 12/10/2020 - 23:16:13: [playercommands.smx] "Draconic (Azel)<44><[U:1:101368949]><>" slapped "Hailstorm<41><[U:1:181986054]><>" (damage "0")
+L 12/10/2020 - 23:16:13: [playercommands.smx] "Draconic (Azel)<44><[U:1:101368949]><>" slapped "Hailstorm<41><[U:1:181986054]><>" (damage "0")
+L 12/10/2020 - 23:16:13: [playercommands.smx] "Draconic (Azel)<44><[U:1:101368949]><>" slapped "Hailstorm<41><[U:1:181986054]><>" (damage "0")
+L 12/10/2020 - 23:16:13: [playercommands.smx] "Draconic (Azel)<44><[U:1:101368949]><>" slapped "Hailstorm<41><[U:1:181986054]><>" (damage "0")
+L 12/10/2020 - 23:16:13: [playercommands.smx] "Draconic (Azel)<44><[U:1:101368949]><>" slapped "Hailstorm<41><[U:1:181986054]><>" (damage "0")
+L 12/10/2020 - 23:16:14: [playercommands.smx] "Draconic (Azel)<44><[U:1:101368949]><>" slapped "Hailstorm<41><[U:1:181986054]><>" (damage "0")
+L 12/10/2020 - 23:16:14: [playercommands.smx] "Draconic (Azel)<44><[U:1:101368949]><>" slapped "Hailstorm<41><[U:1:181986054]><>" (damage "0")
+L 12/10/2020 - 23:16:14: [playercommands.smx] "Draconic (Azel)<44><[U:1:101368949]><>" slapped "Hailstorm<41><[U:1:181986054]><>" (damage "0")
+L 12/10/2020 - 23:16:14: [playercommands.smx] "Draconic (Azel)<44><[U:1:101368949]><>" slapped "Hailstorm<41><[U:1:181986054]><>" (damage "0")
+L 12/10/2020 - 23:16:14: [playercommands.smx] "Draconic (Azel)<44><[U:1:101368949]><>" slapped "Hailstorm<41><[U:1:181986054]><>" (damage "0")
+L 12/10/2020 - 23:16:14: [playercommands.smx] "Draconic (Azel)<44><[U:1:101368949]><>" slapped "Hailstorm<41><[U:1:181986054]><>" (damage "0")
+L 12/10/2020 - 23:16:15: [playercommands.smx] "Draconic (Azel)<44><[U:1:101368949]><>" slapped "Hailstorm<41><[U:1:181986054]><>" (damage "0")
+L 12/10/2020 - 23:16:15: [playercommands.smx] "Draconic (Azel)<44><[U:1:101368949]><>" slapped "Hailstorm<41><[U:1:181986054]><>" (damage "0")
+L 12/10/2020 - 23:16:15: [playercommands.smx] "Draconic (Azel)<44><[U:1:101368949]><>" slapped "Hailstorm<41><[U:1:181986054]><>" (damage "0")
+L 12/10/2020 - 23:16:15: [playercommands.smx] "Draconic (Azel)<44><[U:1:101368949]><>" slapped "Hailstorm<41><[U:1:181986054]><>" (damage "0")
+L 12/10/2020 - 23:16:15: [playercommands.smx] "Draconic (Azel)<44><[U:1:101368949]><>" slapped "Hailstorm<41><[U:1:181986054]><>" (damage "0")
+L 12/10/2020 - 23:16:16: [playercommands.smx] "Draconic (Azel)<44><[U:1:101368949]><>" slapped "Hailstorm<41><[U:1:181986054]><>" (damage "0")
+L 12/10/2020 - 23:17:02: [funcommandsX.smx] "Draconic (Azel)<44><[U:1:101368949]><>" teleported "Draconic (Azel)<44><[U:1:101368949]><>"
+L 12/10/2020 - 23:17:03: [funcommandsX.smx] "Draconic (Azel)<44><[U:1:101368949]><>" teleported "Draconic (Azel)<44><[U:1:101368949]><>"
+L 12/10/2020 - 23:17:05: [funcommandsX.smx] "Draconic (Azel)<44><[U:1:101368949]><>" teleported "Draconic (Azel)<44><[U:1:101368949]><>"
+L 12/10/2020 - 23:17:57: [funcommandsX.smx] "Nezzie<42><[U:1:107910185]><>" teleported "Draconic (Azel)<44><[U:1:101368949]><>"
+L 12/10/2020 - 23:19:52: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 12/10/2020 - 23:19:52: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 12/10/2020 - 23:19:52: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 12/10/2020 - 23:19:52: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 12/10/2020 - 23:19:52: [mapchooser_extended.smx] Loaded map list for tf.
+L 12/10/2020 - 23:20:00: [funcommands.smx] "Hailstorm<41><[U:1:181986054]><>" froze "Hailstorm<41><[U:1:181986054]><>"
+L 12/10/2020 - 23:20:08: [funcommands.smx] "Nezzie<42><[U:1:107910185]><>" froze "FROSTY F1SH (ART COMMS. OPEN)<43><[U:1:445849108]><>"
+L 12/10/2020 - 23:20:16: [playercommands.smx] "Nezzie<42><[U:1:107910185]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<43><[U:1:445849108]><>" (damage "99")
+L 12/10/2020 - 23:20:16: [playercommands.smx] "Nezzie<42><[U:1:107910185]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<43><[U:1:445849108]><>" (damage "99")
+L 12/10/2020 - 23:20:17: [playercommands.smx] "Nezzie<42><[U:1:107910185]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<43><[U:1:445849108]><>" (damage "99")
+L 12/10/2020 - 23:20:21: [playercommands.smx] "Nezzie<42><[U:1:107910185]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<43><[U:1:445849108]><>" (damage "99")
+L 12/10/2020 - 23:20:21: [playercommands.smx] "Nezzie<42><[U:1:107910185]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<43><[U:1:445849108]><>" (damage "99")
+L 12/10/2020 - 23:20:32: [playercommands.smx] "Nezzie<42><[U:1:107910185]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<43><[U:1:445849108]><>" (damage "99")
+L 12/10/2020 - 23:20:32: [playercommands.smx] "Nezzie<42><[U:1:107910185]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<43><[U:1:445849108]><>" (damage "99")
+L 12/10/2020 - 23:20:33: [playercommands.smx] "Nezzie<42><[U:1:107910185]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<43><[U:1:445849108]><>" (damage "99")
+L 12/10/2020 - 23:20:35: [funcommands.smx] "Hailstorm<41><[U:1:181986054]><>" froze "Hailstorm<41><[U:1:181986054]><>"
+L 12/10/2020 - 23:20:35: [playercommands.smx] "Nezzie<42><[U:1:107910185]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<43><[U:1:445849108]><>" (damage "99")
+L 12/10/2020 - 23:20:36: [playercommands.smx] "Nezzie<42><[U:1:107910185]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<43><[U:1:445849108]><>" (damage "99")
+L 12/10/2020 - 23:20:40: [playercommands.smx] "Draconic (Azel)<44><[U:1:101368949]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<43><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 23:20:41: [playercommands.smx] "Draconic (Azel)<44><[U:1:101368949]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<43><[U:1:445849108]><>" (damage "0")
+L 12/10/2020 - 23:20:48: [playercommands.smx] "Nezzie<42><[U:1:107910185]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<43><[U:1:445849108]><>" (damage "99")
+L 12/10/2020 - 23:20:48: [playercommands.smx] "Nezzie<42><[U:1:107910185]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<43><[U:1:445849108]><>" (damage "99")
+L 12/10/2020 - 23:20:51: [playercommands.smx] "Nezzie<42><[U:1:107910185]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<43><[U:1:445849108]><>" (damage "99")
+L 12/10/2020 - 23:20:51: [playercommands.smx] "Nezzie<42><[U:1:107910185]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<43><[U:1:445849108]><>" (damage "99")
+L 12/10/2020 - 23:20:52: [playercommands.smx] "Nezzie<42><[U:1:107910185]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<43><[U:1:445849108]><>" (damage "99")
+L 12/10/2020 - 23:21:02: [playercommands.smx] "Nezzie<42><[U:1:107910185]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<43><[U:1:445849108]><>" (damage "99")
+L 12/10/2020 - 23:21:02: [playercommands.smx] "Nezzie<42><[U:1:107910185]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<43><[U:1:445849108]><>" (damage "99")
+L 12/10/2020 - 23:21:04: [funcommandsX.smx] "Hailstorm<41><[U:1:181986054]><>" made "Hailstorm<41><[U:1:181986054]><>" lime
+L 12/10/2020 - 23:21:05: [funcommandsX.smx] "Draconic (Azel)<44><[U:1:101368949]><>" made "FROSTY F1SH (ART COMMS. OPEN)<43><[U:1:445849108]><>" black
+L 12/10/2020 - 23:21:13: [playercommands.smx] "Nezzie<42><[U:1:107910185]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<43><[U:1:445849108]><>" (damage "99")
+L 12/10/2020 - 23:21:15: [playercommands.smx] "Nezzie<42><[U:1:107910185]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<43><[U:1:445849108]><>" (damage "99")
+L 12/10/2020 - 23:21:19: [playercommands.smx] "Nezzie<42><[U:1:107910185]><>" slapped "FROSTY F1SH (ART COMMS. OPEN)<43><[U:1:445849108]><>" (damage "99")
+L 12/10/2020 - 23:21:29: [funcommands.smx] "Nezzie<42><[U:1:107910185]><>" froze "FROSTY F1SH (ART COMMS. OPEN)<43><[U:1:445849108]><>"
+L 12/10/2020 - 23:23:00: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 12/10/2020 - 23:23:00: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 12/10/2020 - 23:23:00: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 12/10/2020 - 23:23:01: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 12/10/2020 - 23:23:01: [mapchooser_extended.smx] Loaded map list for tf.
+L 12/10/2020 - 23:25:33: [funcommands.smx] "Draconic (Azel)<44><[U:1:101368949]><>" froze "FROSTY F1SH (ART COMMS. OPEN)<43><[U:1:445849108]><>"
+L 12/10/2020 - 23:25:42: [funcommands.smx] "Draconic (Azel)<44><[U:1:101368949]><>" froze "FROSTY F1SH (ART COMMS. OPEN)<43><[U:1:445849108]><>"
+L 12/10/2020 - 23:27:09: [respawn.smx] "FROSTY F1SH (ART COMMS. OPEN)<43><[U:1:445849108]><>" respawned "FROSTY F1SH (ART COMMS. OPEN)<43><[U:1:445849108]><>"
+L 12/10/2020 - 23:29:02: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 12/10/2020 - 23:29:02: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 12/10/2020 - 23:29:02: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 12/10/2020 - 23:29:02: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 12/10/2020 - 23:29:03: [mapchooser_extended.smx] Loaded map list for tf.
+L 12/10/2020 - 23:30:38: [respawn.smx] "Hailstorm<41><[U:1:181986054]><>" respawned "Hailstorm<41><[U:1:181986054]><>"
+L 12/10/2020 - 23:31:46: [respawn.smx] "Draconic (Azel)<44><[U:1:101368949]><>" respawned "FROSTY F1SH (ART COMMS. OPEN)<43><[U:1:445849108]><>"
+L 12/10/2020 - 23:32:59: [basecommands.smx] "Nezzie<42><[U:1:107910185]><>" changed map to "vsh_nebula_rc1"
+L 12/10/2020 - 23:33:02: [SM] Changed map to "vsh_nebula_rc1"
+L 12/10/2020 - 23:33:06: -------- Mapchange to vsh_nebula_rc1 --------
+L 12/10/2020 - 23:33:17: [mapchooser_extended.smx] Loaded map list for tf.
+L 12/10/2020 - 23:35:38: [respawn.smx] "Hailstorm<41><[U:1:181986054]><>" respawned "Hailstorm<41><[U:1:181986054]><>"
+L 12/10/2020 - 23:35:43: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 12/10/2020 - 23:35:43: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 12/10/2020 - 23:35:43: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 12/10/2020 - 23:35:43: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 12/10/2020 - 23:35:43: [mapchooser_extended.smx] Loaded map list for tf.
+L 12/10/2020 - 23:41:42: [respawn.smx] "Nezzie<42><[U:1:107910185]><>" respawned "Hailstorm<41><[U:1:181986054]><>"
+L 12/10/2020 - 23:41:42: [respawn.smx] "Nezzie<42><[U:1:107910185]><>" respawned "Nezzie<42><[U:1:107910185]><>"
+L 12/10/2020 - 23:41:47: [respawn.smx] "Nezzie<42><[U:1:107910185]><>" respawned "Nezzie<42><[U:1:107910185]><>"
+L 12/10/2020 - 23:42:03: [funcommandsX.smx] "Nezzie<42><[U:1:107910185]><>" teleported "Nezzie<42><[U:1:107910185]><>"
+L 12/10/2020 - 23:42:08: [funcommandsX.smx] "Nezzie<42><[U:1:107910185]><>" teleported "Nezzie<42><[U:1:107910185]><>"
+L 12/10/2020 - 23:42:10: [funcommandsX.smx] "Nezzie<42><[U:1:107910185]><>" teleported "Nezzie<42><[U:1:107910185]><>"
+L 12/10/2020 - 23:42:11: [funcommandsX.smx] "Nezzie<42><[U:1:107910185]><>" teleported "Nezzie<42><[U:1:107910185]><>"
+L 12/10/2020 - 23:42:18: [respawn.smx] "Draconic (Azel)<44><[U:1:101368949]><>" respawned "Draconic (Azel)<44><[U:1:101368949]><>"
+L 12/10/2020 - 23:42:26: [funcommandsX.smx] "Nezzie<42><[U:1:107910185]><>" teleported "Nezzie<42><[U:1:107910185]><>"
+L 12/10/2020 - 23:42:27: [funcommandsX.smx] "Nezzie<42><[U:1:107910185]><>" teleported "Nezzie<42><[U:1:107910185]><>"
+L 12/10/2020 - 23:42:31: [funcommands.smx] "Hailstorm<41><[U:1:181986054]><>" set a beacon on "FROSTY F1SH (ART COMMS. OPEN)<43><[U:1:445849108]><>"
+L 12/10/2020 - 23:42:31: [funcommandsX.smx] "Nezzie<42><[U:1:107910185]><>" teleported "Nezzie<42><[U:1:107910185]><>"
+L 12/10/2020 - 23:42:32: [funcommands.smx] "Hailstorm<41><[U:1:181986054]><>" set a beacon on "Draconic (Azel)<44><[U:1:101368949]><>"
+L 12/10/2020 - 23:42:32: [funcommandsX.smx] "Nezzie<42><[U:1:107910185]><>" teleported "Nezzie<42><[U:1:107910185]><>"
+L 12/10/2020 - 23:42:37: [funcommandsX.smx] "Nezzie<42><[U:1:107910185]><>" teleported "Nezzie<42><[U:1:107910185]><>"
+L 12/10/2020 - 23:42:38: [funcommandsX.smx] "Nezzie<42><[U:1:107910185]><>" teleported "Nezzie<42><[U:1:107910185]><>"
+L 12/10/2020 - 23:42:38: [funcommandsX.smx] "Nezzie<42><[U:1:107910185]><>" teleported "Nezzie<42><[U:1:107910185]><>"
+L 12/10/2020 - 23:42:47: [respawn.smx] "Hailstorm<41><[U:1:181986054]><>" respawned "Hailstorm<41><[U:1:181986054]><>"
+L 12/10/2020 - 23:42:50: [funcommandsX.smx] "Nezzie<42><[U:1:107910185]><>" teleported "Nezzie<42><[U:1:107910185]><>"
+L 12/10/2020 - 23:42:50: [funcommands.smx] "Hailstorm<41><[U:1:181986054]><>" set a beacon on "Hailstorm<41><[U:1:181986054]><>"
+L 12/10/2020 - 23:42:51: [funcommandsX.smx] "Nezzie<42><[U:1:107910185]><>" teleported "Nezzie<42><[U:1:107910185]><>"
+L 12/10/2020 - 23:43:10: [funcommandsX.smx] "Draconic (Azel)<44><[U:1:101368949]><>" teleported "Draconic (Azel)<44><[U:1:101368949]><>"
+L 12/10/2020 - 23:43:11: [funcommandsX.smx] "Draconic (Azel)<44><[U:1:101368949]><>" teleported "Draconic (Azel)<44><[U:1:101368949]><>"
+L 12/10/2020 - 23:43:13: [funcommandsX.smx] "Draconic (Azel)<44><[U:1:101368949]><>" teleported "Draconic (Azel)<44><[U:1:101368949]><>"
+L 12/10/2020 - 23:43:17: [funcommandsX.smx] "Draconic (Azel)<44><[U:1:101368949]><>" teleported "Draconic (Azel)<44><[U:1:101368949]><>"
+L 12/10/2020 - 23:43:25: [funcommandsX.smx] "Draconic (Azel)<44><[U:1:101368949]><>" teleported "Draconic (Azel)<44><[U:1:101368949]><>"
+L 12/10/2020 - 23:43:26: [funcommandsX.smx] "Draconic (Azel)<44><[U:1:101368949]><>" teleported "Draconic (Azel)<44><[U:1:101368949]><>"
+L 12/10/2020 - 23:43:34: [funcommandsX.smx] "Nezzie<42><[U:1:107910185]><>" teleported "Nezzie<42><[U:1:107910185]><>"
+L 12/10/2020 - 23:43:36: [funcommandsX.smx] "Draconic (Azel)<44><[U:1:101368949]><>" teleported "Draconic (Azel)<44><[U:1:101368949]><>"
+L 12/10/2020 - 23:43:37: [funcommandsX.smx] "Draconic (Azel)<44><[U:1:101368949]><>" teleported "Draconic (Azel)<44><[U:1:101368949]><>"
+L 12/10/2020 - 23:43:38: [funcommandsX.smx] "Nezzie<42><[U:1:107910185]><>" teleported "Nezzie<42><[U:1:107910185]><>"
+L 12/10/2020 - 23:43:39: [funcommandsX.smx] "Nezzie<42><[U:1:107910185]><>" teleported "Nezzie<42><[U:1:107910185]><>"
+L 12/10/2020 - 23:43:40: [funcommandsX.smx] "Nezzie<42><[U:1:107910185]><>" teleported "Nezzie<42><[U:1:107910185]><>"
+L 12/10/2020 - 23:43:51: [respawn.smx] "Nezzie<42><[U:1:107910185]><>" respawned "Portable Dispenser :P<48><[U:1:1083392120]><>"
+L 12/10/2020 - 23:44:13: [funcommandsX.smx] "Draconic (Azel)<44><[U:1:101368949]><>" teleported "Draconic (Azel)<44><[U:1:101368949]><>"
+L 12/10/2020 - 23:44:33: [funcommandsX.smx] "Draconic (Azel)<44><[U:1:101368949]><>" teleported "Draconic (Azel)<44><[U:1:101368949]><>"
+L 12/10/2020 - 23:44:34: [funcommandsX.smx] "Draconic (Azel)<44><[U:1:101368949]><>" teleported "Draconic (Azel)<44><[U:1:101368949]><>"
+L 12/10/2020 - 23:46:22: [funcommandsX.smx] "Draconic (Azel)<44><[U:1:101368949]><>" teleported "Draconic (Azel)<44><[U:1:101368949]><>"
+L 12/10/2020 - 23:46:25: [funcommandsX.smx] "Draconic (Azel)<44><[U:1:101368949]><>" teleported "Draconic (Azel)<44><[U:1:101368949]><>"
+L 12/10/2020 - 23:46:28: [funcommandsX.smx] "Draconic (Azel)<44><[U:1:101368949]><>" teleported "Draconic (Azel)<44><[U:1:101368949]><>"
+L 12/10/2020 - 23:46:29: [funcommandsX.smx] "Draconic (Azel)<44><[U:1:101368949]><>" teleported "Draconic (Azel)<44><[U:1:101368949]><>"
+L 12/10/2020 - 23:46:36: [funcommandsX.smx] "Draconic (Azel)<44><[U:1:101368949]><>" teleported "Draconic (Azel)<44><[U:1:101368949]><>"
+L 12/10/2020 - 23:46:38: [funcommandsX.smx] "Draconic (Azel)<44><[U:1:101368949]><>" teleported "Draconic (Azel)<44><[U:1:101368949]><>"
+L 12/10/2020 - 23:46:39: [funcommandsX.smx] "Draconic (Azel)<44><[U:1:101368949]><>" teleported "Draconic (Azel)<44><[U:1:101368949]><>"
+L 12/10/2020 - 23:46:41: [funcommandsX.smx] "Draconic (Azel)<44><[U:1:101368949]><>" teleported "Draconic (Azel)<44><[U:1:101368949]><>"
+L 12/10/2020 - 23:46:41: [funcommandsX.smx] "Draconic (Azel)<44><[U:1:101368949]><>" teleported "Draconic (Azel)<44><[U:1:101368949]><>"
+L 12/10/2020 - 23:46:42: [funcommandsX.smx] "Draconic (Azel)<44><[U:1:101368949]><>" teleported "Draconic (Azel)<44><[U:1:101368949]><>"
+L 12/10/2020 - 23:46:43: [funcommandsX.smx] "Draconic (Azel)<44><[U:1:101368949]><>" teleported "Draconic (Azel)<44><[U:1:101368949]><>"
+L 12/10/2020 - 23:47:02: [funcommandsX.smx] "Draconic (Azel)<44><[U:1:101368949]><>" teleported "Draconic (Azel)<44><[U:1:101368949]><>"
+L 12/10/2020 - 23:47:08: [funcommandsX.smx] "Draconic (Azel)<44><[U:1:101368949]><>" teleported "Draconic (Azel)<44><[U:1:101368949]><>"
+L 12/10/2020 - 23:47:19: [funcommandsX.smx] "Hailstorm<41><[U:1:181986054]><>" teleported "Hailstorm<41><[U:1:181986054]><>"
+L 12/10/2020 - 23:47:21: [funcommandsX.smx] "Hailstorm<41><[U:1:181986054]><>" teleported "Hailstorm<41><[U:1:181986054]><>"
+L 12/10/2020 - 23:47:23: [funcommandsX.smx] "Draconic (Azel)<44><[U:1:101368949]><>" teleported "Draconic (Azel)<44><[U:1:101368949]><>"
+L 12/10/2020 - 23:47:24: [funcommandsX.smx] "Draconic (Azel)<44><[U:1:101368949]><>" teleported "Draconic (Azel)<44><[U:1:101368949]><>"
+L 12/10/2020 - 23:47:25: [funcommandsX.smx] "Hailstorm<41><[U:1:181986054]><>" teleported "Hailstorm<41><[U:1:181986054]><>"
+L 12/10/2020 - 23:47:27: [funcommandsX.smx] "Hailstorm<41><[U:1:181986054]><>" teleported "Hailstorm<41><[U:1:181986054]><>"
+L 12/10/2020 - 23:47:27: [funcommandsX.smx] "Draconic (Azel)<44><[U:1:101368949]><>" teleported "Draconic (Azel)<44><[U:1:101368949]><>"
+L 12/10/2020 - 23:47:28: [funcommandsX.smx] "Draconic (Azel)<44><[U:1:101368949]><>" teleported "Draconic (Azel)<44><[U:1:101368949]><>"
+L 12/10/2020 - 23:47:29: [funcommandsX.smx] "Draconic (Azel)<44><[U:1:101368949]><>" teleported "Draconic (Azel)<44><[U:1:101368949]><>"
+L 12/10/2020 - 23:47:30: [funcommandsX.smx] "Draconic (Azel)<44><[U:1:101368949]><>" teleported "Draconic (Azel)<44><[U:1:101368949]><>"
+L 12/10/2020 - 23:47:31: [funcommandsX.smx] "Hailstorm<41><[U:1:181986054]><>" teleported "Hailstorm<41><[U:1:181986054]><>"
+L 12/10/2020 - 23:47:35: [funcommandsX.smx] "Hailstorm<41><[U:1:181986054]><>" teleported "Hailstorm<41><[U:1:181986054]><>"
+L 12/10/2020 - 23:47:35: [funcommandsX.smx] "Draconic (Azel)<44><[U:1:101368949]><>" teleported "Draconic (Azel)<44><[U:1:101368949]><>"
+L 12/10/2020 - 23:47:37: [funcommandsX.smx] "Hailstorm<41><[U:1:181986054]><>" teleported "Hailstorm<41><[U:1:181986054]><>"
+L 12/10/2020 - 23:47:38: [funcommandsX.smx] "Hailstorm<41><[U:1:181986054]><>" teleported "Hailstorm<41><[U:1:181986054]><>"
+L 12/10/2020 - 23:47:39: [funcommandsX.smx] "Draconic (Azel)<44><[U:1:101368949]><>" teleported "Draconic (Azel)<44><[U:1:101368949]><>"
+L 12/10/2020 - 23:47:40: [funcommandsX.smx] "Hailstorm<41><[U:1:181986054]><>" teleported "Hailstorm<41><[U:1:181986054]><>"
+L 12/10/2020 - 23:47:43: [funcommandsX.smx] "Hailstorm<41><[U:1:181986054]><>" teleported "Hailstorm<41><[U:1:181986054]><>"
+L 12/10/2020 - 23:47:45: [funcommandsX.smx] "Hailstorm<41><[U:1:181986054]><>" teleported "Hailstorm<41><[U:1:181986054]><>"
+L 12/10/2020 - 23:53:34: [mapchooser_extended.smx] Voting for next map has started.
+L 12/10/2020 - 23:53:54: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_impure_v3.
+L 12/10/2020 - 23:57:22: [respawn.smx] "Nezzie<42><[U:1:107910185]><>" respawned "Portable Dispenser :P<48><[U:1:1083392120]><>"
+L 12/11/2020 - 00:07:01: Log file closed.

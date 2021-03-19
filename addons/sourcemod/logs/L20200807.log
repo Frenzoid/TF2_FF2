@@ -1,0 +1,251 @@
+L 08/07/2020 - 00:05:00: SourceMod log file session started (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/L20200807.log") (Version "1.10.0.6490")
+L 08/07/2020 - 00:05:00: [basecommands.smx] "MrFrenzoid<136><[U:1:91292555]><>" changed map to "arena_yunshu_rc1"
+L 08/07/2020 - 00:05:03: [SM] Changed map to "arena_yunshu_rc1"
+L 08/07/2020 - 00:05:09: -------- Mapchange to arena_yunshu_rc1 --------
+L 08/07/2020 - 00:05:20: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/07/2020 - 00:12:26: [basecommands.smx] "MrFrenzoid<136><[U:1:91292555]><>" changed map to "vsh_arktown_v4"
+L 08/07/2020 - 00:12:29: [SM] Changed map to "vsh_arktown_v4"
+L 08/07/2020 - 00:12:33: -------- Mapchange to vsh_arktown_v4 --------
+L 08/07/2020 - 00:12:43: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/07/2020 - 00:26:07: [basecommands.smx] "MrFrenzoid<136><[U:1:91292555]><>" changed map to "arena_graveyardbash_v1"
+L 08/07/2020 - 00:26:10: [SM] Changed map to "arena_graveyardbash_v1"
+L 08/07/2020 - 00:26:13: -------- Mapchange to arena_graveyardbash_v1 --------
+L 08/07/2020 - 00:26:24: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/07/2020 - 00:32:38: [playercommands.smx] "MrFrenzoid<136><[U:1:91292555]><>" slayed "10001011101<155><BOT><>"
+L 08/07/2020 - 00:33:00: [playercommands.smx] "MrFrenzoid<136><[U:1:91292555]><>" slayed "TAAAAANK!<157><BOT><>"
+L 08/07/2020 - 00:39:44: [basecommands.smx] "MrFrenzoid<136><[U:1:91292555]><>" changed map to "arena_sawmill"
+L 08/07/2020 - 00:39:47: [SM] Changed map to "arena_sawmill"
+L 08/07/2020 - 00:39:50: -------- Mapchange to arena_sawmill --------
+L 08/07/2020 - 00:40:03: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/07/2020 - 00:44:40: [basecommands.smx] "MrFrenzoid<136><[U:1:91292555]><>" changed map to "arena_yunshu_rc1"
+L 08/07/2020 - 00:44:43: [SM] Changed map to "arena_yunshu_rc1"
+L 08/07/2020 - 00:44:48: -------- Mapchange to arena_yunshu_rc1 --------
+L 08/07/2020 - 00:44:59: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/07/2020 - 00:49:39: [respawn.smx] "MrFrenzoid<136><[U:1:91292555]><>" respawned "MrFrenzoid<136><[U:1:91292555]><>"
+L 08/07/2020 - 00:52:39: [respawn.smx] "Nezzie<164><[U:1:107910185]><>" respawned "Nezzie<164><[U:1:107910185]><>"
+L 08/07/2020 - 00:54:20: [basechat.smx] "Console<0><Console><Console>" triggered sm_say (text The round time has ended, omaewa-mou shindeiru)
+L 08/07/2020 - 00:54:20: [playercommands.smx] "Console<0><Console><Console>" slayed "MrFrenzoid<136><[U:1:91292555]><>"
+L 08/07/2020 - 00:54:20: [playercommands.smx] "Console<0><Console><Console>" slayed "BoomerBile<161><BOT><>"
+L 08/07/2020 - 00:54:20: [playercommands.smx] "Console<0><Console><Console>" slayed "Mann Co.<162><BOT><>"
+L 08/07/2020 - 00:54:20: [playercommands.smx] "Console<0><Console><Console>" slayed "Kaboom!<163><BOT><>"
+L 08/07/2020 - 00:54:20: [playercommands.smx] "Console<0><Console><Console>" slayed "Nezzie<164><[U:1:107910185]><>"
+L 08/07/2020 - 00:55:12: [funcommandsX.smx] "Nezzie<164><[U:1:107910185]><>" made "Nezzie<164><[U:1:107910185]><>" invisible
+L 08/07/2020 - 00:55:15: [funcommandsX.smx] "Nezzie<164><[U:1:107910185]><>" made "Nezzie<164><[U:1:107910185]><>" visible
+L 08/07/2020 - 00:55:19: [respawn.smx] "MrFrenzoid<136><[U:1:91292555]><>" respawned "MrFrenzoid<136><[U:1:91292555]><>"
+L 08/07/2020 - 01:02:26: [respawn.smx] "Nezzie<164><[U:1:107910185]><>" respawned "Nezzie<164><[U:1:107910185]><>"
+L 08/07/2020 - 01:05:02: [funcommandsX.smx] "Nezzie<164><[U:1:107910185]><>" teleported "Nezzie<164><[U:1:107910185]><>"
+L 08/07/2020 - 01:05:12: [funcommandsX.smx] "Nezzie<164><[U:1:107910185]><>" teleported "Kaboom!<163><BOT><>"
+L 08/07/2020 - 01:05:15: [funcommandsX.smx] "Nezzie<164><[U:1:107910185]><>" teleported "Nezzie<164><[U:1:107910185]><>"
+L 08/07/2020 - 01:05:15: [mapchooser_extended.smx] Voting for next map has started.
+L 08/07/2020 - 01:05:28: [mapchooser_extended.smx] Voting for next map has started.
+L 08/07/2020 - 01:05:36: [funcommandsX.smx] "Nezzie<164><[U:1:107910185]><>" teleported "Nezzie<164><[U:1:107910185]><>"
+L 08/07/2020 - 01:05:48: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_manncohq_v14.
+L 08/07/2020 - 01:08:18: [basechat.smx] "Console<0><Console><Console>" triggered sm_say (text The round time has ended, omaewa-mou shindeiru)
+L 08/07/2020 - 01:08:18: [playercommands.smx] "Console<0><Console><Console>" slayed "MrFrenzoid<136><[U:1:91292555]><>"
+L 08/07/2020 - 01:08:18: [playercommands.smx] "Console<0><Console><Console>" slayed "Kaboom!<163><BOT><>"
+L 08/07/2020 - 01:08:18: [playercommands.smx] "Console<0><Console><Console>" slayed "Nezzie<164><[U:1:107910185]><>"
+L 08/07/2020 - 01:09:08: [respawn.smx] "Nezzie<164><[U:1:107910185]><>" respawned "Nezzie<164><[U:1:107910185]><>"
+L 08/07/2020 - 01:12:07: [basecommands.smx] "MrFrenzoid<136><[U:1:91292555]><>" changed map to "arena_suijin_rc2"
+L 08/07/2020 - 01:12:10: [SM] Changed map to "arena_suijin_rc2"
+L 08/07/2020 - 01:12:13: -------- Mapchange to arena_suijin_rc2 --------
+L 08/07/2020 - 01:13:03: SourceMod log file session started (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/L20200807.log") (Version "1.10.0.6490")
+L 08/07/2020 - 01:13:03: [TF2ITEMS] "GiveNamedItem" offset = 484
+L 08/07/2020 - 01:13:04: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 08/07/2020 - 01:13:04: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 08/07/2020 - 01:13:04: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 08/07/2020 - 01:13:04: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 08/07/2020 - 01:13:50: SourceMod log file session started (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/L20200807.log") (Version "1.10.0.6490")
+L 08/07/2020 - 01:13:50: [TF2ITEMS] "GiveNamedItem" offset = 484
+L 08/07/2020 - 01:13:50: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 08/07/2020 - 01:13:50: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 08/07/2020 - 01:13:51: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 08/07/2020 - 01:13:51: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 08/07/2020 - 01:14:29: SourceMod log file session started (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/L20200807.log") (Version "1.10.0.6490")
+L 08/07/2020 - 01:14:29: [TF2ITEMS] "GiveNamedItem" offset = 484
+L 08/07/2020 - 01:14:29: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 08/07/2020 - 01:14:29: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 08/07/2020 - 01:14:30: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 08/07/2020 - 01:14:30: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 08/07/2020 - 01:15:10: SourceMod log file session started (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/L20200807.log") (Version "1.10.0.6490")
+L 08/07/2020 - 01:15:10: [TF2ITEMS] "GiveNamedItem" offset = 484
+L 08/07/2020 - 01:15:10: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 08/07/2020 - 01:15:10: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 08/07/2020 - 01:15:11: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 08/07/2020 - 01:15:11: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 08/07/2020 - 01:15:26: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/07/2020 - 01:21:15: SourceMod log file session started (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/L20200807.log") (Version "1.10.0.6490")
+L 08/07/2020 - 01:21:15: [TF2ITEMS] "GiveNamedItem" offset = 484
+L 08/07/2020 - 01:21:15: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 08/07/2020 - 01:21:15: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 08/07/2020 - 01:21:16: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 08/07/2020 - 01:21:16: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 08/07/2020 - 01:21:31: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/07/2020 - 01:22:44: [respawn.smx] "Nezzie<3><[U:1:107910185]><>" respawned "Nezzie<3><[U:1:107910185]><>"
+L 08/07/2020 - 01:23:12: [respawn.smx] "Nezzie<3><[U:1:107910185]><>" respawned "Nezzie<3><[U:1:107910185]><>"
+L 08/07/2020 - 01:24:46: [respawn.smx] "MrFrenzoid<2><[U:1:91292555]><>" respawned "MrFrenzoid<2><[U:1:91292555]><>"
+L 08/07/2020 - 01:30:36: [basechat.smx] "Console<0><Console><Console>" triggered sm_say (text The round time has ended, omaewa-mou shindeiru)
+L 08/07/2020 - 01:30:36: [playercommands.smx] "Console<0><Console><Console>" slayed "MrFrenzoid<2><[U:1:91292555]><>"
+L 08/07/2020 - 01:30:37: [playercommands.smx] "Console<0><Console><Console>" slayed "Nezzie<3><[U:1:107910185]><>"
+L 08/07/2020 - 01:30:37: [playercommands.smx] "Console<0><Console><Console>" slayed "HI THERE<4><BOT><>"
+L 08/07/2020 - 01:38:55: [basechat.smx] "Console<0><Console><Console>" triggered sm_say (text The round time has ended, omaewa-mou shindeiru)
+L 08/07/2020 - 01:38:55: [playercommands.smx] "Console<0><Console><Console>" slayed "MrFrenzoid<2><[U:1:91292555]><>"
+L 08/07/2020 - 01:38:55: [playercommands.smx] "Console<0><Console><Console>" slayed "Nezzie<3><[U:1:107910185]><>"
+L 08/07/2020 - 01:42:20: [mapchooser_extended.smx] Voting for next map has started.
+L 08/07/2020 - 01:42:24: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_pruvia_v9.
+L 08/07/2020 - 01:47:40: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 08/07/2020 - 01:47:40: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 08/07/2020 - 01:47:41: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 08/07/2020 - 01:47:41: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 08/07/2020 - 01:47:41: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/07/2020 - 01:47:57: [mapchooser_extended.smx] Voting for next map has started.
+L 08/07/2020 - 01:48:18: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_manncohq_v14.
+L 08/07/2020 - 01:49:32: [basecommands.smx] "MrFrenzoid<2><[U:1:91292555]><>" changed map to "arena_suijin_rc2"
+L 08/07/2020 - 01:49:35: [SM] Changed map to "arena_suijin_rc2"
+L 08/07/2020 - 01:49:38: -------- Mapchange to arena_suijin_rc2 --------
+L 08/07/2020 - 01:49:50: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/07/2020 - 01:50:28: [respawn.smx] "Nezzie<3><[U:1:107910185]><>" respawned "Nezzie<3><[U:1:107910185]><>"
+L 08/07/2020 - 02:00:14: [funcommands.smx] "MrFrenzoid<2><[U:1:91292555]><>" toggled noclip on "MrFrenzoid<2><[U:1:91292555]><>"
+L 08/07/2020 - 02:00:17: [funcommands.smx] "MrFrenzoid<2><[U:1:91292555]><>" toggled noclip on "MrFrenzoid<2><[U:1:91292555]><>"
+L 08/07/2020 - 02:01:48: [funcommands.smx] "MrFrenzoid<2><[U:1:91292555]><>" toggled noclip on "MrFrenzoid<2><[U:1:91292555]><>"
+L 08/07/2020 - 02:03:21: [respawn.smx] "MrFrenzoid<2><[U:1:91292555]><>" respawned "MrFrenzoid<2><[U:1:91292555]><>"
+L 08/07/2020 - 02:04:26: [playercommands.smx] "MrFrenzoid<2><[U:1:91292555]><>" slayed "GLaDOS<9><BOT><>"
+L 08/07/2020 - 02:05:12: SourceMod log file session started (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/L20200807.log") (Version "1.10.0.6490")
+L 08/07/2020 - 02:05:12: [TF2ITEMS] "GiveNamedItem" offset = 484
+L 08/07/2020 - 02:05:14: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 08/07/2020 - 02:05:14: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 08/07/2020 - 02:05:14: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 08/07/2020 - 02:05:14: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 08/07/2020 - 02:05:34: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/07/2020 - 02:07:00: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 08/07/2020 - 02:07:00: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 08/07/2020 - 02:07:00: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 08/07/2020 - 02:07:00: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 08/07/2020 - 02:07:01: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/07/2020 - 02:08:13: SourceMod log file session started (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/L20200807.log") (Version "1.10.0.6490")
+L 08/07/2020 - 02:08:13: [TF2ITEMS] "GiveNamedItem" offset = 484
+L 08/07/2020 - 02:08:13: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 08/07/2020 - 02:08:13: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 08/07/2020 - 02:08:14: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 08/07/2020 - 02:08:14: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 08/07/2020 - 02:08:31: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/07/2020 - 02:09:17: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 08/07/2020 - 02:09:17: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 08/07/2020 - 02:09:18: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 08/07/2020 - 02:09:18: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 08/07/2020 - 02:09:18: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/07/2020 - 02:09:59: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 08/07/2020 - 02:10:00: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 08/07/2020 - 02:10:00: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 08/07/2020 - 02:10:00: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 08/07/2020 - 02:10:00: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/07/2020 - 02:19:56: [respawn.smx] "MrFrenzoid<3><[U:1:91292555]><>" respawned "moist cheese<5><[U:1:351468059]><>"
+L 08/07/2020 - 02:22:20: [playercommands.smx] "Nezzie<2><[U:1:107910185]><>" slayed "Humans Are Weak<4><BOT><>"
+L 08/07/2020 - 02:28:50: [mapchooser_extended.smx] Voting for next map has started.
+L 08/07/2020 - 02:38:56: [respawn.smx] "Nezzie<2><[U:1:107910185]><>" respawned "Nezzie<2><[U:1:107910185]><>"
+L 08/07/2020 - 02:39:09: [respawn.smx] "Nezzie<2><[U:1:107910185]><>" respawned "Nezzie<2><[U:1:107910185]><>"
+L 08/07/2020 - 02:39:50: [respawn.smx] "Nezzie<2><[U:1:107910185]><>" respawned "Nezzie<2><[U:1:107910185]><>"
+L 08/07/2020 - 02:40:23: [SM] Changed map to "koth_badlands"
+L 08/07/2020 - 02:40:27: -------- Mapchange to koth_badlands --------
+L 08/07/2020 - 02:40:39: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/07/2020 - 02:41:39: [basecommands.smx] "MrFrenzoid<3><[U:1:91292555]><>" changed map to "arena_suijin_rc2"
+L 08/07/2020 - 02:41:42: [SM] Changed map to "arena_suijin_rc2"
+L 08/07/2020 - 02:41:45: -------- Mapchange to arena_suijin_rc2 --------
+L 08/07/2020 - 02:41:55: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/07/2020 - 03:02:09: [mapchooser_extended.smx] Voting for next map has started.
+L 08/07/2020 - 18:29:46: [basecommands.smx] "Nezzie<9><[U:1:107910185]><>" changed map to "arena_lumberyard"
+L 08/07/2020 - 18:29:49: [SM] Changed map to "arena_lumberyard"
+L 08/07/2020 - 18:29:52: -------- Mapchange to arena_lumberyard --------
+L 08/07/2020 - 18:30:03: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/07/2020 - 18:41:47: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 08/07/2020 - 18:41:47: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 08/07/2020 - 18:41:48: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 08/07/2020 - 18:41:48: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 08/07/2020 - 18:41:48: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/07/2020 - 18:47:03: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 08/07/2020 - 18:47:03: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 08/07/2020 - 18:47:04: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 08/07/2020 - 18:47:04: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 08/07/2020 - 18:47:04: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/07/2020 - 18:48:01: [respawn.smx] "Nezzie<9><[U:1:107910185]><>" respawned "Nezzie<9><[U:1:107910185]><>"
+L 08/07/2020 - 18:50:23: [mapchooser_extended.smx] Voting for next map has started.
+L 08/07/2020 - 18:50:26: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_jealo_rc2.
+L 08/07/2020 - 18:50:32: [playercommands.smx] "Nezzie<9><[U:1:107910185]><>" slayed "Ze Ubermensch<11><BOT><>"
+L 08/07/2020 - 18:51:06: [playercommands.smx] "Nezzie<9><[U:1:107910185]><>" slayed "CRITRAWKETS<13><BOT><>"
+L 08/07/2020 - 18:51:51: [respawn.smx] "Nezzie<9><[U:1:107910185]><>" respawned "Nezzie<9><[U:1:107910185]><>"
+L 08/07/2020 - 18:52:01: [respawn.smx] "Nezzie<9><[U:1:107910185]><>" respawned "Nezzie<9><[U:1:107910185]><>"
+L 08/07/2020 - 18:52:22: [respawn.smx] "Nezzie<9><[U:1:107910185]><>" respawned "Nezzie<9><[U:1:107910185]><>"
+L 08/07/2020 - 18:53:01: [respawn.smx] "Nezzie<9><[U:1:107910185]><>" respawned "Nezzie<9><[U:1:107910185]><>"
+L 08/07/2020 - 18:55:07: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 08/07/2020 - 18:55:07: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 08/07/2020 - 18:55:08: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 08/07/2020 - 18:55:08: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 08/07/2020 - 18:55:08: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/07/2020 - 18:55:24: [mapchooser_extended.smx] Voting for next map has started.
+L 08/07/2020 - 18:55:41: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: arena_yunshu_rc1.
+L 08/07/2020 - 18:56:07: [respawn.smx] "Nezzie<9><[U:1:107910185]><>" respawned "Nezzie<9><[U:1:107910185]><>"
+L 08/07/2020 - 18:56:58: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 08/07/2020 - 18:56:58: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 08/07/2020 - 18:56:58: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 08/07/2020 - 18:56:58: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 08/07/2020 - 18:56:58: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/07/2020 - 18:57:14: [mapchooser_extended.smx] Voting for next map has started.
+L 08/07/2020 - 18:57:16: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_area_54tress_b4.
+L 08/07/2020 - 18:58:37: [playercommands.smx] "Nezzie<9><[U:1:107910185]><>" slayed "test<14><BOT><>"
+L 08/07/2020 - 19:02:33: [respawn.smx] "Nezzie<9><[U:1:107910185]><>" respawned "Nezzie<9><[U:1:107910185]><>"
+L 08/07/2020 - 19:02:33: [respawn.smx] "Nezzie<9><[U:1:107910185]><>" respawned "moist cheese<16><[U:1:351468059]><>"
+L 08/07/2020 - 19:04:14: [respawn.smx] "Nezzie<9><[U:1:107910185]><>" respawned "Nezzie<9><[U:1:107910185]><>"
+L 08/07/2020 - 19:04:22: [respawn.smx] "Nezzie<9><[U:1:107910185]><>" respawned "Nezzie<9><[U:1:107910185]><>"
+L 08/07/2020 - 19:06:50: [SM] Changed map to "vsh_area_54tress_b4"
+L 08/07/2020 - 19:06:53: -------- Mapchange to vsh_area_54tress_b4 --------
+L 08/07/2020 - 19:07:04: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/07/2020 - 19:16:21: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 08/07/2020 - 19:16:21: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 08/07/2020 - 19:16:22: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 08/07/2020 - 19:16:22: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 08/07/2020 - 19:16:22: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/07/2020 - 19:27:28: [mapchooser_extended.smx] Voting for next map has started.
+L 08/07/2020 - 22:50:14: [SM] Changed map to "koth_nucleus"
+L 08/07/2020 - 22:50:17: -------- Mapchange to koth_nucleus --------
+L 08/07/2020 - 22:50:27: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/07/2020 - 22:52:45: [basecommands.smx] "Nezzie<21><[U:1:107910185]><>" changed map to "arena_lumberyard"
+L 08/07/2020 - 22:52:48: [SM] Changed map to "arena_lumberyard"
+L 08/07/2020 - 22:52:51: -------- Mapchange to arena_lumberyard --------
+L 08/07/2020 - 22:53:01: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/07/2020 - 22:55:09: [respawn.smx] "Nezzie<21><[U:1:107910185]><>" respawned "moist cheese<26><[U:1:351468059]><>"
+L 08/07/2020 - 22:55:57: [respawn.smx] "Nezzie<21><[U:1:107910185]><>" respawned "Nezzie<21><[U:1:107910185]><>"
+L 08/07/2020 - 22:55:57: [respawn.smx] "Nezzie<21><[U:1:107910185]><>" respawned "moist cheese<26><[U:1:351468059]><>"
+L 08/07/2020 - 22:58:50: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 08/07/2020 - 22:58:50: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 08/07/2020 - 22:58:51: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 08/07/2020 - 22:58:51: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 08/07/2020 - 22:58:51: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/07/2020 - 23:07:35: [respawn.smx] "Nezzie<21><[U:1:107910185]><>" respawned "moist cheese<26><[U:1:351468059]><>"
+L 08/07/2020 - 23:11:14: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 08/07/2020 - 23:11:14: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 08/07/2020 - 23:11:14: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 08/07/2020 - 23:11:14: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 08/07/2020 - 23:11:15: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/07/2020 - 23:11:42: [playercommands.smx] "Nezzie<21><[U:1:107910185]><>" slayed "SMELLY UNFORTUNATE<32><BOT><>"
+L 08/07/2020 - 23:13:23: [mapchooser_extended.smx] Voting for next map has started.
+L 08/07/2020 - 23:13:29: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 08/07/2020 - 23:13:30: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 08/07/2020 - 23:13:30: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 08/07/2020 - 23:13:30: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 08/07/2020 - 23:13:30: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/07/2020 - 23:13:46: [mapchooser_extended.smx] Voting for next map has started.
+L 08/07/2020 - 23:13:52: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_factoryhell_v2_sg1.
+L 08/07/2020 - 23:16:53: [respawn.smx] "Nezzie<21><[U:1:107910185]><>" respawned "Nezzie<21><[U:1:107910185]><>"
+L 08/07/2020 - 23:18:49: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 08/07/2020 - 23:18:49: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 08/07/2020 - 23:18:50: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 08/07/2020 - 23:18:50: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 08/07/2020 - 23:18:50: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/07/2020 - 23:19:06: [mapchooser_extended.smx] Voting for next map has started.
+L 08/07/2020 - 23:19:18: [mapchooser_extended.smx] Voting for next map has started.
+L 08/07/2020 - 23:19:21: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_dunger_b2a.
+L 08/07/2020 - 23:20:13: [respawn.smx] "Nezzie<21><[U:1:107910185]><>" respawned "Nezzie<21><[U:1:107910185]><>"
+L 08/07/2020 - 23:20:49: [respawn.smx] "Nezzie<21><[U:1:107910185]><>" respawned "Nezzie<21><[U:1:107910185]><>"
+L 08/07/2020 - 23:25:43: [SM] Changed map to "vsh_dunger_b2a"
+L 08/07/2020 - 23:25:46: -------- Mapchange to vsh_dunger_b2a --------
+L 08/07/2020 - 23:25:58: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/07/2020 - 23:46:13: [mapchooser_extended.smx] Voting for next map has started.

@@ -1,0 +1,202 @@
+L 12/13/2020 - 00:00:13: SourceMod error session started
+L 12/13/2020 - 00:00:13: Info (map "vsh_dunger_b2a") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20201213.log")
+L 12/13/2020 - 00:00:13: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 12/13/2020 - 00:00:43: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 12/13/2020 - 00:00:43: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 12/13/2020 - 00:01:28: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 12/13/2020 - 00:01:28: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 12/13/2020 - 00:01:28: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 12/13/2020 - 00:01:28: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 12/13/2020 - 00:03:13: Error log file session closed.
+L 12/13/2020 - 00:03:54: SourceMod error session started
+L 12/13/2020 - 00:03:54: Info (map "vsh_abandoned_warehouse_final_v3") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20201213.log")
+L 12/13/2020 - 00:03:54: [freaks/halloween_2014.ff2] Couldn't load SDK functions (GetSmoothedVelocity). SDK call failed.
+L 12/13/2020 - 00:21:48: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 12/13/2020 - 00:22:19: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 12/13/2020 - 00:22:38: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 12/13/2020 - 00:22:38: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 12/13/2020 - 00:22:38: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 12/13/2020 - 00:34:34: Error log file session closed.
+L 12/13/2020 - 00:35:18: SourceMod error session started
+L 12/13/2020 - 00:35:18: Info (map "vsh_nebula_rc1") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20201213.log")
+L 12/13/2020 - 00:35:18: [freaks/halloween_2014.ff2] Couldn't load SDK functions (GetSmoothedVelocity). SDK call failed.
+L 12/13/2020 - 00:46:50: [freaks/shadow93_abilities.ff2] [SHADoW93 Minions] Blutarch Mann has an invalid  formula for minions, using default health!
+L 12/13/2020 - 00:46:50: [freaks/shadow93_abilities.ff2] [SHADoW93 Minions] Blutarch Mann has an invalid  formula for minions, using default health!
+L 12/13/2020 - 00:48:18: [freaks/shadow93_abilities.ff2] [SHADoW93 Minions] Blutarch Mann has an invalid  formula for minions, using default health!
+L 12/13/2020 - 00:48:18: [freaks/shadow93_abilities.ff2] [SHADoW93 Minions] Blutarch Mann has an invalid  formula for minions, using default health!
+L 12/13/2020 - 00:49:54: [freaks/shadow93_abilities.ff2] [SHADoW93 Minions] Blutarch Mann has an invalid  formula for minions, using default health!
+L 12/13/2020 - 00:49:54: [freaks/shadow93_abilities.ff2] [SHADoW93 Minions] Blutarch Mann has an invalid  formula for minions, using default health!
+L 12/13/2020 - 00:51:25: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 12/13/2020 - 00:53:29: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 12/13/2020 - 00:53:29: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 12/13/2020 - 00:53:29: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 12/13/2020 - 01:07:13: Error log file session closed.
+L 12/13/2020 - 01:07:56: SourceMod error session started
+L 12/13/2020 - 01:07:56: Info (map "vsh_castle_siege_unreal_sg1") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20201213.log")
+L 12/13/2020 - 01:07:56: [freaks/halloween_2014.ff2] Couldn't load SDK functions (GetSmoothedVelocity). SDK call failed.
+L 12/13/2020 - 01:20:08: [freaks/ff2_1st_set_abilities.ff2] [FF2 Bosses] Model 'models\props_halloween\eyeball_projectile.mdl' isn't precached!  Please check Freddy Krueger's "mod_precache"
+L 12/13/2020 - 01:31:25: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 12/13/2020 - 01:31:26: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 12/13/2020 - 01:31:26: [store.smx] Database connection is lost or not yet initialized.
+L 12/13/2020 - 01:31:26: [store.smx] Database connection is lost or not yet initialized.
+L 12/13/2020 - 01:31:26: [store.smx] Database connection is lost or not yet initialized.
+L 12/13/2020 - 01:31:26: [store.smx] Database connection is lost or not yet initialized.
+L 12/13/2020 - 01:31:26: [store.smx] Database connection is lost or not yet initialized.
+L 12/13/2020 - 01:31:26: [tf2_taunts_tf2idb.smx] Failed to initialize taunt cache: TF2IDB Not loaded.
+L 12/13/2020 - 01:31:26: [tf2_taunts_tf2idb.smx] Halting user interface initialization. Plugin loaded but updater not found.
+L 12/13/2020 - 01:31:26: [tf2_taunts_tf2idb.smx] Try using the latest version from here https://github.com/fakuivan/TF2-Taunts-TF2IDB .
+L 12/13/2020 - 01:31:34: [freaks/halloween_2014.ff2] Couldn't load SDK functions (GetSmoothedVelocity). SDK call failed.
+L 12/13/2020 - 01:41:07: SourceMod error session started
+L 12/13/2020 - 01:41:07: Info (map "arena_lumberyard") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20201213.log")
+L 12/13/2020 - 01:41:07: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 12/13/2020 - 01:41:08: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 12/13/2020 - 01:41:08: [tf2_taunts_tf2idb.smx] Failed to initialize taunt cache: TF2IDB Not loaded.
+L 12/13/2020 - 01:41:08: [tf2_taunts_tf2idb.smx] Halting user interface initialization. Plugin loaded but updater not found.
+L 12/13/2020 - 01:41:08: [tf2_taunts_tf2idb.smx] Try using the latest version from here https://github.com/fakuivan/TF2-Taunts-TF2IDB .
+L 12/13/2020 - 01:44:46: [SM] Error parsing gameconfig file "/home/steamsrv/tf2/tf/addons/sourcemod/gamedata/smoothedvelocity.txt":
+L 12/13/2020 - 01:44:46: [SM] Error 1 on line 0, col 0: Stream failed to open
+L 12/13/2020 - 01:44:46: [SM] Exception reported: Unable to open smoothedvelocity: File could not be opened: No such file or directory
+L 12/13/2020 - 01:44:46: [SM] Blaming: freaks/halloween_2014.ff2
+L 12/13/2020 - 01:44:46: [SM] Call stack trace:
+L 12/13/2020 - 01:44:46: [SM]   [0] LoadGameConfigFile
+L 12/13/2020 - 01:44:46: [SM]   [1] Line 362, F:\Freak Fortress 2 Scripting\addons\sourcemod\scripting\halloween_2014.sp::SVStartup
+L 12/13/2020 - 01:44:46: [SM]   [2] Line 154, F:\Freak Fortress 2 Scripting\addons\sourcemod\scripting\halloween_2014.sp::OnPluginStart2
+L 12/13/2020 - 01:44:46: [SM]   [3] Line 37, F:\Freak Fortress 2 Scripting\addons\sourcemod\scripting\include\freak_fortress_2_subplugin.inc::OnPluginStart
+L 12/13/2020 - 01:49:40: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 12/13/2020 - 01:49:40: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 12/13/2020 - 01:49:40: [store.smx] Database connection is lost or not yet initialized.
+L 12/13/2020 - 01:49:40: [store.smx] Database connection is lost or not yet initialized.
+L 12/13/2020 - 01:49:41: [tf2_taunts_tf2idb.smx] Failed to initialize taunt cache: TF2IDB Not loaded.
+L 12/13/2020 - 01:49:41: [tf2_taunts_tf2idb.smx] Halting user interface initialization. Plugin loaded but updater not found.
+L 12/13/2020 - 01:49:41: [tf2_taunts_tf2idb.smx] Try using the latest version from here https://github.com/fakuivan/TF2-Taunts-TF2IDB .
+L 12/13/2020 - 01:49:49: [freaks/halloween_2014.ff2] Couldn't load SDK functions (GetSmoothedVelocity). SDK call failed.
+L 12/13/2020 - 01:50:32: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 12/13/2020 - 01:50:32: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 12/13/2020 - 01:50:32: [store.smx] Database connection is lost or not yet initialized.
+L 12/13/2020 - 01:50:32: [store.smx] Database connection is lost or not yet initialized.
+L 12/13/2020 - 01:50:32: [tf2_taunts_tf2idb.smx] Failed to initialize taunt cache: TF2IDB Not loaded.
+L 12/13/2020 - 01:50:32: [tf2_taunts_tf2idb.smx] Halting user interface initialization. Plugin loaded but updater not found.
+L 12/13/2020 - 01:50:32: [tf2_taunts_tf2idb.smx] Try using the latest version from here https://github.com/fakuivan/TF2-Taunts-TF2IDB .
+L 12/13/2020 - 01:50:40: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 12/13/2020 - 01:50:40: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 12/13/2020 - 01:50:40: [store.smx] Database connection is lost or not yet initialized.
+L 12/13/2020 - 01:50:40: [store.smx] Database connection is lost or not yet initialized.
+L 12/13/2020 - 01:50:41: [tf2_taunts_tf2idb.smx] Failed to initialize taunt cache: TF2IDB Not loaded.
+L 12/13/2020 - 01:50:41: [tf2_taunts_tf2idb.smx] Halting user interface initialization. Plugin loaded but updater not found.
+L 12/13/2020 - 01:50:41: [tf2_taunts_tf2idb.smx] Try using the latest version from here https://github.com/fakuivan/TF2-Taunts-TF2IDB .
+L 12/13/2020 - 01:50:49: [freaks/halloween_2014.ff2] Couldn't load SDK functions (GetSmoothedVelocity). SDK call failed.
+L 12/13/2020 - 02:06:31: [SM] Plugin "roundtimer.smx" encountered error 23: Native detected error
+L 12/13/2020 - 02:06:31: [SM] Invalid timer handle e76706fb (error 3) during timer end, displayed function is timer callback, not the stack trace
+L 12/13/2020 - 02:06:31: [SM] Unable to call function "Timer_Round" due to above error(s).
+L 12/13/2020 - 02:17:33: [SM] Plugin "roundtimer.smx" encountered error 23: Native detected error
+L 12/13/2020 - 02:17:33: [SM] Invalid timer handle 9aea06d9 (error 3) during timer end, displayed function is timer callback, not the stack trace
+L 12/13/2020 - 02:17:33: [SM] Unable to call function "Timer_Round" due to above error(s).
+L 12/13/2020 - 02:17:55: Error log file session closed.
+L 12/13/2020 - 04:54:32: SourceMod error session started
+L 12/13/2020 - 04:54:32: Info (map "vsh_dunger_b2a") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20201213.log")
+L 12/13/2020 - 04:54:32: [freaks/halloween_2014.ff2] Couldn't load SDK functions (GetSmoothedVelocity). SDK call failed.
+L 12/13/2020 - 04:55:05: Error log file session closed.
+L 12/13/2020 - 04:57:39: SourceMod error session started
+L 12/13/2020 - 04:57:39: Info (map "vsh_area_54tress_b4") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20201213.log")
+L 12/13/2020 - 04:57:39: [freaks/halloween_2014.ff2] Couldn't load SDK functions (GetSmoothedVelocity). SDK call failed.
+L 12/13/2020 - 04:59:29: [freaks/ff2_1st_set_abilities.ff2] [FF2 Bosses] Model 'models\props_halloween\eyeball_projectile.mdl' isn't precached!  Please check Freddy Krueger's "mod_precache"
+L 12/13/2020 - 05:01:24: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 12/13/2020 - 05:01:25: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 12/13/2020 - 05:01:25: [store.smx] Database connection is lost or not yet initialized.
+L 12/13/2020 - 05:01:25: [tf2_taunts_tf2idb.smx] Failed to initialize taunt cache: TF2IDB Not loaded.
+L 12/13/2020 - 05:01:25: [tf2_taunts_tf2idb.smx] Halting user interface initialization. Plugin loaded but updater not found.
+L 12/13/2020 - 05:01:25: [tf2_taunts_tf2idb.smx] Try using the latest version from here https://github.com/fakuivan/TF2-Taunts-TF2IDB .
+L 12/13/2020 - 05:01:44: [SM] Exception reported: Entity 4 (4) is invalid
+L 12/13/2020 - 05:01:44: [SM] Blaming: freaks/ff2_dynamic_defaults.ff2
+L 12/13/2020 - 05:01:44: [SM] Call stack trace:
+L 12/13/2020 - 05:01:44: [SM]   [0] GetEntProp
+L 12/13/2020 - 05:01:44: [SM]   [1] Line 558, C:\hlserver\tf2\tf\addons\sourcemod\scripting\include\entity_prop_stocks.inc::GetClientButtons
+L 12/13/2020 - 05:01:44: [SM]   [2] Line 629, freaks\ff2_dynamic_defaults.sp::Event_RoundStart
+L 12/13/2020 - 05:03:16: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 12/13/2020 - 05:03:17: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 12/13/2020 - 05:03:17: [store.smx] Database connection is lost or not yet initialized.
+L 12/13/2020 - 05:03:17: [tf2_taunts_tf2idb.smx] Failed to initialize taunt cache: TF2IDB Not loaded.
+L 12/13/2020 - 05:03:17: [tf2_taunts_tf2idb.smx] Halting user interface initialization. Plugin loaded but updater not found.
+L 12/13/2020 - 05:03:17: [tf2_taunts_tf2idb.smx] Try using the latest version from here https://github.com/fakuivan/TF2-Taunts-TF2IDB .
+L 12/13/2020 - 05:05:42: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 12/13/2020 - 05:05:42: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 12/13/2020 - 05:05:42: [store.smx] Database connection is lost or not yet initialized.
+L 12/13/2020 - 05:05:42: [tf2_taunts_tf2idb.smx] Failed to initialize taunt cache: TF2IDB Not loaded.
+L 12/13/2020 - 05:05:42: [tf2_taunts_tf2idb.smx] Halting user interface initialization. Plugin loaded but updater not found.
+L 12/13/2020 - 05:05:42: [tf2_taunts_tf2idb.smx] Try using the latest version from here https://github.com/fakuivan/TF2-Taunts-TF2IDB .
+L 12/13/2020 - 05:08:01: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 12/13/2020 - 05:08:01: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 12/13/2020 - 05:08:01: [store.smx] Database connection is lost or not yet initialized.
+L 12/13/2020 - 05:08:01: [tf2_taunts_tf2idb.smx] Failed to initialize taunt cache: TF2IDB Not loaded.
+L 12/13/2020 - 05:08:01: [tf2_taunts_tf2idb.smx] Halting user interface initialization. Plugin loaded but updater not found.
+L 12/13/2020 - 05:08:01: [tf2_taunts_tf2idb.smx] Try using the latest version from here https://github.com/fakuivan/TF2-Taunts-TF2IDB .
+L 12/13/2020 - 05:09:02: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 12/13/2020 - 05:09:02: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 12/13/2020 - 05:09:02: [store.smx] Database connection is lost or not yet initialized.
+L 12/13/2020 - 05:09:02: [tf2_taunts_tf2idb.smx] Failed to initialize taunt cache: TF2IDB Not loaded.
+L 12/13/2020 - 05:09:02: [tf2_taunts_tf2idb.smx] Halting user interface initialization. Plugin loaded but updater not found.
+L 12/13/2020 - 05:09:02: [tf2_taunts_tf2idb.smx] Try using the latest version from here https://github.com/fakuivan/TF2-Taunts-TF2IDB .
+L 12/13/2020 - 05:18:04: [SM] Plugin "roundtimer.smx" encountered error 23: Native detected error
+L 12/13/2020 - 05:18:04: [SM] Invalid timer handle f47803a8 (error 3) during timer end, displayed function is timer callback, not the stack trace
+L 12/13/2020 - 05:18:04: [SM] Unable to call function "Timer_Round" due to above error(s).
+L 12/13/2020 - 10:05:27: Error log file session closed.
+L 12/13/2020 - 21:30:04: SourceMod error session started
+L 12/13/2020 - 21:30:04: Info (map "vsh_cairo_pyramid_v4") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20201213.log")
+L 12/13/2020 - 21:30:04: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 12/13/2020 - 21:30:05: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 12/13/2020 - 21:30:05: [store.smx] Database connection is lost or not yet initialized.
+L 12/13/2020 - 21:30:05: [tf2_taunts_tf2idb.smx] Failed to initialize taunt cache: TF2IDB Not loaded.
+L 12/13/2020 - 21:30:05: [tf2_taunts_tf2idb.smx] Halting user interface initialization. Plugin loaded but updater not found.
+L 12/13/2020 - 21:30:05: [tf2_taunts_tf2idb.smx] Try using the latest version from here https://github.com/fakuivan/TF2-Taunts-TF2IDB .
+L 12/13/2020 - 21:32:07: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 12/13/2020 - 21:32:07: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 12/13/2020 - 21:32:07: [store.smx] Database connection is lost or not yet initialized.
+L 12/13/2020 - 21:32:07: [tf2_taunts_tf2idb.smx] Failed to initialize taunt cache: TF2IDB Not loaded.
+L 12/13/2020 - 21:32:07: [tf2_taunts_tf2idb.smx] Halting user interface initialization. Plugin loaded but updater not found.
+L 12/13/2020 - 21:32:07: [tf2_taunts_tf2idb.smx] Try using the latest version from here https://github.com/fakuivan/TF2-Taunts-TF2IDB .
+L 12/13/2020 - 21:58:23: Error log file session closed.
+L 12/13/2020 - 22:09:32: SourceMod error session started
+L 12/13/2020 - 22:09:32: Info (map "vsh_drejun_v3") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20201213.log")
+L 12/13/2020 - 22:09:32: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 12/13/2020 - 22:09:33: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 12/13/2020 - 22:09:33: [store.smx] Database connection is lost or not yet initialized.
+L 12/13/2020 - 22:09:33: [store.smx] Database connection is lost or not yet initialized.
+L 12/13/2020 - 22:09:33: [SM] Exception reported: Entity 5 is invalid
+L 12/13/2020 - 22:09:33: [SM] Blaming: fc.smx
+L 12/13/2020 - 22:09:33: [SM] Call stack trace:
+L 12/13/2020 - 22:09:33: [SM]   [0] SDKHook
+L 12/13/2020 - 22:09:33: [SM]   [1] Line 391, D:\storage\Dropbox\Sourcemod\nieuw\sourcemod\scripting\fc.sp::Init
+L 12/13/2020 - 22:09:33: [SM]   [2] Line 173, D:\storage\Dropbox\Sourcemod\nieuw\sourcemod\scripting\fc.sp::OnPluginStart
+L 12/13/2020 - 22:09:33: [SM] Unable to load plugin "fc.smx": Error detected in plugin startup (see error logs)
+L 12/13/2020 - 22:09:34: [tf2_taunts_tf2idb.smx] Failed to initialize taunt cache: TF2IDB Not loaded.
+L 12/13/2020 - 22:09:34: [tf2_taunts_tf2idb.smx] Halting user interface initialization. Plugin loaded but updater not found.
+L 12/13/2020 - 22:09:34: [tf2_taunts_tf2idb.smx] Try using the latest version from here https://github.com/fakuivan/TF2-Taunts-TF2IDB .
+L 12/13/2020 - 22:10:16: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 12/13/2020 - 22:10:16: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 12/13/2020 - 22:10:16: [store.smx] Database connection is lost or not yet initialized.
+L 12/13/2020 - 22:10:16: [store.smx] Database connection is lost or not yet initialized.
+L 12/13/2020 - 22:10:16: [SM] Exception reported: Entity 5 is invalid
+L 12/13/2020 - 22:10:16: [SM] Blaming: fc.smx
+L 12/13/2020 - 22:10:16: [SM] Call stack trace:
+L 12/13/2020 - 22:10:16: [SM]   [0] SDKHook
+L 12/13/2020 - 22:10:16: [SM]   [1] Line 391, D:\storage\Dropbox\Sourcemod\nieuw\sourcemod\scripting\fc.sp::Init
+L 12/13/2020 - 22:10:16: [SM]   [2] Line 173, D:\storage\Dropbox\Sourcemod\nieuw\sourcemod\scripting\fc.sp::OnPluginStart
+L 12/13/2020 - 22:10:16: [SM] Unable to load plugin "fc.smx": Error detected in plugin startup (see error logs)
+L 12/13/2020 - 22:10:17: [tf2_taunts_tf2idb.smx] Failed to initialize taunt cache: TF2IDB Not loaded.
+L 12/13/2020 - 22:10:17: [tf2_taunts_tf2idb.smx] Halting user interface initialization. Plugin loaded but updater not found.
+L 12/13/2020 - 22:10:17: [tf2_taunts_tf2idb.smx] Try using the latest version from here https://github.com/fakuivan/TF2-Taunts-TF2IDB .
+L 12/13/2020 - 22:10:48: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 12/13/2020 - 22:10:49: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 12/13/2020 - 22:10:49: [store.smx] Database connection is lost or not yet initialized.
+L 12/13/2020 - 22:10:49: [store.smx] Database connection is lost or not yet initialized.
+L 12/13/2020 - 22:10:49: [SM] Exception reported: Entity 5 is invalid
+L 12/13/2020 - 22:10:49: [SM] Blaming: fc.smx
+L 12/13/2020 - 22:10:49: [SM] Call stack trace:
+L 12/13/2020 - 22:10:49: [SM]   [0] SDKHook
+L 12/13/2020 - 22:10:49: [SM]   [1] Line 391, D:\storage\Dropbox\Sourcemod\nieuw\sourcemod\scripting\fc.sp::Init
+L 12/13/2020 - 22:10:49: [SM]   [2] Line 173, D:\storage\Dropbox\Sourcemod\nieuw\sourcemod\scripting\fc.sp::OnPluginStart
+L 12/13/2020 - 22:10:49: [SM] Unable to load plugin "fc.smx": Error detected in plugin startup (see error logs)
+L 12/13/2020 - 22:10:50: [tf2_taunts_tf2idb.smx] Failed to initialize taunt cache: TF2IDB Not loaded.
+L 12/13/2020 - 22:10:50: [tf2_taunts_tf2idb.smx] Halting user interface initialization. Plugin loaded but updater not found.
+L 12/13/2020 - 22:10:50: [tf2_taunts_tf2idb.smx] Try using the latest version from here https://github.com/fakuivan/TF2-Taunts-TF2IDB .
+L 12/13/2020 - 22:31:05: Error log file session closed.

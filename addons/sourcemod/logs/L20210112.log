@@ -1,0 +1,86 @@
+L 01/12/2021 - 02:22:45: SourceMod log file session started (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/L20210112.log") (Version "1.10.0.6490")
+L 01/12/2021 - 02:22:45: [SM] Changed map to "vsh_gyros_v5"
+L 01/12/2021 - 02:22:49: -------- Mapchange to vsh_gyros_v5 --------
+L 01/12/2021 - 02:22:59: [mapchooser_extended.smx] Loaded map list for tf.
+L 01/12/2021 - 02:43:16: [mapchooser_extended.smx] Voting for next map has started.
+L 01/12/2021 - 02:43:22: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_skyhigh_resort_b8_sg4.
+L 01/12/2021 - 02:53:17: [SM] Changed map to "vsh_skyhigh_resort_b8_sg4"
+L 01/12/2021 - 02:53:19: -------- Mapchange to vsh_skyhigh_resort_b8_sg4 --------
+L 01/12/2021 - 02:53:35: [mapchooser_extended.smx] Loaded map list for tf.
+L 01/12/2021 - 03:13:51: [mapchooser_extended.smx] Voting for next map has started.
+L 01/12/2021 - 03:14:12: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_nebula_rc1.
+L 01/12/2021 - 03:26:35: [basecommands.smx] "Nezzie<40><[U:1:107910185]><>" changed map to "vsh_area_54tress_b4"
+L 01/12/2021 - 03:26:38: [SM] Changed map to "vsh_area_54tress_b4"
+L 01/12/2021 - 03:26:41: -------- Mapchange to vsh_area_54tress_b4 --------
+L 01/12/2021 - 03:26:51: [mapchooser_extended.smx] Loaded map list for tf.
+L 01/12/2021 - 03:30:37: [playercommands.smx] "Nezzie<40><[U:1:107910185]><>" slayed "test<43><BOT><>"
+L 01/12/2021 - 03:31:44: SourceMod log file session started (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/L20210112.log") (Version "1.10.0.6490")
+L 01/12/2021 - 03:31:44: [TF2ITEMS] "GiveNamedItem" offset = 484
+L 01/12/2021 - 03:31:45: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 01/12/2021 - 03:31:45: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 01/12/2021 - 03:31:45: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 01/12/2021 - 03:31:45: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 01/12/2021 - 03:32:02: [mapchooser_extended.smx] Loaded map list for tf.
+L 01/12/2021 - 03:36:20: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 01/12/2021 - 03:36:20: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 01/12/2021 - 03:36:20: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 01/12/2021 - 03:36:20: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 01/12/2021 - 03:36:21: [mapchooser_extended.smx] Loaded map list for tf.
+L 01/12/2021 - 03:39:23: [playercommands.smx] "Nezzie<2><[U:1:107910185]><>" slayed "test1<4><BOT><>"
+L 01/12/2021 - 03:39:58: SourceMod log file session started (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/L20210112.log") (Version "1.10.0.6490")
+L 01/12/2021 - 03:39:58: [TF2ITEMS] "GiveNamedItem" offset = 484
+L 01/12/2021 - 03:39:58: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 01/12/2021 - 03:39:59: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 01/12/2021 - 03:39:59: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 01/12/2021 - 03:39:59: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 01/12/2021 - 03:40:12: [mapchooser_extended.smx] Loaded map list for tf.
+L 01/12/2021 - 03:42:43: [playercommands.smx] "Nezzie<2><[U:1:107910185]><>" slayed "test1<4><BOT><>"
+L 01/12/2021 - 03:54:01: [basechat.smx] "Console<0><Console><Console>" triggered sm_say (text The round time has ended, omaewa-mou shindeiru)
+L 01/12/2021 - 03:54:01: [playercommands.smx] "Console<0><Console><Console>" slayed "Nezzie<2><[U:1:107910185]><>"
+L 01/12/2021 - 03:54:01: [playercommands.smx] "Console<0><Console><Console>" slayed "test<3><BOT><>"
+L 01/12/2021 - 03:54:01: [playercommands.smx] "Console<0><Console><Console>" slayed "test1<4><BOT><>"
+L 01/12/2021 - 03:58:05: [basecommands.smx] "Nezzie<2><[U:1:107910185]><>" changed map to "vsh_crevice_b5"
+L 01/12/2021 - 03:58:08: [SM] Changed map to "vsh_crevice_b5"
+L 01/12/2021 - 03:58:10: -------- Mapchange to vsh_crevice_b5 --------
+L 01/12/2021 - 03:58:53: SourceMod log file session started (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/L20210112.log") (Version "1.10.0.6490")
+L 01/12/2021 - 03:58:53: [TF2ITEMS] "GiveNamedItem" offset = 484
+L 01/12/2021 - 03:58:53: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 01/12/2021 - 03:58:53: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 01/12/2021 - 03:58:53: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 01/12/2021 - 03:58:54: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 01/12/2021 - 03:59:08: [mapchooser_extended.smx] Loaded map list for tf.
+L 01/12/2021 - 04:01:20: -------- Mapchange to vsh_nebula_rc1 --------
+L 01/12/2021 - 04:01:28: [mapchooser_extended.smx] Loaded map list for tf.
+L 01/12/2021 - 04:06:57: -------- Mapchange to vsh_nebula_rc1 --------
+L 01/12/2021 - 04:07:06: [mapchooser_extended.smx] Loaded map list for tf.
+L 01/12/2021 - 20:07:46: [mapchooser_extended.smx] Voting for next map has started.
+L 01/12/2021 - 20:07:55: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_cairo_pyramid_v4.
+L 01/12/2021 - 20:18:53: [SM] Changed map to "vsh_cairo_pyramid_v4"
+L 01/12/2021 - 20:18:55: -------- Mapchange to vsh_cairo_pyramid_v4 --------
+L 01/12/2021 - 20:19:06: [mapchooser_extended.smx] Loaded map list for tf.
+L 01/12/2021 - 20:20:33: [playercommands.smx] "F1SH<5><[U:1:445849108]><>" slapped "HacobLacob<3><[U:1:1036400442]><>" (damage "0")
+L 01/12/2021 - 20:20:33: [playercommands.smx] "F1SH<5><[U:1:445849108]><>" slapped "HacobLacob<3><[U:1:1036400442]><>" (damage "0")
+L 01/12/2021 - 20:20:34: [playercommands.smx] "F1SH<5><[U:1:445849108]><>" slapped "HacobLacob<3><[U:1:1036400442]><>" (damage "0")
+L 01/12/2021 - 20:39:22: [mapchooser_extended.smx] Voting for next map has started.
+L 01/12/2021 - 21:30:45: [basecommands.smx] "Nezzie<9><[U:1:107910185]><>" changed map to "vsh_cairo_pyramid_v4"
+L 01/12/2021 - 21:30:48: [SM] Changed map to "vsh_cairo_pyramid_v4"
+L 01/12/2021 - 21:30:50: -------- Mapchange to vsh_cairo_pyramid_v4 --------
+L 01/12/2021 - 21:31:00: [mapchooser_extended.smx] Loaded map list for tf.
+L 01/12/2021 - 21:32:01: [basecommands.smx] "Nezzie<9><[U:1:107910185]><>" changed map to "vsh_necropolis_b1"
+L 01/12/2021 - 21:32:04: [SM] Changed map to "vsh_necropolis_b1"
+L 01/12/2021 - 21:32:06: -------- Mapchange to vsh_necropolis_b1 --------
+L 01/12/2021 - 21:32:15: [mapchooser_extended.smx] Loaded map list for tf.
+L 01/12/2021 - 21:36:55: [basecommands.smx] "Nezzie<9><[U:1:107910185]><>" changed map to "vsh_west_event"
+L 01/12/2021 - 21:36:58: [SM] Changed map to "vsh_west_event"
+L 01/12/2021 - 21:37:01: -------- Mapchange to vsh_west_event --------
+L 01/12/2021 - 21:37:11: [mapchooser_extended.smx] Loaded map list for tf.
+L 01/12/2021 - 21:41:27: [basecommands.smx] "Nezzie<9><[U:1:107910185]><>" changed map to "vsh_outdoors_b2a"
+L 01/12/2021 - 21:41:30: [SM] Changed map to "vsh_outdoors_b2a"
+L 01/12/2021 - 21:41:33: -------- Mapchange to vsh_outdoors_b2a --------
+L 01/12/2021 - 21:41:43: [mapchooser_extended.smx] Loaded map list for tf.
+L 01/12/2021 - 21:50:22: [basecommands.smx] "Nezzie<9><[U:1:107910185]><>" changed map to "vsh_aquaticbase_b5"
+L 01/12/2021 - 21:50:26: [SM] Changed map to "vsh_aquaticbase_b5"
+L 01/12/2021 - 21:50:29: -------- Mapchange to vsh_aquaticbase_b5 --------
+L 01/12/2021 - 21:50:38: [mapchooser_extended.smx] Loaded map list for tf.
+L 01/12/2021 - 22:10:53: [mapchooser_extended.smx] Voting for next map has started.
+L 01/14/2021 - 01:07:19: Log file closed.

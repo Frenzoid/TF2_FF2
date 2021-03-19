@@ -1,0 +1,44 @@
+L 09/23/2020 - 20:31:16: SourceMod log file session started (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/L20200923.log") (Version "1.10.0.6490")
+L 09/23/2020 - 20:31:16: [basecommands.smx] "Nezzie<17><[U:1:107910185]><>" changed map to "vsh_egyptyspot_v2"
+L 09/23/2020 - 20:31:19: [SM] Changed map to "vsh_egyptyspot_v2"
+L 09/23/2020 - 20:31:22: -------- Mapchange to vsh_egyptyspot_v2 --------
+L 09/23/2020 - 20:31:35: [mapchooser_extended.smx] Loaded map list for tf.
+L 09/23/2020 - 20:41:27: [respawn.smx] "Nezzie<17><[U:1:107910185]><>" respawned "DWW<28><[U:1:172008346]><>"
+L 09/23/2020 - 20:42:11: [playercommands.smx] "Nezzie<17><[U:1:107910185]><>" slayed "Grim Bloody Fable<27><BOT><>"
+L 09/23/2020 - 20:51:52: [mapchooser_extended.smx] Voting for next map has started.
+L 09/23/2020 - 20:52:00: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_dirtmound_b9.
+L 09/23/2020 - 20:58:45: [rockthevote_extended.smx] RTV changing map manually
+L 09/23/2020 - 20:58:45: [SM] Changed map to "vsh_dirtmound_b9"
+L 09/23/2020 - 20:58:49: -------- Mapchange to vsh_dirtmound_b9 --------
+L 09/23/2020 - 20:59:02: [mapchooser_extended.smx] Loaded map list for tf.
+L 09/23/2020 - 21:10:14: [nominations_extended.smx] DWW nominated vsh_apg_v2_sg1
+L 09/23/2020 - 21:13:02: [mapchooser_extended.smx] Starting map vote because outside request
+L 09/23/2020 - 21:13:18: [mapchooser_extended.smx] Voting for next map has started.
+L 09/23/2020 - 21:13:38: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_skyhigh_resort_b8_sg4.
+L 09/23/2020 - 21:13:42: [SM] Changed map to "vsh_skyhigh_resort_b8_sg4"
+L 09/23/2020 - 21:13:44: -------- Mapchange to vsh_skyhigh_resort_b8_sg4 --------
+L 09/23/2020 - 21:13:55: [mapchooser_extended.smx] Loaded map list for tf.
+L 09/23/2020 - 21:24:55: [basecommands.smx] "Nezzie<17><[U:1:107910185]><>" changed map to "vsh_dunger_b2a"
+L 09/23/2020 - 21:24:58: [SM] Changed map to "vsh_dunger_b2a"
+L 09/23/2020 - 21:25:04: -------- Mapchange to vsh_dunger_b2a --------
+L 09/23/2020 - 21:25:18: [mapchooser_extended.smx] Loaded map list for tf.
+L 09/23/2020 - 21:33:43: [nominations_extended.smx] DWW nominated vsh_castle_siege_unreal_sg1
+L 09/23/2020 - 21:45:40: [mapchooser_extended.smx] Voting for next map has started.
+L 09/23/2020 - 21:46:01: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_castle_siege_unreal_sg1.
+L 09/23/2020 - 21:55:41: [SM] Changed map to "vsh_castle_siege_unreal_sg1"
+L 09/23/2020 - 21:55:44: -------- Mapchange to vsh_castle_siege_unreal_sg1 --------
+L 09/23/2020 - 21:56:02: [mapchooser_extended.smx] Loaded map list for tf.
+L 09/23/2020 - 22:16:21: [mapchooser_extended.smx] Voting for next map has started.
+L 09/23/2020 - 22:16:34: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_area_54tress_b4.
+L 09/23/2020 - 22:26:45: [SM] Changed map to "vsh_area_54tress_b4"
+L 09/23/2020 - 22:26:50: -------- Mapchange to vsh_area_54tress_b4 --------
+L 09/23/2020 - 22:27:03: [mapchooser_extended.smx] Loaded map list for tf.
+L 09/23/2020 - 22:47:23: [mapchooser_extended.smx] Voting for next map has started.
+L 09/23/2020 - 22:47:44: [mapchooser_extended.smx] Voting for next map has started.
+L 09/23/2020 - 22:47:49: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_cairo_pyramid_v4.
+L 09/23/2020 - 22:58:04: [SM] Changed map to "vsh_cairo_pyramid_v4"
+L 09/23/2020 - 22:58:07: -------- Mapchange to vsh_cairo_pyramid_v4 --------
+L 09/23/2020 - 22:58:19: [mapchooser_extended.smx] Loaded map list for tf.
+L 09/23/2020 - 23:18:39: [mapchooser_extended.smx] Voting for next map has started.
+L 09/23/2020 - 23:18:59: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_skyhigh_resort_b8_sg4.
+L 09/24/2020 - 01:15:52: Log file closed.

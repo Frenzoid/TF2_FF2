@@ -1,0 +1,122 @@
+L 01/02/2021 - 01:11:16: SourceMod error session started
+L 01/02/2021 - 01:11:16: Info (map "vsh_area_54tress_b4") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20210102.log")
+L 01/02/2021 - 01:11:16: [SM] Plugin "roundtimer.smx" encountered error 23: Native detected error
+L 01/02/2021 - 01:11:16: [SM] Invalid timer handle 5eaf14b0 (error 3) during timer end, displayed function is timer callback, not the stack trace
+L 01/02/2021 - 01:11:16: [SM] Unable to call function "Timer_Round" due to above error(s).
+L 01/02/2021 - 01:17:03: [SM] Exception reported: PLUGIN STOPPED - Reason: No config entry found for 'ssh' in databases.cfg - PLUGIN STOPPED
+L 01/02/2021 - 01:17:03: [SM] Blaming: ssh.smx
+L 01/02/2021 - 01:17:03: [SM] Call stack trace:
+L 01/02/2021 - 01:17:03: [SM]   [0] SetFailState
+L 01/02/2021 - 01:17:03: [SM]   [1] Line 510, ssh.sp::SQL_Connector
+L 01/02/2021 - 01:17:03: [SM]   [2] Line 217, ssh.sp::OnPluginStart
+L 01/02/2021 - 01:17:03: [SM] Unable to load plugin "ssh.smx": Error detected in plugin startup (see error logs)
+L 01/02/2021 - 01:17:03: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 01/02/2021 - 01:17:04: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 01/02/2021 - 01:17:04: [store.smx] Database connection is lost or not yet initialized.
+L 01/02/2021 - 01:17:04: [store.smx] Database connection is lost or not yet initialized.
+L 01/02/2021 - 01:17:04: [store.smx] Database connection is lost or not yet initialized.
+L 01/02/2021 - 01:17:04: [tf2_taunts_tf2idb.smx] Failed to initialize taunt cache: TF2IDB Not loaded.
+L 01/02/2021 - 01:17:04: [tf2_taunts_tf2idb.smx] Halting user interface initialization. Plugin loaded but updater not found.
+L 01/02/2021 - 01:17:04: [tf2_taunts_tf2idb.smx] Try using the latest version from here https://github.com/fakuivan/TF2-Taunts-TF2IDB .
+L 01/02/2021 - 01:19:19: Error log file session closed.
+L 01/02/2021 - 01:32:43: SourceMod error session started
+L 01/02/2021 - 01:32:43: Info (map "arena_lumberyard") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20210102.log")
+L 01/02/2021 - 01:32:43: [SM] Exception reported: PLUGIN STOPPED - Reason: No config entry found for 'ssh' in databases.cfg - PLUGIN STOPPED
+L 01/02/2021 - 01:32:43: [SM] Blaming: ssh.smx
+L 01/02/2021 - 01:32:43: [SM] Call stack trace:
+L 01/02/2021 - 01:32:43: [SM]   [0] SetFailState
+L 01/02/2021 - 01:32:43: [SM]   [1] Line 510, ssh.sp::SQL_Connector
+L 01/02/2021 - 01:32:43: [SM]   [2] Line 217, ssh.sp::OnPluginStart
+L 01/02/2021 - 01:32:43: [SM] Unable to load plugin "ssh.smx": Error detected in plugin startup (see error logs)
+L 01/02/2021 - 01:32:43: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 01/02/2021 - 01:32:43: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 01/02/2021 - 01:32:43: [tf2_taunts_tf2idb.smx] Failed to initialize taunt cache: TF2IDB Not loaded.
+L 01/02/2021 - 01:32:43: [tf2_taunts_tf2idb.smx] Halting user interface initialization. Plugin loaded but updater not found.
+L 01/02/2021 - 01:32:43: [tf2_taunts_tf2idb.smx] Try using the latest version from here https://github.com/fakuivan/TF2-Taunts-TF2IDB .
+L 01/02/2021 - 01:37:45: [SM] Exception reported: PLUGIN STOPPED - Reason: No config entry found for 'ssh' in databases.cfg - PLUGIN STOPPED
+L 01/02/2021 - 01:37:45: [SM] Blaming: ssh.smx
+L 01/02/2021 - 01:37:45: [SM] Call stack trace:
+L 01/02/2021 - 01:37:45: [SM]   [0] SetFailState
+L 01/02/2021 - 01:37:45: [SM]   [1] Line 510, ssh.sp::SQL_Connector
+L 01/02/2021 - 01:37:45: [SM]   [2] Line 217, ssh.sp::OnPluginStart
+L 01/02/2021 - 01:37:45: [SM] Unable to load plugin "ssh.smx": Error detected in plugin startup (see error logs)
+L 01/02/2021 - 01:37:45: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 01/02/2021 - 01:37:46: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 01/02/2021 - 01:37:46: [store.smx] Database connection is lost or not yet initialized.
+L 01/02/2021 - 01:37:46: [tf2_taunts_tf2idb.smx] Failed to initialize taunt cache: TF2IDB Not loaded.
+L 01/02/2021 - 01:37:46: [tf2_taunts_tf2idb.smx] Halting user interface initialization. Plugin loaded but updater not found.
+L 01/02/2021 - 01:37:46: [tf2_taunts_tf2idb.smx] Try using the latest version from here https://github.com/fakuivan/TF2-Taunts-TF2IDB .
+L 01/02/2021 - 01:38:44: Error log file session closed.
+L 01/02/2021 - 01:47:39: SourceMod error session started
+L 01/02/2021 - 01:47:39: Info (map "vsh_area_54tress_b4") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20210102.log")
+L 01/02/2021 - 01:47:39: [SM] Plugin "roundtimer.smx" encountered error 23: Native detected error
+L 01/02/2021 - 01:47:39: [SM] Invalid timer handle 19f803d6 (error 3) during timer end, displayed function is timer callback, not the stack trace
+L 01/02/2021 - 01:47:39: [SM] Unable to call function "Timer_Round" due to above error(s).
+L 01/02/2021 - 01:50:32: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 01/02/2021 - 01:50:33: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 01/02/2021 - 01:50:33: [store.smx] Database connection is lost or not yet initialized.
+L 01/02/2021 - 01:50:33: [tf2_taunts_tf2idb.smx] Failed to initialize taunt cache: TF2IDB Not loaded.
+L 01/02/2021 - 01:50:33: [tf2_taunts_tf2idb.smx] Halting user interface initialization. Plugin loaded but updater not found.
+L 01/02/2021 - 01:50:33: [tf2_taunts_tf2idb.smx] Try using the latest version from here https://github.com/fakuivan/TF2-Taunts-TF2IDB .
+L 01/02/2021 - 01:55:45: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 01/02/2021 - 01:55:46: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 01/02/2021 - 01:55:46: [store.smx] Database connection is lost or not yet initialized.
+L 01/02/2021 - 01:55:46: [tf2_taunts_tf2idb.smx] Failed to initialize taunt cache: TF2IDB Not loaded.
+L 01/02/2021 - 01:55:46: [tf2_taunts_tf2idb.smx] Halting user interface initialization. Plugin loaded but updater not found.
+L 01/02/2021 - 01:55:46: [tf2_taunts_tf2idb.smx] Try using the latest version from here https://github.com/fakuivan/TF2-Taunts-TF2IDB .
+L 01/02/2021 - 02:04:04: [SM] Plugin "roundtimer.smx" encountered error 23: Native detected error
+L 01/02/2021 - 02:04:04: [SM] Invalid timer handle 1e4806d5 (error 3) during timer end, displayed function is timer callback, not the stack trace
+L 01/02/2021 - 02:04:04: [SM] Unable to call function "Timer_Round" due to above error(s).
+L 01/02/2021 - 02:10:24: Error log file session closed.
+L 01/02/2021 - 02:13:56: SourceMod error session started
+L 01/02/2021 - 02:13:56: Info (map "vsh_cairo_pyramid_v4") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20210102.log")
+L 01/02/2021 - 02:13:56: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 01/02/2021 - 02:13:56: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 01/02/2021 - 02:13:56: [store.smx] Database connection is lost or not yet initialized.
+L 01/02/2021 - 02:13:57: [tf2_taunts_tf2idb.smx] Failed to initialize taunt cache: TF2IDB Not loaded.
+L 01/02/2021 - 02:13:57: [tf2_taunts_tf2idb.smx] Halting user interface initialization. Plugin loaded but updater not found.
+L 01/02/2021 - 02:13:57: [tf2_taunts_tf2idb.smx] Try using the latest version from here https://github.com/fakuivan/TF2-Taunts-TF2IDB .
+L 01/02/2021 - 02:22:15: [SM] Plugin "roundtimer.smx" encountered error 23: Native detected error
+L 01/02/2021 - 02:22:15: [SM] Invalid timer handle 26260084 (error 3) during timer end, displayed function is timer callback, not the stack trace
+L 01/02/2021 - 02:22:15: [SM] Unable to call function "Timer_Round" due to above error(s).
+L 01/02/2021 - 02:30:33: [SM] Plugin "roundtimer.smx" encountered error 23: Native detected error
+L 01/02/2021 - 02:30:33: [SM] Invalid timer handle ae45019f (error 3) during timer end, displayed function is timer callback, not the stack trace
+L 01/02/2021 - 02:30:33: [SM] Unable to call function "Timer_Round" due to above error(s).
+L 01/02/2021 - 02:36:16: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 01/02/2021 - 02:36:16: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 01/02/2021 - 02:36:16: [store.smx] Database connection is lost or not yet initialized.
+L 01/02/2021 - 02:36:16: [store.smx] Database connection is lost or not yet initialized.
+L 01/02/2021 - 02:36:16: [store.smx] Database connection is lost or not yet initialized.
+L 01/02/2021 - 02:36:17: [tf2_taunts_tf2idb.smx] Failed to initialize taunt cache: TF2IDB Not loaded.
+L 01/02/2021 - 02:36:17: [tf2_taunts_tf2idb.smx] Halting user interface initialization. Plugin loaded but updater not found.
+L 01/02/2021 - 02:36:17: [tf2_taunts_tf2idb.smx] Try using the latest version from here https://github.com/fakuivan/TF2-Taunts-TF2IDB .
+L 01/02/2021 - 02:40:55: Error log file session closed.
+L 01/02/2021 - 21:17:18: SourceMod error session started
+L 01/02/2021 - 21:17:18: Info (map "vsh_crevice_b5") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20210102.log")
+L 01/02/2021 - 21:17:18: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 01/02/2021 - 21:17:19: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 01/02/2021 - 21:17:19: [store.smx] Database connection is lost or not yet initialized.
+L 01/02/2021 - 21:17:19: [tf2_taunts_tf2idb.smx] Failed to initialize taunt cache: TF2IDB Not loaded.
+L 01/02/2021 - 21:17:19: [tf2_taunts_tf2idb.smx] Halting user interface initialization. Plugin loaded but updater not found.
+L 01/02/2021 - 21:17:19: [tf2_taunts_tf2idb.smx] Try using the latest version from here https://github.com/fakuivan/TF2-Taunts-TF2IDB .
+L 01/02/2021 - 21:18:12: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 01/02/2021 - 21:18:12: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 01/02/2021 - 21:18:12: [store.smx] Database connection is lost or not yet initialized.
+L 01/02/2021 - 21:18:12: [SM] Exception reported: Entity 2 is invalid
+L 01/02/2021 - 21:18:12: [SM] Blaming: fc.smx
+L 01/02/2021 - 21:18:12: [SM] Call stack trace:
+L 01/02/2021 - 21:18:12: [SM]   [0] SDKHook
+L 01/02/2021 - 21:18:12: [SM]   [1] Line 391, D:\storage\Dropbox\Sourcemod\nieuw\sourcemod\scripting\fc.sp::Init
+L 01/02/2021 - 21:18:12: [SM]   [2] Line 173, D:\storage\Dropbox\Sourcemod\nieuw\sourcemod\scripting\fc.sp::OnPluginStart
+L 01/02/2021 - 21:18:12: [SM] Unable to load plugin "fc.smx": Error detected in plugin startup (see error logs)
+L 01/02/2021 - 21:18:13: [tf2_taunts_tf2idb.smx] Failed to initialize taunt cache: TF2IDB Not loaded.
+L 01/02/2021 - 21:18:13: [tf2_taunts_tf2idb.smx] Halting user interface initialization. Plugin loaded but updater not found.
+L 01/02/2021 - 21:18:13: [tf2_taunts_tf2idb.smx] Try using the latest version from here https://github.com/fakuivan/TF2-Taunts-TF2IDB .
+L 01/02/2021 - 21:20:04: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 01/02/2021 - 21:20:05: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 01/02/2021 - 21:20:05: [store.smx] Database connection is lost or not yet initialized.
+L 01/02/2021 - 21:20:05: [store.smx] Database connection is lost or not yet initialized.
+L 01/02/2021 - 21:20:05: [tf2_taunts_tf2idb.smx] Failed to initialize taunt cache: TF2IDB Not loaded.
+L 01/02/2021 - 21:20:05: [tf2_taunts_tf2idb.smx] Halting user interface initialization. Plugin loaded but updater not found.
+L 01/02/2021 - 21:20:05: [tf2_taunts_tf2idb.smx] Try using the latest version from here https://github.com/fakuivan/TF2-Taunts-TF2IDB .
+L 01/02/2021 - 21:31:15: Error log file session closed.

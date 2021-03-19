@@ -1,0 +1,32 @@
+L 10/20/2020 - 04:48:35: SourceMod error session started
+L 10/20/2020 - 04:48:35: Info (map "arena_lumberyard") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20201020.log")
+L 10/20/2020 - 04:48:35: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 10/20/2020 - 04:48:36: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 10/20/2020 - 20:32:28: Error log file session closed.
+L 10/20/2020 - 20:38:50: SourceMod error session started
+L 10/20/2020 - 20:38:50: Info (map "vsh_dunger_b2a") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20201020.log")
+L 10/20/2020 - 20:38:50: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 10/20/2020 - 20:38:50: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 10/20/2020 - 20:38:50: [store.smx] Database connection is lost or not yet initialized.
+L 10/20/2020 - 20:46:00: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 10/20/2020 - 20:46:00: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 10/20/2020 - 20:46:00: [store.smx] Database connection is lost or not yet initialized.
+L 10/20/2020 - 20:54:19: [SM] Plugin "roundtimer.smx" encountered error 23: Native detected error
+L 10/20/2020 - 20:54:19: [SM] Invalid timer handle 3250074 (error 3) during timer end, displayed function is timer callback, not the stack trace
+L 10/20/2020 - 20:54:19: [SM] Unable to call function "Timer_Round" due to above error(s).
+L 10/20/2020 - 20:56:38: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 10/20/2020 - 20:56:38: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 10/20/2020 - 20:56:38: [store.smx] Database connection is lost or not yet initialized.
+L 10/20/2020 - 20:58:49: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 10/20/2020 - 20:58:49: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 10/20/2020 - 20:58:49: [store.smx] Database connection is lost or not yet initialized.
+L 10/20/2020 - 21:03:25: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 10/20/2020 - 21:03:25: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 10/20/2020 - 21:03:25: [store.smx] Database connection is lost or not yet initialized.
+L 10/20/2020 - 21:03:42: Error log file session closed.
+L 10/20/2020 - 21:10:04: SourceMod error session started
+L 10/20/2020 - 21:10:04: Info (map "vsh_dunger_b2a") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20201020.log")
+L 10/20/2020 - 21:10:04: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 10/20/2020 - 21:10:05: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 10/20/2020 - 21:10:05: [store.smx] Database connection is lost or not yet initialized.
+L 10/21/2020 - 16:17:05: Error log file session closed.

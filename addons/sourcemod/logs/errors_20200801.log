@@ -1,0 +1,32 @@
+L 08/01/2020 - 18:35:00: SourceMod error session started
+L 08/01/2020 - 18:35:00: Info (map "arena_lumberyard") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200801.log")
+L 08/01/2020 - 18:35:00: [SM] Fatal error encountered parsing translation file "ff2_1st_set.phrases.txt"
+L 08/01/2020 - 18:35:00: [SM] Error (line 0, column 0): Stream failed to open
+L 08/01/2020 - 18:40:55: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/01/2020 - 18:40:56: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/01/2020 - 18:40:56: [store.smx] Database connection is lost or not yet initialized.
+L 08/01/2020 - 18:55:31: [SM] Plugin "roundtimer.smx" encountered error 23: Native detected error
+L 08/01/2020 - 18:55:31: [SM] Invalid timer handle 84040698 (error 3) during timer end, displayed function is timer callback, not the stack trace
+L 08/01/2020 - 18:55:31: [SM] Unable to call function "Timer_Round" due to above error(s).
+L 08/01/2020 - 18:58:10: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/01/2020 - 18:58:11: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/01/2020 - 18:58:11: [store.smx] Database connection is lost or not yet initialized.
+L 08/01/2020 - 19:07:44: Error log file session closed.
+L 08/01/2020 - 19:07:44: SourceMod error session started
+L 08/01/2020 - 19:07:44: Info (map "koth_viaduct_event") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200801.log")
+L 08/01/2020 - 19:07:44: [SM] Fatal error encountered parsing translation file "ff2_1st_set.phrases.txt"
+L 08/01/2020 - 19:07:44: [SM] Error (line 0, column 0): Stream failed to open
+L 08/01/2020 - 21:18:22: Error log file session closed.
+L 08/01/2020 - 21:18:22: SourceMod error session started
+L 08/01/2020 - 21:18:22: Info (map "vsh_manncohq_v14") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200801.log")
+L 08/01/2020 - 21:18:22: [SM] Fatal error encountered parsing translation file "ff2_1st_set.phrases.txt"
+L 08/01/2020 - 21:18:22: [SM] Error (line 0, column 0): Stream failed to open
+L 08/01/2020 - 23:57:23: [SM] Plugin "roundtimer.smx" encountered error 23: Native detected error
+L 08/01/2020 - 23:57:23: [SM] Invalid timer handle 91cc073f (error 3) during timer end, displayed function is timer callback, not the stack trace
+L 08/01/2020 - 23:57:23: [SM] Unable to call function "Timer_Round" due to above error(s).
+L 08/01/2020 - 23:57:34: Error log file session closed.
+L 08/01/2020 - 23:57:34: SourceMod error session started
+L 08/01/2020 - 23:57:34: Info (map "arena_lumberyard") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200801.log")
+L 08/01/2020 - 23:57:34: [SM] Fatal error encountered parsing translation file "ff2_1st_set.phrases.txt"
+L 08/01/2020 - 23:57:34: [SM] Error (line 0, column 0): Stream failed to open
+L 08/02/2020 - 00:00:39: Error log file session closed.

@@ -1,0 +1,28 @@
+"Phrases"
+{
+	"Main Admin Menu Title"
+	{
+		"en"		"Ricochet Menu"
+		"ru"		"Меню Рикошет\n \n"
+	}
+	
+	"Ricochet Menu Item"
+	{
+		"#format"	"{1:d}"
+		"en"		"{1} ricochets"
+		"ru"		"{1} рикошетов"
+	}
+	
+	"Ricochet Menu Title"
+	{
+		"#format"	"{1:s},{2:d}"
+		"en"		"Ricochet Menu\nWeapon: {1}\nCurrent amount: {2}"
+		"ru"		"Меню Рикошет\nОружие: {1}\nТекущее количесто: {2}"
+	}
+	
+	"Menu Error"
+	{
+		"en"		"Не удалось создать меню. Обратитесь к администратору"
+		"ru"		"Не удалось создать меню. Обратитесь к администратору"
+	}
+}

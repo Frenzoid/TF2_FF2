@@ -1,0 +1,37 @@
+"Games"
+{
+	"tf"
+	{
+		"Offsets"
+		{
+			"CTFBat::Smack"
+			{
+				"windows"	"462"
+				"linux"		"469"
+				"mac"		"469"
+			}
+			
+			"CBaseEntity::WorldSpaceCenter"
+			{
+				"windows"	"149"
+				"linux"		"150"
+				"mac"		"150"
+			}
+			"CBaseEntity::GetVelocity"
+			{
+				"windows"	"140"
+				"linux"		"141"
+				"mac"		"141"
+			}
+		}
+		"Signatures"
+		{
+			"CTFPlayer::DoTauntAttack"	// ()
+			{
+				"library"	"server"
+				"windows" 	"\x53\x8B\xDC\x83\xEC\x08\x83\xE4\xF0\x83\xC4\x04\x55\x8B\x6B\x04\x89\x6C\x24\x04\x8B\xEC\x81\xEC\xE8\x0D\x00\x00"
+				"linux" 	"@_ZN9CTFPlayer13DoTauntAttackEv"
+			}
+		}
+	}
+}

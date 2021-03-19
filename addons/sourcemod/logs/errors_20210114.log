@@ -1,0 +1,39 @@
+L 01/14/2021 - 01:53:05: SourceMod error session started
+L 01/14/2021 - 01:53:05: Info (map "vsh_cactustemple_v1") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20210114.log")
+L 01/14/2021 - 01:53:05: [SM] Exception reported: Script execution timed out
+L 01/14/2021 - 01:54:25: [SM] Exception reported: Script execution timed out
+L 01/14/2021 - 01:55:45: [SM] Exception reported: Script execution timed out
+L 01/14/2021 - 01:57:56: [sbpp_comms.smx] Connecting to database failed: [2005]: Unknown MySQL server host 'oldbox.cloud' (11)
+L 01/14/2021 - 01:59:56: [sbpp_sleuth.smx] SourceSleuth: Database query error: Unknown MySQL server host 'oldbox.cloud' (11)
+L 01/14/2021 - 02:01:56: [sbpp_sleuth.smx] SourceSleuth: Database query error: Unknown MySQL server host 'oldbox.cloud' (11)
+L 01/14/2021 - 02:26:46: Error log file session closed.
+L 01/14/2021 - 21:51:43: SourceMod error session started
+L 01/14/2021 - 21:51:43: Info (map "vsh_cactustemple_v1") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20210114.log")
+L 01/14/2021 - 21:51:43: [SM] Plugin "roundtimer.smx" encountered error 23: Native detected error
+L 01/14/2021 - 21:51:43: [SM] Invalid timer handle 18071044 (error 3) during timer end, displayed function is timer callback, not the stack trace
+L 01/14/2021 - 21:51:43: [SM] Unable to call function "Timer_Round" due to above error(s).
+L 01/14/2021 - 21:53:33: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 01/14/2021 - 21:53:34: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 01/14/2021 - 21:53:34: [store.smx] Database connection is lost or not yet initialized.
+L 01/14/2021 - 21:54:00: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 01/14/2021 - 21:54:00: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 01/14/2021 - 21:54:00: [store.smx] Database connection is lost or not yet initialized.
+L 01/14/2021 - 21:54:18: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 01/14/2021 - 21:54:18: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 01/14/2021 - 21:54:18: [store.smx] Database connection is lost or not yet initialized.
+L 01/14/2021 - 21:54:51: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 01/14/2021 - 21:54:52: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 01/14/2021 - 21:54:52: [store.smx] Database connection is lost or not yet initialized.
+L 01/14/2021 - 21:57:53: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 01/14/2021 - 21:57:53: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 01/14/2021 - 21:57:53: [store.smx] Database connection is lost or not yet initialized.
+L 01/14/2021 - 22:03:58: Error log file session closed.
+L 01/14/2021 - 22:21:09: SourceMod error session started
+L 01/14/2021 - 22:21:09: Info (map "vsh_aquaticbase_b5") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20210114.log")
+L 01/14/2021 - 22:21:09: [SM] Plugin "roundtimer.smx" encountered error 23: Native detected error
+L 01/14/2021 - 22:21:09: [SM] Invalid timer handle 5da107f4 (error 3) during timer end, displayed function is timer callback, not the stack trace
+L 01/14/2021 - 22:21:09: [SM] Unable to call function "Timer_Round" due to above error(s).
+L 01/14/2021 - 22:29:27: [SM] Plugin "roundtimer.smx" encountered error 23: Native detected error
+L 01/14/2021 - 22:29:27: [SM] Invalid timer handle e662085c (error 3) during timer end, displayed function is timer callback, not the stack trace
+L 01/14/2021 - 22:29:27: [SM] Unable to call function "Timer_Round" due to above error(s).
+L 01/14/2021 - 23:51:40: Error log file session closed.

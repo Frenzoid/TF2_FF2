@@ -1,0 +1,483 @@
+L 08/06/2020 - 02:56:03: SourceMod error session started
+L 08/06/2020 - 02:56:03: Info (map "arena_graveyardbash_v1") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200806.log")
+L 08/06/2020 - 02:56:03: [SM] Plugin "roundtimer.smx" encountered error 23: Native detected error
+L 08/06/2020 - 02:56:03: [SM] Invalid timer handle fad9089f (error 3) during timer end, displayed function is timer callback, not the stack trace
+L 08/06/2020 - 02:56:03: [SM] Unable to call function "Timer_Round" due to above error(s).
+L 08/06/2020 - 02:56:25: Error log file session closed.
+L 08/06/2020 - 02:56:25: SourceMod error session started
+L 08/06/2020 - 02:56:25: Info (map "arena_sawmill") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200806.log")
+L 08/06/2020 - 02:56:25: [SM] Fatal error encountered parsing translation file "ff2_1st_set.phrases.txt"
+L 08/06/2020 - 02:56:25: [SM] Error (line 0, column 0): Stream failed to open
+L 08/06/2020 - 02:59:10: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/06/2020 - 02:59:11: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/06/2020 - 02:59:11: [store.smx] Database connection is lost or not yet initialized.
+L 08/06/2020 - 03:10:07: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/06/2020 - 03:10:08: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/06/2020 - 03:10:08: [store.smx] Database connection is lost or not yet initialized.
+L 08/06/2020 - 03:12:44: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/06/2020 - 03:12:44: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/06/2020 - 03:12:44: [store.smx] Database connection is lost or not yet initialized.
+L 08/06/2020 - 03:26:05: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/06/2020 - 03:26:05: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/06/2020 - 03:26:05: [store.smx] Database connection is lost or not yet initialized.
+L 08/06/2020 - 03:26:05: [store.smx] Database connection is lost or not yet initialized.
+L 08/06/2020 - 03:28:36: Error log file session closed.
+L 08/06/2020 - 03:28:36: SourceMod error session started
+L 08/06/2020 - 03:28:36: Info (map "vsh_intrusion_rc2") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200806.log")
+L 08/06/2020 - 03:28:36: [SM] Fatal error encountered parsing translation file "ff2_1st_set.phrases.txt"
+L 08/06/2020 - 03:28:36: [SM] Error (line 0, column 0): Stream failed to open
+L 08/06/2020 - 03:32:43: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/06/2020 - 03:32:43: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/06/2020 - 03:32:43: [store.smx] Database connection is lost or not yet initialized.
+L 08/06/2020 - 03:32:43: [store.smx] Database connection is lost or not yet initialized.
+L 08/06/2020 - 03:33:44: Error log file session closed.
+L 08/06/2020 - 03:33:44: SourceMod error session started
+L 08/06/2020 - 03:33:44: Info (map "arena_watchtowerrrrrrrrr_b1") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200806.log")
+L 08/06/2020 - 03:33:44: [SM] Fatal error encountered parsing translation file "ff2_1st_set.phrases.txt"
+L 08/06/2020 - 03:33:44: [SM] Error (line 0, column 0): Stream failed to open
+L 08/06/2020 - 03:39:52: Error log file session closed.
+L 08/06/2020 - 03:39:53: SourceMod error session started
+L 08/06/2020 - 03:39:53: Info (map "arena_watchtowerrrrrrrrr_b1") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200806.log")
+L 08/06/2020 - 03:39:53: [SM] Fatal error encountered parsing translation file "ff2_1st_set.phrases.txt"
+L 08/06/2020 - 03:39:53: [SM] Error (line 0, column 0): Stream failed to open
+L 08/06/2020 - 03:43:05: [SM] Exception reported: Array index out-of-bounds (index -1, limit 66)
+L 08/06/2020 - 03:43:05: [SM] Blaming: freaks/s93_blitzkrieg.ff2
+L 08/06/2020 - 03:43:05: [SM] Call stack trace:
+L 08/06/2020 - 03:43:05: [SM]   [1] Line 2459, C:\tf2serverff2\steamapps\common\Team Fortress 2 Dedicated Server\tf\addons\sourcemod\scripting\s93_blitzkrieg.sp::BMO_Tick
+L 08/06/2020 - 03:43:05: [SM]   [2] Line 2745, C:\tf2serverff2\steamapps\common\Team Fortress 2 Dedicated Server\tf\addons\sourcemod\scripting\s93_blitzkrieg.sp::OnGameFrame
+L 08/06/2020 - 03:50:05: [SM] Plugin "roundtimer.smx" encountered error 23: Native detected error
+L 08/06/2020 - 03:50:05: [SM] Invalid timer handle 93cf0662 (error 3) during timer end, displayed function is timer callback, not the stack trace
+L 08/06/2020 - 03:50:05: [SM] Unable to call function "Timer_Round" due to above error(s).
+L 08/06/2020 - 04:00:47: Error log file session closed.
+L 08/06/2020 - 04:00:47: SourceMod error session started
+L 08/06/2020 - 04:00:47: Info (map "arena_tradeplaza_clean") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200806.log")
+L 08/06/2020 - 04:00:47: [SM] Fatal error encountered parsing translation file "ff2_1st_set.phrases.txt"
+L 08/06/2020 - 04:00:47: [SM] Error (line 0, column 0): Stream failed to open
+L 08/06/2020 - 04:09:50: Error log file session closed.
+L 08/06/2020 - 04:09:50: SourceMod error session started
+L 08/06/2020 - 04:09:50: Info (map "arena_aerial_72_b2") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200806.log")
+L 08/06/2020 - 04:09:50: [SM] Fatal error encountered parsing translation file "ff2_1st_set.phrases.txt"
+L 08/06/2020 - 04:09:50: [SM] Error (line 0, column 0): Stream failed to open
+L 08/06/2020 - 04:15:05: Error log file session closed.
+L 08/06/2020 - 04:27:04: SourceMod error session started
+L 08/06/2020 - 04:27:04: Info (map "arena_lumberyard") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200806.log")
+L 08/06/2020 - 04:27:04: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/06/2020 - 04:27:04: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/06/2020 - 04:28:27: Error log file session closed.
+L 08/06/2020 - 04:29:00: SourceMod error session started
+L 08/06/2020 - 04:29:00: Info (map "arena_lumberyard") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200806.log")
+L 08/06/2020 - 04:29:00: [SM] Error parsing gameconfig file "/home/steamsrv/tf2/tf/addons/sourcemod/gamedata/tf2.tauntem.txt":
+L 08/06/2020 - 04:29:00: [SM] Error 1 on line 0, col 0: Stream failed to open
+L 08/06/2020 - 04:29:00: [SM] Exception reported: Unable to open tf2.tauntem: File could not be opened: No such file or directory
+L 08/06/2020 - 04:29:00: [SM] Blaming: freaks/ffbat_publicpack.ff2
+L 08/06/2020 - 04:29:00: [SM] Call stack trace:
+L 08/06/2020 - 04:29:00: [SM]   [0] LoadGameConfigFile
+L 08/06/2020 - 04:29:00: [SM]   [1] Line 225, FF2 Subplugin: Bat's Public Pack::OnPluginStart2
+L 08/06/2020 - 04:29:00: [SM]   [2] Line 37, D:\batfo_qrgut13\Documents\SourceMod 1.9 Compiler\addons\sourcemod\scripting\include\freak_fortress_2_subplugin.inc::OnPluginStart
+L 08/06/2020 - 04:31:02: Error log file session closed.
+L 08/06/2020 - 04:34:20: SourceMod error session started
+L 08/06/2020 - 04:34:20: Info (map "arena_lumberyard") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200806.log")
+L 08/06/2020 - 04:34:20: [SM] Exception reported: Unable to initialize call to CTFPlayer::PlayTauntSceneFromItem. Wait patiently for a fix.
+L 08/06/2020 - 04:34:20: [SM] Blaming: tf_tauntem.smx
+L 08/06/2020 - 04:34:20: [SM] Call stack trace:
+L 08/06/2020 - 04:34:20: [SM]   [0] SetFailState
+L 08/06/2020 - 04:34:20: [SM]   [1] Line 35, C:\sourcemod\tf_tauntem.sp::OnPluginStart
+L 08/06/2020 - 04:34:20: [SM] Unable to load plugin "tf_tauntem.smx": Error detected in plugin startup (see error logs)
+L 08/06/2020 - 04:37:35: [SM] Exception reported: Entity 41 is not valid
+L 08/06/2020 - 04:37:35: [SM] Blaming: freaks/shadow93_abilities.ff2
+L 08/06/2020 - 04:37:35: [SM] Call stack trace:
+L 08/06/2020 - 04:37:35: [SM]   [0] TeleportEntity
+L 08/06/2020 - 04:37:35: [SM]   [1] Line 2022, L:\scripting\shadow93_abilities.sp::MoveMarker
+L 08/06/2020 - 04:40:57: Error log file session closed.
+L 08/06/2020 - 04:43:37: SourceMod error session started
+L 08/06/2020 - 04:43:37: Info (map "arena_lumberyard") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200806.log")
+L 08/06/2020 - 04:43:37: [SM] Exception reported: Entity 145 is not valid
+L 08/06/2020 - 04:43:37: [SM] Blaming: freaks/shadow93_abilities.ff2
+L 08/06/2020 - 04:43:37: [SM] Call stack trace:
+L 08/06/2020 - 04:43:37: [SM]   [0] TeleportEntity
+L 08/06/2020 - 04:43:37: [SM]   [1] Line 2022, L:\scripting\shadow93_abilities.sp::MoveMarker
+L 08/06/2020 - 04:48:46: Error log file session closed.
+L 08/06/2020 - 06:11:17: SourceMod error session started
+L 08/06/2020 - 06:11:17: Info (map "arena_lumberyard") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200806.log")
+L 08/06/2020 - 06:11:17: [freaks/the_true_administrator.ff2] ERROR: Unable to initialize ff2_sarysapub3:AMS_InitSubability(). Make sure this plugin exists!
+L 08/06/2020 - 06:11:17: [freaks/the_true_administrator.ff2] ERROR: Unable to initialize ff2_sarysapub3:AMS_InitSubability(). Make sure this plugin exists!
+L 08/06/2020 - 06:11:17: [freaks/the_true_administrator.ff2] ERROR: Unable to initialize ff2_sarysapub3:AMS_InitSubability(). Make sure this plugin exists!
+L 08/06/2020 - 06:11:17: [freaks/the_true_administrator.ff2] ERROR: Unable to initialize ff2_sarysapub3:AMS_InitSubability(). Make sure this plugin exists!
+L 08/06/2020 - 06:11:17: [freaks/the_true_administrator.ff2] ERROR: Unable to initialize ff2_sarysapub3:AMS_InitSubability(). Make sure this plugin exists!
+L 08/06/2020 - 06:11:17: [freaks/the_true_administrator.ff2] ERROR: Unable to initialize ff2_sarysapub3:AMS_InitSubability(). Make sure this plugin exists!
+L 08/06/2020 - 06:11:17: [freaks/the_true_administrator.ff2] ERROR: Unable to initialize ff2_sarysapub3:AMS_InitSubability(). Make sure this plugin exists!
+L 08/06/2020 - 06:11:17: [freaks/the_true_administrator.ff2] ERROR: Unable to initialize ff2_sarysapub3:AMS_InitSubability(). Make sure this plugin exists!
+L 08/06/2020 - 06:11:17: [freaks/the_true_administrator.ff2] ERROR: Unable to initialize ff2_sarysapub3:AMS_InitSubability(). Make sure this plugin exists!
+L 08/06/2020 - 06:11:17: [freaks/the_true_administrator.ff2] ERROR: Unable to initialize ff2_sarysapub3:AMS_InitSubability(). Make sure this plugin exists!
+L 08/06/2020 - 06:11:17: [freaks/the_true_administrator.ff2] ERROR: Unable to initialize ff2_sarysapub3:AMS_InitSubability(). Make sure this plugin exists!
+L 08/06/2020 - 06:13:13: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/06/2020 - 06:13:14: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/06/2020 - 06:13:14: [store.smx] Database connection is lost or not yet initialized.
+L 08/06/2020 - 06:15:32: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/06/2020 - 06:15:33: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/06/2020 - 06:15:33: [store.smx] Database connection is lost or not yet initialized.
+L 08/06/2020 - 06:16:59: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 224/tf_weapon_builder)
+L 08/06/2020 - 06:16:59: [SM] Blaming: freak_fortress_2.smx
+L 08/06/2020 - 06:16:59: [SM] Call stack trace:
+L 08/06/2020 - 06:16:59: [SM]   [0] GetEntPropFloat
+L 08/06/2020 - 06:16:59: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 08/06/2020 - 08:12:29: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/06/2020 - 08:12:30: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/06/2020 - 08:12:30: [store.smx] Database connection is lost or not yet initialized.
+L 08/06/2020 - 08:12:53: Error log file session closed.
+L 08/06/2020 - 08:17:02: SourceMod error session started
+L 08/06/2020 - 08:17:02: Info (map "arena_nucleus") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200806.log")
+L 08/06/2020 - 08:17:02: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/06/2020 - 08:17:02: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/06/2020 - 08:17:02: [store.smx] Database connection is lost or not yet initialized.
+L 08/06/2020 - 08:25:05: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/06/2020 - 08:25:06: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/06/2020 - 08:25:06: [store.smx] Database connection is lost or not yet initialized.
+L 08/06/2020 - 08:28:36: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/06/2020 - 08:28:36: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/06/2020 - 08:28:36: [store.smx] Database connection is lost or not yet initialized.
+L 08/06/2020 - 08:30:42: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/06/2020 - 08:30:43: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/06/2020 - 08:30:43: [store.smx] Database connection is lost or not yet initialized.
+L 08/06/2020 - 08:32:23: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/06/2020 - 08:32:23: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/06/2020 - 08:32:23: [store.smx] Database connection is lost or not yet initialized.
+L 08/06/2020 - 08:33:39: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/06/2020 - 08:33:39: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/06/2020 - 08:33:39: [store.smx] Database connection is lost or not yet initialized.
+L 08/06/2020 - 08:36:03: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/06/2020 - 08:36:04: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/06/2020 - 08:36:04: [store.smx] Database connection is lost or not yet initialized.
+L 08/06/2020 - 08:44:48: [SM] Plugin "roundtimer.smx" encountered error 23: Native detected error
+L 08/06/2020 - 08:44:48: [SM] Invalid timer handle fa205e7 (error 3) during timer end, displayed function is timer callback, not the stack trace
+L 08/06/2020 - 08:44:48: [SM] Unable to call function "Timer_Round" due to above error(s).
+L 08/06/2020 - 08:45:12: Error log file session closed.
+L 08/06/2020 - 09:00:01: SourceMod error session started
+L 08/06/2020 - 09:00:01: Info (map "arena_byre") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200806.log")
+L 08/06/2020 - 09:00:01: [SM] Plugin "roundtimer.smx" encountered error 23: Native detected error
+L 08/06/2020 - 09:00:01: [SM] Invalid timer handle ca1b003d (error 3) during timer end, displayed function is timer callback, not the stack trace
+L 08/06/2020 - 09:00:01: [SM] Unable to call function "Timer_Round" due to above error(s).
+L 08/06/2020 - 09:01:10: Error log file session closed.
+L 08/06/2020 - 09:12:49: SourceMod error session started
+L 08/06/2020 - 09:12:49: Info (map "arena_suijin_rc2") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200806.log")
+L 08/06/2020 - 09:12:49: [SM] Exception reported: Client 4 is not in game
+L 08/06/2020 - 09:12:49: [SM] Blaming: invisfixfixed.smx
+L 08/06/2020 - 09:12:49: [SM] Call stack trace:
+L 08/06/2020 - 09:12:49: [SM]   [0] GetClientTeam
+L 08/06/2020 - 09:12:49: [SM]   [1] Line 36, /groups/sourcemod/upload_tmp/textvMlJRR.sp::BackWeapons
+L 08/06/2020 - 09:12:49: [SM] Exception reported: Client 3 is not in game
+L 08/06/2020 - 09:12:49: [SM] Blaming: invisfixfixed.smx
+L 08/06/2020 - 09:12:49: [SM] Call stack trace:
+L 08/06/2020 - 09:12:49: [SM]   [0] GetClientTeam
+L 08/06/2020 - 09:12:49: [SM]   [1] Line 36, /groups/sourcemod/upload_tmp/textvMlJRR.sp::BackWeapons
+L 08/06/2020 - 09:12:49: [SM] Exception reported: Client 2 is not in game
+L 08/06/2020 - 09:12:49: [SM] Blaming: invisfixfixed.smx
+L 08/06/2020 - 09:12:49: [SM] Call stack trace:
+L 08/06/2020 - 09:12:49: [SM]   [0] GetClientTeam
+L 08/06/2020 - 09:12:49: [SM]   [1] Line 36, /groups/sourcemod/upload_tmp/textvMlJRR.sp::BackWeapons
+L 08/06/2020 - 09:12:49: [SM] Exception reported: Client 4 is not in game
+L 08/06/2020 - 09:12:49: [SM] Blaming: invisfixfixed.smx
+L 08/06/2020 - 09:12:49: [SM] Call stack trace:
+L 08/06/2020 - 09:12:49: [SM]   [0] GetClientTeam
+L 08/06/2020 - 09:12:49: [SM]   [1] Line 36, /groups/sourcemod/upload_tmp/textvMlJRR.sp::BackWeapons
+L 08/06/2020 - 09:12:49: [SM] Exception reported: Client 3 is not in game
+L 08/06/2020 - 09:12:49: [SM] Blaming: invisfixfixed.smx
+L 08/06/2020 - 09:12:49: [SM] Call stack trace:
+L 08/06/2020 - 09:12:49: [SM]   [0] GetClientTeam
+L 08/06/2020 - 09:12:49: [SM]   [1] Line 36, /groups/sourcemod/upload_tmp/textvMlJRR.sp::BackWeapons
+L 08/06/2020 - 09:12:49: [SM] Exception reported: Client 2 is not in game
+L 08/06/2020 - 09:12:49: [SM] Blaming: invisfixfixed.smx
+L 08/06/2020 - 09:12:49: [SM] Call stack trace:
+L 08/06/2020 - 09:12:49: [SM]   [0] GetClientTeam
+L 08/06/2020 - 09:12:49: [SM]   [1] Line 36, /groups/sourcemod/upload_tmp/textvMlJRR.sp::BackWeapons
+L 08/06/2020 - 09:16:11: Error log file session closed.
+L 08/06/2020 - 09:16:46: SourceMod error session started
+L 08/06/2020 - 09:16:46: Info (map "arena_suijin_rc2") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200806.log")
+L 08/06/2020 - 09:16:46: [SM] Exception reported: Entity index 0 is not a valid client
+L 08/06/2020 - 09:16:46: [SM] Blaming: invisfixff2.smx
+L 08/06/2020 - 09:16:46: [SM] Call stack trace:
+L 08/06/2020 - 09:16:46: [SM]   [0] GetPlayerWeaponSlot
+L 08/06/2020 - 09:16:46: [SM]   [1] Line 493, /groups/sourcemod/compiler-1.10/include/tf2_stocks.inc::TF2_RemoveWeaponSlot
+L 08/06/2020 - 09:16:46: [SM]   [2] Line 523, /groups/sourcemod/compiler-1.10/include/tf2_stocks.inc::TF2_RemoveAllWeapons
+L 08/06/2020 - 09:16:46: [SM]   [3] Line 30, /groups/sourcemod/upload_tmp/text00TmfC.sp::Fix_Function
+L 08/06/2020 - 09:17:13: [SM] Exception reported: Entity index 0 is not a valid client
+L 08/06/2020 - 09:17:13: [SM] Blaming: invisfixff2.smx
+L 08/06/2020 - 09:17:13: [SM] Call stack trace:
+L 08/06/2020 - 09:17:13: [SM]   [0] GetPlayerWeaponSlot
+L 08/06/2020 - 09:17:13: [SM]   [1] Line 493, /groups/sourcemod/compiler-1.10/include/tf2_stocks.inc::TF2_RemoveWeaponSlot
+L 08/06/2020 - 09:17:13: [SM]   [2] Line 523, /groups/sourcemod/compiler-1.10/include/tf2_stocks.inc::TF2_RemoveAllWeapons
+L 08/06/2020 - 09:17:13: [SM]   [3] Line 30, /groups/sourcemod/upload_tmp/text00TmfC.sp::Fix_Function
+L 08/06/2020 - 09:17:13: [SM] Exception reported: Entity index 0 is not a valid client
+L 08/06/2020 - 09:17:13: [SM] Blaming: invisfixff2.smx
+L 08/06/2020 - 09:17:13: [SM] Call stack trace:
+L 08/06/2020 - 09:17:13: [SM]   [0] GetPlayerWeaponSlot
+L 08/06/2020 - 09:17:13: [SM]   [1] Line 493, /groups/sourcemod/compiler-1.10/include/tf2_stocks.inc::TF2_RemoveWeaponSlot
+L 08/06/2020 - 09:17:13: [SM]   [2] Line 523, /groups/sourcemod/compiler-1.10/include/tf2_stocks.inc::TF2_RemoveAllWeapons
+L 08/06/2020 - 09:17:13: [SM]   [3] Line 30, /groups/sourcemod/upload_tmp/text00TmfC.sp::Fix_Function
+L 08/06/2020 - 09:17:35: [SM] Exception reported: Entity index 0 is not a valid client
+L 08/06/2020 - 09:17:35: [SM] Blaming: invisfixff2.smx
+L 08/06/2020 - 09:17:35: [SM] Call stack trace:
+L 08/06/2020 - 09:17:35: [SM]   [0] GetPlayerWeaponSlot
+L 08/06/2020 - 09:17:35: [SM]   [1] Line 493, /groups/sourcemod/compiler-1.10/include/tf2_stocks.inc::TF2_RemoveWeaponSlot
+L 08/06/2020 - 09:17:35: [SM]   [2] Line 523, /groups/sourcemod/compiler-1.10/include/tf2_stocks.inc::TF2_RemoveAllWeapons
+L 08/06/2020 - 09:17:35: [SM]   [3] Line 30, /groups/sourcemod/upload_tmp/text00TmfC.sp::Fix_Function
+L 08/06/2020 - 09:18:49: Error log file session closed.
+L 08/06/2020 - 09:19:14: SourceMod error session started
+L 08/06/2020 - 09:19:14: Info (map "arena_suijin_rc2") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200806.log")
+L 08/06/2020 - 09:19:14: [SM] Exception reported: Entity index 0 is not a valid client
+L 08/06/2020 - 09:19:14: [SM] Blaming: invisfixff2.smx
+L 08/06/2020 - 09:19:14: [SM] Call stack trace:
+L 08/06/2020 - 09:19:14: [SM]   [0] GetPlayerWeaponSlot
+L 08/06/2020 - 09:19:14: [SM]   [1] Line 493, /groups/sourcemod/compiler-1.10/include/tf2_stocks.inc::TF2_RemoveWeaponSlot
+L 08/06/2020 - 09:19:14: [SM]   [2] Line 523, /groups/sourcemod/compiler-1.10/include/tf2_stocks.inc::TF2_RemoveAllWeapons
+L 08/06/2020 - 09:19:14: [SM]   [3] Line 30, /groups/sourcemod/upload_tmp/text00TmfC.sp::Fix_Function
+L 08/06/2020 - 09:25:57: Error log file session closed.
+L 08/06/2020 - 09:27:05: SourceMod error session started
+L 08/06/2020 - 09:27:05: Info (map "arena_suijin_rc2") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200806.log")
+L 08/06/2020 - 09:27:05: [SM] Exception reported: Entity index 0 is not a valid client
+L 08/06/2020 - 09:27:05: [SM] Blaming: invisiwepfix.smx
+L 08/06/2020 - 09:27:05: [SM] Call stack trace:
+L 08/06/2020 - 09:27:05: [SM]   [0] GetPlayerWeaponSlot
+L 08/06/2020 - 09:27:05: [SM]   [1] Line 493, /groups/sourcemod/compiler-1.10/include/tf2_stocks.inc::TF2_RemoveWeaponSlot
+L 08/06/2020 - 09:27:05: [SM]   [2] Line 523, /groups/sourcemod/compiler-1.10/include/tf2_stocks.inc::TF2_RemoveAllWeapons
+L 08/06/2020 - 09:27:05: [SM]   [3] Line 27, /groups/sourcemod/upload_tmp/text50o7wr.sp::Fix_Function
+L 08/06/2020 - 09:27:05: [SM] Exception reported: Entity index 0 is not a valid client
+L 08/06/2020 - 09:27:05: [SM] Blaming: invisiwepfix.smx
+L 08/06/2020 - 09:27:05: [SM] Call stack trace:
+L 08/06/2020 - 09:27:05: [SM]   [0] GetPlayerWeaponSlot
+L 08/06/2020 - 09:27:05: [SM]   [1] Line 493, /groups/sourcemod/compiler-1.10/include/tf2_stocks.inc::TF2_RemoveWeaponSlot
+L 08/06/2020 - 09:27:05: [SM]   [2] Line 523, /groups/sourcemod/compiler-1.10/include/tf2_stocks.inc::TF2_RemoveAllWeapons
+L 08/06/2020 - 09:27:05: [SM]   [3] Line 27, /groups/sourcemod/upload_tmp/text50o7wr.sp::Fix_Function
+L 08/06/2020 - 09:27:27: [SM] Exception reported: Entity index 0 is not a valid client
+L 08/06/2020 - 09:27:27: [SM] Blaming: invisiwepfix.smx
+L 08/06/2020 - 09:27:27: [SM] Call stack trace:
+L 08/06/2020 - 09:27:27: [SM]   [0] GetPlayerWeaponSlot
+L 08/06/2020 - 09:27:27: [SM]   [1] Line 493, /groups/sourcemod/compiler-1.10/include/tf2_stocks.inc::TF2_RemoveWeaponSlot
+L 08/06/2020 - 09:27:27: [SM]   [2] Line 523, /groups/sourcemod/compiler-1.10/include/tf2_stocks.inc::TF2_RemoveAllWeapons
+L 08/06/2020 - 09:27:27: [SM]   [3] Line 27, /groups/sourcemod/upload_tmp/text50o7wr.sp::Fix_Function
+L 08/06/2020 - 09:30:59: Error log file session closed.
+L 08/06/2020 - 09:43:35: SourceMod error session started
+L 08/06/2020 - 09:43:35: Info (map "arena_suijin_rc2") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200806.log")
+L 08/06/2020 - 09:43:35: [SM] Plugin "roundtimer.smx" encountered error 23: Native detected error
+L 08/06/2020 - 09:43:35: [SM] Invalid timer handle e7531ae7 (error 3) during timer end, displayed function is timer callback, not the stack trace
+L 08/06/2020 - 09:43:35: [SM] Unable to call function "Timer_Round" due to above error(s).
+L 08/06/2020 - 09:51:54: [SM] Plugin "roundtimer.smx" encountered error 23: Native detected error
+L 08/06/2020 - 09:51:54: [SM] Invalid timer handle c2bc1aa5 (error 3) during timer end, displayed function is timer callback, not the stack trace
+L 08/06/2020 - 09:51:54: [SM] Unable to call function "Timer_Round" due to above error(s).
+L 08/06/2020 - 10:00:12: [SM] Plugin "roundtimer.smx" encountered error 23: Native detected error
+L 08/06/2020 - 10:00:12: [SM] Invalid timer handle 6bb51b34 (error 3) during timer end, displayed function is timer callback, not the stack trace
+L 08/06/2020 - 10:00:12: [SM] Unable to call function "Timer_Round" due to above error(s).
+L 08/06/2020 - 10:08:30: [SM] Plugin "roundtimer.smx" encountered error 23: Native detected error
+L 08/06/2020 - 10:08:30: [SM] Invalid timer handle 103b1b0d (error 3) during timer end, displayed function is timer callback, not the stack trace
+L 08/06/2020 - 10:08:30: [SM] Unable to call function "Timer_Round" due to above error(s).
+L 08/06/2020 - 10:08:54: Error log file session closed.
+L 08/06/2020 - 14:17:25: SourceMod error session started
+L 08/06/2020 - 14:17:25: Info (map "vsh_jealo_rc2") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200806.log")
+L 08/06/2020 - 14:17:25: [SM] Plugin "roundtimer.smx" encountered error 23: Native detected error
+L 08/06/2020 - 14:17:25: [SM] Invalid timer handle b4131b62 (error 3) during timer end, displayed function is timer callback, not the stack trace
+L 08/06/2020 - 14:17:25: [SM] Unable to call function "Timer_Round" due to above error(s).
+L 08/06/2020 - 14:17:50: Error log file session closed.
+L 08/06/2020 - 14:23:37: SourceMod error session started
+L 08/06/2020 - 14:23:37: Info (map "arena_yunshu_rc1") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200806.log")
+L 08/06/2020 - 14:23:37: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/06/2020 - 14:23:38: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/06/2020 - 14:23:38: [store.smx] Database connection is lost or not yet initialized.
+L 08/06/2020 - 14:24:47: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/06/2020 - 14:24:48: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/06/2020 - 14:24:48: [store.smx] Database connection is lost or not yet initialized.
+L 08/06/2020 - 14:26:19: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/06/2020 - 14:26:19: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/06/2020 - 14:26:19: [store.smx] Database connection is lost or not yet initialized.
+L 08/06/2020 - 14:27:29: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/06/2020 - 14:27:29: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/06/2020 - 14:27:29: [store.smx] Database connection is lost or not yet initialized.
+L 08/06/2020 - 14:29:34: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/06/2020 - 14:29:34: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/06/2020 - 14:29:34: [store.smx] Database connection is lost or not yet initialized.
+L 08/06/2020 - 14:31:26: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/06/2020 - 14:31:26: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/06/2020 - 14:31:26: [store.smx] Database connection is lost or not yet initialized.
+L 08/06/2020 - 14:35:59: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/06/2020 - 14:36:00: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/06/2020 - 14:36:00: [store.smx] Database connection is lost or not yet initialized.
+L 08/06/2020 - 14:36:45: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/06/2020 - 14:36:45: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/06/2020 - 14:36:45: [store.smx] Database connection is lost or not yet initialized.
+L 08/06/2020 - 14:40:24: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/06/2020 - 14:40:24: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/06/2020 - 14:40:24: [store.smx] Database connection is lost or not yet initialized.
+L 08/06/2020 - 14:40:59: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/06/2020 - 14:40:59: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/06/2020 - 14:40:59: [store.smx] Database connection is lost or not yet initialized.
+L 08/06/2020 - 14:43:32: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/06/2020 - 14:43:32: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/06/2020 - 14:43:32: [store.smx] Database connection is lost or not yet initialized.
+L 08/06/2020 - 14:44:11: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/06/2020 - 14:44:11: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/06/2020 - 14:44:11: [store.smx] Database connection is lost or not yet initialized.
+L 08/06/2020 - 14:45:16: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/06/2020 - 14:45:16: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/06/2020 - 14:45:16: [store.smx] Database connection is lost or not yet initialized.
+L 08/06/2020 - 14:45:51: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/06/2020 - 14:45:51: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/06/2020 - 14:45:51: [store.smx] Database connection is lost or not yet initialized.
+L 08/06/2020 - 14:46:16: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/06/2020 - 14:46:16: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/06/2020 - 14:46:16: [store.smx] Database connection is lost or not yet initialized.
+L 08/06/2020 - 14:47:57: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/06/2020 - 14:47:57: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/06/2020 - 14:47:57: [store.smx] Database connection is lost or not yet initialized.
+L 08/06/2020 - 14:48:41: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/06/2020 - 14:48:42: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/06/2020 - 14:48:42: [store.smx] Database connection is lost or not yet initialized.
+L 08/06/2020 - 14:52:07: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/06/2020 - 14:52:08: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/06/2020 - 14:52:08: [store.smx] Database connection is lost or not yet initialized.
+L 08/06/2020 - 14:52:34: Error log file session closed.
+L 08/06/2020 - 14:55:20: SourceMod error session started
+L 08/06/2020 - 14:55:20: Info (map "vsh_scoobydoo_v1") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200806.log")
+L 08/06/2020 - 14:55:20: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/06/2020 - 14:55:20: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/06/2020 - 14:55:20: [store.smx] Database connection is lost or not yet initialized.
+L 08/06/2020 - 14:55:34: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/06/2020 - 14:55:34: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/06/2020 - 14:55:34: [store.smx] Database connection is lost or not yet initialized.
+L 08/06/2020 - 14:58:43: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/06/2020 - 14:58:44: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/06/2020 - 14:58:44: [store.smx] Database connection is lost or not yet initialized.
+L 08/06/2020 - 14:59:22: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/06/2020 - 14:59:23: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/06/2020 - 14:59:23: [store.smx] Database connection is lost or not yet initialized.
+L 08/06/2020 - 15:00:36: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/06/2020 - 15:00:37: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/06/2020 - 15:00:37: [store.smx] Database connection is lost or not yet initialized.
+L 08/06/2020 - 15:05:57: Error log file session closed.
+L 08/06/2020 - 15:13:46: SourceMod error session started
+L 08/06/2020 - 15:13:46: Info (map "vsh_starboard_rc2") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200806.log")
+L 08/06/2020 - 15:13:46: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/06/2020 - 15:13:46: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/06/2020 - 15:13:46: [store.smx] Database connection is lost or not yet initialized.
+L 08/06/2020 - 15:14:14: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/06/2020 - 15:14:14: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/06/2020 - 15:14:14: [store.smx] Database connection is lost or not yet initialized.
+L 08/06/2020 - 15:14:48: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/06/2020 - 15:14:49: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/06/2020 - 15:14:49: [store.smx] Database connection is lost or not yet initialized.
+L 08/06/2020 - 15:15:20: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/06/2020 - 15:15:21: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/06/2020 - 15:15:21: [store.smx] Database connection is lost or not yet initialized.
+L 08/06/2020 - 15:22:54: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/06/2020 - 15:22:54: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/06/2020 - 15:22:54: [store.smx] Database connection is lost or not yet initialized.
+L 08/06/2020 - 16:18:53: Error log file session closed.
+L 08/06/2020 - 18:04:33: SourceMod error session started
+L 08/06/2020 - 18:04:33: Info (map "vsh_zelda_ww_outset_island") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200806.log")
+L 08/06/2020 - 18:04:33: [SM] Plugin "roundtimer.smx" encountered error 23: Native detected error
+L 08/06/2020 - 18:04:33: [SM] Invalid timer handle 12530021 (error 3) during timer end, displayed function is timer callback, not the stack trace
+L 08/06/2020 - 18:04:33: [SM] Unable to call function "Timer_Round" due to above error(s).
+L 08/06/2020 - 18:12:52: [SM] Plugin "roundtimer.smx" encountered error 23: Native detected error
+L 08/06/2020 - 18:12:52: [SM] Invalid timer handle a4e60745 (error 3) during timer end, displayed function is timer callback, not the stack trace
+L 08/06/2020 - 18:12:52: [SM] Unable to call function "Timer_Round" due to above error(s).
+L 08/06/2020 - 18:13:17: Error log file session closed.
+L 08/06/2020 - 18:19:37: SourceMod error session started
+L 08/06/2020 - 18:19:37: Info (map "arena_nucleus") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200806.log")
+L 08/06/2020 - 18:19:37: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/06/2020 - 18:19:37: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/06/2020 - 18:19:37: [store.smx] Database connection is lost or not yet initialized.
+L 08/06/2020 - 18:19:37: [store.smx] Database connection is lost or not yet initialized.
+L 08/06/2020 - 18:20:28: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/06/2020 - 18:20:29: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/06/2020 - 18:20:29: [store.smx] Database connection is lost or not yet initialized.
+L 08/06/2020 - 18:20:29: [store.smx] Database connection is lost or not yet initialized.
+L 08/06/2020 - 18:28:46: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/06/2020 - 18:28:47: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/06/2020 - 18:28:47: [store.smx] Database connection is lost or not yet initialized.
+L 08/06/2020 - 18:36:11: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/06/2020 - 18:36:12: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/06/2020 - 18:36:12: [store.smx] Database connection is lost or not yet initialized.
+L 08/06/2020 - 18:37:23: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/06/2020 - 18:37:23: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/06/2020 - 18:37:23: [store.smx] Database connection is lost or not yet initialized.
+L 08/06/2020 - 18:38:36: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/06/2020 - 18:38:37: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/06/2020 - 18:38:37: [store.smx] Database connection is lost or not yet initialized.
+L 08/06/2020 - 18:49:13: [SM] Plugin "roundtimer.smx" encountered error 23: Native detected error
+L 08/06/2020 - 18:49:13: [SM] Invalid timer handle 2b6c06f7 (error 3) during timer end, displayed function is timer callback, not the stack trace
+L 08/06/2020 - 18:49:13: [SM] Unable to call function "Timer_Round" due to above error(s).
+L 08/06/2020 - 18:49:39: Error log file session closed.
+L 08/06/2020 - 18:54:36: SourceMod error session started
+L 08/06/2020 - 18:54:36: Info (map "arena_byre") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200806.log")
+L 08/06/2020 - 18:54:36: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/06/2020 - 18:54:36: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/06/2020 - 18:54:36: [store.smx] Database connection is lost or not yet initialized.
+L 08/06/2020 - 20:14:51: Error log file session closed.
+L 08/06/2020 - 20:20:50: SourceMod error session started
+L 08/06/2020 - 20:20:50: Info (map "arena_suijin_rc2") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200806.log")
+L 08/06/2020 - 20:20:50: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/06/2020 - 20:20:50: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/06/2020 - 20:20:50: [store.smx] Database connection is lost or not yet initialized.
+L 08/06/2020 - 20:20:50: [store.smx] Database connection is lost or not yet initialized.
+L 08/06/2020 - 20:21:44: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/06/2020 - 20:21:44: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/06/2020 - 20:21:44: [store.smx] Database connection is lost or not yet initialized.
+L 08/06/2020 - 20:21:44: [store.smx] Database connection is lost or not yet initialized.
+L 08/06/2020 - 20:23:19: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/06/2020 - 20:23:19: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/06/2020 - 20:23:19: [store.smx] Database connection is lost or not yet initialized.
+L 08/06/2020 - 20:23:19: [store.smx] Database connection is lost or not yet initialized.
+L 08/06/2020 - 20:25:28: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/06/2020 - 20:25:28: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/06/2020 - 20:25:28: [store.smx] Database connection is lost or not yet initialized.
+L 08/06/2020 - 20:25:28: [store.smx] Database connection is lost or not yet initialized.
+L 08/06/2020 - 20:46:23: Error log file session closed.
+L 08/06/2020 - 21:01:02: SourceMod error session started
+L 08/06/2020 - 21:01:02: Info (map "arena_yunshu_rc1") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200806.log")
+L 08/06/2020 - 21:01:02: [freaks/shadow93_abilities.ff2] [SHADoW93 Minions] Redmond Mann has an invalid  formula for minions, using default health!
+L 08/06/2020 - 21:24:16: Error log file session closed.
+L 08/06/2020 - 23:49:18: SourceMod error session started
+L 08/06/2020 - 23:49:18: Info (map "vsh_nebula_rc1") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200806.log")
+L 08/06/2020 - 23:49:18: [SM] Exception reported: [sarysamods8] Unable to initialize call to CTFPlayer::PlayTauntSceneFromItem. Need to get updated tf2.tauntem.txt method signatures. Guitar Hero DOT will not function.
+L 08/06/2020 - 23:49:18: [SM] Blaming: freaks/ff2_sarysamods8.ff2
+L 08/06/2020 - 23:49:18: [SM] Call stack trace:
+L 08/06/2020 - 23:49:18: [SM]   [0] SetFailState
+L 08/06/2020 - 23:49:18: [SM]   [1] Line 6887, freaks\ff2_sarysamods8.sp::RegisterForceTaunt
+L 08/06/2020 - 23:49:18: [SM]   [2] Line 737, freaks\ff2_sarysamods8.sp::OnPluginStart2
+L 08/06/2020 - 23:49:18: [SM]   [3] Line 37, C:\hlserver\tf2\tf\addons\sourcemod\scripting\include\freak_fortress_2_subplugin.inc::OnPluginStart
+L 08/06/2020 - 23:49:18: [SM] Fatal error encountered parsing translation file "ff2_newsalmon.charge.txt"
+L 08/06/2020 - 23:49:18: [SM] Error (line 0, column 0): Stream failed to open
+L 08/06/2020 - 23:49:50: Error log file session closed.
+L 08/06/2020 - 23:49:50: SourceMod error session started
+L 08/06/2020 - 23:49:50: Info (map "vsh_zelda_ww_outset_island") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200806.log")
+L 08/06/2020 - 23:49:50: [SM] Fatal error encountered parsing translation file "ff2_newsalmon.charge.txt"
+L 08/06/2020 - 23:49:50: [SM] Error (line 0, column 0): Stream failed to open
+L 08/06/2020 - 23:50:56: [SM] Exception reported: [sarysamods8] Unable to initialize call to CTFPlayer::PlayTauntSceneFromItem. Need to get updated tf2.tauntem.txt method signatures. Guitar Hero DOT will not function.
+L 08/06/2020 - 23:50:56: [SM] Blaming: freaks/ff2_sarysamods8.ff2
+L 08/06/2020 - 23:50:56: [SM] Call stack trace:
+L 08/06/2020 - 23:50:56: [SM]   [0] SetFailState
+L 08/06/2020 - 23:50:56: [SM]   [1] Line 6887, freaks\ff2_sarysamods8.sp::RegisterForceTaunt
+L 08/06/2020 - 23:50:56: [SM]   [2] Line 737, freaks\ff2_sarysamods8.sp::OnPluginStart2
+L 08/06/2020 - 23:50:56: [SM]   [3] Line 37, C:\hlserver\tf2\tf\addons\sourcemod\scripting\include\freak_fortress_2_subplugin.inc::OnPluginStart
+L 08/06/2020 - 23:55:37: Error log file session closed.
+L 08/06/2020 - 23:55:37: SourceMod error session started
+L 08/06/2020 - 23:55:37: Info (map "arena_ravine_event_b6") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200806.log")
+L 08/06/2020 - 23:55:37: [SM] Fatal error encountered parsing translation file "ff2_newsalmon.charge.txt"
+L 08/06/2020 - 23:55:37: [SM] Error (line 0, column 0): Stream failed to open
+L 08/06/2020 - 23:55:37: [SM] Exception reported: Unable to initialize call to CTFPlayer::PlayTauntSceneFromItem. Wait patiently for a fix.
+L 08/06/2020 - 23:55:37: [SM] Blaming: tf_tauntem.smx
+L 08/06/2020 - 23:55:37: [SM] Call stack trace:
+L 08/06/2020 - 23:55:37: [SM]   [0] SetFailState
+L 08/06/2020 - 23:55:37: [SM]   [1] Line 35, C:\sourcemod\tf_tauntem.sp::OnPluginStart
+L 08/06/2020 - 23:55:37: [SM] Unable to load plugin "tf_tauntem.smx": Error detected in plugin startup (see error logs)
+L 08/06/2020 - 23:56:52: [SM] Exception reported: [sarysamods8] Unable to initialize call to CTFPlayer::PlayTauntSceneFromItem. Need to get updated tf2.tauntem.txt method signatures. Guitar Hero DOT will not function.
+L 08/06/2020 - 23:56:52: [SM] Blaming: freaks/ff2_sarysamods8.ff2
+L 08/06/2020 - 23:56:52: [SM] Call stack trace:
+L 08/06/2020 - 23:56:52: [SM]   [0] SetFailState
+L 08/06/2020 - 23:56:52: [SM]   [1] Line 6887, freaks\ff2_sarysamods8.sp::RegisterForceTaunt
+L 08/06/2020 - 23:56:52: [SM]   [2] Line 737, freaks\ff2_sarysamods8.sp::OnPluginStart2
+L 08/06/2020 - 23:56:52: [SM]   [3] Line 37, C:\hlserver\tf2\tf\addons\sourcemod\scripting\include\freak_fortress_2_subplugin.inc::OnPluginStart
+L 08/06/2020 - 23:59:32: Error log file session closed.
+L 08/06/2020 - 23:59:32: SourceMod error session started
+L 08/06/2020 - 23:59:32: Info (map "arena_sawmill") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200806.log")
+L 08/06/2020 - 23:59:32: [SM] Fatal error encountered parsing translation file "ff2_newsalmon.charge.txt"
+L 08/06/2020 - 23:59:32: [SM] Error (line 0, column 0): Stream failed to open
+L 08/07/2020 - 00:00:02: Error log file session closed.

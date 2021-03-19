@@ -1,0 +1,36 @@
+L 02/22/2021 - 15:47:42: SourceMod log file session started (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/L20210222.log") (Version "1.10.0.6490")
+L 02/22/2021 - 15:47:42: [SM] Changed map to "vsh_nebula_rc1"
+L 02/22/2021 - 15:47:48: -------- Mapchange to vsh_nebula_rc1 --------
+L 02/22/2021 - 15:48:01: [mapchooser_extended.smx] Loaded map list for tf.
+L 02/22/2021 - 15:50:21: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 02/22/2021 - 15:50:21: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 02/22/2021 - 15:50:21: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 02/22/2021 - 15:50:21: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 02/22/2021 - 15:50:22: [mapchooser_extended.smx] Loaded map list for tf.
+L 02/22/2021 - 15:51:07: [playercommands.smx] "Nezzie<193><[U:1:107910185]><>" slayed "test1<197><BOT><>"
+L 02/22/2021 - 15:52:08: [playercommands.smx] "Nezzie<193><[U:1:107910185]><>" slayed "test1<197><BOT><>"
+L 02/22/2021 - 15:52:09: [playercommands.smx] "Nezzie<193><[U:1:107910185]><>" slayed "Nezzie<193><[U:1:107910185]><>"
+L 02/22/2021 - 15:52:18: [basecommands.smx] "Nezzie<193><[U:1:107910185]><>" kicked "test1<197><BOT><>" (reason "")
+L 02/22/2021 - 15:52:27: [playercommands.smx] "Nezzie<193><[U:1:107910185]><>" slayed "test<196><BOT><>"
+L 02/22/2021 - 15:52:28: [playercommands.smx] "Nezzie<193><[U:1:107910185]><>" slayed "Nezzie<193><[U:1:107910185]><>"
+L 02/22/2021 - 16:02:34: [basecommands.smx] "Nezzie<193><[U:1:107910185]><>" changed map to "vsh_aquaticbase_b5"
+L 02/22/2021 - 16:02:37: [SM] Changed map to "vsh_aquaticbase_b5"
+L 02/22/2021 - 16:02:40: -------- Mapchange to vsh_aquaticbase_b5 --------
+L 02/22/2021 - 16:02:51: [mapchooser_extended.smx] Loaded map list for tf.
+L 02/22/2021 - 16:03:28: [basecommands.smx] "Nezzie<193><[U:1:107910185]><>" kicked "test<198><BOT><>" (reason "")
+L 02/22/2021 - 16:04:06: [playercommands.smx] "Nezzie<193><[U:1:107910185]><>" slayed "test1<199><BOT><>"
+L 02/22/2021 - 16:04:06: [playercommands.smx] "Nezzie<193><[U:1:107910185]><>" slayed "Nezzie<193><[U:1:107910185]><>"
+L 02/22/2021 - 16:11:08: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 02/22/2021 - 16:11:08: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 02/22/2021 - 16:11:08: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 02/22/2021 - 16:11:09: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 02/22/2021 - 16:11:09: [mapchooser_extended.smx] Loaded map list for tf.
+L 02/22/2021 - 16:11:14: [basecommands.smx] "Nezzie<193><[U:1:107910185]><>" changed map to "vsh_apg_reworked_b2"
+L 02/22/2021 - 16:11:17: [SM] Changed map to "vsh_apg_reworked_b2"
+L 02/22/2021 - 16:11:21: -------- Mapchange to vsh_apg_reworked_b2 --------
+L 02/22/2021 - 16:11:31: [mapchooser_extended.smx] Loaded map list for tf.
+L 02/22/2021 - 16:12:23: [basecommands.smx] "Nezzie<193><[U:1:107910185]><>" kicked "test1<201><BOT><>" (reason "")
+L 02/22/2021 - 16:30:28: [basecommands.smx] "Nezzie<193><[U:1:107910185]><>" kicked "test<200><BOT><>" (reason "")
+L 02/22/2021 - 16:30:29: [basecommands.smx] "Nezzie<193><[U:1:107910185]><>" kicked "Nezzie<193><[U:1:107910185]><>" (reason "")
+L 02/22/2021 - 16:31:46: [mapchooser_extended.smx] Voting for next map has started.
+L 02/24/2021 - 23:44:24: Log file closed.

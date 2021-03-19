@@ -1,0 +1,39 @@
+L 01/23/2021 - 20:39:41: SourceMod log file session started (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/L20210123.log") (Version "1.10.0.6490")
+L 01/23/2021 - 20:39:41: [SM] Changed map to "vsh_shipment_v1a"
+L 01/23/2021 - 20:39:46: -------- Mapchange to vsh_shipment_v1a --------
+L 01/23/2021 - 20:39:59: [mapchooser_extended.smx] Loaded map list for tf.
+L 01/23/2021 - 21:00:17: [mapchooser_extended.smx] Voting for next map has started.
+L 01/23/2021 - 21:00:38: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_chinatown_b3.
+L 01/23/2021 - 21:13:19: [SM] Changed map to "vsh_chinatown_b3"
+L 01/23/2021 - 21:13:24: -------- Mapchange to vsh_chinatown_b3 --------
+L 01/23/2021 - 21:13:37: [mapchooser_extended.smx] Loaded map list for tf.
+L 01/23/2021 - 21:33:58: [mapchooser_extended.smx] Voting for next map has started.
+L 01/23/2021 - 21:34:24: [mapchooser_extended.smx] Voting for next map has started.
+L 01/23/2021 - 21:34:35: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_castle_siege_unreal_sg1.
+L 01/23/2021 - 21:44:40: [SM] Changed map to "vsh_castle_siege_unreal_sg1"
+L 01/23/2021 - 21:44:42: -------- Mapchange to vsh_castle_siege_unreal_sg1 --------
+L 01/23/2021 - 21:44:53: [mapchooser_extended.smx] Loaded map list for tf.
+L 01/23/2021 - 21:47:34: [respawn.smx] "F1SH<40><[U:1:445849108]><>" respawned "F1SH<40><[U:1:445849108]><>"
+L 01/23/2021 - 22:05:16: [mapchooser_extended.smx] Voting for next map has started.
+L 01/23/2021 - 22:05:44: [mapchooser_extended.smx] Voting for next map has started.
+L 01/23/2021 - 22:06:04: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_aquaticbase_b5.
+L 01/23/2021 - 22:20:48: [SM] Changed map to "vsh_aquaticbase_b5"
+L 01/23/2021 - 22:20:51: -------- Mapchange to vsh_aquaticbase_b5 --------
+L 01/23/2021 - 22:21:03: [mapchooser_extended.smx] Loaded map list for tf.
+L 01/23/2021 - 22:41:24: [mapchooser_extended.smx] Voting for next map has started.
+L 01/23/2021 - 22:41:44: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_manncohq_v14.
+L 01/23/2021 - 22:53:49: [SM] Changed map to "vsh_manncohq_v14"
+L 01/23/2021 - 22:53:51: -------- Mapchange to vsh_manncohq_v14 --------
+L 01/23/2021 - 22:54:05: [mapchooser_extended.smx] Loaded map list for tf.
+L 01/23/2021 - 23:14:27: [mapchooser_extended.smx] Voting for next map has started.
+L 01/23/2021 - 23:14:54: [mapchooser_extended.smx] Voting for next map has started.
+L 01/23/2021 - 23:15:15: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_necropolis_b1.
+L 01/23/2021 - 23:27:22: [SM] Changed map to "vsh_necropolis_b1"
+L 01/23/2021 - 23:27:24: -------- Mapchange to vsh_necropolis_b1 --------
+L 01/23/2021 - 23:27:38: [mapchooser_extended.smx] Loaded map list for tf.
+L 01/23/2021 - 23:47:55: [mapchooser_extended.smx] Voting for next map has started.
+L 01/23/2021 - 23:48:00: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_nebula_rc1.
+L 01/23/2021 - 23:58:30: [SM] Changed map to "vsh_nebula_rc1"
+L 01/23/2021 - 23:58:34: -------- Mapchange to vsh_nebula_rc1 --------
+L 01/23/2021 - 23:58:47: [mapchooser_extended.smx] Loaded map list for tf.
+L 01/24/2021 - 00:19:01: Log file closed.

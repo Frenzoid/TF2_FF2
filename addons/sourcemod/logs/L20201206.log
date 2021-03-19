@@ -1,0 +1,119 @@
+L 12/06/2020 - 04:08:42: SourceMod log file session started (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/L20201206.log") (Version "1.10.0.6490")
+L 12/06/2020 - 04:08:42: [respawn.smx] "Nezzie<39><[U:1:107910185]><>" respawned "test<41><BOT><>"
+L 12/06/2020 - 04:08:42: [respawn.smx] "Nezzie<39><[U:1:107910185]><>" respawned "test1<42><BOT><>"
+L 12/06/2020 - 04:09:09: [respawn.smx] "Nezzie<39><[U:1:107910185]><>" respawned "Nezzie<39><[U:1:107910185]><>"
+L 12/06/2020 - 04:16:05: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 12/06/2020 - 04:16:05: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 12/06/2020 - 04:16:05: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 12/06/2020 - 04:16:05: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 12/06/2020 - 04:16:06: [mapchooser_extended.smx] Loaded map list for tf.
+L 12/06/2020 - 04:16:13: [basecommands.smx] "Nezzie<39><[U:1:107910185]><>" changed map to "vsh_area_54tress_b4"
+L 12/06/2020 - 04:16:16: [SM] Changed map to "vsh_area_54tress_b4"
+L 12/06/2020 - 04:16:19: -------- Mapchange to vsh_area_54tress_b4 --------
+L 12/06/2020 - 04:16:27: [mapchooser_extended.smx] Loaded map list for tf.
+L 12/06/2020 - 04:18:11: [respawn.smx] "FROSTY F1SH (ART COMMS. OPEN)<40><[U:1:445849108]><>" respawned "FROSTY F1SH (ART COMMS. OPEN)<40><[U:1:445849108]><>"
+L 12/06/2020 - 04:19:08: [basecommands.smx] "Nezzie<39><[U:1:107910185]><>" changed map to "vsh_area_54tress_b4"
+L 12/06/2020 - 04:19:11: [SM] Changed map to "vsh_area_54tress_b4"
+L 12/06/2020 - 04:19:13: -------- Mapchange to vsh_area_54tress_b4 --------
+L 12/06/2020 - 04:19:21: [mapchooser_extended.smx] Loaded map list for tf.
+L 12/06/2020 - 04:21:12: [playercommands.smx] "Nezzie<39><[U:1:107910185]><>" slayed "Nezzie<39><[U:1:107910185]><>"
+L 12/06/2020 - 04:21:13: [playercommands.smx] "Nezzie<39><[U:1:107910185]><>" slayed "FROSTY F1SH (ART COMMS. OPEN)<40><[U:1:445849108]><>"
+L 12/06/2020 - 04:30:03: [basecommands.smx] "Nezzie<39><[U:1:107910185]><>" changed map to "vsh_area_54tress_b4"
+L 12/06/2020 - 04:30:06: [SM] Changed map to "vsh_area_54tress_b4"
+L 12/06/2020 - 04:30:07: -------- Mapchange to vsh_area_54tress_b4 --------
+L 12/06/2020 - 04:30:17: [mapchooser_extended.smx] Loaded map list for tf.
+L 12/06/2020 - 04:31:11: [basecommands.smx] "Nezzie<39><[U:1:107910185]><>" changed map to "vsh_area_54tress_b4"
+L 12/06/2020 - 04:31:14: [SM] Changed map to "vsh_area_54tress_b4"
+L 12/06/2020 - 04:31:15: -------- Mapchange to vsh_area_54tress_b4 --------
+L 12/06/2020 - 04:31:24: [mapchooser_extended.smx] Loaded map list for tf.
+L 12/06/2020 - 04:43:04: [basechat.smx] "Console<0><Console><Console>" triggered sm_say (text The round time has ended, omaewa-mou shindeiru)
+L 12/06/2020 - 04:43:04: [playercommands.smx] "Console<0><Console><Console>" slayed "Nezzie<39><[U:1:107910185]><>"
+L 12/06/2020 - 04:43:04: [playercommands.smx] "Console<0><Console><Console>" slayed "test<43><BOT><>"
+L 12/06/2020 - 04:43:04: [playercommands.smx] "Console<0><Console><Console>" slayed "test1<44><BOT><>"
+L 12/06/2020 - 04:49:52: [basecommands.smx] "Nezzie<39><[U:1:107910185]><>" changed map to "vsh_apg_v2_sg1"
+L 12/06/2020 - 04:49:55: [SM] Changed map to "vsh_apg_v2_sg1"
+L 12/06/2020 - 04:49:57: -------- Mapchange to vsh_apg_v2_sg1 --------
+L 12/06/2020 - 04:50:07: [mapchooser_extended.smx] Loaded map list for tf.
+L 12/06/2020 - 04:52:18: [basecommands.smx] "Nezzie<39><[U:1:107910185]><>" changed map to "vsh_apg_v2_sg1"
+L 12/06/2020 - 04:52:21: [SM] Changed map to "vsh_apg_v2_sg1"
+L 12/06/2020 - 04:52:23: -------- Mapchange to vsh_apg_v2_sg1 --------
+L 12/06/2020 - 04:52:31: [mapchooser_extended.smx] Loaded map list for tf.
+L 12/06/2020 - 04:54:11: [basecommands.smx] "Nezzie<39><[U:1:107910185]><>" kicked "test<46><BOT><>" (reason "")
+L 12/06/2020 - 04:54:11: [basecommands.smx] "Nezzie<39><[U:1:107910185]><>" kicked "test1<47><BOT><>" (reason "")
+L 12/06/2020 - 05:05:46: [basechat.smx] "Console<0><Console><Console>" triggered sm_say (text The round time has ended, omaewa-mou shindeiru)
+L 12/06/2020 - 05:05:46: [playercommands.smx] "Console<0><Console><Console>" slayed "Nezzie<39><[U:1:107910185]><>"
+L 12/06/2020 - 05:05:46: [playercommands.smx] "Console<0><Console><Console>" slayed "FROSTY F1SH (ART COMMS. OPEN)<40><[U:1:445849108]><>"
+L 12/06/2020 - 05:05:46: [playercommands.smx] "Console<0><Console><Console>" slayed "test<48><BOT><>"
+L 12/06/2020 - 05:05:46: [playercommands.smx] "Console<0><Console><Console>" slayed "test1<49><BOT><>"
+L 12/06/2020 - 05:09:02: [basecommands.smx] "Nezzie<39><[U:1:107910185]><>" changed map to "vsh_apg_v2_sg1"
+L 12/06/2020 - 05:09:05: [SM] Changed map to "vsh_apg_v2_sg1"
+L 12/06/2020 - 05:09:07: -------- Mapchange to vsh_apg_v2_sg1 --------
+L 12/06/2020 - 05:09:17: [mapchooser_extended.smx] Loaded map list for tf.
+L 12/06/2020 - 05:18:04: [basecommands.smx] "Nezzie<39><[U:1:107910185]><>" changed map to "vsh_apg_v2_sg1"
+L 12/06/2020 - 05:18:07: [SM] Changed map to "vsh_apg_v2_sg1"
+L 12/06/2020 - 05:18:09: -------- Mapchange to vsh_apg_v2_sg1 --------
+L 12/06/2020 - 05:18:18: [mapchooser_extended.smx] Loaded map list for tf.
+L 12/06/2020 - 05:38:33: [mapchooser_extended.smx] Voting for next map has started.
+L 12/06/2020 - 07:18:09: [basecommands.smx] "Nezzie<50><[U:1:107910185]><>" changed map to "vsh_apg_v2_sg1"
+L 12/06/2020 - 07:18:12: [SM] Changed map to "vsh_apg_v2_sg1"
+L 12/06/2020 - 07:18:14: -------- Mapchange to vsh_apg_v2_sg1 --------
+L 12/06/2020 - 07:18:24: [mapchooser_extended.smx] Loaded map list for tf.
+L 12/06/2020 - 07:20:03: [playercommands.smx] "Nezzie<50><[U:1:107910185]><>" slayed "test<53><BOT><>"
+L 12/06/2020 - 07:20:04: [playercommands.smx] "Nezzie<50><[U:1:107910185]><>" slayed "test1<54><BOT><>"
+L 12/06/2020 - 07:23:47: [playercommands.smx] "Nezzie<50><[U:1:107910185]><>" slayed "test<53><BOT><>"
+L 12/06/2020 - 07:23:59: [playercommands.smx] "Nezzie<50><[U:1:107910185]><>" slayed "test1<54><BOT><>"
+L 12/06/2020 - 07:24:06: [playercommands.smx] "Nezzie<50><[U:1:107910185]><>" slayed "test1<54><BOT><>"
+L 12/06/2020 - 07:33:37: [basechat.smx] "Console<0><Console><Console>" triggered sm_say (text The round time has ended, omaewa-mou shindeiru)
+L 12/06/2020 - 07:33:37: [playercommands.smx] "Console<0><Console><Console>" slayed "Nezzie<50><[U:1:107910185]><>"
+L 12/06/2020 - 07:33:37: [playercommands.smx] "Console<0><Console><Console>" slayed "test<53><BOT><>"
+L 12/06/2020 - 07:33:37: [playercommands.smx] "Console<0><Console><Console>" slayed "test1<54><BOT><>"
+L 12/06/2020 - 07:37:00: [basecommands.smx] "Nezzie<50><[U:1:107910185]><>" changed map to "vsh_apg_v2_sg1"
+L 12/06/2020 - 07:37:03: [SM] Changed map to "vsh_apg_v2_sg1"
+L 12/06/2020 - 07:37:05: -------- Mapchange to vsh_apg_v2_sg1 --------
+L 12/06/2020 - 07:37:15: [mapchooser_extended.smx] Loaded map list for tf.
+L 12/06/2020 - 07:44:19: [playercommands.smx] "Nezzie<50><[U:1:107910185]><>" slayed "test<55><BOT><>"
+L 12/06/2020 - 07:49:51: [basecommands.smx] "Nezzie<50><[U:1:107910185]><>" changed map to "vsh_apg_v2_sg1"
+L 12/06/2020 - 07:49:54: [SM] Changed map to "vsh_apg_v2_sg1"
+L 12/06/2020 - 07:49:57: -------- Mapchange to vsh_apg_v2_sg1 --------
+L 12/06/2020 - 07:50:08: [mapchooser_extended.smx] Loaded map list for tf.
+L 12/06/2020 - 07:51:04: [playercommands.smx] "Nezzie<50><[U:1:107910185]><>" slayed "test<57><BOT><>"
+L 12/06/2020 - 07:54:35: [playercommands.smx] "Nezzie<50><[U:1:107910185]><>" slayed "test1<58><BOT><>"
+L 12/06/2020 - 07:54:56: [playercommands.smx] "Nezzie<50><[U:1:107910185]><>" slayed "test<57><BOT><>"
+L 12/06/2020 - 08:02:39: [playercommands.smx] "Nezzie<50><[U:1:107910185]><>" slayed "test<57><BOT><>"
+L 12/06/2020 - 08:07:18: [basecommands.smx] "Nezzie<50><[U:1:107910185]><>" changed map to "vsh_apg_v2_sg1"
+L 12/06/2020 - 08:07:21: [SM] Changed map to "vsh_apg_v2_sg1"
+L 12/06/2020 - 08:07:23: -------- Mapchange to vsh_apg_v2_sg1 --------
+L 12/06/2020 - 08:07:34: [mapchooser_extended.smx] Loaded map list for tf.
+L 12/06/2020 - 08:08:22: [playercommands.smx] "Nezzie<50><[U:1:107910185]><>" slayed "test<59><BOT><>"
+L 12/06/2020 - 08:11:01: [basecommands.smx] "Nezzie<50><[U:1:107910185]><>" changed map to "vsh_apg_v2_sg1"
+L 12/06/2020 - 08:11:04: [SM] Changed map to "vsh_apg_v2_sg1"
+L 12/06/2020 - 08:11:07: -------- Mapchange to vsh_apg_v2_sg1 --------
+L 12/06/2020 - 08:11:16: [mapchooser_extended.smx] Loaded map list for tf.
+L 12/06/2020 - 08:14:05: [basecommands.smx] "Nezzie<50><[U:1:107910185]><>" changed map to "vsh_apg_v2_sg1"
+L 12/06/2020 - 08:14:08: [SM] Changed map to "vsh_apg_v2_sg1"
+L 12/06/2020 - 08:14:11: -------- Mapchange to vsh_apg_v2_sg1 --------
+L 12/06/2020 - 08:14:20: [mapchooser_extended.smx] Loaded map list for tf.
+L 12/06/2020 - 08:15:04: [playercommands.smx] "Nezzie<50><[U:1:107910185]><>" slayed "test<63><BOT><>"
+L 12/06/2020 - 08:16:17: [playercommands.smx] "Nezzie<50><[U:1:107910185]><>" slayed "test<63><BOT><>"
+L 12/06/2020 - 08:16:18: [playercommands.smx] "Nezzie<50><[U:1:107910185]><>" slayed "test1<64><BOT><>"
+L 12/06/2020 - 08:16:39: [playercommands.smx] "Nezzie<50><[U:1:107910185]><>" slayed "test<63><BOT><>"
+L 12/06/2020 - 08:19:02: [playercommands.smx] "Nezzie<50><[U:1:107910185]><>" slayed "test<63><BOT><>"
+L 12/06/2020 - 08:19:03: [playercommands.smx] "Nezzie<50><[U:1:107910185]><>" slayed "test1<64><BOT><>"
+L 12/06/2020 - 08:25:08: [basecommands.smx] "Nezzie<50><[U:1:107910185]><>" changed map to "vsh_apg_v2_sg1"
+L 12/06/2020 - 08:25:11: [SM] Changed map to "vsh_apg_v2_sg1"
+L 12/06/2020 - 08:25:14: -------- Mapchange to vsh_apg_v2_sg1 --------
+L 12/06/2020 - 08:25:24: [mapchooser_extended.smx] Loaded map list for tf.
+L 12/06/2020 - 08:45:38: [mapchooser_extended.smx] Voting for next map has started.
+L 12/06/2020 - 19:27:38: [basechat.smx] "Console<0><Console><Console>" triggered sm_say (text The round time has ended, omaewa-mou shindeiru)
+L 12/06/2020 - 19:27:38: [playercommands.smx] "Console<0><Console><Console>" slayed "Nezzie<66><[U:1:107910185]><>"
+L 12/06/2020 - 19:27:38: [playercommands.smx] "Console<0><Console><Console>" slayed "test<67><BOT><>"
+L 12/06/2020 - 19:27:38: [playercommands.smx] "Console<0><Console><Console>" slayed "test1<68><BOT><>"
+L 12/06/2020 - 19:27:56: [SM] Changed map to "vsh_mountainbash_v3_sg1"
+L 12/06/2020 - 19:28:00: -------- Mapchange to vsh_mountainbash_v3_sg1 --------
+L 12/06/2020 - 19:28:11: [mapchooser_extended.smx] Loaded map list for tf.
+L 12/06/2020 - 19:32:10: [funcommandsX.smx] "Nezzie<66><[U:1:107910185]><>" teleported "test<69><BOT><>"
+L 12/06/2020 - 19:32:12: [funcommandsX.smx] "Nezzie<66><[U:1:107910185]><>" teleported "test1<70><BOT><>"
+L 12/06/2020 - 19:32:58: [playercommands.smx] "Nezzie<66><[U:1:107910185]><>" slayed "test1<70><BOT><>"
+L 12/06/2020 - 19:33:16: [playercommands.smx] "Nezzie<66><[U:1:107910185]><>" slayed "test<69><BOT><>"
+L 12/06/2020 - 19:48:27: [mapchooser_extended.smx] Voting for next map has started.
+L 12/07/2020 - 00:57:38: Log file closed.

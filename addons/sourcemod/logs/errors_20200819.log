@@ -1,0 +1,97 @@
+L 08/19/2020 - 04:02:01: SourceMod error session started
+L 08/19/2020 - 04:02:01: Info (map "arena_lumberyard") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200819.log")
+L 08/19/2020 - 04:02:01: [SM] Plugin "roundtimer.smx" encountered error 23: Native detected error
+L 08/19/2020 - 04:02:01: [SM] Invalid timer handle 55d20308 (error 3) during timer end, displayed function is timer callback, not the stack trace
+L 08/19/2020 - 04:02:01: [SM] Unable to call function "Timer_Round" due to above error(s).
+L 08/19/2020 - 04:03:26: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/19/2020 - 04:03:26: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/19/2020 - 04:03:26: [store.smx] Database connection is lost or not yet initialized.
+L 08/19/2020 - 04:08:16: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/19/2020 - 04:08:16: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/19/2020 - 04:08:16: [store.smx] Database connection is lost or not yet initialized.
+L 08/19/2020 - 04:16:10: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/19/2020 - 04:16:11: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/19/2020 - 04:16:11: [store.smx] Database connection is lost or not yet initialized.
+L 08/19/2020 - 04:16:11: [tf2_modelmanager.smx] [TF2] Model Manager: File "models/modelmanager/tails/radigan_new.mdl" not found. Excluding from list.
+L 08/19/2020 - 04:17:03: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/19/2020 - 04:17:04: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/19/2020 - 04:17:04: [store.smx] Database connection is lost or not yet initialized.
+L 08/19/2020 - 04:20:37: Error log file session closed.
+L 08/19/2020 - 04:21:48: SourceMod error session started
+L 08/19/2020 - 04:21:48: Info (map "arena_lumberyard") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200819.log")
+L 08/19/2020 - 04:21:48: [SM] Exception reported: Array index out-of-bounds (index -1, limit 4)
+L 08/19/2020 - 04:21:48: [SM] Blaming: freak_fortress_2.smx
+L 08/19/2020 - 04:21:48: [SM] Call stack trace:
+L 08/19/2020 - 04:21:48: [SM]   [1] Line 17336, Unofficial Freak Fortress::Native_GetBossCharge
+L 08/19/2020 - 04:21:48: [SM]   [3] FF2_GetBossCharge
+L 08/19/2020 - 04:21:48: [SM]   [4] Line 889, FF2 Subplugin: Bat's Public Pack::FF2_OnAbility2
+L 08/19/2020 - 04:21:48: [SM]   [5] Line 52, D:\batfo_qrgut13\Documents\SourceMod 1.9 Compiler\addons\sourcemod\scripting\include\freak_fortress_2_subplugin.inc::FF2_OnAbility
+L 08/19/2020 - 04:21:48: [SM]   [7] Call_Finish
+L 08/19/2020 - 04:21:48: [SM]   [8] Line 16949, Unofficial Freak Fortress::UseAbility
+L 08/19/2020 - 04:21:48: [SM]   [9] Line 11243, Unofficial Freak Fortress::ActivateAbilitySlot
+L 08/19/2020 - 04:21:48: [SM]   [10] Line 12183, Unofficial Freak Fortress::OnPlayerHurt
+L 08/19/2020 - 04:26:57: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/19/2020 - 04:26:58: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/19/2020 - 04:26:58: [store.smx] Database connection is lost or not yet initialized.
+L 08/19/2020 - 04:26:58: [tf2_modelmanager.smx] [TF2] Model Manager: File "materials/models/modelmanager/tails/dragonv2.mdl" not found. Excluding from list.
+L 08/19/2020 - 04:26:58: [tf2_modelmanager.smx] [TF2] Model Manager: File "materials/models/modelmanager/tails/demonv2.mdl" not found. Excluding from list.
+L 08/19/2020 - 04:26:58: [tf2_modelmanager.smx] [TF2] Model Manager: File "materials/models/modelmanager/playermodels/radigan_new.mdl" not found. Excluding from list.
+L 08/19/2020 - 04:27:33: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/19/2020 - 04:27:34: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/19/2020 - 04:27:34: [store.smx] Database connection is lost or not yet initialized.
+L 08/19/2020 - 04:29:47: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/19/2020 - 04:29:47: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/19/2020 - 04:29:47: [store.smx] Database connection is lost or not yet initialized.
+L 08/19/2020 - 04:30:10: Error log file session closed.
+L 08/19/2020 - 04:38:51: SourceMod error session started
+L 08/19/2020 - 04:38:51: Info (map "arena_lumberyard") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200819.log")
+L 08/19/2020 - 04:38:51: [SM] Plugin "roundtimer.smx" encountered error 23: Native detected error
+L 08/19/2020 - 04:38:51: [SM] Invalid timer handle 9ffb0c8a (error 3) during timer end, displayed function is timer callback, not the stack trace
+L 08/19/2020 - 04:38:51: [SM] Unable to call function "Timer_Round" due to above error(s).
+L 08/19/2020 - 04:39:07: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/19/2020 - 04:39:08: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/19/2020 - 04:39:08: [store.smx] Database connection is lost or not yet initialized.
+L 08/19/2020 - 04:39:24: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/19/2020 - 04:39:25: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/19/2020 - 04:39:25: [store.smx] Database connection is lost or not yet initialized.
+L 08/19/2020 - 04:44:10: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/19/2020 - 04:44:10: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/19/2020 - 04:44:10: [store.smx] Database connection is lost or not yet initialized.
+L 08/19/2020 - 04:44:48: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/19/2020 - 04:44:49: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/19/2020 - 04:44:49: [store.smx] Database connection is lost or not yet initialized.
+L 08/19/2020 - 18:03:17: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/19/2020 - 18:03:17: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/19/2020 - 18:03:17: [store.smx] Database connection is lost or not yet initialized.
+L 08/19/2020 - 18:03:38: Error log file session closed.
+L 08/19/2020 - 18:12:25: SourceMod error session started
+L 08/19/2020 - 18:12:25: Info (map "arena_nucleus") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200819.log")
+L 08/19/2020 - 18:12:25: [SM] Plugin "roundtimer.smx" encountered error 23: Native detected error
+L 08/19/2020 - 18:12:25: [SM] Invalid timer handle d93606c4 (error 3) during timer end, displayed function is timer callback, not the stack trace
+L 08/19/2020 - 18:12:25: [SM] Unable to call function "Timer_Round" due to above error(s).
+L 08/19/2020 - 18:18:28: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/19/2020 - 18:18:28: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/19/2020 - 18:18:28: [store.smx] Database connection is lost or not yet initialized.
+L 08/19/2020 - 18:18:59: Error log file session closed.
+L 08/19/2020 - 18:27:41: SourceMod error session started
+L 08/19/2020 - 18:27:41: Info (map "arena_lumberyard") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200819.log")
+L 08/19/2020 - 18:27:41: [SM] Plugin "roundtimer.smx" encountered error 23: Native detected error
+L 08/19/2020 - 18:27:41: [SM] Invalid timer handle c4e80859 (error 3) during timer end, displayed function is timer callback, not the stack trace
+L 08/19/2020 - 18:27:41: [SM] Unable to call function "Timer_Round" due to above error(s).
+L 08/19/2020 - 18:31:27: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/19/2020 - 18:31:28: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/19/2020 - 18:31:28: [store.smx] Database connection is lost or not yet initialized.
+L 08/19/2020 - 18:32:39: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/19/2020 - 18:32:39: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/19/2020 - 18:32:39: [store.smx] Database connection is lost or not yet initialized.
+L 08/19/2020 - 18:53:30: [SM] Plugin "roundtimer.smx" encountered error 23: Native detected error
+L 08/19/2020 - 18:53:30: [SM] Invalid timer handle 15310239 (error 3) during timer end, displayed function is timer callback, not the stack trace
+L 08/19/2020 - 18:53:30: [SM] Unable to call function "Timer_Round" due to above error(s).
+L 08/19/2020 - 18:53:46: Error log file session closed.
+L 08/19/2020 - 18:53:57: SourceMod error session started
+L 08/19/2020 - 18:53:57: Info (map "arena_lumberyard") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200819.log")
+L 08/19/2020 - 18:53:57: [tf2_modelmanager.smx] [TF2] Model Manager: File "models/modelmanager/playermodels/radigan_new.mdl" not found. Excluding from list.
+L 08/19/2020 - 19:03:09: [SM] Plugin "roundtimer.smx" encountered error 23: Native detected error
+L 08/19/2020 - 19:03:09: [SM] Invalid timer handle 9c8c0680 (error 3) during timer end, displayed function is timer callback, not the stack trace
+L 08/19/2020 - 19:03:09: [SM] Unable to call function "Timer_Round" due to above error(s).
+L 08/20/2020 - 01:36:54: Error log file session closed.

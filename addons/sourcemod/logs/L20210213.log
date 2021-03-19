@@ -1,0 +1,12 @@
+L 02/13/2021 - 00:00:44: SourceMod log file session started (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/L20210213.log") (Version "1.10.0.6490")
+L 02/13/2021 - 00:00:44: [mapchooser_extended.smx] Voting for next map has started.
+L 02/13/2021 - 00:00:47: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_skyhigh_resort_b8_sg4.
+L 02/13/2021 - 00:15:05: [SM] Changed map to "vsh_skyhigh_resort_b8_sg4"
+L 02/13/2021 - 00:15:06: -------- Mapchange to vsh_skyhigh_resort_b8_sg4 --------
+L 02/13/2021 - 00:15:19: [mapchooser_extended.smx] Loaded map list for tf.
+L 02/13/2021 - 00:35:34: [mapchooser_extended.smx] Voting for next map has started.
+L 02/13/2021 - 01:38:44: [SM] Changed map to "vsh_crevice_b5"
+L 02/13/2021 - 01:38:47: -------- Mapchange to vsh_crevice_b5 --------
+L 02/13/2021 - 01:38:59: [mapchooser_extended.smx] Loaded map list for tf.
+L 02/13/2021 - 01:59:15: [mapchooser_extended.smx] Voting for next map has started.
+L 02/14/2021 - 02:10:55: Log file closed.

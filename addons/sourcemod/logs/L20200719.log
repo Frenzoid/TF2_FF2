@@ -1,0 +1,372 @@
+L 07/19/2020 - 00:04:37: SourceMod log file session started (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/L20200719.log") (Version "1.10.0.6490")
+L 07/19/2020 - 00:04:37: [basecommands.smx] "Nezzie♥<9><[U:1:107910185]><>" changed map to "arena_lumberyard"
+L 07/19/2020 - 00:04:40: [SM] Changed map to "arena_lumberyard"
+L 07/19/2020 - 00:04:41: -------- Mapchange to arena_lumberyard --------
+L 07/19/2020 - 00:04:52: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/19/2020 - 00:06:39: [playercommands.smx] "Nezzie♥<9><[U:1:107910185]><>" slayed "RageQuit<24><BOT><>"
+L 07/19/2020 - 00:08:51: [basecommands.smx] "Nezzie♥<9><[U:1:107910185]><>" changed map to "arena_lumberyard"
+L 07/19/2020 - 00:08:54: [SM] Changed map to "arena_lumberyard"
+L 07/19/2020 - 00:08:55: -------- Mapchange to arena_lumberyard --------
+L 07/19/2020 - 00:09:05: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/19/2020 - 00:11:54: [basecommands.smx] "Nezzie♥<9><[U:1:107910185]><>" changed map to "arena_lumberyard"
+L 07/19/2020 - 00:11:57: [SM] Changed map to "arena_lumberyard"
+L 07/19/2020 - 00:11:58: -------- Mapchange to arena_lumberyard --------
+L 07/19/2020 - 00:12:09: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/19/2020 - 00:12:34: [playercommands.smx] "Nezzie♥<9><[U:1:107910185]><>" slayed "Nom Nom Nom<34><BOT><>"
+L 07/19/2020 - 00:12:35: [playercommands.smx] "Nezzie♥<9><[U:1:107910185]><>" slayed "Cannon Fodder<33><BOT><>"
+L 07/19/2020 - 00:19:22: [basecommands.smx] "Nezzie♥<9><[U:1:107910185]><>" changed map to "arena_lumberyard"
+L 07/19/2020 - 00:19:25: [SM] Changed map to "arena_lumberyard"
+L 07/19/2020 - 00:19:27: -------- Mapchange to arena_lumberyard --------
+L 07/19/2020 - 00:19:37: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/19/2020 - 00:20:56: [respawn.smx] "Nezzie♥<9><[U:1:107910185]><>" respawned "Nezzie♥<9><[U:1:107910185]><>"
+L 07/19/2020 - 00:39:52: [mapchooser_extended.smx] Voting for next map has started.
+L 07/19/2020 - 03:37:46: [basecommands.smx] "Nezzie♥<38><[U:1:107910185]><>" changed map to "arena_lumberyard"
+L 07/19/2020 - 03:37:49: [SM] Changed map to "arena_lumberyard"
+L 07/19/2020 - 03:37:51: -------- Mapchange to arena_lumberyard --------
+L 07/19/2020 - 03:38:01: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/19/2020 - 03:39:06: [basecommands.smx] "Nezzie♥<38><[U:1:107910185]><>" changed map to "arena_lumberyard"
+L 07/19/2020 - 03:39:09: [SM] Changed map to "arena_lumberyard"
+L 07/19/2020 - 03:39:10: -------- Mapchange to arena_lumberyard --------
+L 07/19/2020 - 03:39:20: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/19/2020 - 03:40:13: SourceMod log file session started (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/L20200719.log") (Version "1.10.0.6490")
+L 07/19/2020 - 03:40:13: [TF2ITEMS] "GiveNamedItem" offset = 484
+L 07/19/2020 - 03:40:14: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 07/19/2020 - 03:40:15: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 07/19/2020 - 03:40:15: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 07/19/2020 - 03:40:35: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/19/2020 - 03:40:37: [hpregeneration.smx] [HpRegeneration] - Loaded
+L 07/19/2020 - 03:41:59: SourceMod log file session started (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/L20200719.log") (Version "1.10.0.6490")
+L 07/19/2020 - 03:41:59: [TF2ITEMS] "GiveNamedItem" offset = 484
+L 07/19/2020 - 03:42:00: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 07/19/2020 - 03:42:00: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 07/19/2020 - 03:42:00: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 07/19/2020 - 03:42:15: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/19/2020 - 03:42:17: [hpregeneration.smx] [HpRegeneration] - Loaded
+L 07/19/2020 - 13:23:54: [basecommands.smx] "MrFrenzoid<2><[U:1:91292555]><>" changed map to "vsh_manncohq_v14"
+L 07/19/2020 - 13:23:57: [SM] Changed map to "vsh_manncohq_v14"
+L 07/19/2020 - 13:24:00: -------- Mapchange to vsh_manncohq_v14 --------
+L 07/19/2020 - 13:24:10: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/19/2020 - 13:30:54: [basecommands.smx] "MrFrenzoid<2><[U:1:91292555]><>" changed map to "vsh_manncohq_v14"
+L 07/19/2020 - 13:30:57: [SM] Changed map to "vsh_manncohq_v14"
+L 07/19/2020 - 13:30:59: -------- Mapchange to vsh_manncohq_v14 --------
+L 07/19/2020 - 13:31:08: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/19/2020 - 13:35:50: [basecommands.smx] "MrFrenzoid<2><[U:1:91292555]><>" changed map to "vsh_manncohq_v14"
+L 07/19/2020 - 13:35:53: [SM] Changed map to "vsh_manncohq_v14"
+L 07/19/2020 - 13:35:55: -------- Mapchange to vsh_manncohq_v14 --------
+L 07/19/2020 - 13:36:05: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/19/2020 - 13:39:40: [basecommands.smx] "MrFrenzoid<2><[U:1:91292555]><>" changed map to "vsh_manncohq_v14"
+L 07/19/2020 - 13:39:43: [SM] Changed map to "vsh_manncohq_v14"
+L 07/19/2020 - 13:39:45: -------- Mapchange to vsh_manncohq_v14 --------
+L 07/19/2020 - 13:39:54: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/19/2020 - 13:42:41: [basecommands.smx] "MrFrenzoid<2><[U:1:91292555]><>" changed map to "vsh_manncohq_v14"
+L 07/19/2020 - 13:42:44: [SM] Changed map to "vsh_manncohq_v14"
+L 07/19/2020 - 13:42:46: -------- Mapchange to vsh_manncohq_v14 --------
+L 07/19/2020 - 13:42:56: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/19/2020 - 13:44:48: [respawn.smx] "MrFrenzoid<2><[U:1:91292555]><>" respawned "MrFrenzoid<2><[U:1:91292555]><>"
+L 07/19/2020 - 13:49:24: [basecommands.smx] "MrFrenzoid<2><[U:1:91292555]><>" changed map to "vsh_manncohq_v14"
+L 07/19/2020 - 13:49:27: [SM] Changed map to "vsh_manncohq_v14"
+L 07/19/2020 - 13:49:29: -------- Mapchange to vsh_manncohq_v14 --------
+L 07/19/2020 - 13:49:38: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/19/2020 - 13:53:44: [respawn.smx] "MrFrenzoid<2><[U:1:91292555]><>" respawned "MrFrenzoid<2><[U:1:91292555]><>"
+L 07/19/2020 - 13:58:22: [basechat.smx] "Console<0><Console><Console>" triggered sm_say (text The round time has ended, omaewa-mou shindeiru)
+L 07/19/2020 - 13:58:22: [playercommands.smx] "Console<0><Console><Console>" slayed "The Freeman<16><BOT><>"
+L 07/19/2020 - 13:58:22: [playercommands.smx] "Console<0><Console><Console>" slayed "Soulless<17><BOT><>"
+L 07/19/2020 - 13:58:22: [playercommands.smx] "Console<0><Console><Console>" slayed "BeepBeepBoop<18><BOT><>"
+L 07/19/2020 - 14:06:40: [basechat.smx] "Console<0><Console><Console>" triggered sm_say (text The round time has ended, omaewa-mou shindeiru)
+L 07/19/2020 - 14:06:40: [playercommands.smx] "Console<0><Console><Console>" slayed "MrFrenzoid<2><[U:1:91292555]><>"
+L 07/19/2020 - 14:06:40: [playercommands.smx] "Console<0><Console><Console>" slayed "The Freeman<16><BOT><>"
+L 07/19/2020 - 14:06:40: [playercommands.smx] "Console<0><Console><Console>" slayed "Soulless<17><BOT><>"
+L 07/19/2020 - 14:06:40: [playercommands.smx] "Console<0><Console><Console>" slayed "BeepBeepBoop<18><BOT><>"
+L 07/19/2020 - 14:09:53: [mapchooser_extended.smx] Voting for next map has started.
+L 07/19/2020 - 14:14:58: [basechat.smx] "Console<0><Console><Console>" triggered sm_say (text The round time has ended, omaewa-mou shindeiru)
+L 07/19/2020 - 14:14:58: [playercommands.smx] "Console<0><Console><Console>" slayed "MrFrenzoid<2><[U:1:91292555]><>"
+L 07/19/2020 - 14:14:58: [playercommands.smx] "Console<0><Console><Console>" slayed "The Freeman<16><BOT><>"
+L 07/19/2020 - 14:14:58: [playercommands.smx] "Console<0><Console><Console>" slayed "Soulless<17><BOT><>"
+L 07/19/2020 - 14:14:58: [playercommands.smx] "Console<0><Console><Console>" slayed "BeepBeepBoop<18><BOT><>"
+L 07/19/2020 - 14:20:39: [basecommands.smx] "MrFrenzoid<2><[U:1:91292555]><>" changed map to "vsh_manncohq_v14"
+L 07/19/2020 - 14:20:42: [SM] Changed map to "vsh_manncohq_v14"
+L 07/19/2020 - 14:20:44: -------- Mapchange to vsh_manncohq_v14 --------
+L 07/19/2020 - 14:20:54: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/19/2020 - 14:25:53: [basecommands.smx] "MrFrenzoid<2><[U:1:91292555]><>" changed map to "vsh_manncohq_v14"
+L 07/19/2020 - 14:25:56: [SM] Changed map to "vsh_manncohq_v14"
+L 07/19/2020 - 14:25:59: -------- Mapchange to vsh_manncohq_v14 --------
+L 07/19/2020 - 14:26:09: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/19/2020 - 14:27:06: [nominations_extended.smx] MrFrenzoid nominated arena_badlands
+L 07/19/2020 - 14:28:25: [basecommands.smx] "MrFrenzoid<2><[U:1:91292555]><>" changed map to "vsh_manncohq_v14"
+L 07/19/2020 - 14:28:28: [SM] Changed map to "vsh_manncohq_v14"
+L 07/19/2020 - 14:28:31: -------- Mapchange to vsh_manncohq_v14 --------
+L 07/19/2020 - 14:28:40: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/19/2020 - 14:30:09: [basecommands.smx] "MrFrenzoid<2><[U:1:91292555]><>" changed map to "vsh_manncohq_v14"
+L 07/19/2020 - 14:30:12: [SM] Changed map to "vsh_manncohq_v14"
+L 07/19/2020 - 14:30:14: -------- Mapchange to vsh_manncohq_v14 --------
+L 07/19/2020 - 14:30:24: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/19/2020 - 14:38:58: [basechat.smx] "Console<0><Console><Console>" triggered sm_say (text The round time has ended, omaewa-mou shindeiru)
+L 07/19/2020 - 14:38:58: [playercommands.smx] "Console<0><Console><Console>" slayed "MrFrenzoid<2><[U:1:91292555]><>"
+L 07/19/2020 - 14:38:58: [playercommands.smx] "Console<0><Console><Console>" slayed "GutsAndGlory!<28><BOT><>"
+L 07/19/2020 - 14:38:58: [playercommands.smx] "Console<0><Console><Console>" slayed "Saxton Hale<29><BOT><>"
+L 07/19/2020 - 14:38:58: [playercommands.smx] "Console<0><Console><Console>" slayed "Screamin' Eagles<30><BOT><>"
+L 07/19/2020 - 14:48:55: [SM] Changed map to "vsh_castle_siege_unreal_sg1"
+L 07/19/2020 - 14:48:57: -------- Mapchange to vsh_castle_siege_unreal_sg1 --------
+L 07/19/2020 - 14:49:09: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/19/2020 - 14:49:49: [mapchooser_extended.smx] Voting for next map has started.
+L 07/19/2020 - 14:50:00: [basecommands.smx] "MrFrenzoid<2><[U:1:91292555]><>" changed map to "vsh_manncohq_v14"
+L 07/19/2020 - 14:50:04: [SM] Changed map to "vsh_manncohq_v14"
+L 07/19/2020 - 14:50:08: -------- Mapchange to vsh_manncohq_v14 --------
+L 07/19/2020 - 14:50:18: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/19/2020 - 14:51:07: [mapchooser_extended.smx] Voting for next map has started.
+L 07/19/2020 - 14:51:53: [basecommands.smx] "MrFrenzoid<2><[U:1:91292555]><>" changed map to "vsh_manncohq_v14"
+L 07/19/2020 - 14:51:56: [SM] Changed map to "vsh_manncohq_v14"
+L 07/19/2020 - 14:51:59: -------- Mapchange to vsh_manncohq_v14 --------
+L 07/19/2020 - 14:52:10: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/19/2020 - 14:53:03: [mapchooser_extended.smx] Voting for next map has started.
+L 07/19/2020 - 14:53:24: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_coldvine_b1.
+L 07/19/2020 - 15:00:52: [basechat.smx] "Console<0><Console><Console>" triggered sm_say (text The round time has ended, omaewa-mou shindeiru)
+L 07/19/2020 - 15:00:52: [playercommands.smx] "Console<0><Console><Console>" slayed "MrFrenzoid<2><[U:1:91292555]><>"
+L 07/19/2020 - 15:00:52: [playercommands.smx] "Console<0><Console><Console>" slayed "trigger_hurt<37><BOT><>"
+L 07/19/2020 - 15:00:52: [playercommands.smx] "Console<0><Console><Console>" slayed "Divide by Zero<38><BOT><>"
+L 07/19/2020 - 15:00:52: [playercommands.smx] "Console<0><Console><Console>" slayed "MoreGun<39><BOT><>"
+L 07/19/2020 - 15:02:21: SourceMod log file session started (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/L20200719.log") (Version "1.10.0.6490")
+L 07/19/2020 - 15:02:21: [TF2ITEMS] "GiveNamedItem" offset = 484
+L 07/19/2020 - 15:02:22: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 07/19/2020 - 15:02:23: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 07/19/2020 - 15:02:23: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 07/19/2020 - 15:02:43: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/19/2020 - 15:02:46: [hpregeneration.smx] [HpRegeneration] - Loaded
+L 07/19/2020 - 16:09:40: SourceMod log file session started (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/L20200719.log") (Version "1.10.0.6490")
+L 07/19/2020 - 16:09:40: [TF2ITEMS] "GiveNamedItem" offset = 484
+L 07/19/2020 - 16:09:41: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 07/19/2020 - 16:09:41: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 07/19/2020 - 16:09:41: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 07/19/2020 - 16:09:57: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/19/2020 - 16:10:00: [hpregeneration.smx] [HpRegeneration] - Loaded
+L 07/19/2020 - 16:10:47: [basecommands.smx] "MrFrenzoid<3><[U:1:91292555]><>" changed map to "vsh_manncohq_v14"
+L 07/19/2020 - 16:10:50: [SM] Changed map to "vsh_manncohq_v14"
+L 07/19/2020 - 16:10:52: -------- Mapchange to vsh_manncohq_v14 --------
+L 07/19/2020 - 16:11:03: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/19/2020 - 16:20:02: [funcommands.smx] "MrFrenzoid<4><[U:1:91292555]><>" froze "Glorified Toaster with Legs<5><BOT><>"
+L 07/19/2020 - 16:23:21: [hpregeneration.smx] [HpRegeneration] - Regeneration mode changed to 2.
+L 07/19/2020 - 16:23:27: [hpregeneration.smx] [HpRegeneration] - Regeneration mode changed to 1.
+L 07/19/2020 - 16:24:30: [basecommands.smx] "MrFrenzoid<4><[U:1:91292555]><>" changed map to "vsh_tranquil_b5"
+L 07/19/2020 - 16:24:33: [SM] Changed map to "vsh_tranquil_b5"
+L 07/19/2020 - 16:24:36: -------- Mapchange to vsh_tranquil_b5 --------
+L 07/19/2020 - 16:24:47: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/19/2020 - 16:26:30: [hpregeneration.smx] [HpRegeneration] - Plugin disabled.
+L 07/19/2020 - 16:26:34: [hpregeneration.smx] [HpRegeneration] - Plugin enabled.
+L 07/19/2020 - 16:29:33: [basecommands.smx] "MrFrenzoid<4><[U:1:91292555]><>" changed map to "vsh_palanquin_ship_novpk"
+L 07/19/2020 - 16:29:36: [SM] Changed map to "vsh_palanquin_ship_novpk"
+L 07/19/2020 - 16:29:39: -------- Mapchange to vsh_palanquin_ship_novpk --------
+L 07/19/2020 - 16:29:50: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/19/2020 - 16:38:17: [basecommands.smx] "MrFrenzoid<4><[U:1:91292555]><>" changed map to "vsh_manncohq_v14"
+L 07/19/2020 - 16:38:20: [SM] Changed map to "vsh_manncohq_v14"
+L 07/19/2020 - 16:38:24: -------- Mapchange to vsh_manncohq_v14 --------
+L 07/19/2020 - 16:38:35: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/19/2020 - 16:41:34: [hpregeneration.smx] [HpRegeneration] - Regeneration mode changed to 2.
+L 07/19/2020 - 16:41:48: [basecommands.smx] "MrFrenzoid<4><[U:1:91292555]><>" changed map to "vsh_manncohq_v14"
+L 07/19/2020 - 16:41:51: [SM] Changed map to "vsh_manncohq_v14"
+L 07/19/2020 - 16:41:54: -------- Mapchange to vsh_manncohq_v14 --------
+L 07/19/2020 - 16:42:05: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/19/2020 - 16:58:37: [basechat.smx] "Console<0><Console><Console>" triggered sm_say (text The round time has ended, omaewa-mou shindeiru)
+L 07/19/2020 - 16:58:37: [playercommands.smx] "Console<0><Console><Console>" slayed "MrFrenzoid<11><[U:1:91292555]><>"
+L 07/19/2020 - 16:58:37: [playercommands.smx] "Console<0><Console><Console>" slayed "The G-Man<12><BOT><>"
+L 07/19/2020 - 17:02:19: [mapchooser_extended.smx] Voting for next map has started.
+L 07/19/2020 - 17:06:55: [basechat.smx] "Console<0><Console><Console>" triggered sm_say (text The round time has ended, omaewa-mou shindeiru)
+L 07/19/2020 - 17:06:55: [playercommands.smx] "Console<0><Console><Console>" slayed "MrFrenzoid<11><[U:1:91292555]><>"
+L 07/19/2020 - 17:06:55: [playercommands.smx] "Console<0><Console><Console>" slayed "The G-Man<12><BOT><>"
+L 07/19/2020 - 17:15:13: [basechat.smx] "Console<0><Console><Console>" triggered sm_say (text The round time has ended, omaewa-mou shindeiru)
+L 07/19/2020 - 17:15:13: [playercommands.smx] "Console<0><Console><Console>" slayed "MrFrenzoid<11><[U:1:91292555]><>"
+L 07/19/2020 - 17:15:13: [playercommands.smx] "Console<0><Console><Console>" slayed "The G-Man<12><BOT><>"
+L 07/19/2020 - 17:15:31: [SM] Changed map to "arena_lumberyard"
+L 07/19/2020 - 17:15:35: -------- Mapchange to arena_lumberyard --------
+L 07/19/2020 - 17:15:46: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/19/2020 - 17:36:00: [mapchooser_extended.smx] Voting for next map has started.
+L 07/19/2020 - 18:04:42: [SM] Changed map to "vsh_tranquil_b5"
+L 07/19/2020 - 18:04:46: -------- Mapchange to vsh_tranquil_b5 --------
+L 07/19/2020 - 18:04:58: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/19/2020 - 18:25:13: [mapchooser_extended.smx] Voting for next map has started.
+L 07/19/2020 - 18:36:11: [SM] Changed map to "arena_offblast_final"
+L 07/19/2020 - 18:36:16: -------- Mapchange to arena_offblast_final --------
+L 07/19/2020 - 18:36:27: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/19/2020 - 18:39:40: [respawn.smx] "Nezzie♥<17><[U:1:107910185]><>" respawned "Nezzie♥<17><[U:1:107910185]><>"
+L 07/19/2020 - 18:42:16: [respawn.smx] "Nezzie♥<17><[U:1:107910185]><>" respawned "Nezzie♥<17><[U:1:107910185]><>"
+L 07/19/2020 - 18:42:22: [mapchooser_extended.smx] Voting for next map has started.
+L 07/19/2020 - 18:42:43: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_palanquin_ship_novpk.
+L 07/19/2020 - 18:44:17: [basecommands.smx] "Nezzie♥<17><[U:1:107910185]><>" changed map to "arena_lumberyard"
+L 07/19/2020 - 18:44:20: [SM] Changed map to "arena_lumberyard"
+L 07/19/2020 - 18:44:25: -------- Mapchange to arena_lumberyard --------
+L 07/19/2020 - 18:44:37: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/19/2020 - 18:45:52: [mapchooser_extended.smx] Voting for next map has started.
+L 07/19/2020 - 18:46:13: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_palanquin_ship_novpk.
+L 07/19/2020 - 18:46:36: [respawn.smx] "Nezzie♥<17><[U:1:107910185]><>" respawned "Nezzie♥<17><[U:1:107910185]><>"
+L 07/19/2020 - 18:47:18: [basecommands.smx] "MrFrenzoid<19><[U:1:91292555]><>" changed map to "vsh_manncohq_v14"
+L 07/19/2020 - 18:47:21: [SM] Changed map to "vsh_manncohq_v14"
+L 07/19/2020 - 18:47:25: -------- Mapchange to vsh_manncohq_v14 --------
+L 07/19/2020 - 18:47:36: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/19/2020 - 18:48:26: [mapchooser_extended.smx] Voting for next map has started.
+L 07/19/2020 - 18:49:01: [respawn.smx] "Nezzie♥<17><[U:1:107910185]><>" respawned "Nezzie♥<17><[U:1:107910185]><>"
+L 07/19/2020 - 18:49:20: [basecommands.smx] "MrFrenzoid<19><[U:1:91292555]><>" changed map to "vsh_castle_siege_unreal_sg1"
+L 07/19/2020 - 18:49:23: [SM] Changed map to "vsh_castle_siege_unreal_sg1"
+L 07/19/2020 - 18:49:28: -------- Mapchange to vsh_castle_siege_unreal_sg1 --------
+L 07/19/2020 - 18:49:39: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/19/2020 - 18:50:17: [mapchooser_extended.smx] Voting for next map has started.
+L 07/19/2020 - 18:53:26: [respawn.smx] "MrFrenzoid<19><[U:1:91292555]><>" respawned "MrFrenzoid<19><[U:1:91292555]><>"
+L 07/19/2020 - 18:59:13: [basecommands.smx] "MrFrenzoid<19><[U:1:91292555]><>" executed config (file "server.cfg")
+L 07/19/2020 - 19:01:46: [playercommands.smx] "Nezzie♥<17><[U:1:107910185]><>" slayed "CEDA<23><BOT><>"
+L 07/19/2020 - 19:05:52: [funvotes.smx] "MrFrenzoid<19><[U:1:91292555]><>" initiated a friendly fire vote.
+L 07/19/2020 - 19:05:53: [funvotes.smx] Changing friendly fire to 1 due to vote.
+L 07/19/2020 - 19:06:36: [funcommands.smx] "Nezzie♥<17><[U:1:107910185]><>" set a beacon on "MrFrenzoid<19><[U:1:91292555]><>"
+L 07/19/2020 - 19:06:50: [funcommands.smx] "MrFrenzoid<19><[U:1:91292555]><>" froze "Nezzie♥<17><[U:1:107910185]><>"
+L 07/19/2020 - 19:07:04: [funcommands.smx] "MrFrenzoid<19><[U:1:91292555]><>" set blind on "Nezzie♥<17><[U:1:107910185]><>" (amount "240")
+L 07/19/2020 - 19:07:20: [funcommands.smx] "Nezzie♥<17><[U:1:107910185]><>" drugged "MrFrenzoid<19><[U:1:91292555]><>"
+L 07/19/2020 - 19:08:08: [playercommands.smx] "Nezzie♥<17><[U:1:107910185]><>" slapped "test<24><BOT><>" (damage "10")
+L 07/19/2020 - 19:08:08: [playercommands.smx] "Nezzie♥<17><[U:1:107910185]><>" slapped "test<24><BOT><>" (damage "10")
+L 07/19/2020 - 19:08:09: [playercommands.smx] "Nezzie♥<17><[U:1:107910185]><>" slapped "test<24><BOT><>" (damage "10")
+L 07/19/2020 - 19:08:09: [playercommands.smx] "Nezzie♥<17><[U:1:107910185]><>" slapped "test<24><BOT><>" (damage "10")
+L 07/19/2020 - 19:08:09: [playercommands.smx] "Nezzie♥<17><[U:1:107910185]><>" slapped "test<24><BOT><>" (damage "10")
+L 07/19/2020 - 19:08:09: [playercommands.smx] "Nezzie♥<17><[U:1:107910185]><>" slapped "test<24><BOT><>" (damage "10")
+L 07/19/2020 - 19:08:10: [playercommands.smx] "Nezzie♥<17><[U:1:107910185]><>" slapped "test<24><BOT><>" (damage "10")
+L 07/19/2020 - 19:08:10: [playercommands.smx] "Nezzie♥<17><[U:1:107910185]><>" slapped "test<24><BOT><>" (damage "10")
+L 07/19/2020 - 19:08:10: [playercommands.smx] "Nezzie♥<17><[U:1:107910185]><>" slapped "test<24><BOT><>" (damage "10")
+L 07/19/2020 - 19:08:10: [playercommands.smx] "Nezzie♥<17><[U:1:107910185]><>" slapped "test<24><BOT><>" (damage "10")
+L 07/19/2020 - 19:08:36: [respawn.smx] "MrFrenzoid<19><[U:1:91292555]><>" respawned "MrFrenzoid<19><[U:1:91292555]><>"
+L 07/19/2020 - 19:08:47: [respawn.smx] "Nezzie♥<17><[U:1:107910185]><>" respawned "Nezzie♥<17><[U:1:107910185]><>"
+L 07/19/2020 - 19:08:55: [respawn.smx] "Nezzie♥<17><[U:1:107910185]><>" respawned "Nezzie♥<17><[U:1:107910185]><>"
+L 07/19/2020 - 19:09:04: [respawn.smx] "Nezzie♥<17><[U:1:107910185]><>" respawned "Nezzie♥<17><[U:1:107910185]><>"
+L 07/19/2020 - 19:09:23: [respawn.smx] "Nezzie♥<17><[U:1:107910185]><>" respawned "Nezzie♥<17><[U:1:107910185]><>"
+L 07/19/2020 - 19:09:52: [respawn.smx] "MrFrenzoid<19><[U:1:91292555]><>" respawned "MrFrenzoid<19><[U:1:91292555]><>"
+L 07/19/2020 - 19:10:12: [respawn.smx] "Nezzie♥<17><[U:1:107910185]><>" respawned "Nezzie♥<17><[U:1:107910185]><>"
+L 07/19/2020 - 19:16:46: [basecommands.smx] "Nezzie♥<17><[U:1:107910185]><>" changed map to "arena_lumberyard"
+L 07/19/2020 - 19:16:49: [SM] Changed map to "arena_lumberyard"
+L 07/19/2020 - 19:16:54: -------- Mapchange to arena_lumberyard --------
+L 07/19/2020 - 19:17:06: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/19/2020 - 19:22:49: [basechat.smx] "Nezzie♥<17><[U:1:107910185]><>" triggered sm_msay (text frenzy is poopy head >:)))
+L 07/19/2020 - 19:24:51: [basechat.smx] "Nezzie♥<17><[U:1:107910185]><>" triggered sm_csay (text radda radda RADDA RADDAAAAAAAAAAAAAAAA)
+L 07/19/2020 - 19:26:38: [basechat.smx] "Console<0><Console><Console>" triggered sm_say (text The round time has ended, omaewa-mou shindeiru)
+L 07/19/2020 - 19:26:38: [playercommands.smx] "Console<0><Console><Console>" slayed "Nezzie♥<17><[U:1:107910185]><>"
+L 07/19/2020 - 19:26:38: [playercommands.smx] "Console<0><Console><Console>" slayed "NotMe<26><BOT><>"
+L 07/19/2020 - 19:26:38: [playercommands.smx] "Console<0><Console><Console>" slayed "MrFrenzoid<19><[U:1:91292555]><>"
+L 07/19/2020 - 19:31:49: [basecommands.smx] "MrFrenzoid<19><[U:1:91292555]><>" changed map to "vsh_manncohq_v14"
+L 07/19/2020 - 19:31:52: [SM] Changed map to "vsh_manncohq_v14"
+L 07/19/2020 - 19:31:58: -------- Mapchange to vsh_manncohq_v14 --------
+L 07/19/2020 - 19:32:09: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/19/2020 - 19:33:00: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 07/19/2020 - 19:33:00: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 07/19/2020 - 19:33:00: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 07/19/2020 - 19:33:01: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/19/2020 - 19:33:03: [hpregeneration.smx] [HpRegeneration] - Loaded
+L 07/19/2020 - 19:34:09: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 07/19/2020 - 19:34:10: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 07/19/2020 - 19:34:10: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 07/19/2020 - 19:34:10: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/19/2020 - 19:34:13: [hpregeneration.smx] [HpRegeneration] - Loaded
+L 07/19/2020 - 19:35:34: [basecommands.smx] "MrFrenzoid<19><[U:1:91292555]><>" changed map to "vsh_manncohq_v14"
+L 07/19/2020 - 19:35:37: [SM] Changed map to "vsh_manncohq_v14"
+L 07/19/2020 - 19:35:41: -------- Mapchange to vsh_manncohq_v14 --------
+L 07/19/2020 - 19:35:52: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/19/2020 - 19:37:52: SourceMod log file session started (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/L20200719.log") (Version "1.10.0.6490")
+L 07/19/2020 - 19:37:52: [TF2ITEMS] "GiveNamedItem" offset = 484
+L 07/19/2020 - 19:37:53: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 07/19/2020 - 19:37:54: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 07/19/2020 - 19:37:54: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 07/19/2020 - 19:38:15: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/19/2020 - 19:38:18: [hpregeneration.smx] [HpRegeneration] - Loaded
+L 07/19/2020 - 19:42:23: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 07/19/2020 - 19:42:24: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 07/19/2020 - 19:42:24: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 07/19/2020 - 19:42:24: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/19/2020 - 19:42:27: [hpregeneration.smx] [HpRegeneration] - Loaded
+L 07/19/2020 - 19:43:09: -------- Mapchange to arena_offblast_final --------
+L 07/19/2020 - 19:43:21: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/19/2020 - 19:44:40: [respawn.smx] "Nezzie♥<3><[U:1:107910185]><>" respawned "Nezzie♥<3><[U:1:107910185]><>"
+L 07/19/2020 - 19:45:37: [funcommands.smx] "Nezzie♥<3><[U:1:107910185]><>" toggled noclip on "Nezzie♥<3><[U:1:107910185]><>"
+L 07/19/2020 - 19:45:39: [funcommands.smx] "Nezzie♥<3><[U:1:107910185]><>" toggled noclip on "Nezzie♥<3><[U:1:107910185]><>"
+L 07/19/2020 - 19:47:16: [funcommands.smx] "MrFrenzoid<2><[U:1:91292555]><>" set a FreezeBomb on "vincenzabongiorno<4><[U:1:327489885]><>"
+L 07/19/2020 - 19:47:34: [basecommands.smx] "Nezzie♥<3><[U:1:107910185]><>" changed map to "arena_lumberyard"
+L 07/19/2020 - 19:47:37: [SM] Changed map to "arena_lumberyard"
+L 07/19/2020 - 19:47:42: -------- Mapchange to arena_lumberyard --------
+L 07/19/2020 - 19:47:53: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/19/2020 - 19:48:24: [playercommands.smx] "MrFrenzoid<2><[U:1:91292555]><>" slayed "MrFrenzoid<2><[U:1:91292555]><>"
+L 07/19/2020 - 19:48:30: [playercommands.smx] "Nezzie♥<3><[U:1:107910185]><>" slayed "MrFrenzoid<2><[U:1:91292555]><>"
+L 07/19/2020 - 19:48:38: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 07/19/2020 - 19:48:38: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 07/19/2020 - 19:48:38: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 07/19/2020 - 19:48:38: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/19/2020 - 19:48:41: [hpregeneration.smx] [HpRegeneration] - Loaded
+L 07/19/2020 - 19:48:59: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 07/19/2020 - 19:48:59: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 07/19/2020 - 19:48:59: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 07/19/2020 - 19:49:00: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/19/2020 - 19:49:02: [hpregeneration.smx] [HpRegeneration] - Loaded
+L 07/19/2020 - 19:49:11: [basecommands.smx] "Nezzie♥<3><[U:1:107910185]><>" changed map to "arena_badlands"
+L 07/19/2020 - 19:49:14: [SM] Changed map to "arena_badlands"
+L 07/19/2020 - 19:49:19: -------- Mapchange to arena_badlands --------
+L 07/19/2020 - 19:49:31: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/19/2020 - 19:54:02: [basechat.smx] "Nezzie♥<3><[U:1:107910185]><>" triggered sm_msay (text dumb)
+L 07/19/2020 - 19:54:22: -------- Mapchange to arena_lumberyard --------
+L 07/19/2020 - 19:54:34: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/19/2020 - 19:55:20: -------- Mapchange to arena_lumberyard --------
+L 07/19/2020 - 19:55:32: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/19/2020 - 19:57:18: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 07/19/2020 - 19:57:18: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 07/19/2020 - 19:57:18: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 07/19/2020 - 19:57:18: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/19/2020 - 19:57:21: [hpregeneration.smx] [HpRegeneration] - Loaded
+L 07/19/2020 - 19:57:34: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 07/19/2020 - 19:57:34: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 07/19/2020 - 19:57:34: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 07/19/2020 - 19:57:34: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/19/2020 - 19:57:37: [hpregeneration.smx] [HpRegeneration] - Loaded
+L 07/19/2020 - 19:58:18: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 07/19/2020 - 19:58:18: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 07/19/2020 - 19:58:18: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 07/19/2020 - 19:58:19: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/19/2020 - 19:58:22: [hpregeneration.smx] [HpRegeneration] - Loaded
+L 07/19/2020 - 19:58:32: -------- Mapchange to arena_lumberyard --------
+L 07/19/2020 - 19:58:43: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/19/2020 - 19:59:37: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 07/19/2020 - 19:59:37: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 07/19/2020 - 19:59:37: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 07/19/2020 - 19:59:37: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/19/2020 - 19:59:40: [hpregeneration.smx] [HpRegeneration] - Loaded
+L 07/19/2020 - 20:00:08: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 07/19/2020 - 20:00:08: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 07/19/2020 - 20:00:08: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 07/19/2020 - 20:00:08: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/19/2020 - 20:00:11: [hpregeneration.smx] [HpRegeneration] - Loaded
+L 07/19/2020 - 20:01:20: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 07/19/2020 - 20:01:21: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 07/19/2020 - 20:01:21: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 07/19/2020 - 20:01:21: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/19/2020 - 20:01:27: -------- Mapchange to arena_lumberyard --------
+L 07/19/2020 - 20:01:40: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/19/2020 - 20:01:42: [hpregeneration.smx] [HpRegeneration] - Loaded
+L 07/19/2020 - 20:21:55: [mapchooser_extended.smx] Voting for next map has started.
+L 07/19/2020 - 20:22:01: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_tranquil_b5.
+L 07/19/2020 - 20:50:07: [basecommands.smx] "Nezzie♥<6><[U:1:107910185]><>" changed map to "arena_lumberyard"
+L 07/19/2020 - 20:50:10: [SM] Changed map to "arena_lumberyard"
+L 07/19/2020 - 20:50:15: -------- Mapchange to arena_lumberyard --------
+L 07/19/2020 - 20:50:29: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/19/2020 - 20:59:33: [basechat.smx] "Console<0><Console><Console>" triggered sm_say (text The round time has ended, omaewa-mou shindeiru)
+L 07/19/2020 - 20:59:33: [playercommands.smx] "Console<0><Console><Console>" slayed "SomeDude<7><BOT><>"
+L 07/19/2020 - 20:59:33: [playercommands.smx] "Console<0><Console><Console>" slayed "GLaDOS<8><BOT><>"
+L 07/19/2020 - 20:59:33: [playercommands.smx] "Console<0><Console><Console>" slayed "Hostage<9><BOT><>"
+L 07/19/2020 - 21:07:51: [basechat.smx] "Console<0><Console><Console>" triggered sm_say (text The round time has ended, omaewa-mou shindeiru)
+L 07/19/2020 - 21:07:51: [playercommands.smx] "Console<0><Console><Console>" slayed "Nezzie♥<6><[U:1:107910185]><>"
+L 07/19/2020 - 21:07:51: [playercommands.smx] "Console<0><Console><Console>" slayed "SomeDude<7><BOT><>"
+L 07/19/2020 - 21:07:51: [playercommands.smx] "Console<0><Console><Console>" slayed "GLaDOS<8><BOT><>"
+L 07/19/2020 - 21:07:51: [playercommands.smx] "Console<0><Console><Console>" slayed "Hostage<9><BOT><>"
+L 07/19/2020 - 21:08:04: [basecommands.smx] "Nezzie♥<6><[U:1:107910185]><>" changed map to "arena_lumberyard"
+L 07/19/2020 - 21:08:07: [SM] Changed map to "arena_lumberyard"
+L 07/19/2020 - 21:08:13: -------- Mapchange to arena_lumberyard --------
+L 07/19/2020 - 21:08:26: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/19/2020 - 21:12:48: [respawn.smx] "Nezzie♥<6><[U:1:107910185]><>" respawned "Nezzie♥<6><[U:1:107910185]><>"
+L 07/19/2020 - 21:14:23: [playercommands.smx] "Nezzie♥<6><[U:1:107910185]><>" slayed "C++<12><BOT><>"
+L 07/19/2020 - 21:15:24: [basecommands.smx] "Nezzie♥<6><[U:1:107910185]><>" changed map to "arena_lumberyard"
+L 07/19/2020 - 21:15:27: [SM] Changed map to "arena_lumberyard"
+L 07/19/2020 - 21:15:33: -------- Mapchange to arena_lumberyard --------
+L 07/19/2020 - 21:15:45: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/19/2020 - 21:18:52: [playercommands.smx] "Nezzie♥<6><[U:1:107910185]><>" slayed "Ze Ubermensch<17><BOT><>"
+L 07/19/2020 - 21:18:57: [playercommands.smx] "Nezzie♥<6><[U:1:107910185]><>" slayed "RageQuit<16><BOT><>"
+L 07/19/2020 - 21:19:33: [playercommands.smx] "Nezzie♥<6><[U:1:107910185]><>" slayed "RageQuit<16><BOT><>"
+L 07/19/2020 - 21:19:33: [playercommands.smx] "Nezzie♥<6><[U:1:107910185]><>" slayed "Nobody<15><BOT><>"
+L 07/19/2020 - 21:35:59: [mapchooser_extended.smx] Voting for next map has started.
+L 07/20/2020 - 16:33:03: Log file closed.

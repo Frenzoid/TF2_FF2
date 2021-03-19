@@ -1,0 +1,1311 @@
+L 12/30/2020 - 00:04:37: SourceMod error session started
+L 12/30/2020 - 00:04:37: Info (map "vsh_apg_v2_sg1") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20201230.log")
+L 12/30/2020 - 00:04:37: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 12/30/2020 - 00:04:38: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 12/30/2020 - 00:04:38: [store.smx] Database connection is lost or not yet initialized.
+L 12/30/2020 - 00:04:38: [store.smx] Database connection is lost or not yet initialized.
+L 12/30/2020 - 00:04:38: [store.smx] Database connection is lost or not yet initialized.
+L 12/30/2020 - 00:04:38: [store.smx] Database connection is lost or not yet initialized.
+L 12/30/2020 - 00:04:38: [tf2_taunts_tf2idb.smx] Failed to initialize taunt cache: TF2IDB Not loaded.
+L 12/30/2020 - 00:04:38: [tf2_taunts_tf2idb.smx] Halting user interface initialization. Plugin loaded but updater not found.
+L 12/30/2020 - 00:04:38: [tf2_taunts_tf2idb.smx] Try using the latest version from here https://github.com/fakuivan/TF2-Taunts-TF2IDB .
+L 12/30/2020 - 00:06:22: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 12/30/2020 - 00:06:22: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 12/30/2020 - 00:06:22: [store.smx] Database connection is lost or not yet initialized.
+L 12/30/2020 - 00:06:22: [store.smx] Database connection is lost or not yet initialized.
+L 12/30/2020 - 00:06:22: [store.smx] Database connection is lost or not yet initialized.
+L 12/30/2020 - 00:06:22: [store.smx] Database connection is lost or not yet initialized.
+L 12/30/2020 - 00:06:22: [tf2_taunts_tf2idb.smx] Failed to initialize taunt cache: TF2IDB Not loaded.
+L 12/30/2020 - 00:06:22: [tf2_taunts_tf2idb.smx] Halting user interface initialization. Plugin loaded but updater not found.
+L 12/30/2020 - 00:06:22: [tf2_taunts_tf2idb.smx] Try using the latest version from here https://github.com/fakuivan/TF2-Taunts-TF2IDB .
+L 12/30/2020 - 00:09:17: [SM] Exception reported: Cowardly refusing to add invalid attribute index "0" to an item.
+L 12/30/2020 - 00:09:17: [SM] Blaming: pyrogineer.smx
+L 12/30/2020 - 00:09:17: [SM] Call stack trace:
+L 12/30/2020 - 00:09:17: [SM]   [0] TF2Items_SetAttribute
+L 12/30/2020 - 00:09:17: [SM]   [1] Line 271, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::PrepareItemHandle
+L 12/30/2020 - 00:09:17: [SM]   [2] Line 294, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::TF2Items_OnGiveNamedItem
+L 12/30/2020 - 00:09:17: [SM] Exception reported: Cowardly refusing to add invalid attribute index "0" to an item.
+L 12/30/2020 - 00:09:17: [SM] Blaming: pyrogineer.smx
+L 12/30/2020 - 00:09:17: [SM] Call stack trace:
+L 12/30/2020 - 00:09:17: [SM]   [0] TF2Items_SetAttribute
+L 12/30/2020 - 00:09:17: [SM]   [1] Line 271, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::PrepareItemHandle
+L 12/30/2020 - 00:09:17: [SM]   [2] Line 294, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::TF2Items_OnGiveNamedItem
+L 12/30/2020 - 00:09:17: [SM]   [4] TF2_RegeneratePlayer
+L 12/30/2020 - 00:09:17: [SM]   [5] Line 27, /groups/sourcemod/upload_tmp/textISXu91.sp::Fix_Function
+L 12/30/2020 - 00:10:43: [SM] Exception reported: Cowardly refusing to add invalid attribute index "0" to an item.
+L 12/30/2020 - 00:10:43: [SM] Blaming: pyrogineer.smx
+L 12/30/2020 - 00:10:43: [SM] Call stack trace:
+L 12/30/2020 - 00:10:43: [SM]   [0] TF2Items_SetAttribute
+L 12/30/2020 - 00:10:43: [SM]   [1] Line 271, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::PrepareItemHandle
+L 12/30/2020 - 00:10:43: [SM]   [2] Line 294, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::TF2Items_OnGiveNamedItem
+L 12/30/2020 - 00:10:43: [SM]   [4] TF2_RegeneratePlayer
+L 12/30/2020 - 00:10:43: [SM]   [5] Line 27, /groups/sourcemod/upload_tmp/textISXu91.sp::Fix_Function
+L 12/30/2020 - 00:12:00: [SM] Exception reported: Cowardly refusing to add invalid attribute index "0" to an item.
+L 12/30/2020 - 00:12:00: [SM] Blaming: pyrogineer.smx
+L 12/30/2020 - 00:12:00: [SM] Call stack trace:
+L 12/30/2020 - 00:12:00: [SM]   [0] TF2Items_SetAttribute
+L 12/30/2020 - 00:12:00: [SM]   [1] Line 271, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::PrepareItemHandle
+L 12/30/2020 - 00:12:00: [SM]   [2] Line 294, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::TF2Items_OnGiveNamedItem
+L 12/30/2020 - 00:12:00: [SM]   [4] TF2_RegeneratePlayer
+L 12/30/2020 - 00:12:00: [SM]   [5] Line 27, /groups/sourcemod/upload_tmp/textISXu91.sp::Fix_Function
+L 12/30/2020 - 00:14:04: [SM] Exception reported: Cowardly refusing to add invalid attribute index "0" to an item.
+L 12/30/2020 - 00:14:04: [SM] Blaming: pyrogineer.smx
+L 12/30/2020 - 00:14:04: [SM] Call stack trace:
+L 12/30/2020 - 00:14:04: [SM]   [0] TF2Items_SetAttribute
+L 12/30/2020 - 00:14:04: [SM]   [1] Line 271, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::PrepareItemHandle
+L 12/30/2020 - 00:14:04: [SM]   [2] Line 294, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::TF2Items_OnGiveNamedItem
+L 12/30/2020 - 00:14:04: [SM] Exception reported: Cowardly refusing to add invalid attribute index "0" to an item.
+L 12/30/2020 - 00:14:04: [SM] Blaming: pyrogineer.smx
+L 12/30/2020 - 00:14:04: [SM] Call stack trace:
+L 12/30/2020 - 00:14:04: [SM]   [0] TF2Items_SetAttribute
+L 12/30/2020 - 00:14:04: [SM]   [1] Line 271, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::PrepareItemHandle
+L 12/30/2020 - 00:14:04: [SM]   [2] Line 294, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::TF2Items_OnGiveNamedItem
+L 12/30/2020 - 00:14:04: [SM]   [4] TF2_RegeneratePlayer
+L 12/30/2020 - 00:14:04: [SM]   [5] Line 27, /groups/sourcemod/upload_tmp/textISXu91.sp::Fix_Function
+L 12/30/2020 - 00:14:50: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 12/30/2020 - 00:15:52: Error log file session closed.
+L 12/30/2020 - 00:19:33: SourceMod error session started
+L 12/30/2020 - 00:19:33: Info (map "vsh_dunger_b2a") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20201230.log")
+L 12/30/2020 - 00:19:33: [SM] Exception reported: Cowardly refusing to add invalid attribute index "0" to an item.
+L 12/30/2020 - 00:19:33: [SM] Blaming: pyrogineer.smx
+L 12/30/2020 - 00:19:33: [SM] Call stack trace:
+L 12/30/2020 - 00:19:33: [SM]   [0] TF2Items_SetAttribute
+L 12/30/2020 - 00:19:33: [SM]   [1] Line 271, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::PrepareItemHandle
+L 12/30/2020 - 00:19:33: [SM]   [2] Line 294, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::TF2Items_OnGiveNamedItem
+L 12/30/2020 - 00:19:33: [SM] Exception reported: Cowardly refusing to add invalid attribute index "0" to an item.
+L 12/30/2020 - 00:19:33: [SM] Blaming: pyrogineer.smx
+L 12/30/2020 - 00:19:33: [SM] Call stack trace:
+L 12/30/2020 - 00:19:33: [SM]   [0] TF2Items_SetAttribute
+L 12/30/2020 - 00:19:33: [SM]   [1] Line 271, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::PrepareItemHandle
+L 12/30/2020 - 00:19:33: [SM]   [2] Line 294, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::TF2Items_OnGiveNamedItem
+L 12/30/2020 - 00:19:33: [SM]   [4] TF2_RegeneratePlayer
+L 12/30/2020 - 00:19:33: [SM]   [5] Line 9918, Unofficial Freak Fortress::OnPostInventoryApplication
+L 12/30/2020 - 00:19:33: [SM] Exception reported: Cowardly refusing to add invalid attribute index "0" to an item.
+L 12/30/2020 - 00:19:33: [SM] Blaming: pyrogineer.smx
+L 12/30/2020 - 00:19:33: [SM] Call stack trace:
+L 12/30/2020 - 00:19:33: [SM]   [0] TF2Items_SetAttribute
+L 12/30/2020 - 00:19:33: [SM]   [1] Line 271, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::PrepareItemHandle
+L 12/30/2020 - 00:19:33: [SM]   [2] Line 294, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::TF2Items_OnGiveNamedItem
+L 12/30/2020 - 00:19:33: [SM]   [4] TF2_RegeneratePlayer
+L 12/30/2020 - 00:19:33: [SM]   [5] Line 27, /groups/sourcemod/upload_tmp/textISXu91.sp::Fix_Function
+L 12/30/2020 - 00:21:38: [SM] Exception reported: Cowardly refusing to add invalid attribute index "0" to an item.
+L 12/30/2020 - 00:21:38: [SM] Blaming: pyrogineer.smx
+L 12/30/2020 - 00:21:38: [SM] Call stack trace:
+L 12/30/2020 - 00:21:38: [SM]   [0] TF2Items_SetAttribute
+L 12/30/2020 - 00:21:38: [SM]   [1] Line 271, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::PrepareItemHandle
+L 12/30/2020 - 00:21:38: [SM]   [2] Line 294, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::TF2Items_OnGiveNamedItem
+L 12/30/2020 - 00:21:38: [SM]   [4] TF2_RegeneratePlayer
+L 12/30/2020 - 00:21:38: [SM]   [5] Line 27, /groups/sourcemod/upload_tmp/textISXu91.sp::Fix_Function
+L 12/30/2020 - 00:23:25: [freaks/shadow93_abilities.ff2] [SHADoW93 Minions] Blutarch Mann has an invalid  formula for minions, using default health!
+L 12/30/2020 - 00:23:25: [freaks/shadow93_abilities.ff2] [SHADoW93 Minions] Blutarch Mann has an invalid  formula for minions, using default health!
+L 12/30/2020 - 00:24:12: [SM] Exception reported: Cowardly refusing to add invalid attribute index "0" to an item.
+L 12/30/2020 - 00:24:12: [SM] Blaming: pyrogineer.smx
+L 12/30/2020 - 00:24:12: [SM] Call stack trace:
+L 12/30/2020 - 00:24:12: [SM]   [0] TF2Items_SetAttribute
+L 12/30/2020 - 00:24:12: [SM]   [1] Line 271, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::PrepareItemHandle
+L 12/30/2020 - 00:24:12: [SM]   [2] Line 294, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::TF2Items_OnGiveNamedItem
+L 12/30/2020 - 00:24:12: [SM]   [4] TF2_RegeneratePlayer
+L 12/30/2020 - 00:24:12: [SM]   [5] Line 27, /groups/sourcemod/upload_tmp/textISXu91.sp::Fix_Function
+L 12/30/2020 - 00:31:05: [freaks/shadow93_abilities.ff2] [SHADoW93 Minions] Redmond Mann has an invalid  formula for minions, using default health!
+L 12/30/2020 - 00:31:05: [freaks/shadow93_abilities.ff2] [SHADoW93 Minions] Redmond Mann has an invalid  formula for minions, using default health!
+L 12/30/2020 - 00:38:37: Error log file session closed.
+L 12/30/2020 - 00:56:41: SourceMod error session started
+L 12/30/2020 - 00:56:41: Info (map "vsh_dirtmound_b9") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20201230.log")
+L 12/30/2020 - 00:56:41: [SM] Exception reported: Cowardly refusing to add invalid attribute index "0" to an item.
+L 12/30/2020 - 00:56:41: [SM] Blaming: pyrogineer.smx
+L 12/30/2020 - 00:56:41: [SM] Call stack trace:
+L 12/30/2020 - 00:56:41: [SM]   [0] TF2Items_SetAttribute
+L 12/30/2020 - 00:56:41: [SM]   [1] Line 271, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::PrepareItemHandle
+L 12/30/2020 - 00:56:41: [SM]   [2] Line 294, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::TF2Items_OnGiveNamedItem
+L 12/30/2020 - 00:56:41: [SM] Exception reported: Cowardly refusing to add invalid attribute index "0" to an item.
+L 12/30/2020 - 00:56:41: [SM] Blaming: pyrogineer.smx
+L 12/30/2020 - 00:56:41: [SM] Call stack trace:
+L 12/30/2020 - 00:56:41: [SM]   [0] TF2Items_SetAttribute
+L 12/30/2020 - 00:56:41: [SM]   [1] Line 271, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::PrepareItemHandle
+L 12/30/2020 - 00:56:41: [SM]   [2] Line 294, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::TF2Items_OnGiveNamedItem
+L 12/30/2020 - 00:56:41: [SM]   [4] TF2_RegeneratePlayer
+L 12/30/2020 - 00:56:41: [SM]   [5] Line 27, /groups/sourcemod/upload_tmp/textISXu91.sp::Fix_Function
+L 12/30/2020 - 01:00:08: [SM] Exception reported: Cowardly refusing to add invalid attribute index "0" to an item.
+L 12/30/2020 - 01:00:08: [SM] Blaming: pyrogineer.smx
+L 12/30/2020 - 01:00:08: [SM] Call stack trace:
+L 12/30/2020 - 01:00:08: [SM]   [0] TF2Items_SetAttribute
+L 12/30/2020 - 01:00:08: [SM]   [1] Line 271, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::PrepareItemHandle
+L 12/30/2020 - 01:00:08: [SM]   [2] Line 294, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::TF2Items_OnGiveNamedItem
+L 12/30/2020 - 01:03:39: [SM] Exception reported: Cowardly refusing to add invalid attribute index "0" to an item.
+L 12/30/2020 - 01:03:39: [SM] Blaming: pyrogineer.smx
+L 12/30/2020 - 01:03:39: [SM] Call stack trace:
+L 12/30/2020 - 01:03:39: [SM]   [0] TF2Items_SetAttribute
+L 12/30/2020 - 01:03:39: [SM]   [1] Line 271, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::PrepareItemHandle
+L 12/30/2020 - 01:03:39: [SM]   [2] Line 294, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::TF2Items_OnGiveNamedItem
+L 12/30/2020 - 01:09:06: Error log file session closed.
+L 12/30/2020 - 01:39:07: SourceMod error session started
+L 12/30/2020 - 01:39:07: Info (map "vsh_void_a1f") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20201230.log")
+L 12/30/2020 - 01:39:07: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:07: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:07: [SM] Call stack trace:
+L 12/30/2020 - 01:39:07: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:07: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:07: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:07: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:07: [SM] Call stack trace:
+L 12/30/2020 - 01:39:07: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:07: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:07: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:07: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:07: [SM] Call stack trace:
+L 12/30/2020 - 01:39:07: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:07: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:08: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:08: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:08: [SM] Call stack trace:
+L 12/30/2020 - 01:39:08: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:08: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:08: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:08: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:08: [SM] Call stack trace:
+L 12/30/2020 - 01:39:08: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:08: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:08: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:08: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:08: [SM] Call stack trace:
+L 12/30/2020 - 01:39:08: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:08: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:08: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:08: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:08: [SM] Call stack trace:
+L 12/30/2020 - 01:39:08: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:08: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:08: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:08: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:08: [SM] Call stack trace:
+L 12/30/2020 - 01:39:08: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:08: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:09: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:09: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:09: [SM] Call stack trace:
+L 12/30/2020 - 01:39:09: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:09: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:09: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:09: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:09: [SM] Call stack trace:
+L 12/30/2020 - 01:39:09: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:09: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:09: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:09: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:09: [SM] Call stack trace:
+L 12/30/2020 - 01:39:09: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:09: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:09: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:09: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:09: [SM] Call stack trace:
+L 12/30/2020 - 01:39:09: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:09: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:09: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:09: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:09: [SM] Call stack trace:
+L 12/30/2020 - 01:39:09: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:09: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:10: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:10: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:10: [SM] Call stack trace:
+L 12/30/2020 - 01:39:10: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:10: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:10: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:10: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:10: [SM] Call stack trace:
+L 12/30/2020 - 01:39:10: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:10: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:10: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:10: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:10: [SM] Call stack trace:
+L 12/30/2020 - 01:39:10: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:10: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:10: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:10: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:10: [SM] Call stack trace:
+L 12/30/2020 - 01:39:10: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:10: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:10: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:10: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:10: [SM] Call stack trace:
+L 12/30/2020 - 01:39:10: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:10: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:11: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:11: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:11: [SM] Call stack trace:
+L 12/30/2020 - 01:39:11: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:11: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:11: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:11: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:11: [SM] Call stack trace:
+L 12/30/2020 - 01:39:11: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:11: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:11: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:11: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:11: [SM] Call stack trace:
+L 12/30/2020 - 01:39:11: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:11: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:11: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:11: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:11: [SM] Call stack trace:
+L 12/30/2020 - 01:39:11: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:11: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:11: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:11: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:11: [SM] Call stack trace:
+L 12/30/2020 - 01:39:11: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:11: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:12: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:12: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:12: [SM] Call stack trace:
+L 12/30/2020 - 01:39:12: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:12: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:12: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:12: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:12: [SM] Call stack trace:
+L 12/30/2020 - 01:39:12: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:12: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:12: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:12: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:12: [SM] Call stack trace:
+L 12/30/2020 - 01:39:12: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:12: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:12: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:12: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:12: [SM] Call stack trace:
+L 12/30/2020 - 01:39:12: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:12: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:12: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:12: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:12: [SM] Call stack trace:
+L 12/30/2020 - 01:39:12: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:12: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:13: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:13: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:13: [SM] Call stack trace:
+L 12/30/2020 - 01:39:13: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:13: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:13: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:13: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:13: [SM] Call stack trace:
+L 12/30/2020 - 01:39:13: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:13: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:13: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:13: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:13: [SM] Call stack trace:
+L 12/30/2020 - 01:39:13: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:13: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:13: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:13: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:13: [SM] Call stack trace:
+L 12/30/2020 - 01:39:13: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:13: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:13: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:13: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:13: [SM] Call stack trace:
+L 12/30/2020 - 01:39:13: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:13: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:14: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:14: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:14: [SM] Call stack trace:
+L 12/30/2020 - 01:39:14: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:14: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:14: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:14: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:14: [SM] Call stack trace:
+L 12/30/2020 - 01:39:14: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:14: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:14: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:14: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:14: [SM] Call stack trace:
+L 12/30/2020 - 01:39:14: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:14: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:14: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:14: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:14: [SM] Call stack trace:
+L 12/30/2020 - 01:39:14: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:14: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:14: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:14: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:14: [SM] Call stack trace:
+L 12/30/2020 - 01:39:14: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:14: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:15: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:15: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:15: [SM] Call stack trace:
+L 12/30/2020 - 01:39:15: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:15: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:15: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:15: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:15: [SM] Call stack trace:
+L 12/30/2020 - 01:39:15: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:15: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:15: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:15: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:15: [SM] Call stack trace:
+L 12/30/2020 - 01:39:15: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:15: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:15: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:15: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:15: [SM] Call stack trace:
+L 12/30/2020 - 01:39:15: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:15: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:15: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:15: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:15: [SM] Call stack trace:
+L 12/30/2020 - 01:39:15: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:15: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:16: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:16: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:16: [SM] Call stack trace:
+L 12/30/2020 - 01:39:16: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:16: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:16: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:16: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:16: [SM] Call stack trace:
+L 12/30/2020 - 01:39:16: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:16: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:16: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:16: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:16: [SM] Call stack trace:
+L 12/30/2020 - 01:39:16: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:16: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:16: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:16: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:16: [SM] Call stack trace:
+L 12/30/2020 - 01:39:16: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:16: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:16: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:16: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:16: [SM] Call stack trace:
+L 12/30/2020 - 01:39:16: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:16: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:17: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:17: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:17: [SM] Call stack trace:
+L 12/30/2020 - 01:39:17: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:17: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:17: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:17: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:17: [SM] Call stack trace:
+L 12/30/2020 - 01:39:17: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:17: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:17: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:17: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:17: [SM] Call stack trace:
+L 12/30/2020 - 01:39:17: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:17: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:17: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:17: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:17: [SM] Call stack trace:
+L 12/30/2020 - 01:39:17: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:17: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:17: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:17: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:17: [SM] Call stack trace:
+L 12/30/2020 - 01:39:17: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:17: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:18: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:18: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:18: [SM] Call stack trace:
+L 12/30/2020 - 01:39:18: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:18: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:18: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:18: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:18: [SM] Call stack trace:
+L 12/30/2020 - 01:39:18: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:18: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:18: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:18: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:18: [SM] Call stack trace:
+L 12/30/2020 - 01:39:18: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:18: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:18: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:18: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:18: [SM] Call stack trace:
+L 12/30/2020 - 01:39:18: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:18: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:18: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:18: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:18: [SM] Call stack trace:
+L 12/30/2020 - 01:39:18: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:18: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:19: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:19: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:19: [SM] Call stack trace:
+L 12/30/2020 - 01:39:19: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:19: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:19: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:19: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:19: [SM] Call stack trace:
+L 12/30/2020 - 01:39:19: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:19: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:19: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:19: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:19: [SM] Call stack trace:
+L 12/30/2020 - 01:39:19: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:19: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:19: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:19: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:19: [SM] Call stack trace:
+L 12/30/2020 - 01:39:19: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:19: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:19: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:19: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:19: [SM] Call stack trace:
+L 12/30/2020 - 01:39:19: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:19: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:20: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:20: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:20: [SM] Call stack trace:
+L 12/30/2020 - 01:39:20: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:20: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:20: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:20: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:20: [SM] Call stack trace:
+L 12/30/2020 - 01:39:20: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:20: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:20: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:20: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:20: [SM] Call stack trace:
+L 12/30/2020 - 01:39:20: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:20: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:20: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:20: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:20: [SM] Call stack trace:
+L 12/30/2020 - 01:39:20: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:20: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:20: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:20: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:20: [SM] Call stack trace:
+L 12/30/2020 - 01:39:20: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:20: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:21: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:21: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:21: [SM] Call stack trace:
+L 12/30/2020 - 01:39:21: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:21: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:21: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:21: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:21: [SM] Call stack trace:
+L 12/30/2020 - 01:39:21: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:21: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:21: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:21: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:21: [SM] Call stack trace:
+L 12/30/2020 - 01:39:21: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:21: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:21: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:21: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:21: [SM] Call stack trace:
+L 12/30/2020 - 01:39:21: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:21: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:21: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:21: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:21: [SM] Call stack trace:
+L 12/30/2020 - 01:39:21: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:21: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:22: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:22: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:22: [SM] Call stack trace:
+L 12/30/2020 - 01:39:22: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:22: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:22: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:22: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:22: [SM] Call stack trace:
+L 12/30/2020 - 01:39:22: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:22: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:22: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:22: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:22: [SM] Call stack trace:
+L 12/30/2020 - 01:39:22: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:22: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:22: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:22: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:22: [SM] Call stack trace:
+L 12/30/2020 - 01:39:22: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:22: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:22: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:22: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:22: [SM] Call stack trace:
+L 12/30/2020 - 01:39:22: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:22: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:23: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:23: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:23: [SM] Call stack trace:
+L 12/30/2020 - 01:39:23: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:23: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:23: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:23: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:23: [SM] Call stack trace:
+L 12/30/2020 - 01:39:23: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:23: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:23: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:23: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:23: [SM] Call stack trace:
+L 12/30/2020 - 01:39:23: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:23: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:23: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:23: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:23: [SM] Call stack trace:
+L 12/30/2020 - 01:39:23: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:23: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:23: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:23: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:23: [SM] Call stack trace:
+L 12/30/2020 - 01:39:23: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:23: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:24: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:24: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:24: [SM] Call stack trace:
+L 12/30/2020 - 01:39:24: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:24: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:24: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:24: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:24: [SM] Call stack trace:
+L 12/30/2020 - 01:39:24: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:24: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:24: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:24: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:24: [SM] Call stack trace:
+L 12/30/2020 - 01:39:24: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:24: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:24: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:24: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:24: [SM] Call stack trace:
+L 12/30/2020 - 01:39:24: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:24: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:24: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:24: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:24: [SM] Call stack trace:
+L 12/30/2020 - 01:39:24: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:24: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:25: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:25: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:25: [SM] Call stack trace:
+L 12/30/2020 - 01:39:25: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:25: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:25: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:25: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:25: [SM] Call stack trace:
+L 12/30/2020 - 01:39:25: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:25: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:25: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:25: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:25: [SM] Call stack trace:
+L 12/30/2020 - 01:39:25: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:25: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:25: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:25: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:25: [SM] Call stack trace:
+L 12/30/2020 - 01:39:25: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:25: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:25: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:25: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:25: [SM] Call stack trace:
+L 12/30/2020 - 01:39:25: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:25: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:26: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:26: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:26: [SM] Call stack trace:
+L 12/30/2020 - 01:39:26: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:26: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:26: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:26: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:26: [SM] Call stack trace:
+L 12/30/2020 - 01:39:26: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:26: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:26: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:26: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:26: [SM] Call stack trace:
+L 12/30/2020 - 01:39:26: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:26: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:26: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:26: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:26: [SM] Call stack trace:
+L 12/30/2020 - 01:39:26: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:26: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:26: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:26: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:26: [SM] Call stack trace:
+L 12/30/2020 - 01:39:26: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:26: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:27: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:27: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:27: [SM] Call stack trace:
+L 12/30/2020 - 01:39:27: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:27: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:27: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:27: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:27: [SM] Call stack trace:
+L 12/30/2020 - 01:39:27: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:27: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:27: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:27: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:27: [SM] Call stack trace:
+L 12/30/2020 - 01:39:27: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:27: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:27: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:27: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:27: [SM] Call stack trace:
+L 12/30/2020 - 01:39:27: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:27: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:27: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:27: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:27: [SM] Call stack trace:
+L 12/30/2020 - 01:39:27: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:27: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:28: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:28: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:28: [SM] Call stack trace:
+L 12/30/2020 - 01:39:28: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:28: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:28: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:28: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:28: [SM] Call stack trace:
+L 12/30/2020 - 01:39:28: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:28: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:28: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:28: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:28: [SM] Call stack trace:
+L 12/30/2020 - 01:39:28: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:28: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:28: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:28: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:28: [SM] Call stack trace:
+L 12/30/2020 - 01:39:28: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:28: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:28: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:28: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:28: [SM] Call stack trace:
+L 12/30/2020 - 01:39:28: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:28: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:29: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:29: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:29: [SM] Call stack trace:
+L 12/30/2020 - 01:39:29: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:29: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:29: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:29: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:29: [SM] Call stack trace:
+L 12/30/2020 - 01:39:29: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:29: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:29: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:29: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:29: [SM] Call stack trace:
+L 12/30/2020 - 01:39:29: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:29: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:29: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:29: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:29: [SM] Call stack trace:
+L 12/30/2020 - 01:39:29: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:29: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:29: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:29: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:29: [SM] Call stack trace:
+L 12/30/2020 - 01:39:29: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:29: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:30: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:30: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:30: [SM] Call stack trace:
+L 12/30/2020 - 01:39:30: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:30: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:30: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:30: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:30: [SM] Call stack trace:
+L 12/30/2020 - 01:39:30: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:30: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:30: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:30: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:30: [SM] Call stack trace:
+L 12/30/2020 - 01:39:30: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:30: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:30: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:30: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:30: [SM] Call stack trace:
+L 12/30/2020 - 01:39:30: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:30: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:30: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:30: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:30: [SM] Call stack trace:
+L 12/30/2020 - 01:39:30: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:30: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:31: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:31: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:31: [SM] Call stack trace:
+L 12/30/2020 - 01:39:31: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:31: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:31: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:31: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:31: [SM] Call stack trace:
+L 12/30/2020 - 01:39:31: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:31: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:31: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:31: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:31: [SM] Call stack trace:
+L 12/30/2020 - 01:39:31: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:31: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:31: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:31: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:31: [SM] Call stack trace:
+L 12/30/2020 - 01:39:31: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:31: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:31: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:31: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:31: [SM] Call stack trace:
+L 12/30/2020 - 01:39:31: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:31: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:32: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:32: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:32: [SM] Call stack trace:
+L 12/30/2020 - 01:39:32: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:32: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:32: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:32: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:32: [SM] Call stack trace:
+L 12/30/2020 - 01:39:32: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:32: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:32: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:32: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:32: [SM] Call stack trace:
+L 12/30/2020 - 01:39:32: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:32: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:32: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:32: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:32: [SM] Call stack trace:
+L 12/30/2020 - 01:39:32: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:32: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:32: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:32: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:32: [SM] Call stack trace:
+L 12/30/2020 - 01:39:32: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:32: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:33: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:33: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:33: [SM] Call stack trace:
+L 12/30/2020 - 01:39:33: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:33: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:33: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:33: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:33: [SM] Call stack trace:
+L 12/30/2020 - 01:39:33: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:33: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:33: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:33: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:33: [SM] Call stack trace:
+L 12/30/2020 - 01:39:33: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:33: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:33: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:33: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:33: [SM] Call stack trace:
+L 12/30/2020 - 01:39:33: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:33: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:33: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:33: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:33: [SM] Call stack trace:
+L 12/30/2020 - 01:39:33: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:33: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:34: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:34: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:34: [SM] Call stack trace:
+L 12/30/2020 - 01:39:34: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:34: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:34: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:34: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:34: [SM] Call stack trace:
+L 12/30/2020 - 01:39:34: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:34: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:34: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:34: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:34: [SM] Call stack trace:
+L 12/30/2020 - 01:39:34: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:34: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:34: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:34: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:34: [SM] Call stack trace:
+L 12/30/2020 - 01:39:34: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:34: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:34: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:34: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:34: [SM] Call stack trace:
+L 12/30/2020 - 01:39:34: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:34: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:35: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:35: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:35: [SM] Call stack trace:
+L 12/30/2020 - 01:39:35: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:35: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:35: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:35: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:35: [SM] Call stack trace:
+L 12/30/2020 - 01:39:35: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:35: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:35: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:35: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:35: [SM] Call stack trace:
+L 12/30/2020 - 01:39:35: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:35: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:35: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:35: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:35: [SM] Call stack trace:
+L 12/30/2020 - 01:39:35: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:35: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:35: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:35: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:35: [SM] Call stack trace:
+L 12/30/2020 - 01:39:35: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:35: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:36: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:36: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:36: [SM] Call stack trace:
+L 12/30/2020 - 01:39:36: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:36: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:36: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:36: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:36: [SM] Call stack trace:
+L 12/30/2020 - 01:39:36: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:36: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:36: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:36: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:36: [SM] Call stack trace:
+L 12/30/2020 - 01:39:36: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:36: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:36: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:36: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:36: [SM] Call stack trace:
+L 12/30/2020 - 01:39:36: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:36: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:36: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:36: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:36: [SM] Call stack trace:
+L 12/30/2020 - 01:39:36: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:36: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:37: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:37: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:37: [SM] Call stack trace:
+L 12/30/2020 - 01:39:37: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:37: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:37: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:37: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:37: [SM] Call stack trace:
+L 12/30/2020 - 01:39:37: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:37: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:37: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:37: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:37: [SM] Call stack trace:
+L 12/30/2020 - 01:39:37: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:37: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:37: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:37: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:37: [SM] Call stack trace:
+L 12/30/2020 - 01:39:37: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:37: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:37: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:37: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:37: [SM] Call stack trace:
+L 12/30/2020 - 01:39:37: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:37: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:38: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:38: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:38: [SM] Call stack trace:
+L 12/30/2020 - 01:39:38: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:38: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:38: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:38: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:38: [SM] Call stack trace:
+L 12/30/2020 - 01:39:38: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:38: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:38: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:38: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:38: [SM] Call stack trace:
+L 12/30/2020 - 01:39:38: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:38: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:38: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:38: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:38: [SM] Call stack trace:
+L 12/30/2020 - 01:39:38: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:38: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:38: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:38: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:38: [SM] Call stack trace:
+L 12/30/2020 - 01:39:38: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:38: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:39: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:39: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:39: [SM] Call stack trace:
+L 12/30/2020 - 01:39:39: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:39: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:39: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:39: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:39: [SM] Call stack trace:
+L 12/30/2020 - 01:39:39: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:39: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:39: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:39: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:39: [SM] Call stack trace:
+L 12/30/2020 - 01:39:39: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:39: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:39: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:39: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:39: [SM] Call stack trace:
+L 12/30/2020 - 01:39:39: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:39: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:39: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:39: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:39: [SM] Call stack trace:
+L 12/30/2020 - 01:39:39: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:39: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:40: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:40: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:40: [SM] Call stack trace:
+L 12/30/2020 - 01:39:40: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:40: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:40: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:40: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:40: [SM] Call stack trace:
+L 12/30/2020 - 01:39:40: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:40: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:40: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:40: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:40: [SM] Call stack trace:
+L 12/30/2020 - 01:39:40: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:40: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:40: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:40: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:40: [SM] Call stack trace:
+L 12/30/2020 - 01:39:40: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:40: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:40: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:40: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:40: [SM] Call stack trace:
+L 12/30/2020 - 01:39:40: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:40: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:41: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:41: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:41: [SM] Call stack trace:
+L 12/30/2020 - 01:39:41: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:41: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:41: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:41: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:41: [SM] Call stack trace:
+L 12/30/2020 - 01:39:41: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:41: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:41: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:41: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:41: [SM] Call stack trace:
+L 12/30/2020 - 01:39:41: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:41: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:41: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:41: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:41: [SM] Call stack trace:
+L 12/30/2020 - 01:39:41: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:41: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:41: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:41: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:41: [SM] Call stack trace:
+L 12/30/2020 - 01:39:41: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:41: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:42: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:42: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:42: [SM] Call stack trace:
+L 12/30/2020 - 01:39:42: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:42: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:42: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:42: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:42: [SM] Call stack trace:
+L 12/30/2020 - 01:39:42: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:42: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:42: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:42: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:42: [SM] Call stack trace:
+L 12/30/2020 - 01:39:42: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:42: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:42: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:42: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:42: [SM] Call stack trace:
+L 12/30/2020 - 01:39:42: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:42: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:42: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:42: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:42: [SM] Call stack trace:
+L 12/30/2020 - 01:39:42: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:42: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:43: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:43: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:43: [SM] Call stack trace:
+L 12/30/2020 - 01:39:43: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:43: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:43: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:43: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:43: [SM] Call stack trace:
+L 12/30/2020 - 01:39:43: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:43: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:43: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:43: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:43: [SM] Call stack trace:
+L 12/30/2020 - 01:39:43: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:43: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:43: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:43: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:43: [SM] Call stack trace:
+L 12/30/2020 - 01:39:43: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:43: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:43: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:43: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:43: [SM] Call stack trace:
+L 12/30/2020 - 01:39:43: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:43: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:44: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:44: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:44: [SM] Call stack trace:
+L 12/30/2020 - 01:39:44: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:44: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:44: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:44: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:44: [SM] Call stack trace:
+L 12/30/2020 - 01:39:44: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:44: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:44: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:44: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:44: [SM] Call stack trace:
+L 12/30/2020 - 01:39:44: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:44: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:44: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:44: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:44: [SM] Call stack trace:
+L 12/30/2020 - 01:39:44: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:44: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:44: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:44: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:44: [SM] Call stack trace:
+L 12/30/2020 - 01:39:44: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:44: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:45: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:45: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:45: [SM] Call stack trace:
+L 12/30/2020 - 01:39:45: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:45: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:45: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:45: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:45: [SM] Call stack trace:
+L 12/30/2020 - 01:39:45: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:45: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:45: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:45: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:45: [SM] Call stack trace:
+L 12/30/2020 - 01:39:45: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:45: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:45: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:45: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:45: [SM] Call stack trace:
+L 12/30/2020 - 01:39:45: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:45: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:45: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:45: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:45: [SM] Call stack trace:
+L 12/30/2020 - 01:39:45: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:45: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:46: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:46: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:46: [SM] Call stack trace:
+L 12/30/2020 - 01:39:46: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:46: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:39:46: [SM] Exception reported: Property "m_flChargeLevel" not found (entity 307/tf_weapon_builder)
+L 12/30/2020 - 01:39:46: [SM] Blaming: freak_fortress_2.smx
+L 12/30/2020 - 01:39:46: [SM] Call stack trace:
+L 12/30/2020 - 01:39:46: [SM]   [0] GetEntPropFloat
+L 12/30/2020 - 01:39:46: [SM]   [1] Line 10427, Unofficial Freak Fortress::ClientTimer
+L 12/30/2020 - 01:43:50: Error log file session closed.
+L 12/30/2020 - 01:48:26: SourceMod error session started
+L 12/30/2020 - 01:48:26: Info (map "vsh_manncohq_v14") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20201230.log")
+L 12/30/2020 - 01:48:26: [SM] Exception reported: Invalid data pack position, 16 is out of bounds (6)
+L 12/30/2020 - 01:48:26: [SM] Blaming: sbpp_comms.smx
+L 12/30/2020 - 01:48:26: [SM] Call stack trace:
+L 12/30/2020 - 01:48:26: [SM]   [0] SetPackPosition
+L 12/30/2020 - 01:48:26: [SM]   [1] Line 1470, .\sbpp_comms.sp::Query_UnBlockSelect
+L 12/30/2020 - 01:55:00: [freaks/shadow93_abilities.ff2] [SHADoW93 Minions] Redmond Mann has an invalid  formula for minions, using default health!
+L 12/30/2020 - 01:55:00: [freaks/shadow93_abilities.ff2] [SHADoW93 Minions] Redmond Mann has an invalid  formula for minions, using default health!
+L 12/30/2020 - 01:55:00: [freaks/shadow93_abilities.ff2] [SHADoW93 Minions] Redmond Mann has an invalid  formula for minions, using default health!
+L 12/30/2020 - 01:55:00: [freaks/shadow93_abilities.ff2] [SHADoW93 Minions] Redmond Mann has an invalid  formula for minions, using default health!
+L 12/30/2020 - 02:13:05: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 12/30/2020 - 02:14:59: Error log file session closed.
+L 12/30/2020 - 02:41:40: SourceMod error session started
+L 12/30/2020 - 02:41:40: Info (map "vsh_castle_siege_unreal_sg1") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20201230.log")
+L 12/30/2020 - 02:41:40: [SM] Exception reported: Cowardly refusing to add invalid attribute index "0" to an item.
+L 12/30/2020 - 02:41:40: [SM] Blaming: pyrogineer.smx
+L 12/30/2020 - 02:41:40: [SM] Call stack trace:
+L 12/30/2020 - 02:41:40: [SM]   [0] TF2Items_SetAttribute
+L 12/30/2020 - 02:41:40: [SM]   [1] Line 271, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::PrepareItemHandle
+L 12/30/2020 - 02:41:40: [SM]   [2] Line 294, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::TF2Items_OnGiveNamedItem
+L 12/30/2020 - 02:41:40: [SM] Exception reported: Cowardly refusing to add invalid attribute index "0" to an item.
+L 12/30/2020 - 02:41:40: [SM] Blaming: pyrogineer.smx
+L 12/30/2020 - 02:41:40: [SM] Call stack trace:
+L 12/30/2020 - 02:41:40: [SM]   [0] TF2Items_SetAttribute
+L 12/30/2020 - 02:41:40: [SM]   [1] Line 271, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::PrepareItemHandle
+L 12/30/2020 - 02:41:40: [SM]   [2] Line 294, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::TF2Items_OnGiveNamedItem
+L 12/30/2020 - 02:41:40: [SM]   [4] TF2_RegeneratePlayer
+L 12/30/2020 - 02:41:40: [SM]   [5] Line 9918, Unofficial Freak Fortress::OnPostInventoryApplication
+L 12/30/2020 - 02:44:34: [SM] Exception reported: Cowardly refusing to add invalid attribute index "0" to an item.
+L 12/30/2020 - 02:44:34: [SM] Blaming: pyrogineer.smx
+L 12/30/2020 - 02:44:34: [SM] Call stack trace:
+L 12/30/2020 - 02:44:34: [SM]   [0] TF2Items_SetAttribute
+L 12/30/2020 - 02:44:34: [SM]   [1] Line 271, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::PrepareItemHandle
+L 12/30/2020 - 02:44:34: [SM]   [2] Line 294, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::TF2Items_OnGiveNamedItem
+L 12/30/2020 - 02:44:34: [SM]   [4] TF2_RegeneratePlayer
+L 12/30/2020 - 02:44:34: [SM]   [5] Line 27, /groups/sourcemod/upload_tmp/textISXu91.sp::Fix_Function
+L 12/30/2020 - 02:46:54: Error log file session closed.
+L 12/30/2020 - 20:18:46: SourceMod error session started
+L 12/30/2020 - 20:18:46: Info (map "vsh_apg_v2_sg1") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20201230.log")
+L 12/30/2020 - 20:18:46: [freaks/shadow93_abilities.ff2] [SHADoW93 Minions] Blutarch Mann has an invalid  formula for minions, using default health!
+L 12/30/2020 - 20:20:27: [freaks/shadow93_abilities.ff2] [SHADoW93 Minions] Blutarch Mann has an invalid  formula for minions, using default health!
+L 12/30/2020 - 20:34:07: [SM] Exception reported: Cowardly refusing to add invalid attribute index "0" to an item.
+L 12/30/2020 - 20:34:07: [SM] Blaming: pyrogineer.smx
+L 12/30/2020 - 20:34:07: [SM] Call stack trace:
+L 12/30/2020 - 20:34:07: [SM]   [0] TF2Items_SetAttribute
+L 12/30/2020 - 20:34:07: [SM]   [1] Line 271, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::PrepareItemHandle
+L 12/30/2020 - 20:34:07: [SM]   [2] Line 294, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::TF2Items_OnGiveNamedItem
+L 12/30/2020 - 20:37:41: Error log file session closed.
+L 12/30/2020 - 20:50:00: SourceMod error session started
+L 12/30/2020 - 20:50:00: Info (map "vsh_manncohq_v14") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20201230.log")
+L 12/30/2020 - 20:50:00: [SM] Exception reported: Cowardly refusing to add invalid attribute index "0" to an item.
+L 12/30/2020 - 20:50:00: [SM] Blaming: pyrogineer.smx
+L 12/30/2020 - 20:50:00: [SM] Call stack trace:
+L 12/30/2020 - 20:50:00: [SM]   [0] TF2Items_SetAttribute
+L 12/30/2020 - 20:50:00: [SM]   [1] Line 271, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::PrepareItemHandle
+L 12/30/2020 - 20:50:00: [SM]   [2] Line 294, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::TF2Items_OnGiveNamedItem
+L 12/30/2020 - 20:50:00: [SM] Exception reported: Cowardly refusing to add invalid attribute index "0" to an item.
+L 12/30/2020 - 20:50:00: [SM] Blaming: pyrogineer.smx
+L 12/30/2020 - 20:50:00: [SM] Call stack trace:
+L 12/30/2020 - 20:50:00: [SM]   [0] TF2Items_SetAttribute
+L 12/30/2020 - 20:50:00: [SM]   [1] Line 271, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::PrepareItemHandle
+L 12/30/2020 - 20:50:00: [SM]   [2] Line 294, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::TF2Items_OnGiveNamedItem
+L 12/30/2020 - 20:50:00: [SM]   [4] TF2_RegeneratePlayer
+L 12/30/2020 - 20:50:00: [SM]   [5] Line 27, /groups/sourcemod/upload_tmp/textISXu91.sp::Fix_Function
+L 12/30/2020 - 20:50:53: [SM] Exception reported: Cowardly refusing to add invalid attribute index "0" to an item.
+L 12/30/2020 - 20:50:53: [SM] Blaming: pyrogineer.smx
+L 12/30/2020 - 20:50:53: [SM] Call stack trace:
+L 12/30/2020 - 20:50:53: [SM]   [0] TF2Items_SetAttribute
+L 12/30/2020 - 20:50:53: [SM]   [1] Line 271, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::PrepareItemHandle
+L 12/30/2020 - 20:50:53: [SM]   [2] Line 294, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::TF2Items_OnGiveNamedItem
+L 12/30/2020 - 20:50:53: [SM]   [4] TF2_RegeneratePlayer
+L 12/30/2020 - 20:50:53: [SM]   [5] Line 27, /groups/sourcemod/upload_tmp/textISXu91.sp::Fix_Function
+L 12/30/2020 - 20:52:18: [SM] Exception reported: Cowardly refusing to add invalid attribute index "0" to an item.
+L 12/30/2020 - 20:52:18: [SM] Blaming: pyrogineer.smx
+L 12/30/2020 - 20:52:18: [SM] Call stack trace:
+L 12/30/2020 - 20:52:18: [SM]   [0] TF2Items_SetAttribute
+L 12/30/2020 - 20:52:18: [SM]   [1] Line 271, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::PrepareItemHandle
+L 12/30/2020 - 20:52:18: [SM]   [2] Line 294, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::TF2Items_OnGiveNamedItem
+L 12/30/2020 - 20:52:18: [SM]   [4] TF2_RegeneratePlayer
+L 12/30/2020 - 20:52:18: [SM]   [5] Line 27, /groups/sourcemod/upload_tmp/textISXu91.sp::Fix_Function
+L 12/30/2020 - 21:12:37: Error log file session closed.
+L 12/30/2020 - 21:34:29: SourceMod error session started
+L 12/30/2020 - 21:34:29: Info (map "vsh_nebula_rc1") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20201230.log")
+L 12/30/2020 - 21:34:29: [freaks/shadow93_abilities.ff2] [SHADoW93 Minions] Redmond Mann has an invalid  formula for minions, using default health!
+L 12/30/2020 - 21:34:29: [freaks/shadow93_abilities.ff2] [SHADoW93 Minions] Redmond Mann has an invalid  formula for minions, using default health!
+L 12/30/2020 - 21:46:53: Error log file session closed.
+L 12/30/2020 - 22:02:59: SourceMod error session started
+L 12/30/2020 - 22:02:59: Info (map "vsh_dirtmound_b9") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20201230.log")
+L 12/30/2020 - 22:02:59: [freaks/shadow93_abilities.ff2] [SHADoW93 Minions] Redmond Mann has an invalid  formula for minions, using default health!
+L 12/30/2020 - 22:02:59: [freaks/shadow93_abilities.ff2] [SHADoW93 Minions] Redmond Mann has an invalid  formula for minions, using default health!
+L 12/30/2020 - 22:02:59: [freaks/shadow93_abilities.ff2] [SHADoW93 Minions] Redmond Mann has an invalid  formula for minions, using default health!
+L 12/30/2020 - 22:04:02: [freaks/shadow93_abilities.ff2] [SHADoW93 Minions] Redmond Mann has an invalid  formula for minions, using default health!
+L 12/30/2020 - 22:04:02: [freaks/shadow93_abilities.ff2] [SHADoW93 Minions] Redmond Mann has an invalid  formula for minions, using default health!
+L 12/30/2020 - 22:04:02: [freaks/shadow93_abilities.ff2] [SHADoW93 Minions] Redmond Mann has an invalid  formula for minions, using default health!
+L 12/30/2020 - 22:04:02: [freaks/shadow93_abilities.ff2] [SHADoW93 Minions] Redmond Mann has an invalid  formula for minions, using default health!
+L 12/30/2020 - 22:20:17: Error log file session closed.
+L 12/30/2020 - 22:21:41: SourceMod error session started
+L 12/30/2020 - 22:21:41: Info (map "vsh_crevice_b5") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20201230.log")
+L 12/30/2020 - 22:21:41: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 12/30/2020 - 22:21:41: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 12/30/2020 - 22:22:05: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 12/30/2020 - 22:22:05: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 12/30/2020 - 22:22:05: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 12/30/2020 - 22:22:05: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 12/30/2020 - 22:22:05: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 12/30/2020 - 22:22:05: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 12/30/2020 - 22:22:05: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 12/30/2020 - 22:22:52: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 12/30/2020 - 22:22:52: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 12/30/2020 - 22:22:52: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 12/30/2020 - 22:28:33: [freaks/shadow93_abilities.ff2] [SHADoW93 Minions] Redmond Mann has an invalid  formula for minions, using default health!
+L 12/30/2020 - 22:28:33: [freaks/shadow93_abilities.ff2] [SHADoW93 Minions] Redmond Mann has an invalid  formula for minions, using default health!
+L 12/30/2020 - 22:28:33: [freaks/shadow93_abilities.ff2] [SHADoW93 Minions] Redmond Mann has an invalid  formula for minions, using default health!
+L 12/30/2020 - 22:29:39: [freaks/shadow93_abilities.ff2] [SHADoW93 Minions] Redmond Mann has an invalid  formula for minions, using default health!
+L 12/30/2020 - 22:29:39: [freaks/shadow93_abilities.ff2] [SHADoW93 Minions] Redmond Mann has an invalid  formula for minions, using default health!
+L 12/30/2020 - 22:29:39: [freaks/shadow93_abilities.ff2] [SHADoW93 Minions] Redmond Mann has an invalid  formula for minions, using default health!
+L 12/30/2020 - 22:29:39: [freaks/shadow93_abilities.ff2] [SHADoW93 Minions] Redmond Mann has an invalid  formula for minions, using default health!
+L 12/30/2020 - 22:36:29: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 12/30/2020 - 22:36:29: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 12/30/2020 - 22:36:47: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 12/30/2020 - 22:36:47: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 12/30/2020 - 22:36:47: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 12/30/2020 - 22:36:47: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 12/30/2020 - 22:37:04: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 12/30/2020 - 22:37:04: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 12/30/2020 - 22:37:04: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 12/30/2020 - 22:37:41: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 12/30/2020 - 22:37:41: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 12/30/2020 - 22:37:41: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 12/30/2020 - 22:37:41: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 12/30/2020 - 22:37:41: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 12/30/2020 - 22:38:11: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 12/30/2020 - 22:38:11: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 12/30/2020 - 22:38:11: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 12/30/2020 - 22:38:11: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 12/30/2020 - 22:40:01: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 12/30/2020 - 22:40:01: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 12/30/2020 - 22:40:01: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 12/30/2020 - 22:40:01: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 12/30/2020 - 22:40:01: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 12/30/2020 - 22:40:02: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 12/30/2020 - 22:40:02: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 12/30/2020 - 22:40:02: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 12/30/2020 - 22:40:02: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 12/30/2020 - 22:40:02: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 12/30/2020 - 22:40:02: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 12/30/2020 - 22:40:02: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 12/30/2020 - 22:40:02: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 12/30/2020 - 22:54:33: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 12/30/2020 - 22:54:33: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 12/30/2020 - 22:54:33: [store.smx] Database connection is lost or not yet initialized.
+L 12/30/2020 - 22:54:33: [store.smx] Database connection is lost or not yet initialized.
+L 12/30/2020 - 22:54:33: [store.smx] Database connection is lost or not yet initialized.
+L 12/30/2020 - 22:54:33: [store.smx] Database connection is lost or not yet initialized.
+L 12/30/2020 - 22:54:33: [store.smx] Database connection is lost or not yet initialized.
+L 12/30/2020 - 22:54:33: [store.smx] Database connection is lost or not yet initialized.
+L 12/30/2020 - 22:54:33: [store.smx] Database connection is lost or not yet initialized.
+L 12/30/2020 - 22:54:33: [store.smx] Database connection is lost or not yet initialized.
+L 12/30/2020 - 22:54:33: [store.smx] Database connection is lost or not yet initialized.
+L 12/30/2020 - 22:54:33: [store.smx] Database connection is lost or not yet initialized.
+L 12/30/2020 - 22:54:33: [store.smx] Database connection is lost or not yet initialized.
+L 12/30/2020 - 22:54:33: [store.smx] Database connection is lost or not yet initialized.
+L 12/30/2020 - 22:54:33: [store.smx] Database connection is lost or not yet initialized.
+L 12/30/2020 - 22:54:33: [store.smx] Database connection is lost or not yet initialized.
+L 12/30/2020 - 22:54:33: [SM] Exception reported: Entity 6 is invalid
+L 12/30/2020 - 22:54:33: [SM] Blaming: fc.smx
+L 12/30/2020 - 22:54:33: [SM] Call stack trace:
+L 12/30/2020 - 22:54:33: [SM]   [0] SDKHook
+L 12/30/2020 - 22:54:33: [SM]   [1] Line 391, D:\storage\Dropbox\Sourcemod\nieuw\sourcemod\scripting\fc.sp::Init
+L 12/30/2020 - 22:54:33: [SM]   [2] Line 173, D:\storage\Dropbox\Sourcemod\nieuw\sourcemod\scripting\fc.sp::OnPluginStart
+L 12/30/2020 - 22:54:33: [SM] Unable to load plugin "fc.smx": Error detected in plugin startup (see error logs)
+L 12/30/2020 - 22:54:34: [tf2_taunts_tf2idb.smx] Failed to initialize taunt cache: TF2IDB Not loaded.
+L 12/30/2020 - 22:54:34: [tf2_taunts_tf2idb.smx] Halting user interface initialization. Plugin loaded but updater not found.
+L 12/30/2020 - 22:54:34: [tf2_taunts_tf2idb.smx] Try using the latest version from here https://github.com/fakuivan/TF2-Taunts-TF2IDB .
+L 12/30/2020 - 22:54:50: Error log file session closed.
+L 12/30/2020 - 22:58:55: SourceMod error session started
+L 12/30/2020 - 22:58:55: Info (map "vsh_dirtmound_b9") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20201230.log")
+L 12/30/2020 - 22:58:55: [freaks/shadow93_abilities.ff2] [SHADoW93 Minions] Blutarch Mann has an invalid  formula for minions, using default health!
+L 12/30/2020 - 22:58:55: [freaks/shadow93_abilities.ff2] [SHADoW93 Minions] Blutarch Mann has an invalid  formula for minions, using default health!
+L 12/30/2020 - 22:58:55: [freaks/shadow93_abilities.ff2] [SHADoW93 Minions] Blutarch Mann has an invalid  formula for minions, using default health!
+L 12/30/2020 - 22:58:55: [freaks/shadow93_abilities.ff2] [SHADoW93 Minions] Blutarch Mann has an invalid  formula for minions, using default health!
+L 12/30/2020 - 23:01:50: [freaks/shadow93_abilities.ff2] [SHADoW93 Minions] Redmond Mann has an invalid  formula for minions, using default health!
+L 12/30/2020 - 23:01:50: [freaks/shadow93_abilities.ff2] [SHADoW93 Minions] Redmond Mann has an invalid  formula for minions, using default health!
+L 12/30/2020 - 23:11:12: [freaks/shadow93_abilities.ff2] [SHADoW93 Minions] [DUO] Blutarch Mann has an invalid -1 formula for minions, using default health!
+L 12/30/2020 - 23:11:12: [freaks/shadow93_abilities.ff2] [SHADoW93 Minions] [DUO] Blutarch Mann has an invalid -1 formula for minions, using default health!
+L 12/30/2020 - 23:11:12: [freaks/shadow93_abilities.ff2] [SHADoW93 Minions] [DUO] Blutarch Mann has an invalid -1 formula for minions, using default health!
+L 12/30/2020 - 23:19:30: [freaks/shadow93_abilities.ff2] [SHADoW93 Minions] Redmond Mann has an invalid  formula for minions, using default health!
+L 12/30/2020 - 23:27:48: Error log file session closed.
+L 12/30/2020 - 23:52:24: SourceMod error session started
+L 12/30/2020 - 23:52:24: Info (map "vsh_nebula_rc1") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20201230.log")
+L 12/30/2020 - 23:52:24: [freaks/shadow93_abilities.ff2] [SHADoW93 Minions] Blutarch Mann has an invalid  formula for minions, using default health!
+L 12/30/2020 - 23:59:36: Error log file session closed.

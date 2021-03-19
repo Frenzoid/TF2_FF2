@@ -1,0 +1,209 @@
+L 07/19/2020 - 03:40:14: SourceMod error session started
+L 07/19/2020 - 03:40:14: Info (map "arena_lumberyard") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200719.log")
+L 07/19/2020 - 03:40:14: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 07/19/2020 - 03:40:15: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 07/19/2020 - 03:42:00: SourceMod error session started
+L 07/19/2020 - 03:42:00: Info (map "arena_lumberyard") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200719.log")
+L 07/19/2020 - 03:42:00: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 07/19/2020 - 03:42:00: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 07/19/2020 - 13:24:00: Error log file session closed.
+L 07/19/2020 - 13:30:59: SourceMod error session started
+L 07/19/2020 - 13:30:59: Info (map "vsh_manncohq_v14") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200719.log")
+L 07/19/2020 - 13:30:59: [SM] Fatal error encountered parsing translation file "simple-bhop.phrases.txt"
+L 07/19/2020 - 13:30:59: [SM] Error (line 0, column 0): Stream failed to open
+L 07/19/2020 - 13:35:55: Error log file session closed.
+L 07/19/2020 - 13:35:55: SourceMod error session started
+L 07/19/2020 - 13:35:55: Info (map "vsh_manncohq_v14") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200719.log")
+L 07/19/2020 - 13:35:55: [SM] Fatal error encountered parsing translation file "simple-bhop.phrases.txt"
+L 07/19/2020 - 13:35:55: [SM] Error (line 0, column 0): Stream failed to open
+L 07/19/2020 - 13:39:45: Error log file session closed.
+L 07/19/2020 - 13:39:45: SourceMod error session started
+L 07/19/2020 - 13:39:45: Info (map "vsh_manncohq_v14") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200719.log")
+L 07/19/2020 - 13:39:45: [SM] Fatal error encountered parsing translation file "simple-bhop.phrases.txt"
+L 07/19/2020 - 13:39:45: [SM] Error (line 0, column 0): Stream failed to open
+L 07/19/2020 - 13:39:54: [SM] Exception reported: Client index 0 is invalid
+L 07/19/2020 - 13:39:54: [SM] Blaming: rfbhop.smx
+L 07/19/2020 - 13:39:54: [SM] Call stack trace:
+L 07/19/2020 - 13:39:54: [SM]   [0] PrintCenterText
+L 07/19/2020 - 13:39:54: [SM]   [1] Line 179, D:\Games\srcds\orangebox\tf\addons\sourcemod\scripting\rfbhop.sp::CmdSpeedoSwitch
+L 07/19/2020 - 13:42:46: Error log file session closed.
+L 07/19/2020 - 13:42:46: SourceMod error session started
+L 07/19/2020 - 13:42:46: Info (map "vsh_manncohq_v14") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200719.log")
+L 07/19/2020 - 13:42:46: [SM] Fatal error encountered parsing translation file "simple-bhop.phrases.txt"
+L 07/19/2020 - 13:42:46: [SM] Error (line 0, column 0): Stream failed to open
+L 07/19/2020 - 13:49:29: Error log file session closed.
+L 07/19/2020 - 13:49:29: SourceMod error session started
+L 07/19/2020 - 13:49:29: Info (map "vsh_manncohq_v14") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200719.log")
+L 07/19/2020 - 13:49:29: [SM] Fatal error encountered parsing translation file "simple-bhop.phrases.txt"
+L 07/19/2020 - 13:49:29: [SM] Error (line 0, column 0): Stream failed to open
+L 07/19/2020 - 13:58:22: [SM] Plugin "roundtimer.smx" encountered error 23: Native detected error
+L 07/19/2020 - 13:58:22: [SM] Invalid timer handle e615055f (error 3) during timer end, displayed function is timer callback, not the stack trace
+L 07/19/2020 - 13:58:22: [SM] Unable to call function "Timer_Round" due to above error(s).
+L 07/19/2020 - 14:06:40: [SM] Plugin "roundtimer.smx" encountered error 23: Native detected error
+L 07/19/2020 - 14:06:40: [SM] Invalid timer handle 76110590 (error 3) during timer end, displayed function is timer callback, not the stack trace
+L 07/19/2020 - 14:06:40: [SM] Unable to call function "Timer_Round" due to above error(s).
+L 07/19/2020 - 14:14:58: [SM] Plugin "roundtimer.smx" encountered error 23: Native detected error
+L 07/19/2020 - 14:14:58: [SM] Invalid timer handle 59d059c (error 3) during timer end, displayed function is timer callback, not the stack trace
+L 07/19/2020 - 14:14:58: [SM] Unable to call function "Timer_Round" due to above error(s).
+L 07/19/2020 - 14:20:44: Error log file session closed.
+L 07/19/2020 - 14:20:44: SourceMod error session started
+L 07/19/2020 - 14:20:44: Info (map "vsh_manncohq_v14") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200719.log")
+L 07/19/2020 - 14:20:44: [SM] Fatal error encountered parsing translation file "simple-bhop.phrases.txt"
+L 07/19/2020 - 14:20:44: [SM] Error (line 0, column 0): Stream failed to open
+L 07/19/2020 - 14:25:59: Error log file session closed.
+L 07/19/2020 - 14:25:59: SourceMod error session started
+L 07/19/2020 - 14:25:59: Info (map "vsh_manncohq_v14") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200719.log")
+L 07/19/2020 - 14:25:59: [SM] Fatal error encountered parsing translation file "simple-bhop.phrases.txt"
+L 07/19/2020 - 14:25:59: [SM] Error (line 0, column 0): Stream failed to open
+L 07/19/2020 - 14:28:31: Error log file session closed.
+L 07/19/2020 - 14:28:31: SourceMod error session started
+L 07/19/2020 - 14:28:31: Info (map "vsh_manncohq_v14") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200719.log")
+L 07/19/2020 - 14:28:31: [SM] Fatal error encountered parsing translation file "simple-bhop.phrases.txt"
+L 07/19/2020 - 14:28:31: [SM] Error (line 0, column 0): Stream failed to open
+L 07/19/2020 - 14:30:14: Error log file session closed.
+L 07/19/2020 - 14:30:15: SourceMod error session started
+L 07/19/2020 - 14:30:15: Info (map "vsh_manncohq_v14") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200719.log")
+L 07/19/2020 - 14:30:15: [SM] Fatal error encountered parsing translation file "simple-bhop.phrases.txt"
+L 07/19/2020 - 14:30:15: [SM] Error (line 0, column 0): Stream failed to open
+L 07/19/2020 - 14:38:58: [SM] Plugin "roundtimer.smx" encountered error 23: Native detected error
+L 07/19/2020 - 14:38:58: [SM] Invalid timer handle 5ee30602 (error 3) during timer end, displayed function is timer callback, not the stack trace
+L 07/19/2020 - 14:38:58: [SM] Unable to call function "Timer_Round" due to above error(s).
+L 07/19/2020 - 14:48:57: Error log file session closed.
+L 07/19/2020 - 14:48:58: SourceMod error session started
+L 07/19/2020 - 14:48:58: Info (map "vsh_castle_siege_unreal_sg1") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200719.log")
+L 07/19/2020 - 14:48:58: [SM] Fatal error encountered parsing translation file "simple-bhop.phrases.txt"
+L 07/19/2020 - 14:48:58: [SM] Error (line 0, column 0): Stream failed to open
+L 07/19/2020 - 14:50:08: Error log file session closed.
+L 07/19/2020 - 14:50:08: SourceMod error session started
+L 07/19/2020 - 14:50:08: Info (map "vsh_manncohq_v14") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200719.log")
+L 07/19/2020 - 14:50:08: [SM] Fatal error encountered parsing translation file "simple-bhop.phrases.txt"
+L 07/19/2020 - 14:50:08: [SM] Error (line 0, column 0): Stream failed to open
+L 07/19/2020 - 14:51:59: Error log file session closed.
+L 07/19/2020 - 14:51:59: SourceMod error session started
+L 07/19/2020 - 14:51:59: Info (map "vsh_manncohq_v14") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200719.log")
+L 07/19/2020 - 14:51:59: [SM] Fatal error encountered parsing translation file "simple-bhop.phrases.txt"
+L 07/19/2020 - 14:51:59: [SM] Error (line 0, column 0): Stream failed to open
+L 07/19/2020 - 15:00:52: [SM] Plugin "roundtimer.smx" encountered error 23: Native detected error
+L 07/19/2020 - 15:00:52: [SM] Invalid timer handle c3b40661 (error 3) during timer end, displayed function is timer callback, not the stack trace
+L 07/19/2020 - 15:00:52: [SM] Unable to call function "Timer_Round" due to above error(s).
+L 07/19/2020 - 15:02:22: SourceMod error session started
+L 07/19/2020 - 15:02:22: Info (map "arena_lumberyard") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200719.log")
+L 07/19/2020 - 15:02:22: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 07/19/2020 - 15:02:23: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 07/19/2020 - 16:09:41: SourceMod error session started
+L 07/19/2020 - 16:09:41: Info (map "arena_lumberyard") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200719.log")
+L 07/19/2020 - 16:09:41: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 07/19/2020 - 16:09:41: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 07/19/2020 - 16:10:52: Error log file session closed.
+L 07/19/2020 - 16:58:37: SourceMod error session started
+L 07/19/2020 - 16:58:37: Info (map "vsh_manncohq_v14") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200719.log")
+L 07/19/2020 - 16:58:37: [SM] Plugin "roundtimer.smx" encountered error 23: Native detected error
+L 07/19/2020 - 16:58:37: [SM] Invalid timer handle ac8e0583 (error 3) during timer end, displayed function is timer callback, not the stack trace
+L 07/19/2020 - 16:58:37: [SM] Unable to call function "Timer_Round" due to above error(s).
+L 07/19/2020 - 17:06:55: [SM] Plugin "roundtimer.smx" encountered error 23: Native detected error
+L 07/19/2020 - 17:06:55: [SM] Invalid timer handle 3bda057d (error 3) during timer end, displayed function is timer callback, not the stack trace
+L 07/19/2020 - 17:06:55: [SM] Unable to call function "Timer_Round" due to above error(s).
+L 07/19/2020 - 17:15:13: [SM] Plugin "roundtimer.smx" encountered error 23: Native detected error
+L 07/19/2020 - 17:15:13: [SM] Invalid timer handle cb490040 (error 3) during timer end, displayed function is timer callback, not the stack trace
+L 07/19/2020 - 17:15:13: [SM] Unable to call function "Timer_Round" due to above error(s).
+L 07/19/2020 - 17:15:35: Error log file session closed.
+L 07/19/2020 - 19:26:38: SourceMod error session started
+L 07/19/2020 - 19:26:38: Info (map "arena_lumberyard") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200719.log")
+L 07/19/2020 - 19:26:38: [SM] Plugin "roundtimer.smx" encountered error 23: Native detected error
+L 07/19/2020 - 19:26:38: [SM] Invalid timer handle 55ed064b (error 3) during timer end, displayed function is timer callback, not the stack trace
+L 07/19/2020 - 19:26:38: [SM] Unable to call function "Timer_Round" due to above error(s).
+L 07/19/2020 - 19:31:58: Error log file session closed.
+L 07/19/2020 - 19:33:00: SourceMod error session started
+L 07/19/2020 - 19:33:00: Info (map "vsh_manncohq_v14") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200719.log")
+L 07/19/2020 - 19:33:00: [SM] Exception reported: Entity 1 is invalid
+L 07/19/2020 - 19:33:00: [SM] Blaming: fc.smx
+L 07/19/2020 - 19:33:00: [SM] Call stack trace:
+L 07/19/2020 - 19:33:00: [SM]   [0] SDKHook
+L 07/19/2020 - 19:33:00: [SM]   [1] Line 391, D:\storage\Dropbox\Sourcemod\nieuw\sourcemod\scripting\fc.sp::Init
+L 07/19/2020 - 19:33:00: [SM]   [2] Line 173, D:\storage\Dropbox\Sourcemod\nieuw\sourcemod\scripting\fc.sp::OnPluginStart
+L 07/19/2020 - 19:33:00: [SM] Unable to load plugin "fc.smx": Error detected in plugin startup (see error logs)
+L 07/19/2020 - 19:33:00: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 07/19/2020 - 19:33:00: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 07/19/2020 - 19:33:00: [store.smx] Database connection is lost or not yet initialized.
+L 07/19/2020 - 19:34:09: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 07/19/2020 - 19:34:10: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 07/19/2020 - 19:34:10: [store.smx] Database connection is lost or not yet initialized.
+L 07/19/2020 - 19:34:10: [store.smx] Database connection is lost or not yet initialized.
+L 07/19/2020 - 19:35:41: Error log file session closed.
+L 07/19/2020 - 19:35:42: SourceMod error session started
+L 07/19/2020 - 19:35:42: Info (map "vsh_manncohq_v14") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200719.log")
+L 07/19/2020 - 19:35:42: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 07/19/2020 - 19:35:42: [admin-flatfile.smx]  (line 63) Unknown group "Supervisor"
+L 07/19/2020 - 19:37:53: SourceMod error session started
+L 07/19/2020 - 19:37:53: Info (map "arena_lumberyard") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200719.log")
+L 07/19/2020 - 19:37:53: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 07/19/2020 - 19:37:54: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 07/19/2020 - 19:37:54: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 07/19/2020 - 19:37:54: [admin-flatfile.smx]  (line 63) Unknown group "Supervisor"
+L 07/19/2020 - 19:42:23: [SM] Exception reported: Entity 3 is invalid
+L 07/19/2020 - 19:42:23: [SM] Blaming: fc.smx
+L 07/19/2020 - 19:42:23: [SM] Call stack trace:
+L 07/19/2020 - 19:42:23: [SM]   [0] SDKHook
+L 07/19/2020 - 19:42:23: [SM]   [1] Line 391, D:\storage\Dropbox\Sourcemod\nieuw\sourcemod\scripting\fc.sp::Init
+L 07/19/2020 - 19:42:23: [SM]   [2] Line 173, D:\storage\Dropbox\Sourcemod\nieuw\sourcemod\scripting\fc.sp::OnPluginStart
+L 07/19/2020 - 19:42:23: [SM] Unable to load plugin "fc.smx": Error detected in plugin startup (see error logs)
+L 07/19/2020 - 19:42:23: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 07/19/2020 - 19:42:24: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 07/19/2020 - 19:42:24: [store.smx] Database connection is lost or not yet initialized.
+L 07/19/2020 - 19:42:24: [store.smx] Database connection is lost or not yet initialized.
+L 07/19/2020 - 19:43:09: Error log file session closed.
+L 07/19/2020 - 19:48:38: SourceMod error session started
+L 07/19/2020 - 19:48:38: Info (map "arena_lumberyard") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200719.log")
+L 07/19/2020 - 19:48:38: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 07/19/2020 - 19:48:38: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 07/19/2020 - 19:48:38: [store.smx] Database connection is lost or not yet initialized.
+L 07/19/2020 - 19:48:38: [store.smx] Database connection is lost or not yet initialized.
+L 07/19/2020 - 19:48:59: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 07/19/2020 - 19:48:59: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 07/19/2020 - 19:48:59: [store.smx] Database connection is lost or not yet initialized.
+L 07/19/2020 - 19:48:59: [store.smx] Database connection is lost or not yet initialized.
+L 07/19/2020 - 19:49:19: Error log file session closed.
+L 07/19/2020 - 19:54:22: SourceMod error session started
+L 07/19/2020 - 19:54:22: Info (map "arena_lumberyard") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200719.log")
+L 07/19/2020 - 19:54:22: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 07/19/2020 - 19:54:22: [admin-flatfile.smx]  (line 57) Unknown group "Administrator"
+L 07/19/2020 - 19:55:20: Error log file session closed.
+L 07/19/2020 - 19:57:18: SourceMod error session started
+L 07/19/2020 - 19:57:18: Info (map "arena_lumberyard") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200719.log")
+L 07/19/2020 - 19:57:18: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 07/19/2020 - 19:57:18: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 07/19/2020 - 19:57:18: [store.smx] Database connection is lost or not yet initialized.
+L 07/19/2020 - 19:57:18: [store.smx] Database connection is lost or not yet initialized.
+L 07/19/2020 - 19:57:34: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 07/19/2020 - 19:57:34: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 07/19/2020 - 19:57:34: [store.smx] Database connection is lost or not yet initialized.
+L 07/19/2020 - 19:57:34: [store.smx] Database connection is lost or not yet initialized.
+L 07/19/2020 - 19:58:18: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 07/19/2020 - 19:58:18: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 07/19/2020 - 19:58:18: [store.smx] Database connection is lost or not yet initialized.
+L 07/19/2020 - 19:58:18: [store.smx] Database connection is lost or not yet initialized.
+L 07/19/2020 - 19:58:32: Error log file session closed.
+L 07/19/2020 - 19:59:37: SourceMod error session started
+L 07/19/2020 - 19:59:37: Info (map "arena_lumberyard") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200719.log")
+L 07/19/2020 - 19:59:37: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 07/19/2020 - 19:59:37: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 07/19/2020 - 19:59:37: [store.smx] Database connection is lost or not yet initialized.
+L 07/19/2020 - 19:59:37: [store.smx] Database connection is lost or not yet initialized.
+L 07/19/2020 - 20:00:08: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 07/19/2020 - 20:00:08: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 07/19/2020 - 20:00:08: [store.smx] Database connection is lost or not yet initialized.
+L 07/19/2020 - 20:00:08: [store.smx] Database connection is lost or not yet initialized.
+L 07/19/2020 - 20:01:20: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 07/19/2020 - 20:01:21: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 07/19/2020 - 20:01:21: [store.smx] Database connection is lost or not yet initialized.
+L 07/19/2020 - 20:01:21: [store.smx] Database connection is lost or not yet initialized.
+L 07/19/2020 - 20:01:27: Error log file session closed.
+L 07/19/2020 - 20:59:33: SourceMod error session started
+L 07/19/2020 - 20:59:33: Info (map "arena_lumberyard") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200719.log")
+L 07/19/2020 - 20:59:33: [SM] Plugin "roundtimer.smx" encountered error 23: Native detected error
+L 07/19/2020 - 20:59:33: [SM] Invalid timer handle 91a70580 (error 3) during timer end, displayed function is timer callback, not the stack trace
+L 07/19/2020 - 20:59:33: [SM] Unable to call function "Timer_Round" due to above error(s).
+L 07/19/2020 - 21:07:51: [SM] Plugin "roundtimer.smx" encountered error 23: Native detected error
+L 07/19/2020 - 21:07:51: [SM] Invalid timer handle 2180028d (error 3) during timer end, displayed function is timer callback, not the stack trace
+L 07/19/2020 - 21:07:51: [SM] Unable to call function "Timer_Round" due to above error(s).
+L 07/19/2020 - 21:08:13: Error log file session closed.

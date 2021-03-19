@@ -1,0 +1,90 @@
+"Phrases"
+{
+	// ==== PLUGIN ANNOUNCEMENTS ============================================
+	"Announce_Plugin"
+	{
+		"#format"	"{1:s},{2:s},{3:s}"
+		"en"		"{olive}{1} {default}version {2} - By {olive}{3}{default}"
+	}
+	"Announce_Command"
+	{
+		"en"		"{lightgreen}[TF2] {default}To change your equipped model, type {olive}/equip{default} in chat or {olive}equip{default} in console."	
+	}
+	
+	// ==== MENUS ===========================================================
+	"Menu_Main"
+	{
+		"en"		"Model Manager"
+	}
+	"Menu_Equip"
+	{
+		"en"		"Equip model"
+	}
+	"Menu_Remove"
+	{
+		"en"		"Remove equipped model"
+	}
+	"Menu_RemoveAll"
+	{
+		"en"		"Remove all equipped models"
+	}
+	"Menu_SelectItem"
+	{
+		"en"		"Select model to equip"
+	}
+	
+	// ==== MESSAGES ========================================================
+	"Message_EquippedItem"
+	{
+		"#format"	"{1:s}"
+		"en"		"{lightgreen}[TF2] {default}You've equipped yourself with \"{olive}{1}{default}\")."
+	}
+	"Message_RemovedItem"
+	{
+		"en"		"{lightgreen}[TF2] {default}You've removed your equipped model."
+	}
+	"Message_RemovedAllItems"
+	{
+		"en"		"{lightgreen}[TF2] {default}You've removed {olive}all{default} your equipped models."
+	}
+	"Message_ForcedEquip"
+	{
+		"#format"	"{1:s}"
+		"en"		"{lightgreen}[TF2] {default}An {olive}administrator{default} has forced a model onto you: {olive}\"{1}\" {default}."
+	}
+	"Message_ForcedRemove"
+	{
+		"en"		"{lightgreen}[TF2] {default}An {olive}administrator{default} has removed your equipped model."
+	}
+	"Message_Locked"
+	{
+		"en"		"{lightgreen}[TF2] {default}An {olive}administrator{default} has {olive}locked{default} your model."
+	}
+	"Message_Unlocked"
+	{
+		"en"		"{lightgreen}[TF2] {default}An {olive}administrator{default} has {olive}unlocked{default} your model."
+	}
+	"Message_Override_On"
+	{
+		"en"		"{lightgreen}[TF2] {default}An {olive}administrator{default} has activated {olive}restriction override{default} on you."
+	}
+	"Message_Override_Off"
+	{
+		"en"		"{lightgreen}[TF2] {default}An {olive}administrator{default} has deactivated {olive}restriction override{default} on you."
+	}
+	
+	// ==== ERRORS ==========================================================
+	"Error_AccessLevel"
+	{
+		"en"		"{lightgreen}[TF2] {default}You don't have the required {olive}access level{default} to use this command."
+	}
+	"Error_EquipmentLocked"
+	{
+		"en"		"{lightgreen}[TF2] {default}You can't change your model right now: {olive}an administrator has locked your model{default}."
+	}
+	"Error_CantWear"
+	{
+		"#format"	"{1:N}"
+		"en"		"{lightgreen}[TF2] {default}* {olive}Error: {default}Player \"{olive}{1}{default}\" isn't suitable to equip that item."
+	}
+}

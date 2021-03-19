@@ -1,0 +1,158 @@
+L 12/03/2020 - 01:25:12: SourceMod error session started
+L 12/03/2020 - 01:25:12: Info (map "vsh_dunger_b2a") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20201203.log")
+L 12/03/2020 - 01:25:12: [SM] Exception reported: Cowardly refusing to add invalid attribute index "0" to an item.
+L 12/03/2020 - 01:25:12: [SM] Blaming: pyrogineer.smx
+L 12/03/2020 - 01:25:12: [SM] Call stack trace:
+L 12/03/2020 - 01:25:12: [SM]   [0] TF2Items_SetAttribute
+L 12/03/2020 - 01:25:12: [SM]   [1] Line 271, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::PrepareItemHandle
+L 12/03/2020 - 01:25:12: [SM]   [2] Line 294, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::TF2Items_OnGiveNamedItem
+L 12/03/2020 - 01:28:56: [SM] Exception reported: Cowardly refusing to add invalid attribute index "0" to an item.
+L 12/03/2020 - 01:28:56: [SM] Blaming: pyrogineer.smx
+L 12/03/2020 - 01:28:56: [SM] Call stack trace:
+L 12/03/2020 - 01:28:56: [SM]   [0] TF2Items_SetAttribute
+L 12/03/2020 - 01:28:56: [SM]   [1] Line 271, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::PrepareItemHandle
+L 12/03/2020 - 01:28:56: [SM]   [2] Line 294, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::TF2Items_OnGiveNamedItem
+L 12/03/2020 - 01:28:56: [SM]   [4] TF2_RegeneratePlayer
+L 12/03/2020 - 01:28:56: [SM]   [5] Line 27, /groups/sourcemod/upload_tmp/textISXu91.sp::Fix_Function
+L 12/03/2020 - 01:30:55: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 12/03/2020 - 01:30:55: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 12/03/2020 - 01:31:39: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 12/03/2020 - 01:31:39: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 12/03/2020 - 01:31:58: [SM] Exception reported: Cowardly refusing to add invalid attribute index "0" to an item.
+L 12/03/2020 - 01:31:58: [SM] Blaming: pyrogineer.smx
+L 12/03/2020 - 01:31:58: [SM] Call stack trace:
+L 12/03/2020 - 01:31:58: [SM]   [0] TF2Items_SetAttribute
+L 12/03/2020 - 01:31:58: [SM]   [1] Line 271, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::PrepareItemHandle
+L 12/03/2020 - 01:31:58: [SM]   [2] Line 294, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::TF2Items_OnGiveNamedItem
+L 12/03/2020 - 01:31:58: [SM] Exception reported: Cowardly refusing to add invalid attribute index "0" to an item.
+L 12/03/2020 - 01:31:58: [SM] Blaming: pyrogineer.smx
+L 12/03/2020 - 01:31:58: [SM] Call stack trace:
+L 12/03/2020 - 01:31:58: [SM]   [0] TF2Items_SetAttribute
+L 12/03/2020 - 01:31:58: [SM]   [1] Line 271, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::PrepareItemHandle
+L 12/03/2020 - 01:31:58: [SM]   [2] Line 294, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::TF2Items_OnGiveNamedItem
+L 12/03/2020 - 01:31:58: [SM]   [4] TF2_RegeneratePlayer
+L 12/03/2020 - 01:31:58: [SM]   [5] Line 27, /groups/sourcemod/upload_tmp/textISXu91.sp::Fix_Function
+L 12/03/2020 - 01:51:42: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 12/03/2020 - 01:51:42: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 12/03/2020 - 01:51:42: [store.smx] Database connection is lost or not yet initialized.
+L 12/03/2020 - 01:51:42: [store.smx] Database connection is lost or not yet initialized.
+L 12/03/2020 - 01:51:42: [store.smx] Database connection is lost or not yet initialized.
+L 12/03/2020 - 01:51:42: [store.smx] Database connection is lost or not yet initialized.
+L 12/03/2020 - 01:51:42: [store.smx] Database connection is lost or not yet initialized.
+L 12/03/2020 - 01:51:42: [store.smx] Database connection is lost or not yet initialized.
+L 12/03/2020 - 01:52:03: Error log file session closed.
+L 12/03/2020 - 01:55:47: SourceMod error session started
+L 12/03/2020 - 01:55:47: Info (map "vsh_egyptyspot_v2") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20201203.log")
+L 12/03/2020 - 01:55:47: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 12/03/2020 - 01:55:47: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 12/03/2020 - 01:55:47: [store.smx] Database connection is lost or not yet initialized.
+L 12/03/2020 - 01:55:47: [store.smx] Database connection is lost or not yet initialized.
+L 12/03/2020 - 01:55:47: [store.smx] Database connection is lost or not yet initialized.
+L 12/03/2020 - 01:55:47: [store.smx] Database connection is lost or not yet initialized.
+L 12/03/2020 - 01:55:47: [store.smx] Database connection is lost or not yet initialized.
+L 12/03/2020 - 01:55:47: [store.smx] Database connection is lost or not yet initialized.
+L 12/03/2020 - 02:03:10: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 12/03/2020 - 02:03:10: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 12/03/2020 - 02:03:10: [store.smx] Database connection is lost or not yet initialized.
+L 12/03/2020 - 02:03:10: [store.smx] Database connection is lost or not yet initialized.
+L 12/03/2020 - 02:03:10: [store.smx] Database connection is lost or not yet initialized.
+L 12/03/2020 - 02:03:10: [store.smx] Database connection is lost or not yet initialized.
+L 12/03/2020 - 02:03:10: [store.smx] Database connection is lost or not yet initialized.
+L 12/03/2020 - 02:03:10: [store.smx] Database connection is lost or not yet initialized.
+L 12/03/2020 - 02:06:10: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 12/03/2020 - 02:06:10: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 12/03/2020 - 02:06:10: [store.smx] Database connection is lost or not yet initialized.
+L 12/03/2020 - 02:06:10: [store.smx] Database connection is lost or not yet initialized.
+L 12/03/2020 - 02:06:10: [store.smx] Database connection is lost or not yet initialized.
+L 12/03/2020 - 02:06:10: [store.smx] Database connection is lost or not yet initialized.
+L 12/03/2020 - 02:06:10: [store.smx] Database connection is lost or not yet initialized.
+L 12/03/2020 - 02:06:10: [store.smx] Database connection is lost or not yet initialized.
+L 12/03/2020 - 02:14:35: Error log file session closed.
+L 12/03/2020 - 02:28:08: SourceMod error session started
+L 12/03/2020 - 02:28:08: Info (map "vsh_tranquil_b5") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20201203.log")
+L 12/03/2020 - 02:28:08: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 12/03/2020 - 02:48:23: Error log file session closed.
+L 12/03/2020 - 17:55:30: SourceMod error session started
+L 12/03/2020 - 17:55:30: Info (map "vsh_abandoned_warehouse_final_v3") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20201203.log")
+L 12/03/2020 - 17:55:30: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 12/03/2020 - 17:55:30: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 12/03/2020 - 17:55:30: [store.smx] Database connection is lost or not yet initialized.
+L 12/03/2020 - 17:57:19: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 12/03/2020 - 17:57:19: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 12/03/2020 - 17:57:19: [store.smx] Database connection is lost or not yet initialized.
+L 12/03/2020 - 18:00:59: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 12/03/2020 - 18:00:59: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 12/03/2020 - 18:00:59: [store.smx] Database connection is lost or not yet initialized.
+L 12/03/2020 - 18:05:26: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 12/03/2020 - 18:05:26: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 12/03/2020 - 18:05:26: [store.smx] Database connection is lost or not yet initialized.
+L 12/03/2020 - 18:09:20: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 12/03/2020 - 18:09:20: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 12/03/2020 - 18:09:20: [store.smx] Database connection is lost or not yet initialized.
+L 12/03/2020 - 18:11:21: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 12/03/2020 - 18:11:22: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 12/03/2020 - 18:11:22: [store.smx] Database connection is lost or not yet initialized.
+L 12/03/2020 - 18:15:48: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 12/03/2020 - 18:15:48: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 12/03/2020 - 18:15:48: [store.smx] Database connection is lost or not yet initialized.
+L 12/03/2020 - 18:15:48: [store.smx] Database connection is lost or not yet initialized.
+L 12/03/2020 - 18:17:04: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 12/03/2020 - 18:17:04: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 12/03/2020 - 18:17:04: [store.smx] Database connection is lost or not yet initialized.
+L 12/03/2020 - 18:17:04: [store.smx] Database connection is lost or not yet initialized.
+L 12/03/2020 - 18:23:08: Error log file session closed.
+L 12/03/2020 - 18:27:52: SourceMod error session started
+L 12/03/2020 - 18:27:52: Info (map "vsh_jealo_rc2") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20201203.log")
+L 12/03/2020 - 18:27:52: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 12/03/2020 - 18:27:53: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 12/03/2020 - 18:27:53: [store.smx] Database connection is lost or not yet initialized.
+L 12/03/2020 - 18:27:53: [SM] Exception reported: Entity 4 is invalid
+L 12/03/2020 - 18:27:53: [SM] Blaming: fc.smx
+L 12/03/2020 - 18:27:53: [SM] Call stack trace:
+L 12/03/2020 - 18:27:53: [SM]   [0] SDKHook
+L 12/03/2020 - 18:27:53: [SM]   [1] Line 391, D:\storage\Dropbox\Sourcemod\nieuw\sourcemod\scripting\fc.sp::Init
+L 12/03/2020 - 18:27:53: [SM]   [2] Line 173, D:\storage\Dropbox\Sourcemod\nieuw\sourcemod\scripting\fc.sp::OnPluginStart
+L 12/03/2020 - 18:27:53: [SM] Unable to load plugin "fc.smx": Error detected in plugin startup (see error logs)
+L 12/03/2020 - 18:34:18: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 12/03/2020 - 18:34:19: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 12/03/2020 - 18:34:19: [store.smx] Database connection is lost or not yet initialized.
+L 12/03/2020 - 18:48:04: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 12/03/2020 - 18:48:04: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 12/03/2020 - 18:48:04: [store.smx] Database connection is lost or not yet initialized.
+L 12/03/2020 - 18:48:04: [store.smx] Database connection is lost or not yet initialized.
+L 12/03/2020 - 18:57:33: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 12/03/2020 - 18:57:34: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 12/03/2020 - 18:57:34: [store.smx] Database connection is lost or not yet initialized.
+L 12/03/2020 - 18:57:34: [store.smx] Database connection is lost or not yet initialized.
+L 12/03/2020 - 18:57:55: Error log file session closed.
+L 12/03/2020 - 19:08:27: SourceMod error session started
+L 12/03/2020 - 19:08:27: Info (map "vsh_manncohq_v14") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20201203.log")
+L 12/03/2020 - 19:08:27: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 12/03/2020 - 19:08:27: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 12/03/2020 - 19:08:27: [store.smx] Database connection is lost or not yet initialized.
+L 12/03/2020 - 19:08:27: [store.smx] Database connection is lost or not yet initialized.
+L 12/03/2020 - 19:10:27: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 12/03/2020 - 19:10:28: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 12/03/2020 - 19:10:28: [store.smx] Database connection is lost or not yet initialized.
+L 12/03/2020 - 19:10:28: [store.smx] Database connection is lost or not yet initialized.
+L 12/03/2020 - 19:28:26: [SM] Plugin "roundtimer.smx" encountered error 23: Native detected error
+L 12/03/2020 - 19:28:26: [SM] Invalid timer handle 595d07e2 (error 3) during timer end, displayed function is timer callback, not the stack trace
+L 12/03/2020 - 19:28:26: [SM] Unable to call function "Timer_Round" due to above error(s).
+L 12/03/2020 - 19:28:48: Error log file session closed.
+L 12/03/2020 - 22:51:28: SourceMod error session started
+L 12/03/2020 - 22:51:28: Info (map "arena_lumberyard") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20201203.log")
+L 12/03/2020 - 22:51:28: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 12/03/2020 - 22:51:28: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 12/03/2020 - 23:42:36: [SM] Plugin "roundtimer.smx" encountered error 23: Native detected error
+L 12/03/2020 - 23:42:36: [SM] Invalid timer handle 94fd06a9 (error 3) during timer end, displayed function is timer callback, not the stack trace
+L 12/03/2020 - 23:42:36: [SM] Unable to call function "Timer_Round" due to above error(s).
+L 12/03/2020 - 23:47:03: [SM] Exception reported: Cowardly refusing to add invalid attribute index "0" to an item.
+L 12/03/2020 - 23:47:03: [SM] Blaming: pyrogineer.smx
+L 12/03/2020 - 23:47:03: [SM] Call stack trace:
+L 12/03/2020 - 23:47:03: [SM]   [0] TF2Items_SetAttribute
+L 12/03/2020 - 23:47:03: [SM]   [1] Line 271, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::PrepareItemHandle
+L 12/03/2020 - 23:47:03: [SM]   [2] Line 294, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::TF2Items_OnGiveNamedItem
+L 12/03/2020 - 23:47:03: [SM]   [4] TF2_RespawnPlayer
+L 12/03/2020 - 23:47:03: [SM]   [5] Line 213, /home/forums/content/files/2/7/4/6/4/141212.attach::RespawnPlayer
+L 12/03/2020 - 23:47:03: [SM]   [6] Line 168, /home/forums/content/files/2/7/4/6/4/141212.attach::Command_Respawn
+L 12/03/2020 - 23:51:01: Error log file session closed.

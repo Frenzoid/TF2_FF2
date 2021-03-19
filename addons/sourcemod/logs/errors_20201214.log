@@ -1,0 +1,8 @@
+L 12/14/2020 - 13:57:35: SourceMod error session started
+L 12/14/2020 - 13:57:35: Info (map "vsh_nebula_rc1") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20201214.log")
+L 12/14/2020 - 13:57:35: [SM] Exception reported: Entity 175 is not valid
+L 12/14/2020 - 13:57:35: [SM] Blaming: freaks/shadow93_abilities.ff2
+L 12/14/2020 - 13:57:35: [SM] Call stack trace:
+L 12/14/2020 - 13:57:35: [SM]   [0] TeleportEntity
+L 12/14/2020 - 13:57:35: [SM]   [1] Line 2022, L:\scripting\shadow93_abilities.sp::MoveMarker
+L 12/14/2020 - 14:19:23: Error log file session closed.

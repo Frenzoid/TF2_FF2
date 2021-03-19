@@ -1,0 +1,8 @@
+L 10/14/2020 - 15:55:56: SourceMod log file session started (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/L20201014.log") (Version "1.10.0.6490")
+L 10/14/2020 - 15:55:56: [TF2ITEMS] "GiveNamedItem" offset = 484
+L 10/14/2020 - 15:55:58: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 10/14/2020 - 15:55:58: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 10/14/2020 - 15:55:58: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 10/14/2020 - 15:55:58: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 10/14/2020 - 15:56:15: [mapchooser_extended.smx] Loaded map list for tf.
+L 10/15/2020 - 16:12:40: Log file closed.

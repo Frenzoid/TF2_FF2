@@ -1,0 +1,96 @@
+L 07/25/2020 - 22:52:29: SourceMod log file session started (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/L20200725.log") (Version "1.10.0.6490")
+L 07/25/2020 - 22:52:29: [basecommands.smx] "Nezzie♥<111><[U:1:107910185]><>" changed map to "arena_lumberyard"
+L 07/25/2020 - 22:52:32: [SM] Changed map to "arena_lumberyard"
+L 07/25/2020 - 22:52:35: -------- Mapchange to arena_lumberyard --------
+L 07/25/2020 - 22:52:48: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/25/2020 - 22:54:16: [respawn.smx] "Nezzie♥<111><[U:1:107910185]><>" respawned "Nezzie♥<111><[U:1:107910185]><>"
+L 07/25/2020 - 22:54:44: [respawn.smx] "Nezzie♥<111><[U:1:107910185]><>" respawned "Nezzie♥<111><[U:1:107910185]><>"
+L 07/25/2020 - 23:03:23: SourceMod log file session started (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/L20200725.log") (Version "1.10.0.6490")
+L 07/25/2020 - 23:03:23: [TF2ITEMS] "GiveNamedItem" offset = 484
+L 07/25/2020 - 23:03:25: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 07/25/2020 - 23:03:25: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 07/25/2020 - 23:03:25: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 07/25/2020 - 23:03:47: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/25/2020 - 23:03:50: [hpregeneration.smx] [HpRegeneration] - Loaded
+L 07/25/2020 - 23:05:53: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 07/25/2020 - 23:05:53: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 07/25/2020 - 23:05:53: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 07/25/2020 - 23:05:54: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/25/2020 - 23:05:57: [hpregeneration.smx] [HpRegeneration] - Loaded
+L 07/25/2020 - 23:06:40: [respawn.smx] "Nezzie♥<2><[U:1:107910185]><>" respawned "Nezzie♥<2><[U:1:107910185]><>"
+L 07/25/2020 - 23:07:33: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 07/25/2020 - 23:07:33: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 07/25/2020 - 23:07:33: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 07/25/2020 - 23:07:34: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/25/2020 - 23:07:36: [hpregeneration.smx] [HpRegeneration] - Loaded
+L 07/25/2020 - 23:08:22: [respawn.smx] "Nezzie♥<2><[U:1:107910185]><>" respawned "Nezzie♥<2><[U:1:107910185]><>"
+L 07/25/2020 - 23:08:42: [respawn.smx] "Nezzie♥<2><[U:1:107910185]><>" respawned "Nezzie♥<2><[U:1:107910185]><>"
+L 07/25/2020 - 23:10:13: [respawn.smx] "Nezzie♥<2><[U:1:107910185]><>" respawned "Nezzie♥<2><[U:1:107910185]><>"
+L 07/25/2020 - 23:15:44: [respawn.smx] "Nezzie♥<2><[U:1:107910185]><>" respawned "Nezzie♥<2><[U:1:107910185]><>"
+L 07/25/2020 - 23:15:59: [respawn.smx] "Nezzie♥<2><[U:1:107910185]><>" respawned "Nezzie♥<2><[U:1:107910185]><>"
+L 07/25/2020 - 23:18:48: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 07/25/2020 - 23:18:49: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 07/25/2020 - 23:18:49: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 07/25/2020 - 23:18:49: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/25/2020 - 23:18:52: [hpregeneration.smx] [HpRegeneration] - Loaded
+L 07/25/2020 - 23:19:26: [funcommands.smx] "Nezzie♥<2><[U:1:107910185]><>" froze "Nom Nom Nom<5><BOT><>"
+L 07/25/2020 - 23:19:40: [respawn.smx] "Nezzie♥<2><[U:1:107910185]><>" respawned "Nezzie♥<2><[U:1:107910185]><>"
+L 07/25/2020 - 23:21:35: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slayed "Nom Nom Nom<5><BOT><>"
+L 07/25/2020 - 23:22:08: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slayed "test<7><BOT><>"
+L 07/25/2020 - 23:22:08: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slayed "test1<8><BOT><>"
+L 07/25/2020 - 23:25:18: [mapchooser_extended.smx] Voting for next map has started.
+L 07/25/2020 - 23:25:22: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_tranquil_b5.
+L 07/25/2020 - 23:25:30: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 07/25/2020 - 23:25:31: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 07/25/2020 - 23:25:31: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 07/25/2020 - 23:25:31: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/25/2020 - 23:25:34: [hpregeneration.smx] [HpRegeneration] - Loaded
+L 07/25/2020 - 23:25:47: [mapchooser_extended.smx] Voting for next map has started.
+L 07/25/2020 - 23:26:55: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 07/25/2020 - 23:26:56: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 07/25/2020 - 23:26:56: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 07/25/2020 - 23:26:56: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/25/2020 - 23:26:59: [hpregeneration.smx] [HpRegeneration] - Loaded
+L 07/25/2020 - 23:27:12: [mapchooser_extended.smx] Voting for next map has started.
+L 07/25/2020 - 23:29:20: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 07/25/2020 - 23:29:20: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 07/25/2020 - 23:29:20: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 07/25/2020 - 23:29:21: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/25/2020 - 23:29:23: [hpregeneration.smx] [HpRegeneration] - Loaded
+L 07/25/2020 - 23:29:37: [mapchooser_extended.smx] Voting for next map has started.
+L 07/25/2020 - 23:31:45: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 07/25/2020 - 23:31:45: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 07/25/2020 - 23:31:45: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 07/25/2020 - 23:31:45: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/25/2020 - 23:31:48: [hpregeneration.smx] [HpRegeneration] - Loaded
+L 07/25/2020 - 23:32:01: [mapchooser_extended.smx] Voting for next map has started.
+L 07/25/2020 - 23:32:33: [respawn.smx] "Nezzie♥<2><[U:1:107910185]><>" respawned "Nezzie♥<2><[U:1:107910185]><>"
+L 07/25/2020 - 23:35:06: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 07/25/2020 - 23:35:07: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 07/25/2020 - 23:35:07: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 07/25/2020 - 23:35:07: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/25/2020 - 23:35:10: [hpregeneration.smx] [HpRegeneration] - Loaded
+L 07/25/2020 - 23:35:19: [basecommands.smx] "Nezzie♥<2><[U:1:107910185]><>" changed map to "arena_lumberyard"
+L 07/25/2020 - 23:35:22: [SM] Changed map to "arena_lumberyard"
+L 07/25/2020 - 23:35:24: -------- Mapchange to arena_lumberyard --------
+L 07/25/2020 - 23:35:34: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/25/2020 - 23:37:05: [respawn.smx] "Nezzie♥<2><[U:1:107910185]><>" respawned "Nezzie♥<2><[U:1:107910185]><>"
+L 07/25/2020 - 23:37:11: [respawn.smx] "Nezzie♥<2><[U:1:107910185]><>" respawned "Nezzie♥<2><[U:1:107910185]><>"
+L 07/25/2020 - 23:45:05: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 07/25/2020 - 23:45:06: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 07/25/2020 - 23:45:06: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 07/25/2020 - 23:45:06: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/25/2020 - 23:45:09: [hpregeneration.smx] [HpRegeneration] - Loaded
+L 07/25/2020 - 23:45:34: [respawn.smx] "Nezzie♥<2><[U:1:107910185]><>" respawned "Nezzie♥<2><[U:1:107910185]><>"
+L 07/25/2020 - 23:48:56: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 07/25/2020 - 23:48:57: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 07/25/2020 - 23:48:57: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 07/25/2020 - 23:48:57: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/25/2020 - 23:49:00: [hpregeneration.smx] [HpRegeneration] - Loaded
+L 07/25/2020 - 23:52:10: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 07/25/2020 - 23:52:10: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 07/25/2020 - 23:52:10: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 07/25/2020 - 23:52:11: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/25/2020 - 23:52:14: [hpregeneration.smx] [HpRegeneration] - Loaded
+L 07/25/2020 - 23:55:56: [mapchooser_extended.smx] Voting for next map has started.
+L 07/26/2020 - 00:00:29: Log file closed.

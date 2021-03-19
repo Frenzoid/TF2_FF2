@@ -1,0 +1,40 @@
+L 10/15/2020 - 16:58:30: SourceMod error session started
+L 10/15/2020 - 16:58:30: Info (map "vsh_void_a1f") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20201015.log")
+L 10/15/2020 - 16:58:30: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 10/15/2020 - 16:58:30: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 10/15/2020 - 17:07:47: [SM] Plugin "roundtimer.smx" encountered error 23: Native detected error
+L 10/15/2020 - 17:07:47: [SM] Invalid timer handle 59c906b3 (error 3) during timer end, displayed function is timer callback, not the stack trace
+L 10/15/2020 - 17:07:47: [SM] Unable to call function "Timer_Round" due to above error(s).
+L 10/15/2020 - 17:16:05: [SM] Plugin "roundtimer.smx" encountered error 23: Native detected error
+L 10/15/2020 - 17:16:05: [SM] Invalid timer handle e2320699 (error 3) during timer end, displayed function is timer callback, not the stack trace
+L 10/15/2020 - 17:16:05: [SM] Unable to call function "Timer_Round" due to above error(s).
+L 10/15/2020 - 17:21:53: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 10/15/2020 - 17:21:53: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 10/15/2020 - 17:21:53: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 10/15/2020 - 17:42:09: [SM] Exception reported: Cowardly refusing to add invalid attribute index "0" to an item.
+L 10/15/2020 - 17:42:09: [SM] Blaming: pyrogineer.smx
+L 10/15/2020 - 17:42:09: [SM] Call stack trace:
+L 10/15/2020 - 17:42:09: [SM]   [0] TF2Items_SetAttribute
+L 10/15/2020 - 17:42:09: [SM]   [1] Line 271, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::PrepareItemHandle
+L 10/15/2020 - 17:42:09: [SM]   [2] Line 294, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::TF2Items_OnGiveNamedItem
+L 10/15/2020 - 17:42:09: [SM] Exception reported: Cowardly refusing to add invalid attribute index "0" to an item.
+L 10/15/2020 - 17:42:09: [SM] Blaming: pyrogineer.smx
+L 10/15/2020 - 17:42:09: [SM] Call stack trace:
+L 10/15/2020 - 17:42:09: [SM]   [0] TF2Items_SetAttribute
+L 10/15/2020 - 17:42:09: [SM]   [1] Line 271, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::PrepareItemHandle
+L 10/15/2020 - 17:42:09: [SM]   [2] Line 294, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::TF2Items_OnGiveNamedItem
+L 10/15/2020 - 17:42:09: [SM]   [4] TF2_RegeneratePlayer
+L 10/15/2020 - 17:42:09: [SM]   [5] Line 27, /groups/sourcemod/upload_tmp/textISXu91.sp::Fix_Function
+L 10/15/2020 - 17:42:56: [SM] Exception reported: Cowardly refusing to add invalid attribute index "0" to an item.
+L 10/15/2020 - 17:42:56: [SM] Blaming: pyrogineer.smx
+L 10/15/2020 - 17:42:56: [SM] Call stack trace:
+L 10/15/2020 - 17:42:56: [SM]   [0] TF2Items_SetAttribute
+L 10/15/2020 - 17:42:56: [SM]   [1] Line 271, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::PrepareItemHandle
+L 10/15/2020 - 17:42:56: [SM]   [2] Line 294, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::TF2Items_OnGiveNamedItem
+L 10/15/2020 - 17:42:56: [SM]   [4] TF2_RegeneratePlayer
+L 10/15/2020 - 17:42:56: [SM]   [5] Line 27, /groups/sourcemod/upload_tmp/textISXu91.sp::Fix_Function
+L 10/15/2020 - 17:53:05: SourceMod error session started
+L 10/15/2020 - 17:53:05: Info (map "arena_lumberyard") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20201015.log")
+L 10/15/2020 - 17:53:05: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 10/15/2020 - 17:53:05: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 10/15/2020 - 17:56:10: Error log file session closed.

@@ -1,0 +1,24 @@
+L 02/19/2021 - 20:35:21: SourceMod log file session started (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/L20210219.log") (Version "1.10.0.6490")
+L 02/19/2021 - 20:35:21: [SM] Changed map to "vsh_crevice_b5"
+L 02/19/2021 - 20:35:29: -------- Mapchange to vsh_crevice_b5 --------
+L 02/19/2021 - 20:35:42: [mapchooser_extended.smx] Loaded map list for tf.
+L 02/19/2021 - 20:55:59: [mapchooser_extended.smx] Voting for next map has started.
+L 02/19/2021 - 20:56:19: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_gyros_v5.
+L 02/19/2021 - 21:01:41: [rockthevote_extended.smx] RTV changing map manually
+L 02/19/2021 - 21:01:41: [SM] Changed map to "vsh_gyros_v5"
+L 02/19/2021 - 21:01:44: -------- Mapchange to vsh_gyros_v5 --------
+L 02/19/2021 - 21:01:55: [mapchooser_extended.smx] Loaded map list for tf.
+L 02/19/2021 - 21:02:54: [mapchooser_extended.smx] Starting map vote because outside request
+L 02/19/2021 - 21:03:11: [mapchooser_extended.smx] Voting for next map has started.
+L 02/19/2021 - 21:03:19: [mapchooser_extended.smx] Voting for next map has finished. 'No Change' was the winner
+L 02/19/2021 - 21:22:12: [mapchooser_extended.smx] Voting for next map has started.
+L 02/19/2021 - 21:22:33: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_void_a1f.
+L 02/19/2021 - 21:34:16: [SM] Changed map to "vsh_void_a1f"
+L 02/19/2021 - 21:34:18: -------- Mapchange to vsh_void_a1f --------
+L 02/19/2021 - 21:34:28: [mapchooser_extended.smx] Loaded map list for tf.
+L 02/19/2021 - 21:54:45: [mapchooser_extended.smx] Voting for next map has started.
+L 02/19/2021 - 22:05:37: [SM] Changed map to "vsh_tranquil_b5"
+L 02/19/2021 - 22:05:39: -------- Mapchange to vsh_tranquil_b5 --------
+L 02/19/2021 - 22:05:49: [mapchooser_extended.smx] Loaded map list for tf.
+L 02/19/2021 - 22:26:04: [mapchooser_extended.smx] Voting for next map has started.
+L 02/21/2021 - 20:27:28: Log file closed.

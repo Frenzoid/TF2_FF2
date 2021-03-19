@@ -1,0 +1,15 @@
+L 07/24/2020 - 18:41:14: SourceMod error session started
+L 07/24/2020 - 18:41:14: Info (map "vsh_tranquil_b5") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200724.log")
+L 07/24/2020 - 18:41:14: [SM] Fatal error encountered parsing translation file "ff2_1st_set.phrases.txt"
+L 07/24/2020 - 18:41:14: [SM] Error (line 0, column 0): Stream failed to open
+L 07/24/2020 - 19:12:57: Error log file session closed.
+L 07/24/2020 - 19:12:57: SourceMod error session started
+L 07/24/2020 - 19:12:57: Info (map "arena_sawmill") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200724.log")
+L 07/24/2020 - 19:12:57: [SM] Fatal error encountered parsing translation file "ff2_1st_set.phrases.txt"
+L 07/24/2020 - 19:12:57: [SM] Error (line 0, column 0): Stream failed to open
+L 07/24/2020 - 19:36:57: Error log file session closed.
+L 07/24/2020 - 19:36:57: SourceMod error session started
+L 07/24/2020 - 19:36:57: Info (map "arena_ravine") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200724.log")
+L 07/24/2020 - 19:36:57: [SM] Fatal error encountered parsing translation file "ff2_1st_set.phrases.txt"
+L 07/24/2020 - 19:36:57: [SM] Error (line 0, column 0): Stream failed to open
+L 07/25/2020 - 22:52:29: Error log file session closed.

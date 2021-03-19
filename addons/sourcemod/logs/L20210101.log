@@ -1,0 +1,79 @@
+L 01/01/2021 - 19:01:52: SourceMod log file session started (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/L20210101.log") (Version "1.10.0.6490")
+L 01/01/2021 - 19:01:52: [SM] Changed map to "vsh_dirtmound_b9"
+L 01/01/2021 - 19:01:55: -------- Mapchange to vsh_dirtmound_b9 --------
+L 01/01/2021 - 19:02:05: [mapchooser_extended.smx] Loaded map list for tf.
+L 01/01/2021 - 19:22:21: [mapchooser_extended.smx] Voting for next map has started.
+L 01/01/2021 - 19:22:28: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_castle_siege_unreal_sg1.
+L 01/01/2021 - 19:32:30: [SM] Changed map to "vsh_castle_siege_unreal_sg1"
+L 01/01/2021 - 19:32:32: -------- Mapchange to vsh_castle_siege_unreal_sg1 --------
+L 01/01/2021 - 19:32:41: [mapchooser_extended.smx] Loaded map list for tf.
+L 01/01/2021 - 19:52:56: [mapchooser_extended.smx] Voting for next map has started.
+L 01/01/2021 - 21:02:38: [rockthevote_extended.smx] RTV changing map manually
+L 01/01/2021 - 21:02:38: [SM] Changed map to "vsh_dunger_b2a"
+L 01/01/2021 - 21:02:41: -------- Mapchange to vsh_dunger_b2a --------
+L 01/01/2021 - 21:02:52: [mapchooser_extended.smx] Loaded map list for tf.
+L 01/01/2021 - 21:14:53: [respawn.smx] "Hailstorm<65><[U:1:181986054]><>" respawned "F1SH S>1 UNUSUAL<66><[U:1:445849108]><>"
+L 01/01/2021 - 21:14:54: [respawn.smx] "Hailstorm<65><[U:1:181986054]><>" respawned "Draconic (Azel)<68><[U:1:101368949]><>"
+L 01/01/2021 - 21:16:03: [respawn.smx] "Hailstorm<65><[U:1:181986054]><>" respawned "Draconic (Azel)<68><[U:1:101368949]><>"
+L 01/01/2021 - 21:16:07: [respawn.smx] "F1SH S>1 UNUSUAL<66><[U:1:445849108]><>" respawned "F1SH S>1 UNUSUAL<66><[U:1:445849108]><>"
+L 01/01/2021 - 21:23:07: [mapchooser_extended.smx] Voting for next map has started.
+L 01/01/2021 - 21:23:33: [mapchooser_extended.smx] Voting for next map has started.
+L 01/01/2021 - 21:23:54: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_apg_v2_sg1.
+L 01/01/2021 - 21:35:04: [SM] Changed map to "vsh_apg_v2_sg1"
+L 01/01/2021 - 21:35:06: -------- Mapchange to vsh_apg_v2_sg1 --------
+L 01/01/2021 - 21:35:16: [mapchooser_extended.smx] Loaded map list for tf.
+L 01/01/2021 - 21:55:32: [mapchooser_extended.smx] Voting for next map has started.
+L 01/01/2021 - 21:55:59: [mapchooser_extended.smx] Voting for next map has started.
+L 01/01/2021 - 21:56:20: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_manncohq_v14.
+L 01/01/2021 - 22:06:09: [SM] Changed map to "vsh_manncohq_v14"
+L 01/01/2021 - 22:06:12: -------- Mapchange to vsh_manncohq_v14 --------
+L 01/01/2021 - 22:06:22: [mapchooser_extended.smx] Loaded map list for tf.
+L 01/01/2021 - 22:21:31: [playercommands.smx] "F1SH S>1 UNUSUAL<66><[U:1:445849108]><>" slapped "<=3=_.xXGOD_OF_GAMINGXx._E=><79><[U:1:126218979]><>" (damage "0")
+L 01/01/2021 - 22:23:00: [playercommands.smx] "Hailstorm<65><[U:1:181986054]><>" slayed "<=3=_.xXGOD_OF_GAMINGXx._E=><79><[U:1:126218979]><>"
+L 01/01/2021 - 22:26:21: [funcommandsX.smx] "Hailstorm<65><[U:1:181986054]><>" enabled disco mode
+L 01/01/2021 - 22:26:28: [funcommands.smx] "Hailstorm<65><[U:1:181986054]><>" set a beacon on "Hailstorm<65><[U:1:181986054]><>"
+L 01/01/2021 - 22:26:38: [mapchooser_extended.smx] Voting for next map has started.
+L 01/01/2021 - 22:27:05: [mapchooser_extended.smx] Voting for next map has started.
+L 01/01/2021 - 22:27:26: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_void_a1f.
+L 01/01/2021 - 22:30:36: [respawn.smx] "Hailstorm<65><[U:1:181986054]><>" respawned "F1SH S>1 UNUSUAL<66><[U:1:445849108]><>"
+L 01/01/2021 - 22:30:37: [respawn.smx] "Hailstorm<65><[U:1:181986054]><>" respawned "F1SH S>1 UNUSUAL<66><[U:1:445849108]><>"
+L 01/01/2021 - 22:30:37: [respawn.smx] "Hailstorm<65><[U:1:181986054]><>" respawned "rinzor<67><[U:1:103173271]><>"
+L 01/01/2021 - 22:30:38: [respawn.smx] "Hailstorm<65><[U:1:181986054]><>" respawned "Oreck XL<73><[U:1:847923557]><>"
+L 01/01/2021 - 22:30:38: [respawn.smx] "Hailstorm<65><[U:1:181986054]><>" respawned "Elucidate<83><[U:1:372015522]><>"
+L 01/01/2021 - 22:30:38: [respawn.smx] "Hailstorm<65><[U:1:181986054]><>" respawned "Giggity<81><[U:1:899071019]><>"
+L 01/01/2021 - 22:30:39: [respawn.smx] "Hailstorm<65><[U:1:181986054]><>" respawned "<=3=_.xXGOD_OF_GAMINGXx._E=><79><[U:1:126218979]><>"
+L 01/01/2021 - 22:30:40: [respawn.smx] "Hailstorm<65><[U:1:181986054]><>" respawned "HacobLacob<75><[U:1:1036400442]><>"
+L 01/01/2021 - 22:30:55: [funcommandsX.smx] "Hailstorm<65><[U:1:181986054]><>" set alpha on "Hailstorm<65><[U:1:181986054]><>" to 0
+L 01/01/2021 - 22:31:44: [funcommandsX.smx] "Hailstorm<65><[U:1:181986054]><>" set alpha on "Hailstorm<65><[U:1:181986054]><>" to 255
+L 01/01/2021 - 22:31:51: [funcommandsX.smx] "Hailstorm<65><[U:1:181986054]><>" disabled disco mode
+L 01/01/2021 - 22:36:56: [SM] Changed map to "vsh_void_a1f"
+L 01/01/2021 - 22:36:59: -------- Mapchange to vsh_void_a1f --------
+L 01/01/2021 - 22:37:08: [mapchooser_extended.smx] Loaded map list for tf.
+L 01/01/2021 - 22:38:37: [nominations_extended.smx] rinzor nominated vsh_nebula_rc1
+L 01/01/2021 - 22:43:51: [nominations_extended.smx] yyuushhii nominated vsh_castle_siege_unreal_sg1
+L 01/01/2021 - 22:46:19: [respawn.smx] "Draconic (Azel)<68><[U:1:101368949]><>" respawned "Draconic (Azel)<68><[U:1:101368949]><>"
+L 01/01/2021 - 22:48:02: [respawn.smx] "Hailstorm<65><[U:1:181986054]><>" respawned "Giggity<81><[U:1:899071019]><>"
+L 01/01/2021 - 22:51:41: [respawn.smx] "Hailstorm<65><[U:1:181986054]><>" respawned "Hailstorm<65><[U:1:181986054]><>"
+L 01/01/2021 - 22:54:48: [respawn.smx] "Hailstorm<65><[U:1:181986054]><>" respawned "Oreck XL<73><[U:1:847923557]><>"
+L 01/01/2021 - 22:54:49: [respawn.smx] "Hailstorm<65><[U:1:181986054]><>" respawned "HacobLacob<75><[U:1:1036400442]><>"
+L 01/01/2021 - 22:54:50: [respawn.smx] "Hailstorm<65><[U:1:181986054]><>" respawned "Zeke Aileron™<84><[U:1:127896481]><>"
+L 01/01/2021 - 22:57:25: [mapchooser_extended.smx] Voting for next map has started.
+L 01/01/2021 - 22:57:46: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_nebula_rc1.
+L 01/01/2021 - 22:59:46: [funcommandsX.smx] "Hailstorm<65><[U:1:181986054]><>" enabled disco mode
+L 01/01/2021 - 23:02:35: [funcommandsX.smx] "Hailstorm<65><[U:1:181986054]><>" disabled disco mode
+L 01/01/2021 - 23:07:56: [SM] Changed map to "vsh_nebula_rc1"
+L 01/01/2021 - 23:07:59: -------- Mapchange to vsh_nebula_rc1 --------
+L 01/01/2021 - 23:08:10: [mapchooser_extended.smx] Loaded map list for tf.
+L 01/01/2021 - 23:28:27: [mapchooser_extended.smx] Voting for next map has started.
+L 01/01/2021 - 23:28:47: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_minegay_reworked_v2.
+L 01/01/2021 - 23:40:13: [SM] Changed map to "vsh_minegay_reworked_v2"
+L 01/01/2021 - 23:40:15: -------- Mapchange to vsh_minegay_reworked_v2 --------
+L 01/01/2021 - 23:40:25: [mapchooser_extended.smx] Loaded map list for tf.
+L 01/01/2021 - 23:44:53: [respawn.smx] "Hailstorm<65><[U:1:181986054]><>" respawned "blaahdjslh<88><[U:1:113179162]><>"
+L 01/01/2021 - 23:44:53: [respawn.smx] "Hailstorm<65><[U:1:181986054]><>" respawned "Oreck XL<73><[U:1:847923557]><>"
+L 01/01/2021 - 23:44:54: [respawn.smx] "Hailstorm<65><[U:1:181986054]><>" respawned "Oreck XL<73><[U:1:847923557]><>"
+L 01/01/2021 - 23:44:55: [respawn.smx] "Hailstorm<65><[U:1:181986054]><>" respawned "Grandpa<90><[U:1:312675055]><>"
+L 01/01/2021 - 23:45:07: [funcommandsX.smx] "Hailstorm<65><[U:1:181986054]><>" enabled disco mode
+L 01/01/2021 - 23:46:15: [basecommands.smx] "Hailstorm<65><[U:1:181986054]><>" kicked "the tax people<87><[U:1:398467343]><>" (reason "")
+L 01/01/2021 - 23:48:20: [funcommandsX.smx] "Hailstorm<65><[U:1:181986054]><>" disabled disco mode
+L 01/02/2021 - 00:00:42: Log file closed.

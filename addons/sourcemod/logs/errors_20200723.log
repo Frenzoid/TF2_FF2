@@ -1,0 +1,156 @@
+L 07/23/2020 - 00:34:24: SourceMod error session started
+L 07/23/2020 - 00:34:24: Info (map "arena_lumberyard") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200723.log")
+L 07/23/2020 - 00:34:24: [SM] Fatal error encountered parsing translation file "ff2_1st_set.phrases.txt"
+L 07/23/2020 - 00:34:24: [SM] Error (line 0, column 0): Stream failed to open
+L 07/23/2020 - 00:40:55: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 07/23/2020 - 00:40:56: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 07/23/2020 - 00:40:56: [store.smx] Database connection is lost or not yet initialized.
+L 07/23/2020 - 00:45:49: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 07/23/2020 - 00:45:49: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 07/23/2020 - 00:45:49: [store.smx] Database connection is lost or not yet initialized.
+L 07/23/2020 - 13:56:19: Error log file session closed.
+L 07/23/2020 - 13:56:19: SourceMod error session started
+L 07/23/2020 - 13:56:19: Info (map "vsh_Hakurei_Winter_v2") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200723.log")
+L 07/23/2020 - 13:56:19: [SM] Fatal error encountered parsing translation file "ff2_1st_set.phrases.txt"
+L 07/23/2020 - 13:56:19: [SM] Error (line 0, column 0): Stream failed to open
+L 07/23/2020 - 13:58:15: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 07/23/2020 - 13:58:15: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 07/23/2020 - 13:58:15: [store.smx] Database connection is lost or not yet initialized.
+L 07/23/2020 - 14:01:50: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 07/23/2020 - 14:01:51: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 07/23/2020 - 14:01:51: [store.smx] Database connection is lost or not yet initialized.
+L 07/23/2020 - 14:08:56: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 07/23/2020 - 14:08:56: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 07/23/2020 - 14:08:56: [store.smx] Database connection is lost or not yet initialized.
+L 07/23/2020 - 14:21:25: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 07/23/2020 - 14:21:25: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 07/23/2020 - 14:21:25: [store.smx] Database connection is lost or not yet initialized.
+L 07/23/2020 - 14:21:41: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 07/23/2020 - 14:21:41: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 07/23/2020 - 14:21:41: [store.smx] Database connection is lost or not yet initialized.
+L 07/23/2020 - 14:22:39: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 07/23/2020 - 14:22:39: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 07/23/2020 - 14:22:39: [store.smx] Database connection is lost or not yet initialized.
+L 07/23/2020 - 14:23:55: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 07/23/2020 - 14:23:56: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 07/23/2020 - 14:23:56: [store.smx] Database connection is lost or not yet initialized.
+L 07/23/2020 - 14:24:41: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 07/23/2020 - 14:24:41: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 07/23/2020 - 14:24:41: [store.smx] Database connection is lost or not yet initialized.
+L 07/23/2020 - 14:29:52: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 07/23/2020 - 14:29:52: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 07/23/2020 - 14:29:52: [store.smx] Database connection is lost or not yet initialized.
+L 07/23/2020 - 14:30:14: Error log file session closed.
+L 07/23/2020 - 14:30:14: SourceMod error session started
+L 07/23/2020 - 14:30:14: Info (map "vsh_arktown_v4") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200723.log")
+L 07/23/2020 - 14:30:14: [SM] Fatal error encountered parsing translation file "ff2_1st_set.phrases.txt"
+L 07/23/2020 - 14:30:14: [SM] Error (line 0, column 0): Stream failed to open
+L 07/23/2020 - 14:31:02: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 07/23/2020 - 14:31:03: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 07/23/2020 - 14:31:03: [store.smx] Database connection is lost or not yet initialized.
+L 07/23/2020 - 14:33:13: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 07/23/2020 - 14:33:14: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 07/23/2020 - 14:33:14: [store.smx] Database connection is lost or not yet initialized.
+L 07/23/2020 - 14:36:51: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 07/23/2020 - 14:36:52: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 07/23/2020 - 14:36:52: [store.smx] Database connection is lost or not yet initialized.
+L 07/23/2020 - 14:37:53: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 07/23/2020 - 14:37:54: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 07/23/2020 - 14:37:54: [store.smx] Database connection is lost or not yet initialized.
+L 07/23/2020 - 14:38:24: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 07/23/2020 - 14:38:24: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 07/23/2020 - 14:38:24: [store.smx] Database connection is lost or not yet initialized.
+L 07/23/2020 - 14:41:26: Error log file session closed.
+L 07/23/2020 - 14:41:27: SourceMod error session started
+L 07/23/2020 - 14:41:27: Info (map "arena_badlands") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200723.log")
+L 07/23/2020 - 14:41:27: [SM] Fatal error encountered parsing translation file "ff2_1st_set.phrases.txt"
+L 07/23/2020 - 14:41:27: [SM] Error (line 0, column 0): Stream failed to open
+L 07/23/2020 - 14:44:03: Error log file session closed.
+L 07/23/2020 - 14:44:03: SourceMod error session started
+L 07/23/2020 - 14:44:03: Info (map "vsh_Hakurei_Winter_v2") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200723.log")
+L 07/23/2020 - 14:44:03: [SM] Fatal error encountered parsing translation file "ff2_1st_set.phrases.txt"
+L 07/23/2020 - 14:44:03: [SM] Error (line 0, column 0): Stream failed to open
+L 07/23/2020 - 14:47:04: Error log file session closed.
+L 07/23/2020 - 14:47:04: SourceMod error session started
+L 07/23/2020 - 14:47:04: Info (map "vsh_castle_siege_unreal_sg1") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200723.log")
+L 07/23/2020 - 14:47:04: [SM] Fatal error encountered parsing translation file "ff2_1st_set.phrases.txt"
+L 07/23/2020 - 14:47:04: [SM] Error (line 0, column 0): Stream failed to open
+L 07/23/2020 - 14:49:23: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 07/23/2020 - 14:49:24: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 07/23/2020 - 14:49:24: [store.smx] Database connection is lost or not yet initialized.
+L 07/23/2020 - 14:49:37: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 07/23/2020 - 14:49:38: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 07/23/2020 - 14:49:38: [store.smx] Database connection is lost or not yet initialized.
+L 07/23/2020 - 14:52:03: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 07/23/2020 - 14:52:03: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 07/23/2020 - 14:52:03: [store.smx] Database connection is lost or not yet initialized.
+L 07/23/2020 - 15:00:22: [SM] Plugin "roundtimer.smx" encountered error 23: Native detected error
+L 07/23/2020 - 15:00:22: [SM] Invalid timer handle 50660199 (error 3) during timer end, displayed function is timer callback, not the stack trace
+L 07/23/2020 - 15:00:22: [SM] Unable to call function "Timer_Round" due to above error(s).
+L 07/23/2020 - 15:00:51: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 07/23/2020 - 15:00:51: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 07/23/2020 - 15:00:51: [store.smx] Database connection is lost or not yet initialized.
+L 07/23/2020 - 15:03:19: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 07/23/2020 - 15:03:19: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 07/23/2020 - 15:03:19: [store.smx] Database connection is lost or not yet initialized.
+L 07/23/2020 - 15:05:42: Error log file session closed.
+L 07/23/2020 - 15:05:42: SourceMod error session started
+L 07/23/2020 - 15:05:42: Info (map "koth_suijin") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200723.log")
+L 07/23/2020 - 15:05:42: [SM] Fatal error encountered parsing translation file "ff2_1st_set.phrases.txt"
+L 07/23/2020 - 15:05:42: [SM] Error (line 0, column 0): Stream failed to open
+L 07/23/2020 - 15:07:49: Error log file session closed.
+L 07/23/2020 - 15:07:49: SourceMod error session started
+L 07/23/2020 - 15:07:49: Info (map "vsh_Hakurei_Winter_v2") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200723.log")
+L 07/23/2020 - 15:07:49: [SM] Fatal error encountered parsing translation file "ff2_1st_set.phrases.txt"
+L 07/23/2020 - 15:07:49: [SM] Error (line 0, column 0): Stream failed to open
+L 07/23/2020 - 21:57:26: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 07/23/2020 - 21:57:27: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 07/23/2020 - 21:57:27: [store.smx] Database connection is lost or not yet initialized.
+L 07/23/2020 - 21:57:49: Error log file session closed.
+L 07/23/2020 - 21:57:50: SourceMod error session started
+L 07/23/2020 - 21:57:50: Info (map "vsh_arktown_v4") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200723.log")
+L 07/23/2020 - 21:57:50: [SM] Fatal error encountered parsing translation file "ff2_1st_set.phrases.txt"
+L 07/23/2020 - 21:57:50: [SM] Error (line 0, column 0): Stream failed to open
+L 07/23/2020 - 22:00:29: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 07/23/2020 - 22:00:30: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 07/23/2020 - 22:00:30: [store.smx] Database connection is lost or not yet initialized.
+L 07/23/2020 - 22:06:53: Error log file session closed.
+L 07/23/2020 - 22:06:54: SourceMod error session started
+L 07/23/2020 - 22:06:54: Info (map "vsh_Hakurei_Winter_v2") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200723.log")
+L 07/23/2020 - 22:06:54: [SM] Fatal error encountered parsing translation file "ff2_1st_set.phrases.txt"
+L 07/23/2020 - 22:06:54: [SM] Error (line 0, column 0): Stream failed to open
+L 07/23/2020 - 22:16:08: [SM] Plugin "roundtimer.smx" encountered error 23: Native detected error
+L 07/23/2020 - 22:16:08: [SM] Invalid timer handle 461a0054 (error 3) during timer end, displayed function is timer callback, not the stack trace
+L 07/23/2020 - 22:16:08: [SM] Unable to call function "Timer_Round" due to above error(s).
+L 07/23/2020 - 22:20:43: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 07/23/2020 - 22:20:44: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 07/23/2020 - 22:20:44: [store.smx] Database connection is lost or not yet initialized.
+L 07/23/2020 - 22:20:44: [store.smx] Database connection is lost or not yet initialized.
+L 07/23/2020 - 22:27:03: Error log file session closed.
+L 07/23/2020 - 22:27:03: SourceMod error session started
+L 07/23/2020 - 22:27:03: Info (map "vsh_castle_siege_unreal_sg1") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200723.log")
+L 07/23/2020 - 22:27:03: [SM] Fatal error encountered parsing translation file "ff2_1st_set.phrases.txt"
+L 07/23/2020 - 22:27:03: [SM] Error (line 0, column 0): Stream failed to open
+L 07/23/2020 - 22:30:22: Error log file session closed.
+L 07/23/2020 - 22:30:22: SourceMod error session started
+L 07/23/2020 - 22:30:22: Info (map "vsh_Hakurei_Winter_v2") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200723.log")
+L 07/23/2020 - 22:30:22: [SM] Fatal error encountered parsing translation file "ff2_1st_set.phrases.txt"
+L 07/23/2020 - 22:30:22: [SM] Error (line 0, column 0): Stream failed to open
+L 07/23/2020 - 22:39:17: [SM] Plugin "roundtimer.smx" encountered error 23: Native detected error
+L 07/23/2020 - 22:39:17: [SM] Invalid timer handle c8810289 (error 3) during timer end, displayed function is timer callback, not the stack trace
+L 07/23/2020 - 22:39:17: [SM] Unable to call function "Timer_Round" due to above error(s).
+L 07/23/2020 - 22:47:36: [SM] Plugin "roundtimer.smx" encountered error 23: Native detected error
+L 07/23/2020 - 22:47:36: [SM] Invalid timer handle 5afc02e2 (error 3) during timer end, displayed function is timer callback, not the stack trace
+L 07/23/2020 - 22:47:36: [SM] Unable to call function "Timer_Round" due to above error(s).
+L 07/23/2020 - 22:49:19: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 07/23/2020 - 22:49:20: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 07/23/2020 - 22:49:20: [store.smx] Database connection is lost or not yet initialized.
+L 07/23/2020 - 23:00:02: [SM] Plugin "roundtimer.smx" encountered error 23: Native detected error
+L 07/23/2020 - 23:00:02: [SM] Invalid timer handle 33eb0633 (error 3) during timer end, displayed function is timer callback, not the stack trace
+L 07/23/2020 - 23:00:02: [SM] Unable to call function "Timer_Round" due to above error(s).
+L 07/23/2020 - 23:01:01: Error log file session closed.
+L 07/23/2020 - 23:01:01: SourceMod error session started
+L 07/23/2020 - 23:01:01: Info (map "vsh_coldvine_b1") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200723.log")
+L 07/23/2020 - 23:01:01: [SM] Fatal error encountered parsing translation file "ff2_1st_set.phrases.txt"
+L 07/23/2020 - 23:01:01: [SM] Error (line 0, column 0): Stream failed to open
+L 07/24/2020 - 18:41:12: Error log file session closed.

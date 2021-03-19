@@ -1,0 +1,56 @@
+"config"
+{
+	"tf_projectile_rocket"
+	{
+		"type"		"rocket"
+		"name"		"rocket"
+		"damage_reduce"		"0.20"
+		"min_damage"		"30"
+	}
+	
+	"tf_projectile_flare"
+	{
+		"name"		"flare rocket"
+		"damage_reduce"		"0.05"
+		"min_damage"		"30"
+	}
+	
+	"tf_projectile_arrow"
+	{
+		"type"		"arrow"
+		"name"		"arrow"
+		"damage_reduce"		"0.20"
+		"min_damage"		"50"
+	}
+	
+	"tf_projectile_healing_bolt"
+	{
+		"type"		"arrow"
+		"name"		"bolt"
+		"damage_reduce"		"0.1"
+		"min_damage"		"30"
+	}
+	
+	"tf_projectile_sentryrocket"
+	{
+		"type"		"rocket"
+		"name"		"sentryrocket"
+		"damage_reduce"		"0.05"
+		"min_damage"		"30"
+	}
+	
+	"tf_projectile_energy_ball"
+	{
+		"type"		"rocket"
+		"name"		"Cow Mangler 5000"
+		"damage_reduce"		"0.20"
+		"min_damage"		"30"
+	}
+		"tf_projectile_balloffire"
+	{
+		"name"		"Dragon's Fury"
+		"damage_reduce"		"0.05"
+		"min_damage"		"30"
+	}
+	
+}

@@ -1,0 +1,19 @@
+L 11/26/2020 - 16:41:01: SourceMod log file session started (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/L20201126.log") (Version "1.10.0.6490")
+L 11/26/2020 - 16:41:01: [SM] Changed map to "vsh_apg_v2_sg1"
+L 11/26/2020 - 16:41:03: -------- Mapchange to vsh_apg_v2_sg1 --------
+L 11/26/2020 - 16:41:13: [mapchooser_extended.smx] Loaded map list for tf.
+L 11/26/2020 - 17:01:16: [basechat.smx] "Console<0><Console><Console>" triggered sm_say (text The round time has ended, omaewa-mou shindeiru)
+L 11/26/2020 - 17:01:16: [playercommands.smx] "Console<0><Console><Console>" slayed "Chucklenuts<122><BOT><>"
+L 11/26/2020 - 17:01:16: [playercommands.smx] "Console<0><Console><Console>" slayed "WITCH<123><BOT><>"
+L 11/26/2020 - 17:01:16: [playercommands.smx] "Console<0><Console><Console>" slayed "Still Alive<124><BOT><>"
+L 11/26/2020 - 17:01:33: [mapchooser_extended.smx] Voting for next map has started.
+L 11/26/2020 - 17:01:35: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_tranquil_b5.
+L 11/26/2020 - 17:11:30: [SM] Changed map to "vsh_tranquil_b5"
+L 11/26/2020 - 17:11:32: -------- Mapchange to vsh_tranquil_b5 --------
+L 11/26/2020 - 17:11:43: [mapchooser_extended.smx] Loaded map list for tf.
+L 11/26/2020 - 17:31:57: [mapchooser_extended.smx] Voting for next map has started.
+L 11/26/2020 - 20:15:25: [SM] Changed map to "vsh_void_a1f"
+L 11/26/2020 - 20:15:27: -------- Mapchange to vsh_void_a1f --------
+L 11/26/2020 - 20:15:37: [mapchooser_extended.smx] Loaded map list for tf.
+L 11/26/2020 - 20:35:51: [mapchooser_extended.smx] Voting for next map has started.
+L 11/27/2020 - 02:02:13: Log file closed.

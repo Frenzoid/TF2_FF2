@@ -1,0 +1,35 @@
+L 09/25/2020 - 22:10:00: SourceMod error session started
+L 09/25/2020 - 22:10:00: Info (map "vsh_abandoned_warehouse_final_v3") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200925.log")
+L 09/25/2020 - 22:10:00: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 09/25/2020 - 22:10:00: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 09/25/2020 - 22:10:00: [store.smx] Database connection is lost or not yet initialized.
+L 09/25/2020 - 22:10:00: [store.smx] Database connection is lost or not yet initialized.
+L 09/25/2020 - 22:11:14: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 09/25/2020 - 22:11:15: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 09/25/2020 - 22:11:15: [store.smx] Database connection is lost or not yet initialized.
+L 09/25/2020 - 22:11:15: [store.smx] Database connection is lost or not yet initialized.
+L 09/25/2020 - 22:12:00: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 09/25/2020 - 22:12:00: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 09/25/2020 - 22:12:00: [store.smx] Database connection is lost or not yet initialized.
+L 09/25/2020 - 22:12:00: [store.smx] Database connection is lost or not yet initialized.
+L 09/25/2020 - 22:19:37: Error log file session closed.
+L 09/25/2020 - 23:02:43: SourceMod error session started
+L 09/25/2020 - 23:02:43: Info (map "vsh_abandoned_warehouse_final_v3") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200925.log")
+L 09/25/2020 - 23:02:43: [SM] Exception reported: Cowardly refusing to add invalid attribute index "0" to an item.
+L 09/25/2020 - 23:02:43: [SM] Blaming: pyrogineer.smx
+L 09/25/2020 - 23:02:43: [SM] Call stack trace:
+L 09/25/2020 - 23:02:43: [SM]   [0] TF2Items_SetAttribute
+L 09/25/2020 - 23:02:43: [SM]   [1] Line 271, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::PrepareItemHandle
+L 09/25/2020 - 23:02:43: [SM]   [2] Line 294, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::TF2Items_OnGiveNamedItem
+L 09/25/2020 - 23:02:43: [SM]   [4] TF2_RespawnPlayer
+L 09/25/2020 - 23:02:43: [SM]   [5] Line 213, /home/forums/content/files/2/7/4/6/4/141212.attach::RespawnPlayer
+L 09/25/2020 - 23:02:43: [SM]   [6] Line 333, /home/forums/content/files/2/7/4/6/4/141212.attach::MenuHandler_Players
+L 09/25/2020 - 23:03:25: [SM] Exception reported: Cowardly refusing to add invalid attribute index "0" to an item.
+L 09/25/2020 - 23:03:25: [SM] Blaming: pyrogineer.smx
+L 09/25/2020 - 23:03:25: [SM] Call stack trace:
+L 09/25/2020 - 23:03:25: [SM]   [0] TF2Items_SetAttribute
+L 09/25/2020 - 23:03:25: [SM]   [1] Line 271, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::PrepareItemHandle
+L 09/25/2020 - 23:03:25: [SM]   [2] Line 294, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::TF2Items_OnGiveNamedItem
+L 09/25/2020 - 23:03:25: [SM]   [4] TF2_RegeneratePlayer
+L 09/25/2020 - 23:03:25: [SM]   [5] Line 27, /groups/sourcemod/upload_tmp/textISXu91.sp::Fix_Function
+L 09/25/2020 - 23:11:24: Error log file session closed.

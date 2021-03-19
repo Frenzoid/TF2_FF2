@@ -1,0 +1,390 @@
+L 12/31/2020 - 00:43:10: SourceMod error session started
+L 12/31/2020 - 00:43:10: Info (map "vsh_minegay_reworked_v2") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20201231.log")
+L 12/31/2020 - 00:43:10: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 12/31/2020 - 00:47:19: Error log file session closed.
+L 12/31/2020 - 01:04:51: SourceMod error session started
+L 12/31/2020 - 01:04:51: Info (map "vsh_drejun_v3") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20201231.log")
+L 12/31/2020 - 01:04:51: [freaks/shadow93_abilities.ff2] [SHADoW93 Minions] Blutarch Mann has an invalid  formula for minions, using default health!
+L 12/31/2020 - 01:22:48: Error log file session closed.
+L 12/31/2020 - 01:33:04: SourceMod error session started
+L 12/31/2020 - 01:33:04: Info (map "vsh_dirtmound_b9") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20201231.log")
+L 12/31/2020 - 01:33:04: [SM] Exception reported: Cowardly refusing to add invalid attribute index "0" to an item.
+L 12/31/2020 - 01:33:04: [SM] Blaming: pyrogineer.smx
+L 12/31/2020 - 01:33:04: [SM] Call stack trace:
+L 12/31/2020 - 01:33:04: [SM]   [0] TF2Items_SetAttribute
+L 12/31/2020 - 01:33:04: [SM]   [1] Line 271, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::PrepareItemHandle
+L 12/31/2020 - 01:33:04: [SM]   [2] Line 294, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::TF2Items_OnGiveNamedItem
+L 12/31/2020 - 01:33:04: [SM] Exception reported: Cowardly refusing to add invalid attribute index "0" to an item.
+L 12/31/2020 - 01:33:04: [SM] Blaming: pyrogineer.smx
+L 12/31/2020 - 01:33:04: [SM] Call stack trace:
+L 12/31/2020 - 01:33:04: [SM]   [0] TF2Items_SetAttribute
+L 12/31/2020 - 01:33:04: [SM]   [1] Line 271, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::PrepareItemHandle
+L 12/31/2020 - 01:33:04: [SM]   [2] Line 294, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::TF2Items_OnGiveNamedItem
+L 12/31/2020 - 01:33:04: [SM]   [4] TF2_RegeneratePlayer
+L 12/31/2020 - 01:33:04: [SM]   [5] Line 27, /groups/sourcemod/upload_tmp/textISXu91.sp::Fix_Function
+L 12/31/2020 - 01:36:50: [freaks/shadow93_abilities.ff2] [SHADoW93 Minions] Redmond Mann has an invalid  formula for minions, using default health!
+L 12/31/2020 - 01:36:50: [freaks/shadow93_abilities.ff2] [SHADoW93 Minions] Redmond Mann has an invalid  formula for minions, using default health!
+L 12/31/2020 - 01:36:50: [freaks/shadow93_abilities.ff2] [SHADoW93 Minions] Redmond Mann has an invalid  formula for minions, using default health!
+L 12/31/2020 - 01:36:50: [freaks/shadow93_abilities.ff2] [SHADoW93 Minions] Redmond Mann has an invalid  formula for minions, using default health!
+L 12/31/2020 - 01:43:29: [SM] Exception reported: Client index -1 is invalid
+L 12/31/2020 - 01:43:29: [SM] Blaming: freaks/ffbat_defaults.ff2
+L 12/31/2020 - 01:43:29: [SM] Call stack trace:
+L 12/31/2020 - 01:43:29: [SM]   [0] GetClientTeam
+L 12/31/2020 - 01:43:29: [SM]   [1] Line 1571, FF2 Unofficial Subplugin: Defaults::SaveMinion
+L 12/31/2020 - 01:54:13: Error log file session closed.
+L 12/31/2020 - 02:07:47: SourceMod error session started
+L 12/31/2020 - 02:07:47: Info (map "arena_lumberyard") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20201231.log")
+L 12/31/2020 - 02:07:47: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 12/31/2020 - 02:07:47: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 12/31/2020 - 02:07:47: [tf2_taunts_tf2idb.smx] Failed to initialize taunt cache: TF2IDB Not loaded.
+L 12/31/2020 - 02:07:47: [tf2_taunts_tf2idb.smx] Halting user interface initialization. Plugin loaded but updater not found.
+L 12/31/2020 - 02:07:47: [tf2_taunts_tf2idb.smx] Try using the latest version from here https://github.com/fakuivan/TF2-Taunts-TF2IDB .
+L 12/31/2020 - 02:10:32: SourceMod error session started
+L 12/31/2020 - 02:10:32: Info (map "arena_lumberyard") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20201231.log")
+L 12/31/2020 - 02:10:32: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 12/31/2020 - 02:10:32: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 12/31/2020 - 02:10:32: [tf2_taunts_tf2idb.smx] Failed to initialize taunt cache: TF2IDB Not loaded.
+L 12/31/2020 - 02:10:32: [tf2_taunts_tf2idb.smx] Halting user interface initialization. Plugin loaded but updater not found.
+L 12/31/2020 - 02:10:32: [tf2_taunts_tf2idb.smx] Try using the latest version from here https://github.com/fakuivan/TF2-Taunts-TF2IDB .
+L 12/31/2020 - 02:11:39: Error log file session closed.
+L 12/31/2020 - 02:33:28: SourceMod error session started
+L 12/31/2020 - 02:33:28: Info (map "vsh_area_54tress_b4") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20201231.log")
+L 12/31/2020 - 02:33:28: [SM] Exception reported: Attributes size out of bounds: 16 [0 ... 15]
+L 12/31/2020 - 02:33:28: [SM] Blaming: freak_fortress_2.smx
+L 12/31/2020 - 02:33:28: [SM] Call stack trace:
+L 12/31/2020 - 02:33:28: [SM]   [0] TF2Items_SetNumAttributes
+L 12/31/2020 - 02:33:28: [SM]   [1] Line 1003, D:\batfo_qrgut13\Documents\SourceMod 1.9 Compiler\addons\sourcemod\scripting\include\freak_fortress_2.inc::FF2_SpawnWeapon
+L 12/31/2020 - 02:33:28: [SM]   [2] Line 6889, Unofficial Freak Fortress::EquipBoss
+L 12/31/2020 - 02:33:28: [SM]   [3] Line 7668, Unofficial Freak Fortress::Timer_MakeBoss
+L 12/31/2020 - 02:33:28: [SM] Exception reported: Attributes size out of bounds: 16 [0 ... 15]
+L 12/31/2020 - 02:33:28: [SM] Blaming: freak_fortress_2.smx
+L 12/31/2020 - 02:33:28: [SM] Call stack trace:
+L 12/31/2020 - 02:33:28: [SM]   [0] TF2Items_SetNumAttributes
+L 12/31/2020 - 02:33:28: [SM]   [1] Line 1003, D:\batfo_qrgut13\Documents\SourceMod 1.9 Compiler\addons\sourcemod\scripting\include\freak_fortress_2.inc::FF2_SpawnWeapon
+L 12/31/2020 - 02:33:28: [SM]   [2] Line 6889, Unofficial Freak Fortress::EquipBoss
+L 12/31/2020 - 02:33:28: [SM]   [3] Line 7668, Unofficial Freak Fortress::Timer_MakeBoss
+L 12/31/2020 - 02:33:28: [SM] Exception reported: Attributes size out of bounds: 16 [0 ... 15]
+L 12/31/2020 - 02:33:28: [SM] Blaming: freak_fortress_2.smx
+L 12/31/2020 - 02:33:28: [SM] Call stack trace:
+L 12/31/2020 - 02:33:28: [SM]   [0] TF2Items_SetNumAttributes
+L 12/31/2020 - 02:33:28: [SM]   [1] Line 1003, D:\batfo_qrgut13\Documents\SourceMod 1.9 Compiler\addons\sourcemod\scripting\include\freak_fortress_2.inc::FF2_SpawnWeapon
+L 12/31/2020 - 02:33:28: [SM]   [2] Line 6889, Unofficial Freak Fortress::EquipBoss
+L 12/31/2020 - 02:33:28: [SM]   [3] Line 7668, Unofficial Freak Fortress::Timer_MakeBoss
+L 12/31/2020 - 02:33:28: [SM] Exception reported: Attributes size out of bounds: 16 [0 ... 15]
+L 12/31/2020 - 02:33:28: [SM] Blaming: freak_fortress_2.smx
+L 12/31/2020 - 02:33:28: [SM] Call stack trace:
+L 12/31/2020 - 02:33:28: [SM]   [0] TF2Items_SetNumAttributes
+L 12/31/2020 - 02:33:28: [SM]   [1] Line 1003, D:\batfo_qrgut13\Documents\SourceMod 1.9 Compiler\addons\sourcemod\scripting\include\freak_fortress_2.inc::FF2_SpawnWeapon
+L 12/31/2020 - 02:33:28: [SM]   [2] Line 6889, Unofficial Freak Fortress::EquipBoss
+L 12/31/2020 - 02:33:28: [SM]   [3] Line 7668, Unofficial Freak Fortress::Timer_MakeBoss
+L 12/31/2020 - 02:33:28: [SM] Exception reported: Attributes size out of bounds: 16 [0 ... 15]
+L 12/31/2020 - 02:33:28: [SM] Blaming: freak_fortress_2.smx
+L 12/31/2020 - 02:33:28: [SM] Call stack trace:
+L 12/31/2020 - 02:33:28: [SM]   [0] TF2Items_SetNumAttributes
+L 12/31/2020 - 02:33:28: [SM]   [1] Line 1003, D:\batfo_qrgut13\Documents\SourceMod 1.9 Compiler\addons\sourcemod\scripting\include\freak_fortress_2.inc::FF2_SpawnWeapon
+L 12/31/2020 - 02:33:28: [SM]   [2] Line 6889, Unofficial Freak Fortress::EquipBoss
+L 12/31/2020 - 02:33:28: [SM]   [3] Line 7668, Unofficial Freak Fortress::Timer_MakeBoss
+L 12/31/2020 - 02:33:28: [SM] Exception reported: Attributes size out of bounds: 16 [0 ... 15]
+L 12/31/2020 - 02:33:28: [SM] Blaming: freak_fortress_2.smx
+L 12/31/2020 - 02:33:28: [SM] Call stack trace:
+L 12/31/2020 - 02:33:28: [SM]   [0] TF2Items_SetNumAttributes
+L 12/31/2020 - 02:33:28: [SM]   [1] Line 1003, D:\batfo_qrgut13\Documents\SourceMod 1.9 Compiler\addons\sourcemod\scripting\include\freak_fortress_2.inc::FF2_SpawnWeapon
+L 12/31/2020 - 02:33:28: [SM]   [2] Line 6889, Unofficial Freak Fortress::EquipBoss
+L 12/31/2020 - 02:33:28: [SM]   [3] Line 7668, Unofficial Freak Fortress::Timer_MakeBoss
+L 12/31/2020 - 02:35:10: Error log file session closed.
+L 12/31/2020 - 02:48:24: SourceMod error session started
+L 12/31/2020 - 02:48:24: Info (map "vsh_crevice_b5") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20201231.log")
+L 12/31/2020 - 02:48:24: [SM] Exception reported: Cowardly refusing to add invalid attribute index "0" to an item.
+L 12/31/2020 - 02:48:24: [SM] Blaming: pyrogineer.smx
+L 12/31/2020 - 02:48:24: [SM] Call stack trace:
+L 12/31/2020 - 02:48:24: [SM]   [0] TF2Items_SetAttribute
+L 12/31/2020 - 02:48:24: [SM]   [1] Line 271, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::PrepareItemHandle
+L 12/31/2020 - 02:48:24: [SM]   [2] Line 294, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::TF2Items_OnGiveNamedItem
+L 12/31/2020 - 02:52:12: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 12/31/2020 - 02:52:13: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 12/31/2020 - 02:52:13: [store.smx] Database connection is lost or not yet initialized.
+L 12/31/2020 - 02:52:13: [store.smx] Database connection is lost or not yet initialized.
+L 12/31/2020 - 02:52:13: [store.smx] Database connection is lost or not yet initialized.
+L 12/31/2020 - 02:52:13: [store.smx] Database connection is lost or not yet initialized.
+L 12/31/2020 - 02:52:13: [store.smx] Database connection is lost or not yet initialized.
+L 12/31/2020 - 02:52:13: [store.smx] Database connection is lost or not yet initialized.
+L 12/31/2020 - 02:52:13: [store.smx] Database connection is lost or not yet initialized.
+L 12/31/2020 - 02:52:13: [store.smx] Database connection is lost or not yet initialized.
+L 12/31/2020 - 02:52:13: [store.smx] Database connection is lost or not yet initialized.
+L 12/31/2020 - 02:52:13: [store.smx] Database connection is lost or not yet initialized.
+L 12/31/2020 - 02:52:13: [store.smx] Database connection is lost or not yet initialized.
+L 12/31/2020 - 02:52:13: [store.smx] Database connection is lost or not yet initialized.
+L 12/31/2020 - 02:52:13: [tf2_taunts_tf2idb.smx] Failed to initialize taunt cache: TF2IDB Not loaded.
+L 12/31/2020 - 02:52:13: [tf2_taunts_tf2idb.smx] Halting user interface initialization. Plugin loaded but updater not found.
+L 12/31/2020 - 02:52:13: [tf2_taunts_tf2idb.smx] Try using the latest version from here https://github.com/fakuivan/TF2-Taunts-TF2IDB .
+L 12/31/2020 - 02:55:01: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 12/31/2020 - 02:55:01: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 12/31/2020 - 02:55:01: [store.smx] Database connection is lost or not yet initialized.
+L 12/31/2020 - 02:55:01: [store.smx] Database connection is lost or not yet initialized.
+L 12/31/2020 - 02:55:01: [store.smx] Database connection is lost or not yet initialized.
+L 12/31/2020 - 02:55:01: [store.smx] Database connection is lost or not yet initialized.
+L 12/31/2020 - 02:55:01: [store.smx] Database connection is lost or not yet initialized.
+L 12/31/2020 - 02:55:01: [store.smx] Database connection is lost or not yet initialized.
+L 12/31/2020 - 02:55:01: [store.smx] Database connection is lost or not yet initialized.
+L 12/31/2020 - 02:55:01: [store.smx] Database connection is lost or not yet initialized.
+L 12/31/2020 - 02:55:01: [store.smx] Database connection is lost or not yet initialized.
+L 12/31/2020 - 02:55:01: [store.smx] Database connection is lost or not yet initialized.
+L 12/31/2020 - 02:55:01: [store.smx] Database connection is lost or not yet initialized.
+L 12/31/2020 - 02:55:01: [store.smx] Database connection is lost or not yet initialized.
+L 12/31/2020 - 02:55:01: [SM] Exception reported: Entity 13 is invalid
+L 12/31/2020 - 02:55:01: [SM] Blaming: fc.smx
+L 12/31/2020 - 02:55:01: [SM] Call stack trace:
+L 12/31/2020 - 02:55:01: [SM]   [0] SDKHook
+L 12/31/2020 - 02:55:01: [SM]   [1] Line 391, D:\storage\Dropbox\Sourcemod\nieuw\sourcemod\scripting\fc.sp::Init
+L 12/31/2020 - 02:55:01: [SM]   [2] Line 173, D:\storage\Dropbox\Sourcemod\nieuw\sourcemod\scripting\fc.sp::OnPluginStart
+L 12/31/2020 - 02:55:01: [SM] Unable to load plugin "fc.smx": Error detected in plugin startup (see error logs)
+L 12/31/2020 - 02:55:02: [tf2_taunts_tf2idb.smx] Failed to initialize taunt cache: TF2IDB Not loaded.
+L 12/31/2020 - 02:55:02: [tf2_taunts_tf2idb.smx] Halting user interface initialization. Plugin loaded but updater not found.
+L 12/31/2020 - 02:55:02: [tf2_taunts_tf2idb.smx] Try using the latest version from here https://github.com/fakuivan/TF2-Taunts-TF2IDB .
+L 12/31/2020 - 02:59:35: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 12/31/2020 - 02:59:35: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 12/31/2020 - 02:59:35: [store.smx] Database connection is lost or not yet initialized.
+L 12/31/2020 - 02:59:35: [store.smx] Database connection is lost or not yet initialized.
+L 12/31/2020 - 02:59:35: [store.smx] Database connection is lost or not yet initialized.
+L 12/31/2020 - 02:59:35: [store.smx] Database connection is lost or not yet initialized.
+L 12/31/2020 - 02:59:35: [store.smx] Database connection is lost or not yet initialized.
+L 12/31/2020 - 02:59:35: [store.smx] Database connection is lost or not yet initialized.
+L 12/31/2020 - 02:59:35: [store.smx] Database connection is lost or not yet initialized.
+L 12/31/2020 - 02:59:35: [store.smx] Database connection is lost or not yet initialized.
+L 12/31/2020 - 02:59:35: [store.smx] Database connection is lost or not yet initialized.
+L 12/31/2020 - 02:59:35: [store.smx] Database connection is lost or not yet initialized.
+L 12/31/2020 - 02:59:35: [store.smx] Database connection is lost or not yet initialized.
+L 12/31/2020 - 02:59:35: [store.smx] Database connection is lost or not yet initialized.
+L 12/31/2020 - 02:59:35: [SM] Exception reported: Entity 9 is invalid
+L 12/31/2020 - 02:59:35: [SM] Blaming: fc.smx
+L 12/31/2020 - 02:59:35: [SM] Call stack trace:
+L 12/31/2020 - 02:59:35: [SM]   [0] SDKHook
+L 12/31/2020 - 02:59:35: [SM]   [1] Line 391, D:\storage\Dropbox\Sourcemod\nieuw\sourcemod\scripting\fc.sp::Init
+L 12/31/2020 - 02:59:35: [SM]   [2] Line 173, D:\storage\Dropbox\Sourcemod\nieuw\sourcemod\scripting\fc.sp::OnPluginStart
+L 12/31/2020 - 02:59:35: [SM] Unable to load plugin "fc.smx": Error detected in plugin startup (see error logs)
+L 12/31/2020 - 02:59:41: [tf2_taunts_tf2idb.smx] Failed to initialize taunt cache: TF2IDB Not loaded.
+L 12/31/2020 - 02:59:41: [tf2_taunts_tf2idb.smx] Halting user interface initialization. Plugin loaded but updater not found.
+L 12/31/2020 - 02:59:41: [tf2_taunts_tf2idb.smx] Try using the latest version from here https://github.com/fakuivan/TF2-Taunts-TF2IDB .
+L 12/31/2020 - 02:59:42: [SM] Exception reported: Cowardly refusing to add invalid attribute index "0" to an item.
+L 12/31/2020 - 02:59:42: [SM] Blaming: pyrogineer.smx
+L 12/31/2020 - 02:59:42: [SM] Call stack trace:
+L 12/31/2020 - 02:59:42: [SM]   [0] TF2Items_SetAttribute
+L 12/31/2020 - 02:59:42: [SM]   [1] Line 271, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::PrepareItemHandle
+L 12/31/2020 - 02:59:42: [SM]   [2] Line 294, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::TF2Items_OnGiveNamedItem
+L 12/31/2020 - 02:59:42: [SM]   [4] TF2_RespawnPlayer
+L 12/31/2020 - 02:59:42: [SM]   [5] Line 182, /home/forums/content/files/3/4/6/6/8/27957.attach::PickClass
+L 12/31/2020 - 02:59:42: [SM]   [6] Line 110, /home/forums/content/files/3/4/6/6/8/27957.attach::Event_PlayerSpawn
+L 12/31/2020 - 02:59:42: [SM]   [8] TF2_RespawnPlayer
+L 12/31/2020 - 02:59:42: [SM]   [9] Line 14261, Unofficial Freak Fortress::AssignTeam
+L 12/31/2020 - 02:59:42: [SM]   [10] Line 8689, Unofficial Freak Fortress::Timer_MakeNotBoss
+L 12/31/2020 - 02:59:51: [SM] Exception reported: Cowardly refusing to add invalid attribute index "0" to an item.
+L 12/31/2020 - 02:59:51: [SM] Blaming: pyrogineer.smx
+L 12/31/2020 - 02:59:51: [SM] Call stack trace:
+L 12/31/2020 - 02:59:51: [SM]   [0] TF2Items_SetAttribute
+L 12/31/2020 - 02:59:51: [SM]   [1] Line 271, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::PrepareItemHandle
+L 12/31/2020 - 02:59:51: [SM]   [2] Line 294, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::TF2Items_OnGiveNamedItem
+L 12/31/2020 - 02:59:51: [SM]   [4] TF2_RespawnPlayer
+L 12/31/2020 - 02:59:51: [SM]   [5] Line 182, /home/forums/content/files/3/4/6/6/8/27957.attach::PickClass
+L 12/31/2020 - 02:59:51: [SM]   [6] Line 110, /home/forums/content/files/3/4/6/6/8/27957.attach::Event_PlayerSpawn
+L 12/31/2020 - 02:59:57: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 12/31/2020 - 02:59:58: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 12/31/2020 - 02:59:58: [store.smx] Database connection is lost or not yet initialized.
+L 12/31/2020 - 02:59:58: [store.smx] Database connection is lost or not yet initialized.
+L 12/31/2020 - 02:59:58: [store.smx] Database connection is lost or not yet initialized.
+L 12/31/2020 - 02:59:58: [store.smx] Database connection is lost or not yet initialized.
+L 12/31/2020 - 02:59:58: [store.smx] Database connection is lost or not yet initialized.
+L 12/31/2020 - 02:59:58: [store.smx] Database connection is lost or not yet initialized.
+L 12/31/2020 - 02:59:58: [store.smx] Database connection is lost or not yet initialized.
+L 12/31/2020 - 02:59:58: [store.smx] Database connection is lost or not yet initialized.
+L 12/31/2020 - 02:59:58: [store.smx] Database connection is lost or not yet initialized.
+L 12/31/2020 - 02:59:58: [store.smx] Database connection is lost or not yet initialized.
+L 12/31/2020 - 02:59:58: [SM] Exception reported: Entity 1 is invalid
+L 12/31/2020 - 02:59:58: [SM] Blaming: fc.smx
+L 12/31/2020 - 02:59:58: [SM] Call stack trace:
+L 12/31/2020 - 02:59:58: [SM]   [0] SDKHook
+L 12/31/2020 - 02:59:58: [SM]   [1] Line 391, D:\storage\Dropbox\Sourcemod\nieuw\sourcemod\scripting\fc.sp::Init
+L 12/31/2020 - 02:59:58: [SM]   [2] Line 173, D:\storage\Dropbox\Sourcemod\nieuw\sourcemod\scripting\fc.sp::OnPluginStart
+L 12/31/2020 - 02:59:58: [SM] Unable to load plugin "fc.smx": Error detected in plugin startup (see error logs)
+L 12/31/2020 - 02:59:59: [tf2_taunts_tf2idb.smx] Failed to initialize taunt cache: TF2IDB Not loaded.
+L 12/31/2020 - 02:59:59: [tf2_taunts_tf2idb.smx] Halting user interface initialization. Plugin loaded but updater not found.
+L 12/31/2020 - 02:59:59: [tf2_taunts_tf2idb.smx] Try using the latest version from here https://github.com/fakuivan/TF2-Taunts-TF2IDB .
+L 12/31/2020 - 03:00:03: [SM] Exception reported: Cowardly refusing to add invalid attribute index "0" to an item.
+L 12/31/2020 - 03:00:03: [SM] Blaming: pyrogineer.smx
+L 12/31/2020 - 03:00:03: [SM] Call stack trace:
+L 12/31/2020 - 03:00:03: [SM]   [0] TF2Items_SetAttribute
+L 12/31/2020 - 03:00:03: [SM]   [1] Line 271, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::PrepareItemHandle
+L 12/31/2020 - 03:00:03: [SM]   [2] Line 294, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::TF2Items_OnGiveNamedItem
+L 12/31/2020 - 03:00:03: [SM]   [4] TF2_RegeneratePlayer
+L 12/31/2020 - 03:00:03: [SM]   [5] Line 9918, Unofficial Freak Fortress::OnPostInventoryApplication
+L 12/31/2020 - 03:00:03: [SM] Exception reported: Cowardly refusing to add invalid attribute index "0" to an item.
+L 12/31/2020 - 03:00:03: [SM] Blaming: pyrogineer.smx
+L 12/31/2020 - 03:00:03: [SM] Call stack trace:
+L 12/31/2020 - 03:00:03: [SM]   [0] TF2Items_SetAttribute
+L 12/31/2020 - 03:00:03: [SM]   [1] Line 271, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::PrepareItemHandle
+L 12/31/2020 - 03:00:03: [SM]   [2] Line 294, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::TF2Items_OnGiveNamedItem
+L 12/31/2020 - 03:00:03: [SM]   [4] TF2_RegeneratePlayer
+L 12/31/2020 - 03:00:03: [SM]   [5] Line 27, /groups/sourcemod/upload_tmp/textISXu91.sp::Fix_Function
+L 12/31/2020 - 03:03:23: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 12/31/2020 - 03:03:23: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 12/31/2020 - 03:03:23: [store.smx] Database connection is lost or not yet initialized.
+L 12/31/2020 - 03:03:23: [store.smx] Database connection is lost or not yet initialized.
+L 12/31/2020 - 03:03:23: [store.smx] Database connection is lost or not yet initialized.
+L 12/31/2020 - 03:03:23: [store.smx] Database connection is lost or not yet initialized.
+L 12/31/2020 - 03:03:23: [store.smx] Database connection is lost or not yet initialized.
+L 12/31/2020 - 03:03:23: [store.smx] Database connection is lost or not yet initialized.
+L 12/31/2020 - 03:03:23: [store.smx] Database connection is lost or not yet initialized.
+L 12/31/2020 - 03:03:23: [store.smx] Database connection is lost or not yet initialized.
+L 12/31/2020 - 03:03:23: [store.smx] Database connection is lost or not yet initialized.
+L 12/31/2020 - 03:03:23: [store.smx] Database connection is lost or not yet initialized.
+L 12/31/2020 - 03:03:23: [store.smx] Database connection is lost or not yet initialized.
+L 12/31/2020 - 03:03:23: [store.smx] Database connection is lost or not yet initialized.
+L 12/31/2020 - 03:03:23: [store.smx] Database connection is lost or not yet initialized.
+L 12/31/2020 - 03:03:23: [store.smx] Database connection is lost or not yet initialized.
+L 12/31/2020 - 03:03:24: [tf2_taunts_tf2idb.smx] Failed to initialize taunt cache: TF2IDB Not loaded.
+L 12/31/2020 - 03:03:24: [tf2_taunts_tf2idb.smx] Halting user interface initialization. Plugin loaded but updater not found.
+L 12/31/2020 - 03:03:24: [tf2_taunts_tf2idb.smx] Try using the latest version from here https://github.com/fakuivan/TF2-Taunts-TF2IDB .
+L 12/31/2020 - 03:10:04: Error log file session closed.
+L 12/31/2020 - 03:28:31: SourceMod error session started
+L 12/31/2020 - 03:28:31: Info (map "vsh_minegay_reworked_v2") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20201231.log")
+L 12/31/2020 - 03:28:31: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 12/31/2020 - 03:28:31: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 12/31/2020 - 03:28:31: [store.smx] Database connection is lost or not yet initialized.
+L 12/31/2020 - 03:28:31: [store.smx] Database connection is lost or not yet initialized.
+L 12/31/2020 - 03:28:31: [store.smx] Database connection is lost or not yet initialized.
+L 12/31/2020 - 03:28:31: [store.smx] Database connection is lost or not yet initialized.
+L 12/31/2020 - 03:28:31: [store.smx] Database connection is lost or not yet initialized.
+L 12/31/2020 - 03:28:31: [store.smx] Database connection is lost or not yet initialized.
+L 12/31/2020 - 03:28:31: [store.smx] Database connection is lost or not yet initialized.
+L 12/31/2020 - 03:28:31: [store.smx] Database connection is lost or not yet initialized.
+L 12/31/2020 - 03:28:31: [store.smx] Database connection is lost or not yet initialized.
+L 12/31/2020 - 03:28:31: [store.smx] Database connection is lost or not yet initialized.
+L 12/31/2020 - 03:28:31: [store.smx] Database connection is lost or not yet initialized.
+L 12/31/2020 - 03:28:31: [store.smx] Database connection is lost or not yet initialized.
+L 12/31/2020 - 03:28:31: [store.smx] Database connection is lost or not yet initialized.
+L 12/31/2020 - 03:28:32: [tf2_taunts_tf2idb.smx] Failed to initialize taunt cache: TF2IDB Not loaded.
+L 12/31/2020 - 03:28:32: [tf2_taunts_tf2idb.smx] Halting user interface initialization. Plugin loaded but updater not found.
+L 12/31/2020 - 03:28:32: [tf2_taunts_tf2idb.smx] Try using the latest version from here https://github.com/fakuivan/TF2-Taunts-TF2IDB .
+L 12/31/2020 - 03:32:40: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 12/31/2020 - 03:32:40: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 12/31/2020 - 03:32:40: [store.smx] Database connection is lost or not yet initialized.
+L 12/31/2020 - 03:32:40: [store.smx] Database connection is lost or not yet initialized.
+L 12/31/2020 - 03:32:40: [store.smx] Database connection is lost or not yet initialized.
+L 12/31/2020 - 03:32:40: [store.smx] Database connection is lost or not yet initialized.
+L 12/31/2020 - 03:32:40: [store.smx] Database connection is lost or not yet initialized.
+L 12/31/2020 - 03:32:40: [store.smx] Database connection is lost or not yet initialized.
+L 12/31/2020 - 03:32:40: [store.smx] Database connection is lost or not yet initialized.
+L 12/31/2020 - 03:32:40: [store.smx] Database connection is lost or not yet initialized.
+L 12/31/2020 - 03:32:40: [store.smx] Database connection is lost or not yet initialized.
+L 12/31/2020 - 03:32:40: [store.smx] Database connection is lost or not yet initialized.
+L 12/31/2020 - 03:32:40: [store.smx] Database connection is lost or not yet initialized.
+L 12/31/2020 - 03:32:40: [store.smx] Database connection is lost or not yet initialized.
+L 12/31/2020 - 03:32:40: [store.smx] Database connection is lost or not yet initialized.
+L 12/31/2020 - 03:32:40: [tf2_taunts_tf2idb.smx] Failed to initialize taunt cache: TF2IDB Not loaded.
+L 12/31/2020 - 03:32:40: [tf2_taunts_tf2idb.smx] Halting user interface initialization. Plugin loaded but updater not found.
+L 12/31/2020 - 03:32:40: [tf2_taunts_tf2idb.smx] Try using the latest version from here https://github.com/fakuivan/TF2-Taunts-TF2IDB .
+L 12/31/2020 - 03:36:01: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 12/31/2020 - 03:36:01: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 12/31/2020 - 03:36:01: [store.smx] Database connection is lost or not yet initialized.
+L 12/31/2020 - 03:36:01: [store.smx] Database connection is lost or not yet initialized.
+L 12/31/2020 - 03:36:01: [store.smx] Database connection is lost or not yet initialized.
+L 12/31/2020 - 03:36:01: [store.smx] Database connection is lost or not yet initialized.
+L 12/31/2020 - 03:36:01: [store.smx] Database connection is lost or not yet initialized.
+L 12/31/2020 - 03:36:01: [store.smx] Database connection is lost or not yet initialized.
+L 12/31/2020 - 03:36:01: [store.smx] Database connection is lost or not yet initialized.
+L 12/31/2020 - 03:36:01: [store.smx] Database connection is lost or not yet initialized.
+L 12/31/2020 - 03:36:01: [store.smx] Database connection is lost or not yet initialized.
+L 12/31/2020 - 03:36:01: [store.smx] Database connection is lost or not yet initialized.
+L 12/31/2020 - 03:36:01: [store.smx] Database connection is lost or not yet initialized.
+L 12/31/2020 - 03:36:01: [store.smx] Database connection is lost or not yet initialized.
+L 12/31/2020 - 03:36:01: [store.smx] Database connection is lost or not yet initialized.
+L 12/31/2020 - 03:36:01: [tf2_taunts_tf2idb.smx] Failed to initialize taunt cache: TF2IDB Not loaded.
+L 12/31/2020 - 03:36:01: [tf2_taunts_tf2idb.smx] Halting user interface initialization. Plugin loaded but updater not found.
+L 12/31/2020 - 03:36:01: [tf2_taunts_tf2idb.smx] Try using the latest version from here https://github.com/fakuivan/TF2-Taunts-TF2IDB .
+L 12/31/2020 - 03:41:02: Error log file session closed.
+L 12/31/2020 - 05:24:09: SourceMod error session started
+L 12/31/2020 - 05:24:09: Info (map "vsh_skyhigh_resort_b8_sg4") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20201231.log")
+L 12/31/2020 - 05:24:09: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 12/31/2020 - 05:24:09: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 12/31/2020 - 05:24:52: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 12/31/2020 - 05:51:07: Error log file session closed.
+L 12/31/2020 - 05:58:13: SourceMod error session started
+L 12/31/2020 - 05:58:13: Info (map "vsh_yammoe_rc3") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20201231.log")
+L 12/31/2020 - 05:58:13: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 12/31/2020 - 05:58:13: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 12/31/2020 - 06:23:06: Error log file session closed.
+L 12/31/2020 - 20:16:52: SourceMod error session started
+L 12/31/2020 - 20:16:52: Info (map "vsh_nebula_rc1") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20201231.log")
+L 12/31/2020 - 20:16:52: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 12/31/2020 - 20:25:40: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 12/31/2020 - 20:31:02: Error log file session closed.
+L 12/31/2020 - 20:37:44: SourceMod error session started
+L 12/31/2020 - 20:37:44: Info (map "vsh_manncohq_v14") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20201231.log")
+L 12/31/2020 - 20:37:44: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 12/31/2020 - 20:37:44: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 12/31/2020 - 20:42:06: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 12/31/2020 - 20:42:06: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 12/31/2020 - 20:42:41: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 12/31/2020 - 20:47:07: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 12/31/2020 - 20:47:43: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 12/31/2020 - 21:02:37: Error log file session closed.
+L 12/31/2020 - 21:25:50: SourceMod error session started
+L 12/31/2020 - 21:25:50: Info (map "vsh_area_54tress_b4") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20201231.log")
+L 12/31/2020 - 21:25:50: [SM] Exception reported: Cowardly refusing to add invalid attribute index "0" to an item.
+L 12/31/2020 - 21:25:50: [SM] Blaming: pyrogineer.smx
+L 12/31/2020 - 21:25:50: [SM] Call stack trace:
+L 12/31/2020 - 21:25:50: [SM]   [0] TF2Items_SetAttribute
+L 12/31/2020 - 21:25:50: [SM]   [1] Line 271, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::PrepareItemHandle
+L 12/31/2020 - 21:25:50: [SM]   [2] Line 294, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::TF2Items_OnGiveNamedItem
+L 12/31/2020 - 21:26:23: [SM] Exception reported: Cowardly refusing to add invalid attribute index "0" to an item.
+L 12/31/2020 - 21:26:23: [SM] Blaming: pyrogineer.smx
+L 12/31/2020 - 21:26:23: [SM] Call stack trace:
+L 12/31/2020 - 21:26:23: [SM]   [0] TF2Items_SetAttribute
+L 12/31/2020 - 21:26:23: [SM]   [1] Line 271, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::PrepareItemHandle
+L 12/31/2020 - 21:26:23: [SM]   [2] Line 294, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::TF2Items_OnGiveNamedItem
+L 12/31/2020 - 21:26:23: [SM]   [4] TF2_RegeneratePlayer
+L 12/31/2020 - 21:26:23: [SM]   [5] Line 27, /groups/sourcemod/upload_tmp/textISXu91.sp::Fix_Function
+L 12/31/2020 - 21:27:02: [SM] Exception reported: Cowardly refusing to add invalid attribute index "0" to an item.
+L 12/31/2020 - 21:27:02: [SM] Blaming: pyrogineer.smx
+L 12/31/2020 - 21:27:02: [SM] Call stack trace:
+L 12/31/2020 - 21:27:02: [SM]   [0] TF2Items_SetAttribute
+L 12/31/2020 - 21:27:02: [SM]   [1] Line 271, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::PrepareItemHandle
+L 12/31/2020 - 21:27:02: [SM]   [2] Line 294, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::TF2Items_OnGiveNamedItem
+L 12/31/2020 - 21:27:02: [SM] Exception reported: Cowardly refusing to add invalid attribute index "0" to an item.
+L 12/31/2020 - 21:27:02: [SM] Blaming: pyrogineer.smx
+L 12/31/2020 - 21:27:02: [SM] Call stack trace:
+L 12/31/2020 - 21:27:02: [SM]   [0] TF2Items_SetAttribute
+L 12/31/2020 - 21:27:02: [SM]   [1] Line 271, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::PrepareItemHandle
+L 12/31/2020 - 21:27:02: [SM]   [2] Line 294, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::TF2Items_OnGiveNamedItem
+L 12/31/2020 - 21:27:02: [SM]   [4] TF2_RegeneratePlayer
+L 12/31/2020 - 21:27:02: [SM]   [5] Line 27, /groups/sourcemod/upload_tmp/textISXu91.sp::Fix_Function
+L 12/31/2020 - 21:27:35: [SM] Exception reported: Cowardly refusing to add invalid attribute index "0" to an item.
+L 12/31/2020 - 21:27:35: [SM] Blaming: pyrogineer.smx
+L 12/31/2020 - 21:27:35: [SM] Call stack trace:
+L 12/31/2020 - 21:27:35: [SM]   [0] TF2Items_SetAttribute
+L 12/31/2020 - 21:27:35: [SM]   [1] Line 271, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::PrepareItemHandle
+L 12/31/2020 - 21:27:35: [SM]   [2] Line 294, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::TF2Items_OnGiveNamedItem
+L 12/31/2020 - 21:27:35: [SM]   [4] TF2_RegeneratePlayer
+L 12/31/2020 - 21:27:35: [SM]   [5] Line 27, /groups/sourcemod/upload_tmp/textISXu91.sp::Fix_Function
+L 12/31/2020 - 21:28:09: [SM] Exception reported: Cowardly refusing to add invalid attribute index "0" to an item.
+L 12/31/2020 - 21:28:09: [SM] Blaming: pyrogineer.smx
+L 12/31/2020 - 21:28:09: [SM] Call stack trace:
+L 12/31/2020 - 21:28:09: [SM]   [0] TF2Items_SetAttribute
+L 12/31/2020 - 21:28:09: [SM]   [1] Line 271, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::PrepareItemHandle
+L 12/31/2020 - 21:28:09: [SM]   [2] Line 294, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::TF2Items_OnGiveNamedItem
+L 12/31/2020 - 21:28:09: [SM] Exception reported: Cowardly refusing to add invalid attribute index "0" to an item.
+L 12/31/2020 - 21:28:09: [SM] Blaming: pyrogineer.smx
+L 12/31/2020 - 21:28:09: [SM] Call stack trace:
+L 12/31/2020 - 21:28:09: [SM]   [0] TF2Items_SetAttribute
+L 12/31/2020 - 21:28:09: [SM]   [1] Line 271, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::PrepareItemHandle
+L 12/31/2020 - 21:28:09: [SM]   [2] Line 294, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::TF2Items_OnGiveNamedItem
+L 12/31/2020 - 21:28:09: [SM]   [4] TF2_RegeneratePlayer
+L 12/31/2020 - 21:28:09: [SM]   [5] Line 27, /groups/sourcemod/upload_tmp/textISXu91.sp::Fix_Function
+L 12/31/2020 - 21:30:03: [SM] Exception reported: Cowardly refusing to add invalid attribute index "0" to an item.
+L 12/31/2020 - 21:30:03: [SM] Blaming: pyrogineer.smx
+L 12/31/2020 - 21:30:03: [SM] Call stack trace:
+L 12/31/2020 - 21:30:03: [SM]   [0] TF2Items_SetAttribute
+L 12/31/2020 - 21:30:03: [SM]   [1] Line 271, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::PrepareItemHandle
+L 12/31/2020 - 21:30:03: [SM]   [2] Line 294, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::TF2Items_OnGiveNamedItem
+L 12/31/2020 - 21:30:03: [SM]   [4] TF2_RegeneratePlayer
+L 12/31/2020 - 21:30:03: [SM]   [5] Line 27, /groups/sourcemod/upload_tmp/textISXu91.sp::Fix_Function
+L 01/01/2021 - 19:01:52: Error log file session closed.

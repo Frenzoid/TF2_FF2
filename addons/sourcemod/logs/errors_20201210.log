@@ -1,0 +1,184 @@
+L 12/10/2020 - 00:15:41: SourceMod error session started
+L 12/10/2020 - 00:15:41: Info (map "arena_lumberyard") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20201210.log")
+L 12/10/2020 - 00:15:41: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 12/10/2020 - 00:15:41: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 12/10/2020 - 00:15:41: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 12/10/2020 - 00:15:41: [admin-flatfile.smx]  (line 85) Section declared with unknown tokens
+L 12/10/2020 - 00:38:32: [freaks/ff2_1st_set_abilities.ff2] [FF2 Bosses] Model 'models\props_halloween\eyeball_projectile.mdl' isn't precached!  Please check Freddy Krueger's "mod_precache"
+L 12/10/2020 - 00:47:00: Error log file session closed.
+L 12/10/2020 - 00:47:01: SourceMod error session started
+L 12/10/2020 - 00:47:01: Info (map "vsh_abandoned_warehouse_final_v3") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20201210.log")
+L 12/10/2020 - 00:47:01: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 12/10/2020 - 00:47:01: [admin-flatfile.smx]  (line 85) Section declared with unknown tokens
+L 12/10/2020 - 01:18:20: Error log file session closed.
+L 12/10/2020 - 01:18:22: SourceMod error session started
+L 12/10/2020 - 01:18:22: Info (map "vsh_intrusion_rc2") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20201210.log")
+L 12/10/2020 - 01:18:22: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 12/10/2020 - 01:18:22: [admin-flatfile.smx]  (line 85) Section declared with unknown tokens
+L 12/10/2020 - 01:49:52: Error log file session closed.
+L 12/10/2020 - 01:49:53: SourceMod error session started
+L 12/10/2020 - 01:49:53: Info (map "vsh_jealo_rc2") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20201210.log")
+L 12/10/2020 - 01:49:53: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 12/10/2020 - 01:49:53: [admin-flatfile.smx]  (line 85) Section declared with unknown tokens
+L 12/10/2020 - 07:48:52: Error log file session closed.
+L 12/10/2020 - 07:48:53: SourceMod error session started
+L 12/10/2020 - 07:48:53: Info (map "vsh_abandoned_warehouse_final_v3") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20201210.log")
+L 12/10/2020 - 07:48:53: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 12/10/2020 - 07:48:53: [admin-flatfile.smx]  (line 85) Section declared with unknown tokens
+L 12/10/2020 - 08:09:29: [freaks/ff2_1st_set_abilities.ff2] [FF2 Bosses] Model 'models\props_halloween\eyeball_projectile.mdl' isn't precached!  Please check Freddy Krueger's "mod_precache"
+L 12/10/2020 - 08:20:16: Error log file session closed.
+L 12/10/2020 - 08:20:17: SourceMod error session started
+L 12/10/2020 - 08:20:17: Info (map "vsh_palanquin_ship_novpk") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20201210.log")
+L 12/10/2020 - 08:20:17: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 12/10/2020 - 08:20:17: [admin-flatfile.smx]  (line 85) Section declared with unknown tokens
+L 12/10/2020 - 08:39:19: Error log file session closed.
+L 12/10/2020 - 08:39:19: SourceMod error session started
+L 12/10/2020 - 08:39:19: Info (map "vsh_intrusion_rc2") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20201210.log")
+L 12/10/2020 - 08:39:19: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 12/10/2020 - 08:39:19: [admin-flatfile.smx]  (line 85) Section declared with unknown tokens
+L 12/10/2020 - 08:52:40: [freaks/ff2_1st_set_abilities.ff2] [FF2 Bosses] Model 'models\props_halloween\eyeball_projectile.mdl' isn't precached!  Please check Freddy Krueger's "mod_precache"
+L 12/10/2020 - 19:07:58: Error log file session closed.
+L 12/10/2020 - 19:07:59: SourceMod error session started
+L 12/10/2020 - 19:07:59: Info (map "vsh_nebula_rc1") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20201210.log")
+L 12/10/2020 - 19:07:59: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 12/10/2020 - 19:07:59: [admin-flatfile.smx]  (line 85) Section declared with unknown tokens
+L 12/10/2020 - 20:45:05: Error log file session closed.
+L 12/10/2020 - 20:45:06: SourceMod error session started
+L 12/10/2020 - 20:45:06: Info (map "vsh_dirtmound_b9") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20201210.log")
+L 12/10/2020 - 20:45:06: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 12/10/2020 - 20:45:06: [admin-flatfile.smx]  (line 85) Section declared with unknown tokens
+L 12/10/2020 - 20:50:35: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 12/10/2020 - 20:50:36: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 12/10/2020 - 20:50:36: [store.smx] Database connection is lost or not yet initialized.
+L 12/10/2020 - 20:50:36: [store.smx] Database connection is lost or not yet initialized.
+L 12/10/2020 - 20:58:10: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 12/10/2020 - 20:58:11: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 12/10/2020 - 20:58:11: [store.smx] Database connection is lost or not yet initialized.
+L 12/10/2020 - 20:58:11: [store.smx] Database connection is lost or not yet initialized.
+L 12/10/2020 - 20:58:41: Error log file session closed.
+L 12/10/2020 - 20:58:42: SourceMod error session started
+L 12/10/2020 - 20:58:42: Info (map "vsh_dirtmound_b9") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20201210.log")
+L 12/10/2020 - 20:58:42: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 12/10/2020 - 20:58:42: [admin-flatfile.smx]  (line 85) Section declared with unknown tokens
+L 12/10/2020 - 21:00:14: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 12/10/2020 - 21:00:14: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 12/10/2020 - 21:00:14: [store.smx] Database connection is lost or not yet initialized.
+L 12/10/2020 - 21:00:14: [store.smx] Database connection is lost or not yet initialized.
+L 12/10/2020 - 21:00:50: Error log file session closed.
+L 12/10/2020 - 21:00:50: SourceMod error session started
+L 12/10/2020 - 21:00:50: Info (map "vsh_dirtmound_b9") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20201210.log")
+L 12/10/2020 - 21:00:50: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 12/10/2020 - 21:00:50: [admin-flatfile.smx]  (line 85) Section declared with unknown tokens
+L 12/10/2020 - 21:01:30: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 12/10/2020 - 21:01:30: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 12/10/2020 - 21:01:30: [store.smx] Database connection is lost or not yet initialized.
+L 12/10/2020 - 21:01:30: [store.smx] Database connection is lost or not yet initialized.
+L 12/10/2020 - 21:01:41: Error log file session closed.
+L 12/10/2020 - 21:01:41: SourceMod error session started
+L 12/10/2020 - 21:01:41: Info (map "vsh_dirtmound_b9") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20201210.log")
+L 12/10/2020 - 21:01:41: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 12/10/2020 - 21:01:41: [admin-flatfile.smx]  (line 85) Section declared with unknown tokens
+L 12/10/2020 - 21:02:58: Error log file session closed.
+L 12/10/2020 - 21:02:59: SourceMod error session started
+L 12/10/2020 - 21:02:59: Info (map "vsh_dirtmound_b9") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20201210.log")
+L 12/10/2020 - 21:02:59: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 12/10/2020 - 21:02:59: [admin-flatfile.smx]  (line 85) Section declared with unknown tokens
+L 12/10/2020 - 21:05:30: Error log file session closed.
+L 12/10/2020 - 21:05:30: SourceMod error session started
+L 12/10/2020 - 21:05:30: Info (map "vsh_Hakurei_Winter_v2") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20201210.log")
+L 12/10/2020 - 21:05:30: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 12/10/2020 - 21:05:30: [admin-flatfile.smx]  (line 85) Section declared with unknown tokens
+L 12/10/2020 - 21:05:45: Error log file session closed.
+L 12/10/2020 - 21:05:46: SourceMod error session started
+L 12/10/2020 - 21:05:46: Info (map "vsh_dirtmound_b9") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20201210.log")
+L 12/10/2020 - 21:05:46: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 12/10/2020 - 21:05:46: [admin-flatfile.smx]  (line 85) Section declared with unknown tokens
+L 12/10/2020 - 21:07:19: Error log file session closed.
+L 12/10/2020 - 21:07:20: SourceMod error session started
+L 12/10/2020 - 21:07:20: Info (map "vsh_dirtmound_b9") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20201210.log")
+L 12/10/2020 - 21:07:20: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 12/10/2020 - 21:07:20: [admin-flatfile.smx]  (line 85) Section declared with unknown tokens
+L 12/10/2020 - 22:12:28: Error log file session closed.
+L 12/10/2020 - 22:12:29: SourceMod error session started
+L 12/10/2020 - 22:12:29: Info (map "vsh_nebula_rc1") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20201210.log")
+L 12/10/2020 - 22:12:29: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 12/10/2020 - 22:12:29: [admin-flatfile.smx]  (line 85) Section declared with unknown tokens
+L 12/10/2020 - 22:16:59: Error log file session closed.
+L 12/10/2020 - 22:17:00: SourceMod error session started
+L 12/10/2020 - 22:17:00: Info (map "vsh_nebula_rc1") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20201210.log")
+L 12/10/2020 - 22:17:00: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 12/10/2020 - 22:17:00: [admin-flatfile.smx]  (line 85) Section declared with unknown tokens
+L 12/10/2020 - 22:22:28: [freaks/ff2_1st_set_abilities.ff2] [FF2 Bosses] Model 'models\props_halloween\eyeball_projectile.mdl' isn't precached!  Please check Freddy Krueger's "mod_precache"
+L 12/10/2020 - 22:24:46: Error log file session closed.
+L 12/10/2020 - 22:24:46: SourceMod error session started
+L 12/10/2020 - 22:24:46: Info (map "vsh_nebula_rc1") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20201210.log")
+L 12/10/2020 - 22:24:46: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 12/10/2020 - 22:24:46: [admin-flatfile.smx]  (line 85) Section declared with unknown tokens
+L 12/10/2020 - 22:27:46: [freaks/ff2_1st_set_abilities.ff2] [FF2 Bosses] Model 'models\props_halloween\eyeball_projectile.mdl' isn't precached!  Please check Freddy Krueger's "mod_precache"
+L 12/10/2020 - 22:28:04: Error log file session closed.
+L 12/10/2020 - 22:28:05: SourceMod error session started
+L 12/10/2020 - 22:28:05: Info (map "vsh_castle_siege_unreal_sg1") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20201210.log")
+L 12/10/2020 - 22:28:05: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 12/10/2020 - 22:28:05: [admin-flatfile.smx]  (line 85) Section declared with unknown tokens
+L 12/10/2020 - 22:30:45: [freaks/ff2_1st_set_abilities.ff2] [FF2 Bosses] Model 'models\props_halloween\eyeball_projectile.mdl' isn't precached!  Please check Freddy Krueger's "mod_precache"
+L 12/10/2020 - 22:44:02: Error log file session closed.
+L 12/10/2020 - 22:44:03: SourceMod error session started
+L 12/10/2020 - 22:44:03: Info (map "vsh_palanquin_ship_novpk") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20201210.log")
+L 12/10/2020 - 22:44:03: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 12/10/2020 - 22:44:03: [admin-flatfile.smx]  (line 85) Section declared with unknown tokens
+L 12/10/2020 - 22:50:07: Error log file session closed.
+L 12/10/2020 - 22:50:08: SourceMod error session started
+L 12/10/2020 - 22:50:08: Info (map "vsh_nebula_rc1") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20201210.log")
+L 12/10/2020 - 22:50:08: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 12/10/2020 - 22:50:08: [admin-flatfile.smx]  (line 85) Section declared with unknown tokens
+L 12/10/2020 - 22:55:59: Error log file session closed.
+L 12/10/2020 - 22:56:00: SourceMod error session started
+L 12/10/2020 - 22:56:00: Info (map "vsh_nebula_rc1") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20201210.log")
+L 12/10/2020 - 22:56:00: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 12/10/2020 - 22:56:00: [admin-flatfile.smx]  (line 85) Section declared with unknown tokens
+L 12/10/2020 - 23:02:40: Error log file session closed.
+L 12/10/2020 - 23:02:40: SourceMod error session started
+L 12/10/2020 - 23:02:40: Info (map "vsh_nebula_rc1") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20201210.log")
+L 12/10/2020 - 23:02:40: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 12/10/2020 - 23:02:40: [admin-flatfile.smx]  (line 85) Section declared with unknown tokens
+L 12/10/2020 - 23:07:31: Error log file session closed.
+L 12/10/2020 - 23:07:32: SourceMod error session started
+L 12/10/2020 - 23:07:32: Info (map "vsh_nebula_rc1") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20201210.log")
+L 12/10/2020 - 23:07:32: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 12/10/2020 - 23:07:32: [admin-flatfile.smx]  (line 85) Section declared with unknown tokens
+L 12/10/2020 - 23:12:08: Error log file session closed.
+L 12/10/2020 - 23:12:08: SourceMod error session started
+L 12/10/2020 - 23:12:08: Info (map "vsh_nebula_rc1") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20201210.log")
+L 12/10/2020 - 23:12:08: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins.cfg
+L 12/10/2020 - 23:12:08: [admin-flatfile.smx]  (line 85) Section declared with unknown tokens
+L 12/10/2020 - 23:14:31: Error log file session closed.
+L 12/10/2020 - 23:19:52: SourceMod error session started
+L 12/10/2020 - 23:19:52: Info (map "vsh_nebula_rc1") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20201210.log")
+L 12/10/2020 - 23:19:52: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 12/10/2020 - 23:19:52: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 12/10/2020 - 23:19:52: [store.smx] Database connection is lost or not yet initialized.
+L 12/10/2020 - 23:19:52: [store.smx] Database connection is lost or not yet initialized.
+L 12/10/2020 - 23:19:52: [store.smx] Database connection is lost or not yet initialized.
+L 12/10/2020 - 23:19:52: [store.smx] Database connection is lost or not yet initialized.
+L 12/10/2020 - 23:23:00: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 12/10/2020 - 23:23:01: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 12/10/2020 - 23:23:01: [store.smx] Database connection is lost or not yet initialized.
+L 12/10/2020 - 23:23:01: [store.smx] Database connection is lost or not yet initialized.
+L 12/10/2020 - 23:23:01: [store.smx] Database connection is lost or not yet initialized.
+L 12/10/2020 - 23:23:01: [store.smx] Database connection is lost or not yet initialized.
+L 12/10/2020 - 23:29:02: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 12/10/2020 - 23:29:02: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 12/10/2020 - 23:29:02: [store.smx] Database connection is lost or not yet initialized.
+L 12/10/2020 - 23:29:02: [store.smx] Database connection is lost or not yet initialized.
+L 12/10/2020 - 23:29:02: [store.smx] Database connection is lost or not yet initialized.
+L 12/10/2020 - 23:29:02: [store.smx] Database connection is lost or not yet initialized.
+L 12/10/2020 - 23:33:06: Error log file session closed.
+L 12/10/2020 - 23:35:43: SourceMod error session started
+L 12/10/2020 - 23:35:43: Info (map "vsh_nebula_rc1") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20201210.log")
+L 12/10/2020 - 23:35:43: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 12/10/2020 - 23:35:43: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 12/10/2020 - 23:35:43: [store.smx] Database connection is lost or not yet initialized.
+L 12/10/2020 - 23:35:43: [store.smx] Database connection is lost or not yet initialized.
+L 12/10/2020 - 23:35:43: [store.smx] Database connection is lost or not yet initialized.
+L 12/10/2020 - 23:35:43: [store.smx] Database connection is lost or not yet initialized.
+L 12/11/2020 - 00:07:01: Error log file session closed.

@@ -1,0 +1,53 @@
+L 07/14/2020 - 19:51:39: SourceMod error session started
+L 07/14/2020 - 19:51:39: Info (map "arena_lumberyard") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200714.log")
+L 07/14/2020 - 19:51:39: [SM] Unable to load plugin "freak_fortress_2.smx": Required extension "TF2Items" file("tf2items.ext.2.ep2v") not running
+L 07/14/2020 - 19:55:16: SourceMod error session started
+L 07/14/2020 - 19:55:16: Info (map "arena_lumberyard") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200714.log")
+L 07/14/2020 - 19:55:16: [SM] Error parsing gameconfig file "/home/steamsrv/tf2/tf/addons/sourcemod/gamedata/tf2.items.txt":
+L 07/14/2020 - 19:55:16: [SM] Error 1 on line 0, col 0: Stream failed to open
+L 07/14/2020 - 19:55:16: [SM] Unable to load extension "tf2items.ext": Could not read tf2.items.txt: File could not be opened: No such file or directory
+
+L 07/14/2020 - 19:55:16: [SM] Unable to load plugin "freak_fortress_2.smx": Required extension "TF2Items" file("tf2items.ext.2.ep2v") not running
+L 07/14/2020 - 20:01:01: SourceMod error session started
+L 07/14/2020 - 20:01:01: Info (map "arena_lumberyard") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200714.log")
+L 07/14/2020 - 20:01:01: [SM] Exception reported: Error, can't read file containing the item list : addons/sourcemod/configs/tf2items.weapons.txt
+L 07/14/2020 - 20:01:01: [SM] Blaming: tf2items_manager.smx
+L 07/14/2020 - 20:01:01: [SM] Call stack trace:
+L 07/14/2020 - 20:01:01: [SM]   [0] SetFailState
+L 07/14/2020 - 20:01:01: [SM]   [1] Line 261, tf2items_manager.sp::ParseItems
+L 07/14/2020 - 20:01:01: [SM]   [2] Line 58, tf2items_manager.sp::OnPluginStart
+L 07/14/2020 - 20:01:01: [SM] Unable to load plugin "tf2items_manager.smx": Error detected in plugin startup (see error logs)
+L 07/14/2020 - 20:22:58: SourceMod error session started
+L 07/14/2020 - 20:22:58: Info (map "cp_dustbowl") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200714.log")
+L 07/14/2020 - 20:22:58: [SM] Exception reported: Array index out-of-bounds (index -1, limit 7)
+L 07/14/2020 - 20:22:58: [SM] Blaming: freak_fortress_2.smx
+L 07/14/2020 - 20:22:58: [SM] Call stack trace:
+L 07/14/2020 - 20:22:58: [SM]   [1] Line 5341, Unofficial Freak Fortress::SetupClientCookies
+L 07/14/2020 - 20:22:58: [SM]   [2] Line 9808, Unofficial Freak Fortress::OnClientPostAdminCheck
+L 07/14/2020 - 20:23:06: [SM] Exception reported: Array index out-of-bounds (index -1, limit 7)
+L 07/14/2020 - 20:23:06: [SM] Blaming: freak_fortress_2.smx
+L 07/14/2020 - 20:23:06: [SM] Call stack trace:
+L 07/14/2020 - 20:23:06: [SM]   [1] Line 5341, Unofficial Freak Fortress::SetupClientCookies
+L 07/14/2020 - 20:23:06: [SM]   [2] Line 9808, Unofficial Freak Fortress::OnClientPostAdminCheck
+L 07/14/2020 - 20:41:25: [SM] Exception reported: Array index out-of-bounds (index -1, limit 7)
+L 07/14/2020 - 20:41:25: [SM] Blaming: freak_fortress_2.smx
+L 07/14/2020 - 20:41:25: [SM] Call stack trace:
+L 07/14/2020 - 20:41:25: [SM]   [1] Line 5341, Unofficial Freak Fortress::SetupClientCookies
+L 07/14/2020 - 20:41:25: [SM]   [2] Line 9808, Unofficial Freak Fortress::OnClientPostAdminCheck
+L 07/14/2020 - 20:41:58: Error log file session closed.
+L 07/14/2020 - 21:08:17: SourceMod error session started
+L 07/14/2020 - 21:08:17: Info (map "cp_granary") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200714.log")
+L 07/14/2020 - 21:08:17: [SM] Exception reported: Array index out-of-bounds (index -1, limit 7)
+L 07/14/2020 - 21:08:17: [SM] Blaming: freak_fortress_2.smx
+L 07/14/2020 - 21:08:17: [SM] Call stack trace:
+L 07/14/2020 - 21:08:17: [SM]   [1] Line 5341, Unofficial Freak Fortress::SetupClientCookies
+L 07/14/2020 - 21:08:17: [SM]   [2] Line 9808, Unofficial Freak Fortress::OnClientPostAdminCheck
+L 07/14/2020 - 21:08:35: Error log file session closed.
+L 07/14/2020 - 22:18:28: SourceMod error session started
+L 07/14/2020 - 22:18:28: Info (map "cp_well") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200714.log")
+L 07/14/2020 - 22:18:28: [SM] Exception reported: Array index out-of-bounds (index -1, limit 7)
+L 07/14/2020 - 22:18:28: [SM] Blaming: freak_fortress_2.smx
+L 07/14/2020 - 22:18:28: [SM] Call stack trace:
+L 07/14/2020 - 22:18:28: [SM]   [1] Line 5341, Unofficial Freak Fortress::SetupClientCookies
+L 07/14/2020 - 22:18:28: [SM]   [2] Line 9808, Unofficial Freak Fortress::OnClientPostAdminCheck
+L 07/14/2020 - 22:23:58: Error log file session closed.

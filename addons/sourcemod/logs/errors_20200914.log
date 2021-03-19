@@ -1,0 +1,6 @@
+L 09/14/2020 - 00:13:12: SourceMod error session started
+L 09/14/2020 - 00:13:12: Info (map "vsh_jealo_rc2") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200914.log")
+L 09/14/2020 - 00:13:12: [SM] Plugin "roundtimer.smx" encountered error 23: Native detected error
+L 09/14/2020 - 00:13:12: [SM] Invalid timer handle a74d07d9 (error 3) during timer end, displayed function is timer callback, not the stack trace
+L 09/14/2020 - 00:13:12: [SM] Unable to call function "Timer_Round" due to above error(s).
+L 09/14/2020 - 00:13:33: Error log file session closed.

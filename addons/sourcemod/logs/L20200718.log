@@ -1,0 +1,490 @@
+L 07/18/2020 - 13:58:14: SourceMod log file session started (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/L20200718.log") (Version "1.10.0.6490")
+L 07/18/2020 - 13:58:14: [TF2ITEMS] "GiveNamedItem" offset = 484
+L 07/18/2020 - 13:58:15: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 07/18/2020 - 13:58:16: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 07/18/2020 - 13:58:16: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 07/18/2020 - 13:58:30: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/18/2020 - 14:08:49: [basecommands.smx] "MrFrenzoid<2><[U:1:91292555]><>" changed map to "vsh_manncohq_v14"
+L 07/18/2020 - 14:08:52: [SM] Changed map to "vsh_manncohq_v14"
+L 07/18/2020 - 14:08:53: -------- Mapchange to vsh_manncohq_v14 --------
+L 07/18/2020 - 14:09:02: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/18/2020 - 14:11:34: [basecommands.smx] "MrFrenzoid<2><[U:1:91292555]><>" changed map to "vsh_manncohq_v14"
+L 07/18/2020 - 14:11:37: [SM] Changed map to "vsh_manncohq_v14"
+L 07/18/2020 - 14:11:38: -------- Mapchange to vsh_manncohq_v14 --------
+L 07/18/2020 - 14:11:47: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/18/2020 - 14:14:36: [basecommands.smx] "MrFrenzoid<2><[U:1:91292555]><>" changed map to "vsh_manncohq_v14"
+L 07/18/2020 - 14:14:39: [SM] Changed map to "vsh_manncohq_v14"
+L 07/18/2020 - 14:14:40: -------- Mapchange to vsh_manncohq_v14 --------
+L 07/18/2020 - 14:14:49: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/18/2020 - 14:17:57: SourceMod log file session started (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/L20200718.log") (Version "1.10.0.6490")
+L 07/18/2020 - 14:17:57: [TF2ITEMS] "GiveNamedItem" offset = 484
+L 07/18/2020 - 14:17:58: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 07/18/2020 - 14:17:58: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 07/18/2020 - 14:17:58: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 07/18/2020 - 14:18:13: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/18/2020 - 14:20:58: [playercommands.smx] "MrFrenzoid<2><[U:1:91292555]><>" slayed "Hat-Wearing MAN<3><BOT><>"
+L 07/18/2020 - 14:20:58: [playercommands.smx] "MrFrenzoid<2><[U:1:91292555]><>" slayed "Numnutz<5><BOT><>"
+L 07/18/2020 - 14:20:59: [playercommands.smx] "MrFrenzoid<2><[U:1:91292555]><>" slayed "Me<4><BOT><>"
+L 07/18/2020 - 14:21:00: [playercommands.smx] "MrFrenzoid<2><[U:1:91292555]><>" slayed "MrFrenzoid<2><[U:1:91292555]><>"
+L 07/18/2020 - 14:21:47: [respawn.smx] "MrFrenzoid<2><[U:1:91292555]><>" respawned "H@XX0RZ<6><BOT><>"
+L 07/18/2020 - 14:22:12: [respawn.smx] "MrFrenzoid<2><[U:1:91292555]><>" respawned "The G-Man<7><BOT><>"
+L 07/18/2020 - 14:22:52: [playercommands.smx] "MrFrenzoid<2><[U:1:91292555]><>" slayed "Numnutz<5><BOT><>"
+L 07/18/2020 - 14:23:35: [playercommands.smx] "MrFrenzoid<2><[U:1:91292555]><>" slayed "Hat-Wearing MAN<3><BOT><>"
+L 07/18/2020 - 14:23:38: [playercommands.smx] "MrFrenzoid<2><[U:1:91292555]><>" slayed "Numnutz<5><BOT><>"
+L 07/18/2020 - 14:23:39: [playercommands.smx] "MrFrenzoid<2><[U:1:91292555]><>" slayed "H@XX0RZ<6><BOT><>"
+L 07/18/2020 - 14:23:40: [playercommands.smx] "MrFrenzoid<2><[U:1:91292555]><>" slayed "The G-Man<7><BOT><>"
+L 07/18/2020 - 14:30:46: SourceMod log file session started (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/L20200718.log") (Version "1.10.0.6490")
+L 07/18/2020 - 14:30:46: [TF2ITEMS] "GiveNamedItem" offset = 484
+L 07/18/2020 - 14:30:46: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 07/18/2020 - 14:30:47: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 07/18/2020 - 14:30:47: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 07/18/2020 - 14:31:01: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/18/2020 - 14:34:40: [basecommands.smx] "MrFrenzoid<2><[U:1:91292555]><>" executed config (file "server.cfg")
+L 07/18/2020 - 14:35:19: [basecommands.smx] "MrFrenzoid<2><[U:1:91292555]><>" changed map to "vsh_manncohq_v14"
+L 07/18/2020 - 14:35:22: [SM] Changed map to "vsh_manncohq_v14"
+L 07/18/2020 - 14:35:24: -------- Mapchange to vsh_manncohq_v14 --------
+L 07/18/2020 - 14:35:33: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/18/2020 - 14:55:47: [mapchooser_extended.smx] Voting for next map has started.
+L 07/18/2020 - 15:19:34: [SM] Changed map to "arena_badlands"
+L 07/18/2020 - 15:19:37: -------- Mapchange to arena_badlands --------
+L 07/18/2020 - 15:19:46: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/18/2020 - 15:20:15: [basecommands.smx] "MrFrenzoid<3><[U:1:91292555]><>" changed map to "vsh_manncohq_v14"
+L 07/18/2020 - 15:20:18: [SM] Changed map to "vsh_manncohq_v14"
+L 07/18/2020 - 15:20:21: -------- Mapchange to vsh_manncohq_v14 --------
+L 07/18/2020 - 15:20:29: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/18/2020 - 15:20:57: [basecommands.smx] "MrFrenzoid<3><[U:1:91292555]><>" changed map to "vsh_manncohq_v14"
+L 07/18/2020 - 15:21:00: [SM] Changed map to "vsh_manncohq_v14"
+L 07/18/2020 - 15:21:02: -------- Mapchange to vsh_manncohq_v14 --------
+L 07/18/2020 - 15:21:12: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/18/2020 - 15:21:40: [funcommands.smx] "MrFrenzoid<3><[U:1:91292555]><>" froze "IvanTheSpaceBiker<7><BOT><>"
+L 07/18/2020 - 15:22:04: [basecommands.smx] "MrFrenzoid<3><[U:1:91292555]><>" changed map to "vsh_manncohq_v14"
+L 07/18/2020 - 15:22:07: [SM] Changed map to "vsh_manncohq_v14"
+L 07/18/2020 - 15:22:09: -------- Mapchange to vsh_manncohq_v14 --------
+L 07/18/2020 - 15:22:18: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/18/2020 - 15:23:44: [basecommands.smx] "MrFrenzoid<3><[U:1:91292555]><>" changed map to "vsh_manncohq_v14"
+L 07/18/2020 - 15:23:47: [SM] Changed map to "vsh_manncohq_v14"
+L 07/18/2020 - 15:23:48: -------- Mapchange to vsh_manncohq_v14 --------
+L 07/18/2020 - 15:23:57: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/18/2020 - 15:24:40: [funcommands.smx] "MrFrenzoid<3><[U:1:91292555]><>" froze "Nom Nom Nom<9><BOT><>"
+L 07/18/2020 - 15:25:56: [funcommands.smx] "MrFrenzoid<3><[U:1:91292555]><>" froze "Nom Nom Nom<9><BOT><>"
+L 07/18/2020 - 15:44:11: [mapchooser_extended.smx] Voting for next map has started.
+L 07/18/2020 - 17:29:42: [basecommands.smx] "MrFrenzoid<11><[U:1:91292555]><>" changed map to "vsh_manncohq_v14"
+L 07/18/2020 - 17:29:45: [SM] Changed map to "vsh_manncohq_v14"
+L 07/18/2020 - 17:29:48: -------- Mapchange to vsh_manncohq_v14 --------
+L 07/18/2020 - 17:29:58: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/18/2020 - 17:38:20: [basechat.smx] "Console<0><Console><Console>" triggered sm_say (text The round time has ended!)
+L 07/18/2020 - 17:38:20: [playercommands.smx] "Console<0><Console><Console>" slayed "MrFrenzoid<11><[U:1:91292555]><>"
+L 07/18/2020 - 17:46:38: [basechat.smx] "Console<0><Console><Console>" triggered sm_say (text The round time has ended!)
+L 07/18/2020 - 17:46:38: [playercommands.smx] "Console<0><Console><Console>" slayed "Tiny Baby Man<13><BOT><>"
+L 07/18/2020 - 17:50:12: [mapchooser_extended.smx] Voting for next map has started.
+L 07/18/2020 - 17:54:57: [basechat.smx] "Console<0><Console><Console>" triggered sm_say (text The round time has ended!)
+L 07/18/2020 - 17:54:57: [playercommands.smx] "Console<0><Console><Console>" slayed "MrFrenzoid<11><[U:1:91292555]><>"
+L 07/18/2020 - 17:56:31: [basecommands.smx] "MrFrenzoid<11><[U:1:91292555]><>" changed map to "vsh_manncohq_v14"
+L 07/18/2020 - 17:56:34: [SM] Changed map to "vsh_manncohq_v14"
+L 07/18/2020 - 17:56:37: -------- Mapchange to vsh_manncohq_v14 --------
+L 07/18/2020 - 17:56:47: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/18/2020 - 17:59:29: SourceMod log file session started (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/L20200718.log") (Version "1.10.0.6490")
+L 07/18/2020 - 17:59:29: [TF2ITEMS] "GiveNamedItem" offset = 484
+L 07/18/2020 - 17:59:30: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 07/18/2020 - 17:59:30: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 07/18/2020 - 17:59:30: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 07/18/2020 - 17:59:48: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/18/2020 - 18:05:59: [basecommands.smx] "MrFrenzoid<2><[U:1:91292555]><>" changed map to "vsh_manncohq_v14"
+L 07/18/2020 - 18:06:02: [SM] Changed map to "vsh_manncohq_v14"
+L 07/18/2020 - 18:06:04: -------- Mapchange to vsh_manncohq_v14 --------
+L 07/18/2020 - 18:06:15: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/18/2020 - 18:09:47: [basecommands.smx] "MrFrenzoid<2><[U:1:91292555]><>" changed map to "vsh_manncohq_v14"
+L 07/18/2020 - 18:09:50: [SM] Changed map to "vsh_manncohq_v14"
+L 07/18/2020 - 18:09:52: -------- Mapchange to vsh_manncohq_v14 --------
+L 07/18/2020 - 18:10:02: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/18/2020 - 18:13:41: SourceMod log file session started (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/L20200718.log") (Version "1.10.0.6490")
+L 07/18/2020 - 18:13:41: [TF2ITEMS] "GiveNamedItem" offset = 484
+L 07/18/2020 - 18:13:41: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 07/18/2020 - 18:13:42: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 07/18/2020 - 18:13:42: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 07/18/2020 - 18:13:57: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/18/2020 - 18:15:56: [basecommands.smx] "MrFrenzoid<2><[U:1:91292555]><>" changed map to "vsh_manncohq_v14"
+L 07/18/2020 - 18:15:59: [SM] Changed map to "vsh_manncohq_v14"
+L 07/18/2020 - 18:16:01: -------- Mapchange to vsh_manncohq_v14 --------
+L 07/18/2020 - 18:16:12: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/18/2020 - 18:30:13: [basechat.smx] "Console<0><Console><Console>" triggered sm_say (text The round time has ended!)
+L 07/18/2020 - 18:30:13: [playercommands.smx] "Console<0><Console><Console>" slayed "MrFrenzoid<2><[U:1:91292555]><>"
+L 07/18/2020 - 18:30:13: [playercommands.smx] "Console<0><Console><Console>" slayed "Jawiscript<3><[U:1:87830050]><>"
+L 07/18/2020 - 18:36:26: [mapchooser_extended.smx] Voting for next map has started.
+L 07/18/2020 - 18:37:20: [funcommands.smx] "MrFrenzoid<2><[U:1:91292555]><>" froze "Headful of Eyeballs<4><BOT><>"
+L 07/18/2020 - 18:37:33: [funcommands.smx] "MrFrenzoid<2><[U:1:91292555]><>" froze "Jawiscript<3><[U:1:87830050]><>"
+L 07/18/2020 - 18:37:34: [funcommands.smx] "MrFrenzoid<2><[U:1:91292555]><>" froze "Jawiscript<3><[U:1:87830050]><>"
+L 07/18/2020 - 18:37:34: [funcommands.smx] "MrFrenzoid<2><[U:1:91292555]><>" froze "Headful of Eyeballs<4><BOT><>"
+L 07/18/2020 - 18:39:03: [playercommands.smx] "MrFrenzoid<2><[U:1:91292555]><>" slapped "MrFrenzoid<2><[U:1:91292555]><>" (damage "0")
+L 07/18/2020 - 18:39:04: [playercommands.smx] "MrFrenzoid<2><[U:1:91292555]><>" slapped "MrFrenzoid<2><[U:1:91292555]><>" (damage "0")
+L 07/18/2020 - 18:39:04: [playercommands.smx] "MrFrenzoid<2><[U:1:91292555]><>" slapped "MrFrenzoid<2><[U:1:91292555]><>" (damage "0")
+L 07/18/2020 - 18:39:04: [playercommands.smx] "MrFrenzoid<2><[U:1:91292555]><>" slapped "MrFrenzoid<2><[U:1:91292555]><>" (damage "0")
+L 07/18/2020 - 18:39:04: [playercommands.smx] "MrFrenzoid<2><[U:1:91292555]><>" slapped "MrFrenzoid<2><[U:1:91292555]><>" (damage "0")
+L 07/18/2020 - 18:39:04: [playercommands.smx] "MrFrenzoid<2><[U:1:91292555]><>" slapped "MrFrenzoid<2><[U:1:91292555]><>" (damage "0")
+L 07/18/2020 - 18:39:05: [playercommands.smx] "MrFrenzoid<2><[U:1:91292555]><>" slapped "MrFrenzoid<2><[U:1:91292555]><>" (damage "0")
+L 07/18/2020 - 18:39:05: [playercommands.smx] "MrFrenzoid<2><[U:1:91292555]><>" slapped "MrFrenzoid<2><[U:1:91292555]><>" (damage "0")
+L 07/18/2020 - 18:39:05: [playercommands.smx] "MrFrenzoid<2><[U:1:91292555]><>" slapped "MrFrenzoid<2><[U:1:91292555]><>" (damage "0")
+L 07/18/2020 - 18:39:06: [playercommands.smx] "MrFrenzoid<2><[U:1:91292555]><>" slapped "MrFrenzoid<2><[U:1:91292555]><>" (damage "0")
+L 07/18/2020 - 18:39:06: [playercommands.smx] "MrFrenzoid<2><[U:1:91292555]><>" slapped "MrFrenzoid<2><[U:1:91292555]><>" (damage "0")
+L 07/18/2020 - 18:39:06: [playercommands.smx] "MrFrenzoid<2><[U:1:91292555]><>" slapped "MrFrenzoid<2><[U:1:91292555]><>" (damage "0")
+L 07/18/2020 - 18:39:07: [playercommands.smx] "MrFrenzoid<2><[U:1:91292555]><>" slapped "MrFrenzoid<2><[U:1:91292555]><>" (damage "0")
+L 07/18/2020 - 18:39:07: [playercommands.smx] "MrFrenzoid<2><[U:1:91292555]><>" slapped "MrFrenzoid<2><[U:1:91292555]><>" (damage "0")
+L 07/18/2020 - 18:39:08: [playercommands.smx] "MrFrenzoid<2><[U:1:91292555]><>" slapped "MrFrenzoid<2><[U:1:91292555]><>" (damage "0")
+L 07/18/2020 - 18:39:08: [playercommands.smx] "MrFrenzoid<2><[U:1:91292555]><>" slapped "MrFrenzoid<2><[U:1:91292555]><>" (damage "0")
+L 07/18/2020 - 18:39:08: [playercommands.smx] "MrFrenzoid<2><[U:1:91292555]><>" slapped "MrFrenzoid<2><[U:1:91292555]><>" (damage "0")
+L 07/18/2020 - 18:39:09: [playercommands.smx] "MrFrenzoid<2><[U:1:91292555]><>" slapped "MrFrenzoid<2><[U:1:91292555]><>" (damage "0")
+L 07/18/2020 - 18:39:09: [playercommands.smx] "MrFrenzoid<2><[U:1:91292555]><>" slapped "MrFrenzoid<2><[U:1:91292555]><>" (damage "0")
+L 07/18/2020 - 18:39:09: [playercommands.smx] "MrFrenzoid<2><[U:1:91292555]><>" slapped "MrFrenzoid<2><[U:1:91292555]><>" (damage "0")
+L 07/18/2020 - 18:39:09: [playercommands.smx] "MrFrenzoid<2><[U:1:91292555]><>" slapped "MrFrenzoid<2><[U:1:91292555]><>" (damage "0")
+L 07/18/2020 - 18:39:09: [playercommands.smx] "MrFrenzoid<2><[U:1:91292555]><>" slapped "MrFrenzoid<2><[U:1:91292555]><>" (damage "0")
+L 07/18/2020 - 18:39:10: [playercommands.smx] "MrFrenzoid<2><[U:1:91292555]><>" slapped "MrFrenzoid<2><[U:1:91292555]><>" (damage "0")
+L 07/18/2020 - 18:39:10: [playercommands.smx] "MrFrenzoid<2><[U:1:91292555]><>" slapped "MrFrenzoid<2><[U:1:91292555]><>" (damage "0")
+L 07/18/2020 - 18:39:10: [playercommands.smx] "MrFrenzoid<2><[U:1:91292555]><>" slapped "MrFrenzoid<2><[U:1:91292555]><>" (damage "0")
+L 07/18/2020 - 18:39:11: [playercommands.smx] "MrFrenzoid<2><[U:1:91292555]><>" slapped "MrFrenzoid<2><[U:1:91292555]><>" (damage "0")
+L 07/18/2020 - 18:39:11: [playercommands.smx] "MrFrenzoid<2><[U:1:91292555]><>" slapped "MrFrenzoid<2><[U:1:91292555]><>" (damage "0")
+L 07/18/2020 - 18:39:12: [playercommands.smx] "MrFrenzoid<2><[U:1:91292555]><>" slapped "MrFrenzoid<2><[U:1:91292555]><>" (damage "0")
+L 07/18/2020 - 18:39:12: [playercommands.smx] "MrFrenzoid<2><[U:1:91292555]><>" slapped "MrFrenzoid<2><[U:1:91292555]><>" (damage "0")
+L 07/18/2020 - 18:46:55: [SM] Changed map to "vsh_tranquil_b5"
+L 07/18/2020 - 18:46:58: -------- Mapchange to vsh_tranquil_b5 --------
+L 07/18/2020 - 18:47:09: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/18/2020 - 19:07:23: [mapchooser_extended.smx] Voting for next map has started.
+L 07/18/2020 - 19:20:40: SourceMod log file session started (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/L20200718.log") (Version "1.10.0.6490")
+L 07/18/2020 - 19:20:40: [TF2ITEMS] "GiveNamedItem" offset = 484
+L 07/18/2020 - 19:20:42: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 07/18/2020 - 19:20:42: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 07/18/2020 - 19:20:42: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 07/18/2020 - 19:21:01: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/18/2020 - 19:29:21: SourceMod log file session started (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/L20200718.log") (Version "1.10.0.6490")
+L 07/18/2020 - 19:29:21: [TF2ITEMS] "GiveNamedItem" offset = 484
+L 07/18/2020 - 19:29:22: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 07/18/2020 - 19:29:22: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 07/18/2020 - 19:29:22: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 07/18/2020 - 19:29:38: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/18/2020 - 19:36:30: SourceMod log file session started (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/L20200718.log") (Version "1.10.0.6490")
+L 07/18/2020 - 19:36:30: [TF2ITEMS] "GiveNamedItem" offset = 484
+L 07/18/2020 - 19:36:31: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 07/18/2020 - 19:36:31: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 07/18/2020 - 19:36:31: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 07/18/2020 - 19:36:47: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/18/2020 - 19:39:49: SourceMod log file session started (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/L20200718.log") (Version "1.10.0.6490")
+L 07/18/2020 - 19:39:49: [TF2ITEMS] "GiveNamedItem" offset = 484
+L 07/18/2020 - 19:39:50: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 07/18/2020 - 19:39:50: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 07/18/2020 - 19:39:50: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 07/18/2020 - 19:40:08: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/18/2020 - 20:56:35: [basecommands.smx] "Nezzie♥<2><[U:1:107910185]><>" changed map to "arena_lumberyard"
+L 07/18/2020 - 20:56:38: [SM] Changed map to "arena_lumberyard"
+L 07/18/2020 - 20:56:41: -------- Mapchange to arena_lumberyard --------
+L 07/18/2020 - 20:56:52: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/18/2020 - 20:58:25: [respawn.smx] "Nezzie♥<2><[U:1:107910185]><>" respawned "Nezzie♥<2><[U:1:107910185]><>"
+L 07/18/2020 - 20:59:07: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "Zepheniah Mann<7><BOT><>" (damage "0")
+L 07/18/2020 - 20:59:07: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "Zepheniah Mann<7><BOT><>" (damage "0")
+L 07/18/2020 - 20:59:08: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "Zepheniah Mann<7><BOT><>" (damage "0")
+L 07/18/2020 - 20:59:08: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "Zepheniah Mann<7><BOT><>" (damage "0")
+L 07/18/2020 - 20:59:08: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "Zepheniah Mann<7><BOT><>" (damage "0")
+L 07/18/2020 - 20:59:08: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "Zepheniah Mann<7><BOT><>" (damage "0")
+L 07/18/2020 - 20:59:08: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "Zepheniah Mann<7><BOT><>" (damage "0")
+L 07/18/2020 - 20:59:09: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "Zepheniah Mann<7><BOT><>" (damage "0")
+L 07/18/2020 - 20:59:09: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "Zepheniah Mann<7><BOT><>" (damage "0")
+L 07/18/2020 - 20:59:09: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "Zepheniah Mann<7><BOT><>" (damage "0")
+L 07/18/2020 - 20:59:09: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "Zepheniah Mann<7><BOT><>" (damage "0")
+L 07/18/2020 - 20:59:09: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "Zepheniah Mann<7><BOT><>" (damage "0")
+L 07/18/2020 - 20:59:10: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "Zepheniah Mann<7><BOT><>" (damage "0")
+L 07/18/2020 - 20:59:11: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "Zepheniah Mann<7><BOT><>" (damage "0")
+L 07/18/2020 - 20:59:11: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "Zepheniah Mann<7><BOT><>" (damage "0")
+L 07/18/2020 - 20:59:11: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "Zepheniah Mann<7><BOT><>" (damage "0")
+L 07/18/2020 - 20:59:12: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "Zepheniah Mann<7><BOT><>" (damage "0")
+L 07/18/2020 - 20:59:13: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "Zepheniah Mann<7><BOT><>" (damage "0")
+L 07/18/2020 - 20:59:13: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "Zepheniah Mann<7><BOT><>" (damage "0")
+L 07/18/2020 - 20:59:14: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "Zepheniah Mann<7><BOT><>" (damage "0")
+L 07/18/2020 - 20:59:14: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "Zepheniah Mann<7><BOT><>" (damage "0")
+L 07/18/2020 - 21:00:04: [respawn.smx] "Nezzie♥<2><[U:1:107910185]><>" respawned "Nezzie♥<2><[U:1:107910185]><>"
+L 07/18/2020 - 21:00:30: [respawn.smx] "Nezzie♥<2><[U:1:107910185]><>" respawned "Nezzie♥<2><[U:1:107910185]><>"
+L 07/18/2020 - 21:09:21: [basechat.smx] "Console<0><Console><Console>" triggered sm_say (text The round time has ended!)
+L 07/18/2020 - 21:09:21: [playercommands.smx] "Console<0><Console><Console>" slayed "Zepheniah Mann<7><BOT><>"
+L 07/18/2020 - 21:09:21: [playercommands.smx] "Console<0><Console><Console>" slayed "LOS LOS LOS<8><BOT><>"
+L 07/18/2020 - 21:09:21: [playercommands.smx] "Console<0><Console><Console>" slayed "DeadHead<9><BOT><>"
+L 07/18/2020 - 21:11:28: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "DeadHead<9><BOT><>" (damage "0")
+L 07/18/2020 - 21:11:28: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "DeadHead<9><BOT><>" (damage "0")
+L 07/18/2020 - 21:11:29: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "DeadHead<9><BOT><>" (damage "0")
+L 07/18/2020 - 21:11:29: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "DeadHead<9><BOT><>" (damage "0")
+L 07/18/2020 - 21:11:30: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "DeadHead<9><BOT><>" (damage "0")
+L 07/18/2020 - 21:11:30: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "DeadHead<9><BOT><>" (damage "0")
+L 07/18/2020 - 21:11:30: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "DeadHead<9><BOT><>" (damage "0")
+L 07/18/2020 - 21:11:30: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "DeadHead<9><BOT><>" (damage "0")
+L 07/18/2020 - 21:11:30: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "DeadHead<9><BOT><>" (damage "0")
+L 07/18/2020 - 21:11:30: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "DeadHead<9><BOT><>" (damage "0")
+L 07/18/2020 - 21:11:31: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "DeadHead<9><BOT><>" (damage "0")
+L 07/18/2020 - 21:11:31: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "DeadHead<9><BOT><>" (damage "0")
+L 07/18/2020 - 21:11:31: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "DeadHead<9><BOT><>" (damage "0")
+L 07/18/2020 - 21:11:32: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "DeadHead<9><BOT><>" (damage "0")
+L 07/18/2020 - 21:11:32: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "DeadHead<9><BOT><>" (damage "0")
+L 07/18/2020 - 21:11:32: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "DeadHead<9><BOT><>" (damage "0")
+L 07/18/2020 - 21:11:32: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "DeadHead<9><BOT><>" (damage "0")
+L 07/18/2020 - 21:11:32: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "DeadHead<9><BOT><>" (damage "0")
+L 07/18/2020 - 21:11:33: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "DeadHead<9><BOT><>" (damage "0")
+L 07/18/2020 - 21:11:33: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "DeadHead<9><BOT><>" (damage "0")
+L 07/18/2020 - 21:11:33: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "DeadHead<9><BOT><>" (damage "0")
+L 07/18/2020 - 21:11:33: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "DeadHead<9><BOT><>" (damage "0")
+L 07/18/2020 - 21:11:33: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "DeadHead<9><BOT><>" (damage "0")
+L 07/18/2020 - 21:11:34: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "DeadHead<9><BOT><>" (damage "0")
+L 07/18/2020 - 21:11:34: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "DeadHead<9><BOT><>" (damage "0")
+L 07/18/2020 - 21:11:34: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "DeadHead<9><BOT><>" (damage "0")
+L 07/18/2020 - 21:11:34: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "DeadHead<9><BOT><>" (damage "0")
+L 07/18/2020 - 21:11:34: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "DeadHead<9><BOT><>" (damage "0")
+L 07/18/2020 - 21:11:35: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "DeadHead<9><BOT><>" (damage "0")
+L 07/18/2020 - 21:11:35: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "DeadHead<9><BOT><>" (damage "0")
+L 07/18/2020 - 21:11:35: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "DeadHead<9><BOT><>" (damage "0")
+L 07/18/2020 - 21:11:36: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "DeadHead<9><BOT><>" (damage "0")
+L 07/18/2020 - 21:11:36: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "DeadHead<9><BOT><>" (damage "0")
+L 07/18/2020 - 21:11:36: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "DeadHead<9><BOT><>" (damage "0")
+L 07/18/2020 - 21:11:36: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "DeadHead<9><BOT><>" (damage "0")
+L 07/18/2020 - 21:11:38: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "DeadHead<9><BOT><>" (damage "0")
+L 07/18/2020 - 21:11:38: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "DeadHead<9><BOT><>" (damage "0")
+L 07/18/2020 - 21:11:38: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "DeadHead<9><BOT><>" (damage "0")
+L 07/18/2020 - 21:11:38: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "DeadHead<9><BOT><>" (damage "0")
+L 07/18/2020 - 21:11:39: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "DeadHead<9><BOT><>" (damage "0")
+L 07/18/2020 - 21:11:39: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "DeadHead<9><BOT><>" (damage "0")
+L 07/18/2020 - 21:11:39: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "DeadHead<9><BOT><>" (damage "0")
+L 07/18/2020 - 21:11:40: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "DeadHead<9><BOT><>" (damage "0")
+L 07/18/2020 - 21:11:40: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "DeadHead<9><BOT><>" (damage "0")
+L 07/18/2020 - 21:11:40: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "DeadHead<9><BOT><>" (damage "0")
+L 07/18/2020 - 21:11:41: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "DeadHead<9><BOT><>" (damage "0")
+L 07/18/2020 - 21:11:41: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "DeadHead<9><BOT><>" (damage "0")
+L 07/18/2020 - 21:11:41: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "DeadHead<9><BOT><>" (damage "0")
+L 07/18/2020 - 21:11:42: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "DeadHead<9><BOT><>" (damage "0")
+L 07/18/2020 - 21:11:42: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "DeadHead<9><BOT><>" (damage "0")
+L 07/18/2020 - 21:11:42: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "DeadHead<9><BOT><>" (damage "0")
+L 07/18/2020 - 21:11:42: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "DeadHead<9><BOT><>" (damage "0")
+L 07/18/2020 - 21:11:43: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "DeadHead<9><BOT><>" (damage "0")
+L 07/18/2020 - 21:17:06: [mapchooser_extended.smx] Voting for next map has started.
+L 07/18/2020 - 21:17:27: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: arena_sawmill.
+L 07/18/2020 - 21:17:39: [basechat.smx] "Console<0><Console><Console>" triggered sm_say (text The round time has ended!)
+L 07/18/2020 - 21:17:39: [playercommands.smx] "Console<0><Console><Console>" slayed "Zepheniah Mann<7><BOT><>"
+L 07/18/2020 - 21:17:39: [playercommands.smx] "Console<0><Console><Console>" slayed "LOS LOS LOS<8><BOT><>"
+L 07/18/2020 - 21:21:24: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:24: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:24: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:25: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:25: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:25: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:25: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:25: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:25: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:26: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:26: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:26: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:26: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:26: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:26: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:27: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:27: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:27: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:27: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:28: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:28: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:28: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:28: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:28: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:28: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:29: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:29: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:29: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:29: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:29: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:30: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:31: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:31: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:31: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:31: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:32: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:32: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:33: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:33: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:33: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:33: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:34: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:34: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:34: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:34: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:35: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:35: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:35: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:35: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:35: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:35: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:36: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:36: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:36: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:36: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:36: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:36: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:37: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:37: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:37: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:37: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:37: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:37: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:38: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:38: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:39: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:39: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:39: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:40: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:40: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:40: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:40: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:40: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:41: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:41: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:41: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:41: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:41: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:49: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:50: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:50: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:50: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:50: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:50: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:51: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:51: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:51: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:51: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:51: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:52: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:52: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:52: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:52: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:52: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:53: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:53: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:53: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:53: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:54: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:54: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:54: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:54: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:54: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:55: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:55: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:55: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:55: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:56: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:56: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:56: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:56: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:57: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:21:57: [playercommands.smx] "Nezzie♥<2><[U:1:107910185]><>" slapped "LOS LOS LOS<8><BOT><>" (damage "0")
+L 07/18/2020 - 21:22:05: [basecommands.smx] "MrFrenzoid<10><[U:1:91292555]><>" changed map to "vsh_manncohq_v14"
+L 07/18/2020 - 21:22:08: [SM] Changed map to "vsh_manncohq_v14"
+L 07/18/2020 - 21:22:13: -------- Mapchange to vsh_manncohq_v14 --------
+L 07/18/2020 - 21:22:25: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/18/2020 - 21:24:00: [respawn.smx] "Nezzie♥<2><[U:1:107910185]><>" respawned "Nezzie♥<2><[U:1:107910185]><>"
+L 07/18/2020 - 21:25:51: [respawn.smx] "Nezzie♥<2><[U:1:107910185]><>" respawned "Nezzie♥<2><[U:1:107910185]><>"
+L 07/18/2020 - 21:31:54: [respawn.smx] "Nezzie♥<2><[U:1:107910185]><>" respawned "Nezzie♥<2><[U:1:107910185]><>"
+L 07/18/2020 - 21:35:21: [respawn.smx] "MrFrenzoid<10><[U:1:91292555]><>" respawned "MrFrenzoid<10><[U:1:91292555]><>"
+L 07/18/2020 - 21:37:33: [respawn.smx] "MrFrenzoid<10><[U:1:91292555]><>" respawned "MrFrenzoid<10><[U:1:91292555]><>"
+L 07/18/2020 - 21:37:52: [respawn.smx] "Nezzie♥<2><[U:1:107910185]><>" respawned "Nezzie♥<2><[U:1:107910185]><>"
+L 07/18/2020 - 21:38:00: [respawn.smx] "Nezzie♥<2><[U:1:107910185]><>" respawned "Nezzie♥<2><[U:1:107910185]><>"
+L 07/18/2020 - 21:38:02: [respawn.smx] "MrFrenzoid<10><[U:1:91292555]><>" respawned "MrFrenzoid<10><[U:1:91292555]><>"
+L 07/18/2020 - 21:40:11: [respawn.smx] "Nezzie♥<2><[U:1:107910185]><>" respawned "Nezzie♥<2><[U:1:107910185]><>"
+L 07/18/2020 - 21:42:47: [mapchooser_extended.smx] Voting for next map has started.
+L 07/18/2020 - 21:43:08: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: arena_ravine.
+L 07/18/2020 - 21:43:39: [basecommands.smx] "MrFrenzoid<10><[U:1:91292555]><>" changed map to "vsh_manncohq_v14"
+L 07/18/2020 - 21:43:42: [SM] Changed map to "vsh_manncohq_v14"
+L 07/18/2020 - 21:43:46: -------- Mapchange to vsh_manncohq_v14 --------
+L 07/18/2020 - 21:43:58: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/18/2020 - 21:44:01: [hpregeneration.smx] [HpRegeneration] - Loaded
+L 07/18/2020 - 21:46:34: [respawn.smx] "MrFrenzoid<10><[U:1:91292555]><>" respawned "MrFrenzoid<10><[U:1:91292555]><>"
+L 07/18/2020 - 21:47:44: [basecommands.smx] "MrFrenzoid<10><[U:1:91292555]><>" changed map to "vsh_castle_siege_unreal_sg1"
+L 07/18/2020 - 21:47:47: [SM] Changed map to "vsh_castle_siege_unreal_sg1"
+L 07/18/2020 - 21:47:51: -------- Mapchange to vsh_castle_siege_unreal_sg1 --------
+L 07/18/2020 - 21:48:03: [hpregeneration.smx] [HpRegeneration] - Regeneration mode changed to 2.
+L 07/18/2020 - 21:48:03: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/18/2020 - 21:49:46: [respawn.smx] "Nezzie♥<2><[U:1:107910185]><>" respawned "Nezzie♥<2><[U:1:107910185]><>"
+L 07/18/2020 - 21:58:04: [basechat.smx] "Console<0><Console><Console>" triggered sm_say (text The round time has ended!)
+L 07/18/2020 - 21:58:04: [playercommands.smx] "Console<0><Console><Console>" slayed "Nezzie♥<2><[U:1:107910185]><>"
+L 07/18/2020 - 21:58:04: [playercommands.smx] "Console<0><Console><Console>" slayed "Dog<17><BOT><>"
+L 07/18/2020 - 21:58:04: [playercommands.smx] "Console<0><Console><Console>" slayed "AmNot<18><BOT><>"
+L 07/18/2020 - 21:58:04: [playercommands.smx] "Console<0><Console><Console>" slayed "MrFrenzoid<10><[U:1:91292555]><>"
+L 07/18/2020 - 22:00:21: [playercommands.smx] "Console<0><Console><Console>" slayed "Nezzie♥<2><[U:1:107910185]><>"
+L 07/18/2020 - 22:00:21: [playercommands.smx] "Console<0><Console><Console>" slayed "Dog<17><BOT><>"
+L 07/18/2020 - 22:00:21: [playercommands.smx] "Console<0><Console><Console>" slayed "AmNot<18><BOT><>"
+L 07/18/2020 - 22:00:21: [playercommands.smx] "Console<0><Console><Console>" slayed "HI THERE<19><BOT><>"
+L 07/18/2020 - 22:00:21: [playercommands.smx] "Console<0><Console><Console>" slayed "MrFrenzoid<10><[U:1:91292555]><>"
+L 07/18/2020 - 22:04:05: [basecommands.smx] "Nezzie♥<2><[U:1:107910185]><>" changed map to "arena_lumberyard"
+L 07/18/2020 - 22:04:08: [SM] Changed map to "arena_lumberyard"
+L 07/18/2020 - 22:04:13: -------- Mapchange to arena_lumberyard --------
+L 07/18/2020 - 22:04:25: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/18/2020 - 22:05:35: [respawn.smx] "MrFrenzoid<10><[U:1:91292555]><>" respawned "MrFrenzoid<10><[U:1:91292555]><>"
+L 07/18/2020 - 22:05:48: [respawn.smx] "MrFrenzoid<10><[U:1:91292555]><>" respawned "MrFrenzoid<10><[U:1:91292555]><>"
+L 07/18/2020 - 22:05:53: [respawn.smx] "Nezzie♥<2><[U:1:107910185]><>" respawned "Nezzie♥<2><[U:1:107910185]><>"
+L 07/18/2020 - 22:06:50: [respawn.smx] "Nezzie♥<2><[U:1:107910185]><>" respawned "Nezzie♥<2><[U:1:107910185]><>"
+L 07/18/2020 - 22:08:52: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 07/18/2020 - 22:08:53: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 07/18/2020 - 22:08:53: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 07/18/2020 - 22:08:53: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/18/2020 - 22:08:56: [hpregeneration.smx] [HpRegeneration] - Loaded
+L 07/18/2020 - 22:11:46: [respawn.smx] "MrFrenzoid<10><[U:1:91292555]><>" respawned "MrFrenzoid<10><[U:1:91292555]><>"
+L 07/18/2020 - 22:12:19: [respawn.smx] "Nezzie♥<2><[U:1:107910185]><>" respawned "Nezzie♥<2><[U:1:107910185]><>"
+L 07/18/2020 - 22:19:56: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 07/18/2020 - 22:19:57: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 07/18/2020 - 22:19:57: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 07/18/2020 - 22:19:57: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/18/2020 - 22:20:00: [hpregeneration.smx] [HpRegeneration] - Loaded
+L 07/18/2020 - 22:22:13: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 07/18/2020 - 22:22:13: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 07/18/2020 - 22:22:13: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 07/18/2020 - 22:22:13: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/18/2020 - 22:22:16: [hpregeneration.smx] [HpRegeneration] - Loaded
+L 07/18/2020 - 22:24:44: [mapchooser_extended.smx] Voting for next map has started.
+L 07/18/2020 - 22:27:41: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 07/18/2020 - 22:27:41: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 07/18/2020 - 22:27:41: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 07/18/2020 - 22:27:41: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/18/2020 - 22:27:44: [hpregeneration.smx] [HpRegeneration] - Loaded
+L 07/18/2020 - 22:27:57: [mapchooser_extended.smx] Voting for next map has started.
+L 07/18/2020 - 22:30:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tf_max_voice_speak_delay") (value "-1")
+L 07/18/2020 - 22:30:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tf_max_voice_speak_delay") (value "-4")
+L 07/18/2020 - 22:31:07: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tf_max_voice_speak_delay") (value "0")
+L 07/18/2020 - 22:32:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tf_max_voice_speak_delay") (value "0")
+L 07/18/2020 - 22:33:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tf_max_voice_speak_delay") (value "-200")
+L 07/18/2020 - 22:33:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tf_max_voice_speak_delay") (value "-1")
+L 07/18/2020 - 22:35:58: [basechat.smx] "Console<0><Console><Console>" triggered sm_say (text The round time has ended, omaewa-mou shindeiru)
+L 07/18/2020 - 22:35:58: [playercommands.smx] "Console<0><Console><Console>" slayed "GLaDOS<20><BOT><>"
+L 07/18/2020 - 22:35:58: [playercommands.smx] "Console<0><Console><Console>" slayed "Headful of Eyeballs<21><BOT><>"
+L 07/18/2020 - 22:35:58: [playercommands.smx] "Console<0><Console><Console>" slayed "Aperture Science Prototype XR7<22><BOT><>"
+L 07/18/2020 - 22:35:58: [playercommands.smx] "Console<0><Console><Console>" slayed "MrFrenzoid<10><[U:1:91292555]><>"
+L 07/18/2020 - 22:36:16: [SM] Changed map to "vsh_egyptyspot_v2"
+L 07/18/2020 - 22:36:20: -------- Mapchange to vsh_egyptyspot_v2 --------
+L 07/18/2020 - 22:36:32: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/18/2020 - 22:46:35: [basecommands.smx] "MrFrenzoid<10><[U:1:91292555]><>" changed map to "vsh_manncohq_v14"
+L 07/18/2020 - 22:46:38: [SM] Changed map to "vsh_manncohq_v14"
+L 07/18/2020 - 22:46:43: -------- Mapchange to vsh_manncohq_v14 --------
+L 07/18/2020 - 22:46:55: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/18/2020 - 22:50:13: SourceMod log file session started (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/L20200718.log") (Version "1.10.0.6490")
+L 07/18/2020 - 22:50:13: [TF2ITEMS] "GiveNamedItem" offset = 484
+L 07/18/2020 - 22:50:15: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 07/18/2020 - 22:50:15: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 07/18/2020 - 22:50:15: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 07/18/2020 - 22:50:37: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/18/2020 - 22:50:40: [hpregeneration.smx] [HpRegeneration] - Loaded
+L 07/18/2020 - 23:06:50: [basecommands.smx] "Nezzie♥<2><[U:1:107910185]><>" changed map to "arena_lumberyard"
+L 07/18/2020 - 23:06:53: [SM] Changed map to "arena_lumberyard"
+L 07/18/2020 - 23:06:56: -------- Mapchange to arena_lumberyard --------
+L 07/18/2020 - 23:07:08: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/18/2020 - 23:27:22: [mapchooser_extended.smx] Voting for next map has started.
+L 07/18/2020 - 23:46:12: [basecommands.smx] "Nezzie♥<9><[U:1:107910185]><>" changed map to "arena_lumberyard"
+L 07/18/2020 - 23:46:15: [SM] Changed map to "arena_lumberyard"
+L 07/18/2020 - 23:46:18: -------- Mapchange to arena_lumberyard --------
+L 07/18/2020 - 23:46:30: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/18/2020 - 23:48:48: [playercommands.smx] "Nezzie♥<9><[U:1:107910185]><>" slayed "test<16><BOT><>"
+L 07/18/2020 - 23:52:29: [basecommands.smx] "Nezzie♥<9><[U:1:107910185]><>" changed map to "arena_lumberyard"
+L 07/18/2020 - 23:52:32: [SM] Changed map to "arena_lumberyard"
+L 07/18/2020 - 23:52:36: -------- Mapchange to arena_lumberyard --------
+L 07/18/2020 - 23:52:49: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/18/2020 - 23:59:00: [basecommands.smx] "Nezzie♥<9><[U:1:107910185]><>" changed map to "arena_lumberyard"
+L 07/18/2020 - 23:59:03: [SM] Changed map to "arena_lumberyard"
+L 07/18/2020 - 23:59:07: -------- Mapchange to arena_lumberyard --------
+L 07/18/2020 - 23:59:19: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/19/2020 - 00:04:37: Log file closed.

@@ -1,0 +1,10 @@
+L 10/02/2020 - 23:15:23: SourceMod log file session started (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/L20201002.log") (Version "1.10.0.6490")
+L 10/02/2020 - 23:15:23: [TF2ITEMS] "GiveNamedItem" offset = 484
+L 10/02/2020 - 23:15:24: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 10/02/2020 - 23:15:24: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 10/02/2020 - 23:15:24: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 10/02/2020 - 23:15:24: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 10/02/2020 - 23:15:40: [UPDATER] Successfully updated gamedata file "sdktools.games/game.left4dead2.txt"
+L 10/02/2020 - 23:15:40: [UPDATER] Successfully updated gamedata file "sdkhooks.games/game.l4d2.txt"
+L 10/02/2020 - 23:15:40: [UPDATER] SourceMod has been updated, please reload it or restart your server.
+L 10/02/2020 - 23:15:41: [mapchooser_extended.smx] Loaded map list for tf.

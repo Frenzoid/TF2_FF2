@@ -1,0 +1,6 @@
+L 02/12/2021 - 23:15:48: SourceMod error session started
+L 02/12/2021 - 23:15:48: Info (map "vsh_minegay_reworked_v2") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20210212.log")
+L 02/12/2021 - 23:15:48: [SM] Plugin "roundtimer.smx" encountered error 23: Native detected error
+L 02/12/2021 - 23:15:48: [SM] Invalid timer handle d47e1294 (error 3) during timer end, displayed function is timer callback, not the stack trace
+L 02/12/2021 - 23:15:48: [SM] Unable to call function "Timer_Round" due to above error(s).
+L 02/12/2021 - 23:40:15: Error log file session closed.

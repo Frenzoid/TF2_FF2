@@ -1,0 +1,652 @@
+L 08/03/2020 - 00:12:52: SourceMod log file session started (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/L20200803.log") (Version "1.10.0.6490")
+L 08/03/2020 - 00:12:52: [basecommands.smx] "Nezzie<153><[U:1:107910185]><>" changed map to "arena_lumberyard"
+L 08/03/2020 - 00:12:55: [SM] Changed map to "arena_lumberyard"
+L 08/03/2020 - 00:13:00: -------- Mapchange to arena_lumberyard --------
+L 08/03/2020 - 00:13:17: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/03/2020 - 00:21:16: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 08/03/2020 - 00:21:17: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 08/03/2020 - 00:21:17: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 08/03/2020 - 00:21:17: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/03/2020 - 00:21:20: [hpregeneration.smx] [HpRegeneration] - Loaded
+L 08/03/2020 - 00:22:05: [respawn.smx] "Nezzie<153><[U:1:107910185]><>" respawned "Numnutz<157><BOT><>"
+L 08/03/2020 - 00:23:37: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 08/03/2020 - 00:23:38: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 08/03/2020 - 00:23:38: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 08/03/2020 - 00:23:38: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/03/2020 - 00:23:41: [hpregeneration.smx] [HpRegeneration] - Loaded
+L 08/03/2020 - 00:24:39: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 08/03/2020 - 00:24:40: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 08/03/2020 - 00:24:40: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 08/03/2020 - 00:24:40: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/03/2020 - 00:24:43: [hpregeneration.smx] [HpRegeneration] - Loaded
+L 08/03/2020 - 00:26:02: [playercommands.smx] "Nezzie<153><[U:1:107910185]><>" slayed "The Combine<159><BOT><>"
+L 08/03/2020 - 00:27:22: [playercommands.smx] "Nezzie<153><[U:1:107910185]><>" slayed "test1<161><BOT><>"
+L 08/03/2020 - 00:27:59: [playercommands.smx] "Nezzie<153><[U:1:107910185]><>" slayed "test<160><BOT><>"
+L 08/03/2020 - 00:29:44: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 08/03/2020 - 00:29:44: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 08/03/2020 - 00:29:44: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 08/03/2020 - 00:29:45: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/03/2020 - 00:29:48: [hpregeneration.smx] [HpRegeneration] - Loaded
+L 08/03/2020 - 00:32:04: [respawn.smx] "Nezzie<153><[U:1:107910185]><>" respawned "Nezzie<153><[U:1:107910185]><>"
+L 08/03/2020 - 00:33:44: [mapchooser_extended.smx] Voting for next map has started.
+L 08/03/2020 - 00:33:48: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_dunger_b2a.
+L 08/03/2020 - 00:35:51: [respawn.smx] "Nezzie<153><[U:1:107910185]><>" respawned "Nezzie<153><[U:1:107910185]><>"
+L 08/03/2020 - 00:36:12: [respawn.smx] "Nezzie<153><[U:1:107910185]><>" respawned "Nezzie<153><[U:1:107910185]><>"
+L 08/03/2020 - 00:36:13: [respawn.smx] "Nezzie<153><[U:1:107910185]><>" respawned "The Combine<159><BOT><>"
+L 08/03/2020 - 00:37:31: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 08/03/2020 - 00:37:32: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 08/03/2020 - 00:37:32: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 08/03/2020 - 00:37:32: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/03/2020 - 00:37:35: [hpregeneration.smx] [HpRegeneration] - Loaded
+L 08/03/2020 - 00:37:49: [mapchooser_extended.smx] Voting for next map has started.
+L 08/03/2020 - 00:38:21: [respawn.smx] "Nezzie<153><[U:1:107910185]><>" respawned "Nezzie<153><[U:1:107910185]><>"
+L 08/03/2020 - 00:39:01: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 08/03/2020 - 00:39:02: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 08/03/2020 - 00:39:02: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 08/03/2020 - 00:39:02: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/03/2020 - 00:39:05: [hpregeneration.smx] [HpRegeneration] - Loaded
+L 08/03/2020 - 00:39:19: [mapchooser_extended.smx] Voting for next map has started.
+L 08/03/2020 - 00:39:27: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_tranquil_b5.
+L 08/03/2020 - 00:40:19: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 08/03/2020 - 00:40:19: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 08/03/2020 - 00:40:19: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 08/03/2020 - 00:40:20: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/03/2020 - 00:40:23: [hpregeneration.smx] [HpRegeneration] - Loaded
+L 08/03/2020 - 00:40:36: [mapchooser_extended.smx] Voting for next map has started.
+L 08/03/2020 - 00:41:29: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 08/03/2020 - 00:41:29: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 08/03/2020 - 00:41:29: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 08/03/2020 - 00:41:29: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/03/2020 - 00:41:32: [hpregeneration.smx] [HpRegeneration] - Loaded
+L 08/03/2020 - 00:41:45: [mapchooser_extended.smx] Voting for next map has started.
+L 08/03/2020 - 00:47:22: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 08/03/2020 - 00:47:22: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 08/03/2020 - 00:47:22: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 08/03/2020 - 00:47:23: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/03/2020 - 00:47:26: [hpregeneration.smx] [HpRegeneration] - Loaded
+L 08/03/2020 - 00:47:34: [basecommands.smx] "Nezzie<153><[U:1:107910185]><>" changed map to "arena_lumberyard"
+L 08/03/2020 - 00:47:37: [SM] Changed map to "arena_lumberyard"
+L 08/03/2020 - 00:47:39: -------- Mapchange to arena_lumberyard --------
+L 08/03/2020 - 00:47:51: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/03/2020 - 00:48:47: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 08/03/2020 - 00:48:47: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 08/03/2020 - 00:48:47: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 08/03/2020 - 00:48:47: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/03/2020 - 00:48:50: [hpregeneration.smx] [HpRegeneration] - Loaded
+L 08/03/2020 - 00:50:31: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 08/03/2020 - 00:50:31: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 08/03/2020 - 00:50:31: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 08/03/2020 - 00:50:32: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/03/2020 - 00:50:35: [hpregeneration.smx] [HpRegeneration] - Loaded
+L 08/03/2020 - 00:51:58: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 08/03/2020 - 00:51:58: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 08/03/2020 - 00:51:58: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 08/03/2020 - 00:51:59: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/03/2020 - 00:52:02: [hpregeneration.smx] [HpRegeneration] - Loaded
+L 08/03/2020 - 00:55:14: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 08/03/2020 - 00:55:15: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 08/03/2020 - 00:55:15: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 08/03/2020 - 00:55:15: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/03/2020 - 00:55:18: [hpregeneration.smx] [HpRegeneration] - Loaded
+L 08/03/2020 - 00:56:22: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 08/03/2020 - 00:56:22: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 08/03/2020 - 00:56:22: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 08/03/2020 - 00:56:22: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/03/2020 - 00:56:25: [hpregeneration.smx] [HpRegeneration] - Loaded
+L 08/03/2020 - 00:56:51: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 08/03/2020 - 00:56:52: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 08/03/2020 - 00:56:52: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 08/03/2020 - 00:56:52: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/03/2020 - 00:56:55: [hpregeneration.smx] [HpRegeneration] - Loaded
+L 08/03/2020 - 00:59:18: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 08/03/2020 - 00:59:19: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 08/03/2020 - 00:59:19: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 08/03/2020 - 00:59:19: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/03/2020 - 00:59:22: [hpregeneration.smx] [HpRegeneration] - Loaded
+L 08/03/2020 - 01:01:58: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 08/03/2020 - 01:01:59: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 08/03/2020 - 01:01:59: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 08/03/2020 - 01:01:59: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/03/2020 - 01:02:02: [hpregeneration.smx] [HpRegeneration] - Loaded
+L 08/03/2020 - 01:02:47: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 08/03/2020 - 01:02:48: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 08/03/2020 - 01:02:48: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 08/03/2020 - 01:02:48: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/03/2020 - 01:02:51: [hpregeneration.smx] [HpRegeneration] - Loaded
+L 08/03/2020 - 01:07:27: [respawn.smx] "Nezzie<153><[U:1:107910185]><>" respawned "moist cheese<163><[U:1:351468059]><>"
+L 08/03/2020 - 01:08:23: [mapchooser_extended.smx] Voting for next map has started.
+L 08/03/2020 - 01:11:54: [rockthevote_extended.smx] RTV changing map manually
+L 08/03/2020 - 01:11:54: [SM] Changed map to "arena_granary"
+L 08/03/2020 - 01:11:58: -------- Mapchange to arena_granary --------
+L 08/03/2020 - 01:12:13: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/03/2020 - 01:17:10: SourceMod log file session started (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/L20200803.log") (Version "1.10.0.6490")
+L 08/03/2020 - 01:17:10: [TF2ITEMS] "GiveNamedItem" offset = 484
+L 08/03/2020 - 01:17:12: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 08/03/2020 - 01:17:12: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 08/03/2020 - 01:17:12: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 08/03/2020 - 01:17:37: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/03/2020 - 01:17:40: [hpregeneration.smx] [HpRegeneration] - Loaded
+L 08/03/2020 - 01:22:15: [playercommands.smx] "Nezzie<2><[U:1:107910185]><>" slayed "Force of Nature<6><BOT><>"
+L 08/03/2020 - 01:25:21: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 08/03/2020 - 01:25:22: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 08/03/2020 - 01:25:22: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 08/03/2020 - 01:25:22: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/03/2020 - 01:25:25: [hpregeneration.smx] [HpRegeneration] - Loaded
+L 08/03/2020 - 01:26:22: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 08/03/2020 - 01:26:22: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 08/03/2020 - 01:26:22: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 08/03/2020 - 01:26:23: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/03/2020 - 01:26:26: [hpregeneration.smx] [HpRegeneration] - Loaded
+L 08/03/2020 - 01:31:42: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 08/03/2020 - 01:31:43: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 08/03/2020 - 01:31:43: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 08/03/2020 - 01:31:43: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/03/2020 - 01:31:46: [hpregeneration.smx] [HpRegeneration] - Loaded
+L 08/03/2020 - 01:38:02: [respawn.smx] "Nezzie<2><[U:1:107910185]><>" respawned "Nezzie<2><[U:1:107910185]><>"
+L 08/03/2020 - 01:39:31: [mapchooser_extended.smx] Voting for next map has started.
+L 08/03/2020 - 01:40:21: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 08/03/2020 - 01:40:21: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 08/03/2020 - 01:40:21: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 08/03/2020 - 01:40:22: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/03/2020 - 01:40:25: [hpregeneration.smx] [HpRegeneration] - Loaded
+L 08/03/2020 - 01:40:38: [mapchooser_extended.smx] Voting for next map has started.
+L 08/03/2020 - 01:42:47: [respawn.smx] "Nezzie<2><[U:1:107910185]><>" respawned "Nezzie<2><[U:1:107910185]><>"
+L 08/03/2020 - 01:49:26: [respawn.smx] "Nezzie<2><[U:1:107910185]><>" respawned "Nezzie<2><[U:1:107910185]><>"
+L 08/03/2020 - 01:50:02: [basecommands.smx] "Nezzie<2><[U:1:107910185]><>" changed map to "arena_lumberyard"
+L 08/03/2020 - 01:50:05: [SM] Changed map to "arena_lumberyard"
+L 08/03/2020 - 01:50:07: -------- Mapchange to arena_lumberyard --------
+L 08/03/2020 - 01:50:21: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/03/2020 - 01:51:48: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 08/03/2020 - 01:51:48: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 08/03/2020 - 01:51:48: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 08/03/2020 - 01:51:49: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/03/2020 - 01:51:52: [hpregeneration.smx] [HpRegeneration] - Loaded
+L 08/03/2020 - 01:53:21: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 08/03/2020 - 01:53:21: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 08/03/2020 - 01:53:21: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 08/03/2020 - 01:53:22: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/03/2020 - 01:53:25: [hpregeneration.smx] [HpRegeneration] - Loaded
+L 08/03/2020 - 01:55:13: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 08/03/2020 - 01:55:14: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 08/03/2020 - 01:55:14: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 08/03/2020 - 01:55:14: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/03/2020 - 01:55:17: [hpregeneration.smx] [HpRegeneration] - Loaded
+L 08/03/2020 - 01:55:51: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 08/03/2020 - 01:55:52: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 08/03/2020 - 01:55:52: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 08/03/2020 - 01:55:52: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/03/2020 - 01:55:55: [hpregeneration.smx] [HpRegeneration] - Loaded
+L 08/03/2020 - 01:56:30: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 08/03/2020 - 01:56:31: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 08/03/2020 - 01:56:31: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 08/03/2020 - 01:56:31: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/03/2020 - 01:56:34: [hpregeneration.smx] [HpRegeneration] - Loaded
+L 08/03/2020 - 02:10:47: [mapchooser_extended.smx] Voting for next map has started.
+L 08/03/2020 - 03:16:06: [basecommands.smx] "Nezzie<12><[U:1:107910185]><>" changed map to "arena_lumberyard"
+L 08/03/2020 - 03:16:09: [SM] Changed map to "arena_lumberyard"
+L 08/03/2020 - 03:16:11: -------- Mapchange to arena_lumberyard --------
+L 08/03/2020 - 03:16:21: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/03/2020 - 03:19:02: [respawn.smx] "Nezzie<12><[U:1:107910185]><>" respawned "Nezzie<12><[U:1:107910185]><>"
+L 08/03/2020 - 03:31:18: [basechat.smx] "Console<0><Console><Console>" triggered sm_say (text The round time has ended, omaewa-mou shindeiru)
+L 08/03/2020 - 03:31:18: [playercommands.smx] "Console<0><Console><Console>" slayed "Nezzie<12><[U:1:107910185]><>"
+L 08/03/2020 - 03:31:18: [playercommands.smx] "Console<0><Console><Console>" slayed "Glorified Toaster with Legs<16><BOT><>"
+L 08/03/2020 - 03:31:18: [playercommands.smx] "Console<0><Console><Console>" slayed "CryBaby<17><BOT><>"
+L 08/03/2020 - 03:31:18: [playercommands.smx] "Console<0><Console><Console>" slayed "ThatGuy<18><BOT><>"
+L 08/03/2020 - 03:36:39: [mapchooser_extended.smx] Voting for next map has started.
+L 08/03/2020 - 03:36:59: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: koth_slaughter_event.
+L 08/03/2020 - 03:39:36: [basechat.smx] "Console<0><Console><Console>" triggered sm_say (text The round time has ended, omaewa-mou shindeiru)
+L 08/03/2020 - 03:39:36: [playercommands.smx] "Console<0><Console><Console>" slayed "Nezzie<12><[U:1:107910185]><>"
+L 08/03/2020 - 03:39:36: [playercommands.smx] "Console<0><Console><Console>" slayed "Glorified Toaster with Legs<16><BOT><>"
+L 08/03/2020 - 03:39:36: [playercommands.smx] "Console<0><Console><Console>" slayed "CryBaby<17><BOT><>"
+L 08/03/2020 - 03:39:36: [playercommands.smx] "Console<0><Console><Console>" slayed "ThatGuy<18><BOT><>"
+L 08/03/2020 - 03:47:40: [basecommands.smx] "Nezzie<12><[U:1:107910185]><>" changed map to "vsh_dunger_b2a"
+L 08/03/2020 - 03:47:43: [SM] Changed map to "vsh_dunger_b2a"
+L 08/03/2020 - 03:47:47: -------- Mapchange to vsh_dunger_b2a --------
+L 08/03/2020 - 03:47:56: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/03/2020 - 03:57:53: [basechat.smx] "Console<0><Console><Console>" triggered sm_say (text The round time has ended, omaewa-mou shindeiru)
+L 08/03/2020 - 03:57:53: [playercommands.smx] "Console<0><Console><Console>" slayed "Nezzie<12><[U:1:107910185]><>"
+L 08/03/2020 - 03:57:53: [playercommands.smx] "Console<0><Console><Console>" slayed "Hat-Wearing MAN<19><BOT><>"
+L 08/03/2020 - 03:57:53: [playercommands.smx] "Console<0><Console><Console>" slayed "Numnutz<20><BOT><>"
+L 08/03/2020 - 03:57:53: [playercommands.smx] "Console<0><Console><Console>" slayed "The G-Man<21><BOT><>"
+L 08/03/2020 - 04:08:12: [mapchooser_extended.smx] Voting for next map has started.
+L 08/03/2020 - 11:57:08: [respawn.smx] "MrFrenzoid<22><[U:1:91292555]><>" respawned "MrFrenzoid<22><[U:1:91292555]><>"
+L 08/03/2020 - 11:58:37: [basecommands.smx] "MrFrenzoid<22><[U:1:91292555]><>" changed map to "vsh_pruvia_v9"
+L 08/03/2020 - 11:58:40: [SM] Changed map to "vsh_pruvia_v9"
+L 08/03/2020 - 11:58:44: -------- Mapchange to vsh_pruvia_v9 --------
+L 08/03/2020 - 11:58:54: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/03/2020 - 12:03:50: [respawn.smx] "MrFrenzoid<22><[U:1:91292555]><>" respawned "MrFrenzoid<22><[U:1:91292555]><>"
+L 08/03/2020 - 12:09:11: [basecommands.smx] "MrFrenzoid<29><[U:1:91292555]><>" changed map to "vsh_gyros_v5"
+L 08/03/2020 - 12:09:14: [SM] Changed map to "vsh_gyros_v5"
+L 08/03/2020 - 12:09:18: -------- Mapchange to vsh_gyros_v5 --------
+L 08/03/2020 - 12:09:29: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/03/2020 - 12:10:13: [respawn.smx] "MrFrenzoid<29><[U:1:91292555]><>" respawned "MrFrenzoid<29><[U:1:91292555]><>"
+L 08/03/2020 - 12:12:19: [respawn.smx] "MrFrenzoid<29><[U:1:91292555]><>" respawned "MrFrenzoid<29><[U:1:91292555]><>"
+L 08/03/2020 - 12:17:59: [basechat.smx] "Console<0><Console><Console>" triggered sm_say (text The round time has ended, omaewa-mou shindeiru)
+L 08/03/2020 - 12:17:59: [playercommands.smx] "Console<0><Console><Console>" slayed "MrFrenzoid<29><[U:1:91292555]><>"
+L 08/03/2020 - 12:17:59: [playercommands.smx] "Console<0><Console><Console>" slayed "BoomerBile<33><BOT><>"
+L 08/03/2020 - 12:17:59: [playercommands.smx] "Console<0><Console><Console>" slayed "Mann Co.<34><BOT><>"
+L 08/03/2020 - 12:17:59: [playercommands.smx] "Console<0><Console><Console>" slayed "Kaboom!<35><BOT><>"
+L 08/03/2020 - 12:19:01: [basecommands.smx] "MrFrenzoid<29><[U:1:91292555]><>" changed map to "vsh_tranquil_b5"
+L 08/03/2020 - 12:19:04: [SM] Changed map to "vsh_tranquil_b5"
+L 08/03/2020 - 12:19:07: -------- Mapchange to vsh_tranquil_b5 --------
+L 08/03/2020 - 12:19:16: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/03/2020 - 12:19:57: [basecommands.smx] "MrFrenzoid<29><[U:1:91292555]><>" changed map to "vsh_Hakurei_Winter_v2"
+L 08/03/2020 - 12:20:00: [SM] Changed map to "vsh_Hakurei_Winter_v2"
+L 08/03/2020 - 12:20:06: -------- Mapchange to vsh_Hakurei_Winter_v2 --------
+L 08/03/2020 - 12:20:17: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/03/2020 - 12:21:03: [respawn.smx] "MrFrenzoid<29><[U:1:91292555]><>" respawned "MrFrenzoid<29><[U:1:91292555]><>"
+L 08/03/2020 - 12:22:00: [respawn.smx] "MrFrenzoid<29><[U:1:91292555]><>" respawned "MrFrenzoid<29><[U:1:91292555]><>"
+L 08/03/2020 - 12:24:38: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 08/03/2020 - 12:24:39: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 08/03/2020 - 12:24:39: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 08/03/2020 - 12:24:39: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/03/2020 - 12:24:42: [hpregeneration.smx] [HpRegeneration] - Loaded
+L 08/03/2020 - 12:24:52: [basecommands.smx] "MrFrenzoid<29><[U:1:91292555]><>" changed map to "vsh_pruvia_v9"
+L 08/03/2020 - 12:24:55: [SM] Changed map to "vsh_pruvia_v9"
+L 08/03/2020 - 12:24:59: -------- Mapchange to vsh_pruvia_v9 --------
+L 08/03/2020 - 12:25:10: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/03/2020 - 12:27:13: [basecommands.smx] "MrFrenzoid<29><[U:1:91292555]><>" changed map to "koth_king"
+L 08/03/2020 - 12:27:16: [SM] Changed map to "koth_king"
+L 08/03/2020 - 12:27:19: -------- Mapchange to koth_king --------
+L 08/03/2020 - 12:27:30: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/03/2020 - 12:28:14: [basecommands.smx] "MrFrenzoid<29><[U:1:91292555]><>" changed map to "arena_badlands"
+L 08/03/2020 - 12:28:17: [SM] Changed map to "arena_badlands"
+L 08/03/2020 - 12:28:20: -------- Mapchange to arena_badlands --------
+L 08/03/2020 - 12:28:30: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/03/2020 - 12:29:08: [respawn.smx] "MrFrenzoid<29><[U:1:91292555]><>" respawned "MrFrenzoid<29><[U:1:91292555]><>"
+L 08/03/2020 - 12:29:37: [playercommands.smx] "MrFrenzoid<29><[U:1:91292555]><>" slayed "Crowbar<48><BOT><>"
+L 08/03/2020 - 12:30:20: [basecommands.smx] "MrFrenzoid<29><[U:1:91292555]><>" changed map to "vsh_Hakurei_Winter_v2"
+L 08/03/2020 - 12:30:23: [SM] Changed map to "vsh_Hakurei_Winter_v2"
+L 08/03/2020 - 12:30:28: -------- Mapchange to vsh_Hakurei_Winter_v2 --------
+L 08/03/2020 - 12:30:39: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/03/2020 - 12:31:16: [respawn.smx] "MrFrenzoid<29><[U:1:91292555]><>" respawned "MrFrenzoid<29><[U:1:91292555]><>"
+L 08/03/2020 - 12:35:23: [basecommands.smx] "MrFrenzoid<29><[U:1:91292555]><>" changed map to "vsh_Hakurei_Winter_v2"
+L 08/03/2020 - 12:35:26: [SM] Changed map to "vsh_Hakurei_Winter_v2"
+L 08/03/2020 - 12:35:31: -------- Mapchange to vsh_Hakurei_Winter_v2 --------
+L 08/03/2020 - 12:35:42: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/03/2020 - 12:36:56: [basecommands.smx] "MrFrenzoid<29><[U:1:91292555]><>" changed map to "vsh_Hakurei_Winter_v2"
+L 08/03/2020 - 12:36:59: [SM] Changed map to "vsh_Hakurei_Winter_v2"
+L 08/03/2020 - 12:37:05: -------- Mapchange to vsh_Hakurei_Winter_v2 --------
+L 08/03/2020 - 12:37:16: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/03/2020 - 12:38:35: [basecommands.smx] "MrFrenzoid<29><[U:1:91292555]><>" changed map to "vsh_Hakurei_Winter_v2"
+L 08/03/2020 - 12:38:38: [SM] Changed map to "vsh_Hakurei_Winter_v2"
+L 08/03/2020 - 12:38:43: -------- Mapchange to vsh_Hakurei_Winter_v2 --------
+L 08/03/2020 - 12:38:54: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/03/2020 - 12:41:56: [basecommands.smx] "MrFrenzoid<29><[U:1:91292555]><>" changed map to "vsh_Hakurei_Winter_v2"
+L 08/03/2020 - 12:41:59: [SM] Changed map to "vsh_Hakurei_Winter_v2"
+L 08/03/2020 - 12:42:04: -------- Mapchange to vsh_Hakurei_Winter_v2 --------
+L 08/03/2020 - 12:42:14: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/03/2020 - 12:45:41: [basecommands.smx] "MrFrenzoid<29><[U:1:91292555]><>" changed map to "vsh_Hakurei_Winter_v2"
+L 08/03/2020 - 12:45:44: [SM] Changed map to "vsh_Hakurei_Winter_v2"
+L 08/03/2020 - 12:45:48: -------- Mapchange to vsh_Hakurei_Winter_v2 --------
+L 08/03/2020 - 12:46:00: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/03/2020 - 12:49:54: [respawn.smx] "MrFrenzoid<29><[U:1:91292555]><>" respawned "MrFrenzoid<29><[U:1:91292555]><>"
+L 08/03/2020 - 12:50:04: [respawn.smx] "MrFrenzoid<29><[U:1:91292555]><>" respawned "MrFrenzoid<29><[U:1:91292555]><>"
+L 08/03/2020 - 12:57:47: [basechat.smx] "Console<0><Console><Console>" triggered sm_say (text The round time has ended, omaewa-mou shindeiru)
+L 08/03/2020 - 12:57:47: [playercommands.smx] "Console<0><Console><Console>" slayed "MrFrenzoid<29><[U:1:91292555]><>"
+L 08/03/2020 - 12:57:47: [playercommands.smx] "Console<0><Console><Console>" slayed "The G-Man<66><BOT><>"
+L 08/03/2020 - 12:57:47: [playercommands.smx] "Console<0><Console><Console>" slayed "The Combine<67><BOT><>"
+L 08/03/2020 - 12:57:47: [playercommands.smx] "Console<0><Console><Console>" slayed "Pow!<68><BOT><>"
+L 08/03/2020 - 13:06:15: [mapchooser_extended.smx] Voting for next map has started.
+L 08/03/2020 - 14:37:34: [basecommands.smx] "SirFrenzoid<69><[U:1:89888356]><>" changed map to "vsh_Hakurei_Winter_v2"
+L 08/03/2020 - 14:37:37: [SM] Changed map to "vsh_Hakurei_Winter_v2"
+L 08/03/2020 - 14:37:43: -------- Mapchange to vsh_Hakurei_Winter_v2 --------
+L 08/03/2020 - 14:37:55: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/03/2020 - 14:39:11: [respawn.smx] "SirFrenzoid<69><[U:1:89888356]><>" respawned "SirFrenzoid<69><[U:1:89888356]><>"
+L 08/03/2020 - 14:40:43: [basecommands.smx] "SirFrenzoid<69><[U:1:89888356]><>" changed map to "vsh_Hakurei_Winter_v2"
+L 08/03/2020 - 14:40:46: [SM] Changed map to "vsh_Hakurei_Winter_v2"
+L 08/03/2020 - 14:40:53: -------- Mapchange to vsh_Hakurei_Winter_v2 --------
+L 08/03/2020 - 14:41:05: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/03/2020 - 14:42:49: [respawn.smx] "SirFrenzoid<69><[U:1:89888356]><>" respawned "SirFrenzoid<69><[U:1:89888356]><>"
+L 08/03/2020 - 14:49:36: [basechat.smx] "Console<0><Console><Console>" triggered sm_say (text The round time has ended, omaewa-mou shindeiru)
+L 08/03/2020 - 14:49:36: [playercommands.smx] "Console<0><Console><Console>" slayed "NotMe<76><BOT><>"
+L 08/03/2020 - 14:49:36: [playercommands.smx] "Console<0><Console><Console>" slayed "BoomerBile<77><BOT><>"
+L 08/03/2020 - 14:49:36: [playercommands.smx] "Console<0><Console><Console>" slayed "Mann Co.<78><BOT><>"
+L 08/03/2020 - 14:57:54: [basechat.smx] "Console<0><Console><Console>" triggered sm_say (text The round time has ended, omaewa-mou shindeiru)
+L 08/03/2020 - 14:57:54: [playercommands.smx] "Console<0><Console><Console>" slayed "SirFrenzoid<69><[U:1:89888356]><>"
+L 08/03/2020 - 14:57:54: [playercommands.smx] "Console<0><Console><Console>" slayed "NotMe<76><BOT><>"
+L 08/03/2020 - 14:57:54: [playercommands.smx] "Console<0><Console><Console>" slayed "BoomerBile<77><BOT><>"
+L 08/03/2020 - 14:57:54: [playercommands.smx] "Console<0><Console><Console>" slayed "Mann Co.<78><BOT><>"
+L 08/03/2020 - 15:01:20: [mapchooser_extended.smx] Voting for next map has started.
+L 08/03/2020 - 15:06:13: [basechat.smx] "Console<0><Console><Console>" triggered sm_say (text The round time has ended, omaewa-mou shindeiru)
+L 08/03/2020 - 15:06:13: [playercommands.smx] "Console<0><Console><Console>" slayed "SirFrenzoid<69><[U:1:89888356]><>"
+L 08/03/2020 - 15:06:13: [playercommands.smx] "Console<0><Console><Console>" slayed "NotMe<76><BOT><>"
+L 08/03/2020 - 15:06:13: [playercommands.smx] "Console<0><Console><Console>" slayed "BoomerBile<77><BOT><>"
+L 08/03/2020 - 15:06:13: [playercommands.smx] "Console<0><Console><Console>" slayed "Mann Co.<78><BOT><>"
+L 08/03/2020 - 15:07:45: [respawn.smx] "Nezzie<79><[U:1:107910185]><>" respawned "Nezzie<79><[U:1:107910185]><>"
+L 08/03/2020 - 15:08:14: [respawn.smx] "Nezzie<79><[U:1:107910185]><>" respawned "Nezzie<79><[U:1:107910185]><>"
+L 08/03/2020 - 15:08:35: [respawn.smx] "Nezzie<79><[U:1:107910185]><>" respawned "Nezzie<79><[U:1:107910185]><>"
+L 08/03/2020 - 15:08:55: [respawn.smx] "Nezzie<79><[U:1:107910185]><>" respawned "Nezzie<79><[U:1:107910185]><>"
+L 08/03/2020 - 15:09:57: [respawn.smx] "SirFrenzoid<69><[U:1:89888356]><>" respawned "SirFrenzoid<69><[U:1:89888356]><>"
+L 08/03/2020 - 15:10:10: [respawn.smx] "Nezzie<79><[U:1:107910185]><>" respawned "Nezzie<79><[U:1:107910185]><>"
+L 08/03/2020 - 15:10:38: [respawn.smx] "Nezzie<79><[U:1:107910185]><>" respawned "Nezzie<79><[U:1:107910185]><>"
+L 08/03/2020 - 15:11:21: [respawn.smx] "Nezzie<79><[U:1:107910185]><>" respawned "Nezzie<79><[U:1:107910185]><>"
+L 08/03/2020 - 15:11:27: [respawn.smx] "SirFrenzoid<69><[U:1:89888356]><>" respawned "SirFrenzoid<69><[U:1:89888356]><>"
+L 08/03/2020 - 15:13:36: [respawn.smx] "Nezzie<79><[U:1:107910185]><>" respawned "Nezzie<79><[U:1:107910185]><>"
+L 08/03/2020 - 15:14:31: [basechat.smx] "Console<0><Console><Console>" triggered sm_say (text The round time has ended, omaewa-mou shindeiru)
+L 08/03/2020 - 15:14:31: [playercommands.smx] "Console<0><Console><Console>" slayed "SirFrenzoid<69><[U:1:89888356]><>"
+L 08/03/2020 - 15:14:31: [playercommands.smx] "Console<0><Console><Console>" slayed "NotMe<76><BOT><>"
+L 08/03/2020 - 15:14:31: [playercommands.smx] "Console<0><Console><Console>" slayed "BoomerBile<77><BOT><>"
+L 08/03/2020 - 15:14:31: [playercommands.smx] "Console<0><Console><Console>" slayed "Mann Co.<78><BOT><>"
+L 08/03/2020 - 15:14:31: [playercommands.smx] "Console<0><Console><Console>" slayed "Nezzie<79><[U:1:107910185]><>"
+L 08/03/2020 - 15:14:49: [SM] Changed map to "vsh_nebula_rc1"
+L 08/03/2020 - 15:14:55: -------- Mapchange to vsh_nebula_rc1 --------
+L 08/03/2020 - 15:15:07: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/03/2020 - 15:16:46: [respawn.smx] "SirFrenzoid<69><[U:1:89888356]><>" respawned "SirFrenzoid<69><[U:1:89888356]><>"
+L 08/03/2020 - 15:17:08: [respawn.smx] "SirFrenzoid<69><[U:1:89888356]><>" respawned "SirFrenzoid<69><[U:1:89888356]><>"
+L 08/03/2020 - 15:20:34: [respawn.smx] "SirFrenzoid<69><[U:1:89888356]><>" respawned "SirFrenzoid<69><[U:1:89888356]><>"
+L 08/03/2020 - 15:21:41: [SetSpeed.smx] "Console<0><Console><Console>" set speed of  "SirFrenzoid<69><[U:1:89888356]><>" to (500.000000)
+L 08/03/2020 - 15:21:53: [SetSpeed.smx] "Console<0><Console><Console>" set speed of  "SirFrenzoid<69><[U:1:89888356]><>" to (520.000000)
+L 08/03/2020 - 15:23:45: [basechat.smx] "Console<0><Console><Console>" triggered sm_say (text The round time has ended, omaewa-mou shindeiru)
+L 08/03/2020 - 15:23:45: [playercommands.smx] "Console<0><Console><Console>" slayed "SirFrenzoid<69><[U:1:89888356]><>"
+L 08/03/2020 - 15:23:45: [playercommands.smx] "Console<0><Console><Console>" slayed "Kaboom!<80><BOT><>"
+L 08/03/2020 - 15:23:45: [playercommands.smx] "Console<0><Console><Console>" slayed "0xDEADBEEF<81><BOT><>"
+L 08/03/2020 - 15:23:45: [playercommands.smx] "Console<0><Console><Console>" slayed "SomeDude<82><BOT><>"
+L 08/03/2020 - 15:25:40: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 08/03/2020 - 15:25:40: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 08/03/2020 - 15:25:40: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 08/03/2020 - 15:25:40: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/03/2020 - 15:27:41: [respawn.smx] "Nezzie<83><[U:1:107910185]><>" respawned "Nezzie<83><[U:1:107910185]><>"
+L 08/03/2020 - 15:27:51: [respawn.smx] "Nezzie<83><[U:1:107910185]><>" respawned "Nezzie<83><[U:1:107910185]><>"
+L 08/03/2020 - 15:28:14: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 08/03/2020 - 15:28:14: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 08/03/2020 - 15:28:14: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 08/03/2020 - 15:28:15: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/03/2020 - 15:29:59: [respawn.smx] "SirFrenzoid<69><[U:1:89888356]><>" respawned "SirFrenzoid<69><[U:1:89888356]><>"
+L 08/03/2020 - 15:30:25: [basecommands.smx] "SirFrenzoid<69><[U:1:89888356]><>" changed map to "vsh_Hakurei_Winter_v2"
+L 08/03/2020 - 15:30:28: [SM] Changed map to "vsh_Hakurei_Winter_v2"
+L 08/03/2020 - 15:30:34: -------- Mapchange to vsh_Hakurei_Winter_v2 --------
+L 08/03/2020 - 15:30:46: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/03/2020 - 15:33:23: [respawn.smx] "SirFrenzoid<69><[U:1:89888356]><>" respawned "SirFrenzoid<69><[U:1:89888356]><>"
+L 08/03/2020 - 15:39:13: [basechat.smx] "Console<0><Console><Console>" triggered sm_say (text The round time has ended, omaewa-mou shindeiru)
+L 08/03/2020 - 15:39:13: [playercommands.smx] "Console<0><Console><Console>" slayed "SirFrenzoid<69><[U:1:89888356]><>"
+L 08/03/2020 - 15:39:13: [playercommands.smx] "Console<0><Console><Console>" slayed "Hostage<84><BOT><>"
+L 08/03/2020 - 15:39:13: [playercommands.smx] "Console<0><Console><Console>" slayed "CrySomeMore<85><BOT><>"
+L 08/03/2020 - 15:39:13: [playercommands.smx] "Console<0><Console><Console>" slayed "Humans Are Weak<86><BOT><>"
+L 08/03/2020 - 15:39:13: [playercommands.smx] "Console<0><Console><Console>" slayed "Nezzie<83><[U:1:107910185]><>"
+L 08/03/2020 - 15:42:43: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 08/03/2020 - 15:42:44: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 08/03/2020 - 15:42:44: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 08/03/2020 - 15:42:44: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/03/2020 - 15:43:20: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 08/03/2020 - 15:43:21: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 08/03/2020 - 15:43:21: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 08/03/2020 - 15:43:21: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/03/2020 - 15:44:20: [respawn.smx] "SirFrenzoid<69><[U:1:89888356]><>" respawned "moist cheese<87><[U:1:351468059]><>"
+L 08/03/2020 - 15:45:37: [respawn.smx] "Nezzie<83><[U:1:107910185]><>" respawned "moist cheese<87><[U:1:351468059]><>"
+L 08/03/2020 - 15:47:36: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 08/03/2020 - 15:47:37: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 08/03/2020 - 15:47:37: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 08/03/2020 - 15:47:37: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/03/2020 - 15:48:37: [respawn.smx] "Nezzie<83><[U:1:107910185]><>" respawned "Nezzie<83><[U:1:107910185]><>"
+L 08/03/2020 - 15:51:08: [mapchooser_extended.smx] Voting for next map has started.
+L 08/03/2020 - 15:52:08: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 08/03/2020 - 15:52:08: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 08/03/2020 - 15:52:08: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 08/03/2020 - 15:52:08: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/03/2020 - 15:52:24: [mapchooser_extended.smx] Voting for next map has started.
+L 08/03/2020 - 15:54:58: [playercommands.smx] "SirFrenzoid<69><[U:1:89888356]><>" renamed "SirFrenzoid<69><[U:1:89888356]><>" (to "dneFnziinzr")
+L 08/03/2020 - 15:55:00: [playercommands.smx] "dneFnziinzr<69><[U:1:89888356]><>" renamed "dneFnziinzr<69><[U:1:89888356]><>" (to "nzieneznnnn")
+L 08/03/2020 - 15:55:01: [playercommands.smx] "nzieneznnnn<69><[U:1:89888356]><>" renamed "nzieneznnnn<69><[U:1:89888356]><>" (to "enezzezennn")
+L 08/03/2020 - 15:55:02: [playercommands.smx] "enezzezennn<69><[U:1:89888356]><>" renamed "enezzezennn<69><[U:1:89888356]><>" (to "znznneeennz")
+L 08/03/2020 - 15:55:02: [playercommands.smx] "znznneeennz<69><[U:1:89888356]><>" renamed "znznneeennz<69><[U:1:89888356]><>" (to "znnnezeznee")
+L 08/03/2020 - 15:55:03: [playercommands.smx] "znnnezeznee<69><[U:1:89888356]><>" renamed "znnnezeznee<69><[U:1:89888356]><>" (to "znnnzneeznz")
+L 08/03/2020 - 15:55:03: [playercommands.smx] "znnnzneeznz<69><[U:1:89888356]><>" renamed "znnnzneeznz<69><[U:1:89888356]><>" (to "zeenzznnnez")
+L 08/03/2020 - 15:55:04: [playercommands.smx] "zeenzznnnez<69><[U:1:89888356]><>" renamed "zeenzznnnez<69><[U:1:89888356]><>" (to "nzzznzenzne")
+L 08/03/2020 - 15:55:04: [playercommands.smx] "nzzznzenzne<69><[U:1:89888356]><>" renamed "nzzznzenzne<69><[U:1:89888356]><>" (to "eznzznznzzn")
+L 08/03/2020 - 15:55:05: [playercommands.smx] "eznzznznzzn<69><[U:1:89888356]><>" renamed "eznzznznzzn<69><[U:1:89888356]><>" (to "zzzzzeznzzz")
+L 08/03/2020 - 15:55:05: [playercommands.smx] "zzzzzeznzzz<69><[U:1:89888356]><>" renamed "zzzzzeznzzz<69><[U:1:89888356]><>" (to "zzzzzzzzzen")
+L 08/03/2020 - 15:55:06: [playercommands.smx] "zzzzzzzzzen<69><[U:1:89888356]><>" renamed "zzzzzzzzzen<69><[U:1:89888356]><>" (to "zznzzzezzzn")
+L 08/03/2020 - 15:55:06: [playercommands.smx] "zznzzzezzzn<69><[U:1:89888356]><>" renamed "zznzzzezzzn<69><[U:1:89888356]><>" (to "zznznzznzzz")
+L 08/03/2020 - 15:55:07: [playercommands.smx] "zznznzznzzz<69><[U:1:89888356]><>" renamed "zznznzznzzz<69><[U:1:89888356]><>" (to "zzznzzznnzz")
+L 08/03/2020 - 15:55:07: [playercommands.smx] "zzznzzznnzz<69><[U:1:89888356]><>" renamed "zzznzzznnzz<69><[U:1:89888356]><>" (to "zznnznnznnz")
+L 08/03/2020 - 15:55:07: [playercommands.smx] "zznnznnznnz<69><[U:1:89888356]><>" renamed "zznnznnznnz<69><[U:1:89888356]><>" (to "nnzznzzzznz")
+L 08/03/2020 - 15:55:07: [playercommands.smx] "nnzznzzzznz<69><[U:1:89888356]><>" renamed "nnzznzzzznz<69><[U:1:89888356]><>" (to "zzznnznznzz")
+L 08/03/2020 - 15:55:07: [playercommands.smx] "zzznnznznzz<69><[U:1:89888356]><>" renamed "zzznnznznzz<69><[U:1:89888356]><>" (to "zznzzznzzzn")
+L 08/03/2020 - 15:55:07: [playercommands.smx] "zznzzznzzzn<69><[U:1:89888356]><>" renamed "zznzzznzzzn<69><[U:1:89888356]><>" (to "zzzzznzzzzz")
+L 08/03/2020 - 15:55:07: [playercommands.smx] "zzzzznzzzzz<69><[U:1:89888356]><>" renamed "zzzzznzzzzz<69><[U:1:89888356]><>" (to "nzzzzznzzzz")
+L 08/03/2020 - 15:55:08: [playercommands.smx] "nzzzzznzzzz<69><[U:1:89888356]><>" renamed "nzzzzznzzzz<69><[U:1:89888356]><>" (to "zznzzzznzzz")
+L 08/03/2020 - 15:55:08: [playercommands.smx] "zznzzzznzzz<69><[U:1:89888356]><>" renamed "zznzzzznzzz<69><[U:1:89888356]><>" (to "zzznznzzzzn")
+L 08/03/2020 - 15:55:08: [playercommands.smx] "zzznznzzzzn<69><[U:1:89888356]><>" renamed "zzznznzzzzn<69><[U:1:89888356]><>" (to "zzzzzzzznzz")
+L 08/03/2020 - 15:55:08: [playercommands.smx] "zzzzzzzznzz<69><[U:1:89888356]><>" renamed "zzzzzzzznzz<69><[U:1:89888356]><>" (to "znzzzzzzzzz")
+L 08/03/2020 - 15:55:08: [playercommands.smx] "znzzzzzzzzz<69><[U:1:89888356]><>" renamed "znzzzzzzzzz<69><[U:1:89888356]><>" (to "zzzzzzzzzzz")
+L 08/03/2020 - 15:55:08: [playercommands.smx] "zzzzzzzzzzz<69><[U:1:89888356]><>" renamed "zzzzzzzzzzz<69><[U:1:89888356]><>" (to "zzzzzzzzzzz")
+L 08/03/2020 - 15:55:09: [playercommands.smx] "zzzzzzzzzzz<69><[U:1:89888356]><>" renamed "zzzzzzzzzzz<69><[U:1:89888356]><>" (to "zzzzzzzzzzz")
+L 08/03/2020 - 15:55:09: [playercommands.smx] "zzzzzzzzzzz<69><[U:1:89888356]><>" renamed "zzzzzzzzzzz<69><[U:1:89888356]><>" (to "zzzzzzzzzzz")
+L 08/03/2020 - 15:56:27: [respawn.smx] "zzzzzzzzzzz<69><[U:1:89888356]><>" respawned "zzzzzzzzzzz<69><[U:1:89888356]><>"
+L 08/03/2020 - 15:56:58: [respawn.smx] "zzzzzzzzzzz<69><[U:1:89888356]><>" respawned "zzzzzzzzzzz<69><[U:1:89888356]><>"
+L 08/03/2020 - 15:57:06: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 08/03/2020 - 15:57:06: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 08/03/2020 - 15:57:06: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 08/03/2020 - 15:57:07: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/03/2020 - 15:57:23: [mapchooser_extended.smx] Voting for next map has started.
+L 08/03/2020 - 15:59:59: SourceMod log file session started (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/L20200803.log") (Version "1.10.0.6490")
+L 08/03/2020 - 15:59:59: [TF2ITEMS] "GiveNamedItem" offset = 484
+L 08/03/2020 - 16:00:00: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 08/03/2020 - 16:00:01: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 08/03/2020 - 16:00:01: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 08/03/2020 - 16:00:22: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/03/2020 - 16:03:04: [respawn.smx] "SirFrenzoid<2><[U:1:89888356]><>" respawned "moist cheese<4><[U:1:351468059]><>"
+L 08/03/2020 - 16:03:05: [respawn.smx] "SirFrenzoid<2><[U:1:89888356]><>" respawned "Nezzie<5><[U:1:107910185]><>"
+L 08/03/2020 - 16:03:06: [respawn.smx] "SirFrenzoid<2><[U:1:89888356]><>" respawned "moist cheese<4><[U:1:351468059]><>"
+L 08/03/2020 - 16:03:12: [respawn.smx] "SirFrenzoid<2><[U:1:89888356]><>" respawned "moist cheese<4><[U:1:351468059]><>"
+L 08/03/2020 - 16:05:07: [basecommands.smx] "SirFrenzoid<2><[U:1:89888356]><>" changed map to "vsh_Hakurei_Winter_v2"
+L 08/03/2020 - 16:05:10: [SM] Changed map to "vsh_Hakurei_Winter_v2"
+L 08/03/2020 - 16:05:15: -------- Mapchange to vsh_Hakurei_Winter_v2 --------
+L 08/03/2020 - 16:05:25: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/03/2020 - 16:06:01: [respawn.smx] "Nezzie<5><[U:1:107910185]><>" respawned "Nezzie<5><[U:1:107910185]><>"
+L 08/03/2020 - 16:08:37: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 08/03/2020 - 16:08:37: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 08/03/2020 - 16:08:37: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 08/03/2020 - 16:08:38: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/03/2020 - 16:10:41: [funcommands.smx] "Nezzie<5><[U:1:107910185]><>" froze "moist cheese<4><[U:1:351468059]><>"
+L 08/03/2020 - 16:10:50: [funcommands.smx] "Nezzie<5><[U:1:107910185]><>" set a FireBomb on "moist cheese<4><[U:1:351468059]><>"
+L 08/03/2020 - 16:11:25: [funcommands.smx] "Nezzie<5><[U:1:107910185]><>" set a TimeBomb on "moist cheese<4><[U:1:351468059]><>"
+L 08/03/2020 - 16:11:35: [funcommands.smx] "Nezzie<5><[U:1:107910185]><>" removed a TimeBomb on "moist cheese<4><[U:1:351468059]><>"
+L 08/03/2020 - 16:11:46: [funcommands.smx] "Nezzie<5><[U:1:107910185]><>" set a TimeBomb on "moist cheese<4><[U:1:351468059]><>"
+L 08/03/2020 - 16:12:26: -------- Mapchange to arena_lumberyard --------
+L 08/03/2020 - 16:12:27: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 08/03/2020 - 16:12:27: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 08/03/2020 - 16:12:27: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 08/03/2020 - 16:12:40: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/03/2020 - 16:13:38: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 08/03/2020 - 16:13:39: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 08/03/2020 - 16:13:39: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 08/03/2020 - 16:13:39: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/03/2020 - 16:14:16: -------- Mapchange to arena_lumberyard --------
+L 08/03/2020 - 16:14:26: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/03/2020 - 16:16:51: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 08/03/2020 - 16:16:51: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 08/03/2020 - 16:16:51: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 08/03/2020 - 16:16:51: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/03/2020 - 16:21:34: [respawn.smx] "Nezzie<5><[U:1:107910185]><>" respawned "Nezzie<5><[U:1:107910185]><>"
+L 08/03/2020 - 16:21:48: [funcommands.smx] "SirFrenzoid<2><[U:1:89888356]><>" set a TimeBomb on "SirFrenzoid<2><[U:1:89888356]><>"
+L 08/03/2020 - 16:22:32: [playercommands.smx] "Nezzie<5><[U:1:107910185]><>" slayed "Nezzie<5><[U:1:107910185]><>"
+L 08/03/2020 - 16:22:49: [playercommands.smx] "Nezzie<5><[U:1:107910185]><>" slayed "Ze Ubermensch<8><BOT><>"
+L 08/03/2020 - 16:24:56: [respawn.smx] "Nezzie<5><[U:1:107910185]><>" respawned "Ze Ubermensch<8><BOT><>"
+L 08/03/2020 - 16:24:57: [respawn.smx] "Nezzie<5><[U:1:107910185]><>" respawned "Nezzie<5><[U:1:107910185]><>"
+L 08/03/2020 - 16:27:53: [respawn.smx] "Nezzie<5><[U:1:107910185]><>" respawned "Nezzie<5><[U:1:107910185]><>"
+L 08/03/2020 - 16:28:16: [respawn.smx] "Nezzie<5><[U:1:107910185]><>" respawned "Nezzie<5><[U:1:107910185]><>"
+L 08/03/2020 - 16:29:28: [respawn.smx] "SirFrenzoid<2><[U:1:89888356]><>" respawned "SirFrenzoid<2><[U:1:89888356]><>"
+L 08/03/2020 - 16:31:56: SourceMod log file session started (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/L20200803.log") (Version "1.10.0.6490")
+L 08/03/2020 - 16:31:56: [TF2ITEMS] "GiveNamedItem" offset = 484
+L 08/03/2020 - 16:31:57: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 08/03/2020 - 16:31:57: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 08/03/2020 - 16:31:57: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 08/03/2020 - 16:32:17: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/03/2020 - 16:33:54: [respawn.smx] "SirFrenzoid<2><[U:1:89888356]><>" respawned "SirFrenzoid<2><[U:1:89888356]><>"
+L 08/03/2020 - 16:34:02: [respawn.smx] "SirFrenzoid<2><[U:1:89888356]><>" respawned "moist cheese<4><[U:1:351468059]><>"
+L 08/03/2020 - 16:34:13: [respawn.smx] "Nezzie<3><[U:1:107910185]><>" respawned "Nezzie<3><[U:1:107910185]><>"
+L 08/03/2020 - 16:35:51: [basecommands.smx] "Nezzie<3><[U:1:107910185]><>" changed map to "vsh_castle_siege_unreal_sg1"
+L 08/03/2020 - 16:36:09: -------- Mapchange to vsh_castle_siege_unreal_sg1 --------
+L 08/03/2020 - 16:36:10: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 08/03/2020 - 16:36:11: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 08/03/2020 - 16:36:11: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 08/03/2020 - 16:36:22: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/03/2020 - 16:37:58: [respawn.smx] "Nezzie<3><[U:1:107910185]><>" respawned "Nezzie<3><[U:1:107910185]><>"
+L 08/03/2020 - 16:40:43: [respawn.smx] "Nezzie<3><[U:1:107910185]><>" respawned "Nezzie<3><[U:1:107910185]><>"
+L 08/03/2020 - 16:40:50: [respawn.smx] "Nezzie<3><[U:1:107910185]><>" respawned "moist cheese<7><[U:1:351468059]><>"
+L 08/03/2020 - 16:41:58: [respawn.smx] "Nezzie<3><[U:1:107910185]><>" respawned "Nezzie<3><[U:1:107910185]><>"
+L 08/03/2020 - 16:43:49: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 08/03/2020 - 16:43:50: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 08/03/2020 - 16:43:50: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 08/03/2020 - 16:43:50: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/03/2020 - 16:45:19: [respawn.smx] "Nezzie<3><[U:1:107910185]><>" respawned "Nezzie<3><[U:1:107910185]><>"
+L 08/03/2020 - 16:46:46: [respawn.smx] "Nezzie<3><[U:1:107910185]><>" respawned "Nezzie<3><[U:1:107910185]><>"
+L 08/03/2020 - 16:47:10: [respawn.smx] "SirFrenzoid<2><[U:1:89888356]><>" respawned "moist cheese<7><[U:1:351468059]><>"
+L 08/03/2020 - 16:55:32: [basechat.smx] "Console<0><Console><Console>" triggered sm_say (text The round time has ended, omaewa-mou shindeiru)
+L 08/03/2020 - 16:55:32: [playercommands.smx] "Console<0><Console><Console>" slayed "SirFrenzoid<2><[U:1:89888356]><>"
+L 08/03/2020 - 16:55:32: [playercommands.smx] "Console<0><Console><Console>" slayed "Nezzie<3><[U:1:107910185]><>"
+L 08/03/2020 - 16:55:32: [playercommands.smx] "Console<0><Console><Console>" slayed "moist cheese<7><[U:1:351468059]><>"
+L 08/03/2020 - 16:55:32: [playercommands.smx] "Console<0><Console><Console>" slayed "Numnutz<6><BOT><>"
+L 08/03/2020 - 16:56:41: [mapchooser_extended.smx] Voting for next map has started.
+L 08/03/2020 - 17:37:57: [basecommands.smx] "Nezzie<8><[U:1:107910185]><>" changed map to "vsh_castle_siege_unreal_sg1"
+L 08/03/2020 - 17:38:00: [SM] Changed map to "vsh_castle_siege_unreal_sg1"
+L 08/03/2020 - 17:38:04: -------- Mapchange to vsh_castle_siege_unreal_sg1 --------
+L 08/03/2020 - 17:38:17: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/03/2020 - 17:40:12: [basecommands.smx] "Nezzie<8><[U:1:107910185]><>" changed map to "vsh_tranquil_b5"
+L 08/03/2020 - 17:40:15: [SM] Changed map to "vsh_tranquil_b5"
+L 08/03/2020 - 17:40:20: -------- Mapchange to vsh_tranquil_b5 --------
+L 08/03/2020 - 17:40:33: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/03/2020 - 17:42:34: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 08/03/2020 - 17:42:34: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 08/03/2020 - 17:42:34: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 08/03/2020 - 17:42:35: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/03/2020 - 17:43:28: [respawn.smx] "Nezzie<8><[U:1:107910185]><>" respawned "Nezzie<8><[U:1:107910185]><>"
+L 08/03/2020 - 17:43:48: [respawn.smx] "Nezzie<8><[U:1:107910185]><>" respawned "Nezzie<8><[U:1:107910185]><>"
+L 08/03/2020 - 17:50:53: [basechat.smx] "Console<0><Console><Console>" triggered sm_say (text The round time has ended, omaewa-mou shindeiru)
+L 08/03/2020 - 17:50:53: [playercommands.smx] "Console<0><Console><Console>" slayed "Nezzie<8><[U:1:107910185]><>"
+L 08/03/2020 - 17:50:53: [playercommands.smx] "Console<0><Console><Console>" slayed "Pow!<11><BOT><>"
+L 08/03/2020 - 17:50:53: [playercommands.smx] "Console<0><Console><Console>" slayed "Zepheniah Mann<12><BOT><>"
+L 08/03/2020 - 17:50:53: [playercommands.smx] "Console<0><Console><Console>" slayed "THEM<13><BOT><>"
+L 08/03/2020 - 17:52:13: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 08/03/2020 - 17:52:13: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 08/03/2020 - 17:52:13: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 08/03/2020 - 17:52:13: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/03/2020 - 17:54:25: [respawn.smx] "Nezzie<8><[U:1:107910185]><>" respawned "Nezzie<8><[U:1:107910185]><>"
+L 08/03/2020 - 17:57:01: [respawn.smx] "Nezzie<8><[U:1:107910185]><>" respawned "Nezzie<8><[U:1:107910185]><>"
+L 08/03/2020 - 17:58:52: [basecommands.smx] "Nezzie<8><[U:1:107910185]><>" changed map to "vsh_dunger_b2a"
+L 08/03/2020 - 17:58:55: [SM] Changed map to "vsh_dunger_b2a"
+L 08/03/2020 - 17:58:59: -------- Mapchange to vsh_dunger_b2a --------
+L 08/03/2020 - 17:59:12: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/03/2020 - 18:02:49: [respawn.smx] "Nezzie<8><[U:1:107910185]><>" respawned "Nezzie<8><[U:1:107910185]><>"
+L 08/03/2020 - 18:08:31: [respawn.smx] "Nezzie<8><[U:1:107910185]><>" respawned "Nezzie<8><[U:1:107910185]><>"
+L 08/03/2020 - 18:16:02: [basechat.smx] "Console<0><Console><Console>" triggered sm_say (text The round time has ended, omaewa-mou shindeiru)
+L 08/03/2020 - 18:16:02: [playercommands.smx] "Console<0><Console><Console>" slayed "Nezzie<8><[U:1:107910185]><>"
+L 08/03/2020 - 18:16:02: [playercommands.smx] "Console<0><Console><Console>" slayed "10001011101<14><BOT><>"
+L 08/03/2020 - 18:16:02: [playercommands.smx] "Console<0><Console><Console>" slayed "ZAWMBEEZ<15><BOT><>"
+L 08/03/2020 - 18:16:02: [playercommands.smx] "Console<0><Console><Console>" slayed "TAAAAANK!<16><BOT><>"
+L 08/03/2020 - 18:19:31: [mapchooser_extended.smx] Voting for next map has started.
+L 08/03/2020 - 18:24:20: [basechat.smx] "Console<0><Console><Console>" triggered sm_say (text The round time has ended, omaewa-mou shindeiru)
+L 08/03/2020 - 18:24:20: [playercommands.smx] "Console<0><Console><Console>" slayed "Nezzie<8><[U:1:107910185]><>"
+L 08/03/2020 - 18:24:20: [playercommands.smx] "Console<0><Console><Console>" slayed "10001011101<14><BOT><>"
+L 08/03/2020 - 18:24:20: [playercommands.smx] "Console<0><Console><Console>" slayed "ZAWMBEEZ<15><BOT><>"
+L 08/03/2020 - 18:24:20: [playercommands.smx] "Console<0><Console><Console>" slayed "TAAAAANK!<16><BOT><>"
+L 08/03/2020 - 18:26:27: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 08/03/2020 - 18:26:27: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 08/03/2020 - 18:26:27: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 08/03/2020 - 18:26:28: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/03/2020 - 18:26:44: [mapchooser_extended.smx] Voting for next map has started.
+L 08/03/2020 - 18:27:32: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 08/03/2020 - 18:27:33: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 08/03/2020 - 18:27:33: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 08/03/2020 - 18:27:33: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/03/2020 - 18:27:49: [mapchooser_extended.smx] Voting for next map has started.
+L 08/03/2020 - 18:35:51: [basechat.smx] "Console<0><Console><Console>" triggered sm_say (text The round time has ended, omaewa-mou shindeiru)
+L 08/03/2020 - 18:35:51: [playercommands.smx] "Console<0><Console><Console>" slayed "10001011101<14><BOT><>"
+L 08/03/2020 - 18:35:51: [playercommands.smx] "Console<0><Console><Console>" slayed "ZAWMBEEZ<15><BOT><>"
+L 08/03/2020 - 18:35:51: [playercommands.smx] "Console<0><Console><Console>" slayed "TAAAAANK!<16><BOT><>"
+L 08/03/2020 - 18:36:09: [SM] Changed map to "koth_sawmill"
+L 08/03/2020 - 18:36:15: -------- Mapchange to koth_sawmill --------
+L 08/03/2020 - 18:36:29: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/03/2020 - 18:48:49: [basecommands.smx] "Nezzie<8><[U:1:107910185]><>" changed map to "arena_lumberyard"
+L 08/03/2020 - 18:48:52: [SM] Changed map to "arena_lumberyard"
+L 08/03/2020 - 18:48:57: -------- Mapchange to arena_lumberyard --------
+L 08/03/2020 - 18:49:11: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/03/2020 - 18:51:48: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 08/03/2020 - 18:51:49: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 08/03/2020 - 18:51:49: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 08/03/2020 - 18:51:49: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/03/2020 - 18:52:11: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 08/03/2020 - 18:52:11: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 08/03/2020 - 18:52:11: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 08/03/2020 - 18:52:11: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/03/2020 - 18:53:01: [playercommands.smx] "Nezzie<8><[U:1:107910185]><>" slayed "Hostage<26><BOT><>"
+L 08/03/2020 - 18:55:26: [respawn.smx] "Nezzie<8><[U:1:107910185]><>" respawned "Nezzie<8><[U:1:107910185]><>"
+L 08/03/2020 - 19:09:30: [mapchooser_extended.smx] Voting for next map has started.
+L 08/03/2020 - 21:17:13: [basecommands.smx] "Nezzie<29><[U:1:107910185]><>" changed map to "arena_lumberyard"
+L 08/03/2020 - 21:17:16: [SM] Changed map to "arena_lumberyard"
+L 08/03/2020 - 21:17:21: -------- Mapchange to arena_lumberyard --------
+L 08/03/2020 - 21:17:35: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/03/2020 - 21:18:31: [respawn.smx] "Nezzie<29><[U:1:107910185]><>" respawned "Nezzie<29><[U:1:107910185]><>"
+L 08/03/2020 - 21:20:59: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 08/03/2020 - 21:21:00: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 08/03/2020 - 21:21:00: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 08/03/2020 - 21:21:00: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/03/2020 - 21:22:30: [respawn.smx] "Nezzie<29><[U:1:107910185]><>" respawned "Nezzie<29><[U:1:107910185]><>"
+L 08/03/2020 - 21:24:14: [basecommands.smx] "Nezzie<29><[U:1:107910185]><>" changed map to "vsh_egyptyspot_v2"
+L 08/03/2020 - 21:24:17: [SM] Changed map to "vsh_egyptyspot_v2"
+L 08/03/2020 - 21:24:22: -------- Mapchange to vsh_egyptyspot_v2 --------
+L 08/03/2020 - 21:24:35: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/03/2020 - 21:25:57: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 08/03/2020 - 21:25:58: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 08/03/2020 - 21:25:58: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 08/03/2020 - 21:25:58: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/03/2020 - 21:26:25: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 08/03/2020 - 21:26:25: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 08/03/2020 - 21:26:25: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 08/03/2020 - 21:26:26: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/03/2020 - 21:29:57: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 08/03/2020 - 21:29:57: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 08/03/2020 - 21:29:57: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 08/03/2020 - 21:29:57: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/03/2020 - 21:30:30: [respawn.smx] "Nezzie<29><[U:1:107910185]><>" respawned "Nezzie<29><[U:1:107910185]><>"
+L 08/03/2020 - 21:34:33: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 08/03/2020 - 21:34:33: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 08/03/2020 - 21:34:33: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 08/03/2020 - 21:34:34: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/03/2020 - 21:35:34: [respawn.smx] "Nezzie<29><[U:1:107910185]><>" respawned "Nezzie<29><[U:1:107910185]><>"
+L 08/03/2020 - 21:36:19: [respawn.smx] "SirFrenzoid<41><[U:1:89888356]><>" respawned "SirFrenzoid<41><[U:1:89888356]><>"
+L 08/03/2020 - 21:37:00: [respawn.smx] "SirFrenzoid<41><[U:1:89888356]><>" respawned "Nezzie<29><[U:1:107910185]><>"
+L 08/03/2020 - 21:37:00: [respawn.smx] "SirFrenzoid<41><[U:1:89888356]><>" respawned "SirFrenzoid<41><[U:1:89888356]><>"
+L 08/03/2020 - 21:37:21: [respawn.smx] "Nezzie<29><[U:1:107910185]><>" respawned "Nezzie<29><[U:1:107910185]><>"
+L 08/03/2020 - 21:41:16: [respawn.smx] "Nezzie<29><[U:1:107910185]><>" respawned "CRITRAWKETS<36><BOT><>"
+L 08/03/2020 - 21:41:20: [respawn.smx] "Nezzie<29><[U:1:107910185]><>" respawned "Nezzie<29><[U:1:107910185]><>"
+L 08/03/2020 - 21:42:22: [respawn.smx] "Nezzie<29><[U:1:107910185]><>" respawned "Nezzie<29><[U:1:107910185]><>"
+L 08/03/2020 - 21:44:58: [mapchooser_extended.smx] Voting for next map has started.
+L 08/03/2020 - 21:46:39: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 08/03/2020 - 21:46:39: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 08/03/2020 - 21:46:39: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 08/03/2020 - 21:46:40: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/03/2020 - 21:46:56: [mapchooser_extended.smx] Voting for next map has started.
+L 08/03/2020 - 21:48:09: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 08/03/2020 - 21:48:10: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 08/03/2020 - 21:48:10: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 08/03/2020 - 21:48:10: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/03/2020 - 21:48:26: [mapchooser_extended.smx] Voting for next map has started.
+L 08/03/2020 - 21:48:59: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 08/03/2020 - 21:49:00: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 08/03/2020 - 21:49:00: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 08/03/2020 - 21:49:00: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/03/2020 - 21:49:16: [mapchooser_extended.smx] Voting for next map has started.
+L 08/03/2020 - 21:53:25: [respawn.smx] "Nezzie<29><[U:1:107910185]><>" respawned "Nezzie<29><[U:1:107910185]><>"
+L 08/03/2020 - 21:57:26: -------- Mapchange to koth_moonshine_event --------
+L 08/03/2020 - 21:57:39: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/03/2020 - 21:58:50: -------- Mapchange to arena_sawmill --------
+L 08/03/2020 - 21:59:01: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/03/2020 - 22:07:33: [basechat.smx] "Console<0><Console><Console>" triggered sm_say (text The round time has ended, omaewa-mou shindeiru)
+L 08/03/2020 - 22:07:33: [playercommands.smx] "Console<0><Console><Console>" slayed "Nom Nom Nom<46><BOT><>"
+L 08/03/2020 - 22:07:33: [playercommands.smx] "Console<0><Console><Console>" slayed "GENTLE MANNE of LEISURE<47><BOT><>"
+L 08/03/2020 - 22:07:33: [playercommands.smx] "Console<0><Console><Console>" slayed "Tiny Baby Man<48><BOT><>"
+L 08/03/2020 - 22:15:51: [basechat.smx] "Console<0><Console><Console>" triggered sm_say (text The round time has ended, omaewa-mou shindeiru)
+L 08/03/2020 - 22:15:51: [playercommands.smx] "Console<0><Console><Console>" slayed "SirFrenzoid<42><[U:1:89888356]><>"
+L 08/03/2020 - 22:15:51: [playercommands.smx] "Console<0><Console><Console>" slayed "Nom Nom Nom<46><BOT><>"
+L 08/03/2020 - 22:15:52: [playercommands.smx] "Console<0><Console><Console>" slayed "GENTLE MANNE of LEISURE<47><BOT><>"
+L 08/03/2020 - 22:15:52: [playercommands.smx] "Console<0><Console><Console>" slayed "Tiny Baby Man<48><BOT><>"
+L 08/03/2020 - 22:19:15: [mapchooser_extended.smx] Voting for next map has started.
+L 08/03/2020 - 22:24:10: [basechat.smx] "Console<0><Console><Console>" triggered sm_say (text The round time has ended, omaewa-mou shindeiru)
+L 08/03/2020 - 22:24:10: [playercommands.smx] "Console<0><Console><Console>" slayed "SirFrenzoid<42><[U:1:89888356]><>"
+L 08/03/2020 - 22:24:10: [playercommands.smx] "Console<0><Console><Console>" slayed "Nom Nom Nom<46><BOT><>"
+L 08/03/2020 - 22:24:10: [playercommands.smx] "Console<0><Console><Console>" slayed "GENTLE MANNE of LEISURE<47><BOT><>"
+L 08/03/2020 - 22:24:10: [playercommands.smx] "Console<0><Console><Console>" slayed "Tiny Baby Man<48><BOT><>"
+L 08/04/2020 - 06:29:13: Log file closed.

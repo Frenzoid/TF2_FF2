@@ -1,0 +1,265 @@
+L 08/12/2020 - 00:02:35: SourceMod log file session started (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/L20200812.log") (Version "1.10.0.6490")
+L 08/12/2020 - 00:02:35: [TF2ITEMS] "GiveNamedItem" offset = 484
+L 08/12/2020 - 00:02:37: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 08/12/2020 - 00:02:37: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 08/12/2020 - 00:02:37: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 08/12/2020 - 00:02:38: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 08/12/2020 - 00:03:03: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/12/2020 - 00:13:10: SourceMod log file session started (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/L20200812.log") (Version "1.10.0.6490")
+L 08/12/2020 - 00:13:10: [TF2ITEMS] "GiveNamedItem" offset = 484
+L 08/12/2020 - 00:13:11: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 08/12/2020 - 00:13:11: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 08/12/2020 - 00:13:11: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 08/12/2020 - 00:13:12: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 08/12/2020 - 00:13:35: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/12/2020 - 00:16:45: [basecommands.smx] "MrFrenzoid<2><[U:1:91292555]><>" changed map to "vsh_absolute_zero_v1_sg2"
+L 08/12/2020 - 00:16:48: [SM] Changed map to "vsh_absolute_zero_v1_sg2"
+L 08/12/2020 - 00:16:50: -------- Mapchange to vsh_absolute_zero_v1_sg2 --------
+L 08/12/2020 - 00:17:02: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/12/2020 - 00:25:25: [playercommands.smx] "Console<0><Console><Console>" slayed "MrFrenzoid<2><[U:1:91292555]><>"
+L 08/12/2020 - 00:25:25: [playercommands.smx] "Console<0><Console><Console>" slayed "Zepheniah Mann<3><BOT><>"
+L 08/12/2020 - 00:25:25: [playercommands.smx] "Console<0><Console><Console>" slayed "THEM<4><BOT><>"
+L 08/12/2020 - 00:25:25: [playercommands.smx] "Console<0><Console><Console>" slayed "LOS LOS LOS<5><BOT><>"
+L 08/12/2020 - 00:25:25: [playercommands.smx] "Console<0><Console><Console>" slayed "10001011101<6><BOT><>"
+L 08/12/2020 - 00:25:25: [playercommands.smx] "Console<0><Console><Console>" slayed "DeadHead<7><BOT><>"
+L 08/12/2020 - 00:25:25: [playercommands.smx] "Console<0><Console><Console>" slayed "ZAWMBEEZ<8><BOT><>"
+L 08/12/2020 - 00:25:25: [playercommands.smx] "Console<0><Console><Console>" slayed "MindlessElectrons<9><BOT><>"
+L 08/12/2020 - 00:25:25: [playercommands.smx] "Console<0><Console><Console>" slayed "TAAAAANK!<10><BOT><>"
+L 08/12/2020 - 00:25:25: [playercommands.smx] "Console<0><Console><Console>" slayed "The Freeman<11><BOT><>"
+L 08/12/2020 - 00:25:25: [playercommands.smx] "Console<0><Console><Console>" slayed "Black Mesa<12><BOT><>"
+L 08/12/2020 - 00:25:25: [playercommands.smx] "Console<0><Console><Console>" slayed "Soulless<13><BOT><>"
+L 08/12/2020 - 00:25:25: [playercommands.smx] "Console<0><Console><Console>" slayed "CEDA<14><BOT><>"
+L 08/12/2020 - 00:25:25: [playercommands.smx] "Console<0><Console><Console>" slayed "BeepBeepBoop<15><BOT><>"
+L 08/12/2020 - 00:25:25: [playercommands.smx] "Console<0><Console><Console>" slayed "NotMe<16><BOT><>"
+L 08/12/2020 - 00:25:25: [playercommands.smx] "Console<0><Console><Console>" slayed "CreditToTeam<17><BOT><>"
+L 08/12/2020 - 00:25:25: [playercommands.smx] "Console<0><Console><Console>" slayed "BoomerBile<18><BOT><>"
+L 08/12/2020 - 00:27:14: [basecommands.smx] "MrFrenzoid<2><[U:1:91292555]><>" changed map to "vsh_Hakurei_Winter_v2"
+L 08/12/2020 - 00:27:17: [SM] Changed map to "vsh_Hakurei_Winter_v2"
+L 08/12/2020 - 00:27:22: -------- Mapchange to vsh_Hakurei_Winter_v2 --------
+L 08/12/2020 - 00:27:36: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/12/2020 - 00:42:16: [funcommandsX.smx] "MrFrenzoid<2><[U:1:91292555]><>" enabled friendly fire
+L 08/12/2020 - 00:48:05: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 08/12/2020 - 00:48:05: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 08/12/2020 - 00:48:05: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 08/12/2020 - 00:48:06: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 08/12/2020 - 00:48:07: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/12/2020 - 00:48:24: [mapchooser_extended.smx] Voting for next map has started.
+L 08/12/2020 - 00:48:27: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_military_area_b1_lolwat2.
+L 08/12/2020 - 00:53:25: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 08/12/2020 - 00:53:25: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 08/12/2020 - 00:53:25: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 08/12/2020 - 00:53:26: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 08/12/2020 - 00:53:27: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/12/2020 - 00:53:44: [mapchooser_extended.smx] Voting for next map has started.
+L 08/12/2020 - 00:53:50: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: arena_yunshu_rc1.
+L 08/12/2020 - 00:54:15: [SetSpeed.smx] "MrFrenzoid<2><[U:1:91292555]><>" set speed of  "MrFrenzoid<2><[U:1:91292555]><>" to (520.000000)
+L 08/12/2020 - 00:55:10: [SetSpeed.smx] "MrFrenzoid<2><[U:1:91292555]><>" reset speed of  "MrFrenzoid<2><[U:1:91292555]><>" to Normal
+L 08/12/2020 - 00:56:07: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 08/12/2020 - 00:56:07: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 08/12/2020 - 00:56:07: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 08/12/2020 - 00:56:08: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 08/12/2020 - 00:56:08: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/12/2020 - 00:56:25: [mapchooser_extended.smx] Voting for next map has started.
+L 08/12/2020 - 00:56:45: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_dunger_b2a.
+L 08/12/2020 - 00:58:16: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 08/12/2020 - 00:58:16: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 08/12/2020 - 00:58:16: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 08/12/2020 - 00:58:17: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 08/12/2020 - 00:58:17: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/12/2020 - 00:58:33: [mapchooser_extended.smx] Voting for next map has started.
+L 08/12/2020 - 00:58:35: [SM] Changed map to "vsh_abandoned_warehouse_final_v3"
+L 08/12/2020 - 00:58:39: -------- Mapchange to vsh_abandoned_warehouse_final_v3 --------
+L 08/12/2020 - 00:58:54: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/12/2020 - 01:01:52: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 08/12/2020 - 01:01:52: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 08/12/2020 - 01:01:52: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 08/12/2020 - 01:01:52: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 08/12/2020 - 01:01:53: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/12/2020 - 01:03:15: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 08/12/2020 - 01:03:15: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 08/12/2020 - 01:03:15: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 08/12/2020 - 01:03:16: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 08/12/2020 - 01:03:16: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/12/2020 - 01:04:04: [respawn.smx] "MrFrenzoid<2><[U:1:91292555]><>" respawned "MrFrenzoid<2><[U:1:91292555]><>"
+L 08/12/2020 - 01:04:18: [respawn.smx] "MrFrenzoid<2><[U:1:91292555]><>" respawned "MrFrenzoid<2><[U:1:91292555]><>"
+L 08/12/2020 - 01:06:24: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 08/12/2020 - 01:06:24: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 08/12/2020 - 01:06:24: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 08/12/2020 - 01:06:25: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 08/12/2020 - 01:06:25: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/12/2020 - 01:07:16: [basecommands.smx] "MrFrenzoid<2><[U:1:91292555]><>" changed map to "vsh_citypeak_v1_sg1"
+L 08/12/2020 - 01:07:19: [SM] Changed map to "vsh_citypeak_v1_sg1"
+L 08/12/2020 - 01:07:23: -------- Mapchange to vsh_citypeak_v1_sg1 --------
+L 08/12/2020 - 01:07:38: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/12/2020 - 01:10:20: [respawn.smx] "Nezzie<19><[U:1:107910185]><>" respawned "Nezzie<19><[U:1:107910185]><>"
+L 08/12/2020 - 01:16:36: [basecommands.smx] "MrFrenzoid<2><[U:1:91292555]><>" changed map to "vsh_Hakurei_Winter_v2"
+L 08/12/2020 - 01:16:39: [SM] Changed map to "vsh_Hakurei_Winter_v2"
+L 08/12/2020 - 01:16:47: -------- Mapchange to vsh_Hakurei_Winter_v2 --------
+L 08/12/2020 - 01:17:00: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/12/2020 - 01:19:05: [funcommands.smx] "MrFrenzoid<2><[U:1:91292555]><>" froze "Chell<69><BOT><>"
+L 08/12/2020 - 01:37:15: [mapchooser_extended.smx] Voting for next map has started.
+L 08/12/2020 - 02:19:41: [SM] Changed map to "vsh_cairo_pyramid_v4"
+L 08/12/2020 - 02:19:45: -------- Mapchange to vsh_cairo_pyramid_v4 --------
+L 08/12/2020 - 02:19:58: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/12/2020 - 02:40:13: [mapchooser_extended.smx] Voting for next map has started.
+L 08/12/2020 - 09:17:15: [basecommands.smx] "MrFrenzoid<75><[U:1:91292555]><>" changed map to "vsh_dirtmound_b9"
+L 08/12/2020 - 09:17:18: [SM] Changed map to "vsh_dirtmound_b9"
+L 08/12/2020 - 09:17:20: -------- Mapchange to vsh_dirtmound_b9 --------
+L 08/12/2020 - 09:17:31: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/12/2020 - 09:32:24: [basechat.smx] "Console<0><Console><Console>" triggered sm_say (text The round time has ended, omaewa-mou shindeiru)
+L 08/12/2020 - 09:32:24: [playercommands.smx] "Console<0><Console><Console>" slayed "MrFrenzoid<75><[U:1:91292555]><>"
+L 08/12/2020 - 09:32:24: [playercommands.smx] "Console<0><Console><Console>" slayed "Nom Nom Nom<112><BOT><>"
+L 08/12/2020 - 09:37:46: [mapchooser_extended.smx] Voting for next map has started.
+L 08/12/2020 - 09:52:57: [basecommands.smx] "MrFrenzoid<75><[U:1:91292555]><>" changed map to "vsh_evilrefuge"
+L 08/12/2020 - 09:53:00: [SM] Changed map to "vsh_evilrefuge"
+L 08/12/2020 - 09:53:04: -------- Mapchange to vsh_evilrefuge --------
+L 08/12/2020 - 09:53:14: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/12/2020 - 09:55:39: [playercommands.smx] "MrFrenzoid<75><[U:1:91292555]><>" slayed "GENTLE MANNE of LEISURE<113><BOT><>"
+L 08/12/2020 - 09:59:29: [playercommands.smx] "MrFrenzoid<75><[U:1:91292555]><>" slayed "MoreGun<114><BOT><>"
+L 08/12/2020 - 10:01:46: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 08/12/2020 - 10:01:46: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 08/12/2020 - 10:01:46: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 08/12/2020 - 10:01:46: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 08/12/2020 - 10:01:47: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/12/2020 - 10:02:55: [playercommands.smx] "MrFrenzoid<75><[U:1:91292555]><>" slayed "MoreGun<114><BOT><>"
+L 08/12/2020 - 10:10:45: [basecommands.smx] "MrFrenzoid<75><[U:1:91292555]><>" changed map to "arena_suijin_rc2"
+L 08/12/2020 - 10:10:48: [SM] Changed map to "arena_suijin_rc2"
+L 08/12/2020 - 10:10:52: -------- Mapchange to arena_suijin_rc2 --------
+L 08/12/2020 - 10:11:01: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/12/2020 - 10:19:01: [basecommands.smx] "MrFrenzoid<75><[U:1:91292555]><>" changed map to "arena_suijin_rc2"
+L 08/12/2020 - 10:19:04: [SM] Changed map to "arena_suijin_rc2"
+L 08/12/2020 - 10:19:06: -------- Mapchange to arena_suijin_rc2 --------
+L 08/12/2020 - 10:19:16: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/12/2020 - 10:22:26: [respawn.smx] "Console<0><Console><Console>" respawned "A Professional With Standards<119><BOT><>"
+L 08/12/2020 - 10:22:26: [respawn.smx] "Console<0><Console><Console>" respawned "Freakin' Unbelievable<120><BOT><>"
+L 08/12/2020 - 10:22:26: [respawn.smx] "Console<0><Console><Console>" respawned "SMELLY UNFORTUNATE<121><BOT><>"
+L 08/12/2020 - 10:22:26: [respawn.smx] "Console<0><Console><Console>" respawned "The Administrator<122><BOT><>"
+L 08/12/2020 - 10:22:26: [respawn.smx] "Console<0><Console><Console>" respawned "Mentlegen<123><BOT><>"
+L 08/12/2020 - 10:22:26: [respawn.smx] "Console<0><Console><Console>" respawned "Archimedes!<124><BOT><>"
+L 08/12/2020 - 10:22:26: [respawn.smx] "Console<0><Console><Console>" respawned "Ribs Grow Back<125><BOT><>"
+L 08/12/2020 - 10:22:26: [respawn.smx] "Console<0><Console><Console>" respawned "It's Filthy in There!<126><BOT><>"
+L 08/12/2020 - 10:22:26: [respawn.smx] "Console<0><Console><Console>" respawned "Mega Baboon<127><BOT><>"
+L 08/12/2020 - 10:22:26: [respawn.smx] "Console<0><Console><Console>" respawned "Kill Me<128><BOT><>"
+L 08/12/2020 - 10:22:26: [respawn.smx] "Console<0><Console><Console>" respawned "Glorified Toaster with Legs<129><BOT><>"
+L 08/12/2020 - 10:22:26: [respawn.smx] "Console<0><Console><Console>" respawned "Chucklenuts<130><BOT><>"
+L 08/12/2020 - 10:22:26: [respawn.smx] "Console<0><Console><Console>" respawned "CryBaby<131><BOT><>"
+L 08/12/2020 - 10:22:26: [respawn.smx] "Console<0><Console><Console>" respawned "WITCH<132><BOT><>"
+L 08/12/2020 - 10:22:26: [respawn.smx] "Console<0><Console><Console>" respawned "ThatGuy<133><BOT><>"
+L 08/12/2020 - 10:22:26: [respawn.smx] "Console<0><Console><Console>" respawned "Still Alive<134><BOT><>"
+L 08/12/2020 - 10:22:26: [respawn.smx] "Console<0><Console><Console>" respawned "Hat-Wearing MAN<135><BOT><>"
+L 08/12/2020 - 10:22:27: [respawn.smx] "Console<0><Console><Console>" respawned "Me<136><BOT><>"
+L 08/12/2020 - 10:22:27: [respawn.smx] "Console<0><Console><Console>" respawned "Numnutz<137><BOT><>"
+L 08/12/2020 - 10:22:27: [respawn.smx] "Console<0><Console><Console>" respawned "H@XX0RZ<138><BOT><>"
+L 08/12/2020 - 10:22:27: [respawn.smx] "Console<0><Console><Console>" respawned "The G-Man<139><BOT><>"
+L 08/12/2020 - 10:22:27: [respawn.smx] "Console<0><Console><Console>" respawned "Chell<140><BOT><>"
+L 08/12/2020 - 10:22:27: [respawn.smx] "Console<0><Console><Console>" respawned "The Combine<141><BOT><>"
+L 08/12/2020 - 10:22:27: [respawn.smx] "Console<0><Console><Console>" respawned "Totally Not A Bot<142><BOT><>"
+L 08/12/2020 - 10:22:27: [respawn.smx] "Console<0><Console><Console>" respawned "Pow!<143><BOT><>"
+L 08/12/2020 - 10:22:43: [funcommandsX.smx] "MrFrenzoid<75><[U:1:91292555]><>" disabled friendly fire
+L 08/12/2020 - 10:22:44: [respawn.smx] "Console<0><Console><Console>" respawned "A Professional With Standards<119><BOT><>"
+L 08/12/2020 - 10:22:44: [respawn.smx] "Console<0><Console><Console>" respawned "H@XX0RZ<138><BOT><>"
+L 08/12/2020 - 10:22:44: [respawn.smx] "Console<0><Console><Console>" respawned "The Combine<141><BOT><>"
+L 08/12/2020 - 10:22:44: [respawn.smx] "Console<0><Console><Console>" respawned "Totally Not A Bot<142><BOT><>"
+L 08/12/2020 - 10:22:44: [respawn.smx] "Console<0><Console><Console>" respawned "Pow!<143><BOT><>"
+L 08/12/2020 - 10:23:44: [respawn.smx] "Console<0><Console><Console>" respawned "A Professional With Standards<119><BOT><>"
+L 08/12/2020 - 10:23:44: [respawn.smx] "Console<0><Console><Console>" respawned "Freakin' Unbelievable<120><BOT><>"
+L 08/12/2020 - 10:23:44: [respawn.smx] "Console<0><Console><Console>" respawned "SMELLY UNFORTUNATE<121><BOT><>"
+L 08/12/2020 - 10:23:44: [respawn.smx] "Console<0><Console><Console>" respawned "The Administrator<122><BOT><>"
+L 08/12/2020 - 10:23:44: [respawn.smx] "Console<0><Console><Console>" respawned "Mentlegen<123><BOT><>"
+L 08/12/2020 - 10:23:44: [respawn.smx] "Console<0><Console><Console>" respawned "Archimedes!<124><BOT><>"
+L 08/12/2020 - 10:23:44: [respawn.smx] "Console<0><Console><Console>" respawned "Ribs Grow Back<125><BOT><>"
+L 08/12/2020 - 10:23:44: [respawn.smx] "Console<0><Console><Console>" respawned "It's Filthy in There!<126><BOT><>"
+L 08/12/2020 - 10:23:44: [respawn.smx] "Console<0><Console><Console>" respawned "Mega Baboon<127><BOT><>"
+L 08/12/2020 - 10:23:44: [respawn.smx] "Console<0><Console><Console>" respawned "Kill Me<128><BOT><>"
+L 08/12/2020 - 10:23:44: [respawn.smx] "Console<0><Console><Console>" respawned "Glorified Toaster with Legs<129><BOT><>"
+L 08/12/2020 - 10:23:44: [respawn.smx] "Console<0><Console><Console>" respawned "Chucklenuts<130><BOT><>"
+L 08/12/2020 - 10:23:44: [respawn.smx] "Console<0><Console><Console>" respawned "WITCH<132><BOT><>"
+L 08/12/2020 - 10:23:44: [respawn.smx] "Console<0><Console><Console>" respawned "ThatGuy<133><BOT><>"
+L 08/12/2020 - 10:23:44: [respawn.smx] "Console<0><Console><Console>" respawned "Still Alive<134><BOT><>"
+L 08/12/2020 - 10:23:44: [respawn.smx] "Console<0><Console><Console>" respawned "Hat-Wearing MAN<135><BOT><>"
+L 08/12/2020 - 10:23:44: [respawn.smx] "Console<0><Console><Console>" respawned "Me<136><BOT><>"
+L 08/12/2020 - 10:23:44: [respawn.smx] "Console<0><Console><Console>" respawned "Numnutz<137><BOT><>"
+L 08/12/2020 - 10:23:44: [respawn.smx] "Console<0><Console><Console>" respawned "H@XX0RZ<138><BOT><>"
+L 08/12/2020 - 10:23:44: [respawn.smx] "Console<0><Console><Console>" respawned "The G-Man<139><BOT><>"
+L 08/12/2020 - 10:23:44: [respawn.smx] "Console<0><Console><Console>" respawned "Chell<140><BOT><>"
+L 08/12/2020 - 10:23:44: [respawn.smx] "Console<0><Console><Console>" respawned "The Combine<141><BOT><>"
+L 08/12/2020 - 10:23:44: [respawn.smx] "Console<0><Console><Console>" respawned "Totally Not A Bot<142><BOT><>"
+L 08/12/2020 - 10:23:44: [respawn.smx] "Console<0><Console><Console>" respawned "Pow!<143><BOT><>"
+L 08/12/2020 - 10:23:48: [respawn.smx] "Console<0><Console><Console>" respawned "The Combine<141><BOT><>"
+L 08/12/2020 - 10:23:48: [respawn.smx] "Console<0><Console><Console>" respawned "Totally Not A Bot<142><BOT><>"
+L 08/12/2020 - 10:23:48: [respawn.smx] "Console<0><Console><Console>" respawned "Pow!<143><BOT><>"
+L 08/12/2020 - 10:23:52: [respawn.smx] "Console<0><Console><Console>" respawned "The Combine<141><BOT><>"
+L 08/12/2020 - 10:23:52: [respawn.smx] "Console<0><Console><Console>" respawned "Totally Not A Bot<142><BOT><>"
+L 08/12/2020 - 10:23:52: [respawn.smx] "Console<0><Console><Console>" respawned "Pow!<143><BOT><>"
+L 08/12/2020 - 10:39:31: [mapchooser_extended.smx] Voting for next map has started.
+L 08/12/2020 - 10:41:07: [basechat.smx] "Console<0><Console><Console>" triggered sm_say (text The round time has ended, omaewa-mou shindeiru)
+L 08/12/2020 - 10:41:07: [playercommands.smx] "Console<0><Console><Console>" slayed "MrFrenzoid<145><[U:1:91292555]><>"
+L 08/12/2020 - 10:41:07: [playercommands.smx] "Console<0><Console><Console>" slayed "10001011101<147><BOT><>"
+L 08/12/2020 - 10:41:07: [playercommands.smx] "Console<0><Console><Console>" slayed "ZAWMBEEZ<149><BOT><>"
+L 08/12/2020 - 10:41:07: [playercommands.smx] "Console<0><Console><Console>" slayed "Black Mesa<153><BOT><>"
+L 08/12/2020 - 10:41:07: [playercommands.smx] "Console<0><Console><Console>" slayed "Soulless<154><BOT><>"
+L 08/12/2020 - 10:41:07: [playercommands.smx] "Console<0><Console><Console>" slayed "NotMe<157><BOT><>"
+L 08/12/2020 - 10:41:07: [playercommands.smx] "Console<0><Console><Console>" slayed "BoomerBile<159><BOT><>"
+L 08/12/2020 - 10:41:07: [playercommands.smx] "Console<0><Console><Console>" slayed "Someone Else<160><BOT><>"
+L 08/12/2020 - 10:41:07: [playercommands.smx] "Console<0><Console><Console>" slayed "Mann Co.<161><BOT><>"
+L 08/12/2020 - 10:41:07: [playercommands.smx] "Console<0><Console><Console>" slayed "Dog<162><BOT><>"
+L 08/12/2020 - 10:41:07: [playercommands.smx] "Console<0><Console><Console>" slayed "Kaboom!<163><BOT><>"
+L 08/12/2020 - 10:41:07: [playercommands.smx] "Console<0><Console><Console>" slayed "0xDEADBEEF<165><BOT><>"
+L 08/12/2020 - 10:41:07: [playercommands.smx] "Console<0><Console><Console>" slayed "HI THERE<166><BOT><>"
+L 08/12/2020 - 10:41:07: [playercommands.smx] "Console<0><Console><Console>" slayed "SomeDude<167><BOT><>"
+L 08/12/2020 - 10:41:07: [playercommands.smx] "Console<0><Console><Console>" slayed "Headful of Eyeballs<170><BOT><>"
+L 08/12/2020 - 10:41:07: [playercommands.smx] "Console<0><Console><Console>" slayed "Aperture Science Prototype XR7<172><BOT><>"
+L 08/12/2020 - 10:41:07: [playercommands.smx] "Console<0><Console><Console>" slayed "Humans Are Weak<173><BOT><>"
+L 08/12/2020 - 10:41:07: [playercommands.smx] "Console<0><Console><Console>" slayed "AimBot<174><BOT><>"
+L 08/12/2020 - 10:41:07: [playercommands.smx] "Console<0><Console><Console>" slayed "C++<175><BOT><>"
+L 08/12/2020 - 10:41:07: [playercommands.smx] "Console<0><Console><Console>" slayed "GutsAndGlory!<176><BOT><>"
+L 08/12/2020 - 10:44:59: [basecommands.smx] "MrFrenzoid<145><[U:1:91292555]><>" changed map to "arena_suijin_rc2"
+L 08/12/2020 - 10:45:02: [SM] Changed map to "arena_suijin_rc2"
+L 08/12/2020 - 10:45:06: -------- Mapchange to arena_suijin_rc2 --------
+L 08/12/2020 - 10:45:15: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/12/2020 - 10:48:11: [respawn.smx] "Console<0><Console><Console>" respawned "Mega Baboon<201><BOT><>"
+L 08/12/2020 - 10:48:12: [respawn.smx] "Console<0><Console><Console>" respawned "Kill Me<202><BOT><>"
+L 08/12/2020 - 10:48:12: [respawn.smx] "Console<0><Console><Console>" respawned "Glorified Toaster with Legs<203><BOT><>"
+L 08/12/2020 - 10:48:12: [respawn.smx] "Console<0><Console><Console>" respawned "Chucklenuts<204><BOT><>"
+L 08/12/2020 - 10:48:12: [respawn.smx] "Console<0><Console><Console>" respawned "CryBaby<205><BOT><>"
+L 08/12/2020 - 10:48:12: [respawn.smx] "Console<0><Console><Console>" respawned "WITCH<206><BOT><>"
+L 08/12/2020 - 10:48:12: [respawn.smx] "Console<0><Console><Console>" respawned "ThatGuy<207><BOT><>"
+L 08/12/2020 - 10:48:12: [respawn.smx] "Console<0><Console><Console>" respawned "Still Alive<208><BOT><>"
+L 08/12/2020 - 10:48:12: [respawn.smx] "Console<0><Console><Console>" respawned "Hat-Wearing MAN<209><BOT><>"
+L 08/12/2020 - 10:48:12: [respawn.smx] "Console<0><Console><Console>" respawned "Me<210><BOT><>"
+L 08/12/2020 - 10:48:12: [respawn.smx] "Console<0><Console><Console>" respawned "Numnutz<211><BOT><>"
+L 08/12/2020 - 10:48:12: [respawn.smx] "Console<0><Console><Console>" respawned "H@XX0RZ<212><BOT><>"
+L 08/12/2020 - 10:48:12: [respawn.smx] "Console<0><Console><Console>" respawned "The G-Man<213><BOT><>"
+L 08/12/2020 - 10:48:12: [respawn.smx] "Console<0><Console><Console>" respawned "Chell<214><BOT><>"
+L 08/12/2020 - 10:51:51: [respawn.smx] "Console<0><Console><Console>" respawned "Hostage<242><BOT><>"
+L 08/12/2020 - 10:51:51: [respawn.smx] "Console<0><Console><Console>" respawned "Headful of Eyeballs<243><BOT><>"
+L 08/12/2020 - 10:51:51: [respawn.smx] "Console<0><Console><Console>" respawned "CrySomeMore<244><BOT><>"
+L 08/12/2020 - 10:51:51: [respawn.smx] "Console<0><Console><Console>" respawned "Aperture Science Prototype XR7<245><BOT><>"
+L 08/12/2020 - 11:05:32: [mapchooser_extended.smx] Voting for next map has started.
+L 08/12/2020 - 21:53:15: [basecommands.smx] "MrFrenzoid<249><[U:1:91292555]><>" changed map to "arena_holidaytower"
+L 08/12/2020 - 21:53:18: [SM] Changed map to "arena_holidaytower"
+L 08/12/2020 - 21:53:23: -------- Mapchange to arena_holidaytower --------
+L 08/12/2020 - 21:53:36: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/12/2020 - 21:54:25: [basecommands.smx] "MrFrenzoid<249><[U:1:91292555]><>" changed map to "vsh_impure_v3"
+L 08/12/2020 - 21:54:28: [SM] Changed map to "vsh_impure_v3"
+L 08/12/2020 - 21:54:33: -------- Mapchange to vsh_impure_v3 --------
+L 08/12/2020 - 21:54:46: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/12/2020 - 21:55:39: [basecommands.smx] "MrFrenzoid<249><[U:1:91292555]><>" changed map to "vsh_Hakurei_Winter_v2"
+L 08/12/2020 - 21:55:42: [SM] Changed map to "vsh_Hakurei_Winter_v2"
+L 08/12/2020 - 21:55:48: -------- Mapchange to vsh_Hakurei_Winter_v2 --------
+L 08/12/2020 - 21:56:00: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/12/2020 - 21:59:32: [respawn.smx] "Console<0><Console><Console>" respawned "WITCH<272><BOT><>"
+L 08/12/2020 - 21:59:32: [respawn.smx] "Console<0><Console><Console>" respawned "Still Alive<274><BOT><>"
+L 08/12/2020 - 21:59:32: [respawn.smx] "Console<0><Console><Console>" respawned "Numnutz<277><BOT><>"
+L 08/12/2020 - 21:59:32: [respawn.smx] "Console<0><Console><Console>" respawned "The G-Man<279><BOT><>"
+L 08/12/2020 - 21:59:32: [respawn.smx] "Console<0><Console><Console>" respawned "The Combine<281><BOT><>"
+L 08/12/2020 - 21:59:32: [respawn.smx] "Console<0><Console><Console>" respawned "Totally Not A Bot<282><BOT><>"
+L 08/12/2020 - 21:59:32: [respawn.smx] "Console<0><Console><Console>" respawned "Zepheniah Mann<284><BOT><>"
+L 08/12/2020 - 21:59:32: [respawn.smx] "Console<0><Console><Console>" respawned "The Freeman<292><BOT><>"
+L 08/12/2020 - 21:59:32: [respawn.smx] "Console<0><Console><Console>" respawned "BeepBeepBoop<296><BOT><>"
+L 08/12/2020 - 21:59:32: [respawn.smx] "Console<0><Console><Console>" respawned "NotMe<297><BOT><>"
+L 08/12/2020 - 21:59:32: [respawn.smx] "Console<0><Console><Console>" respawned "CreditToTeam<298><BOT><>"
+L 08/12/2020 - 21:59:32: [respawn.smx] "Console<0><Console><Console>" respawned "BoomerBile<299><BOT><>"
+L 08/12/2020 - 21:59:32: [respawn.smx] "Console<0><Console><Console>" respawned "Someone Else<300><BOT><>"
+L 08/12/2020 - 22:16:16: [mapchooser_extended.smx] Voting for next map has started.
+L 08/14/2020 - 03:24:31: Log file closed.

@@ -1,0 +1,15 @@
+"Games"
+{
+	/* Team Fortress 2 */
+	"tf"
+	{
+		"Offsets"
+		{
+			"CTFProjectile_Arrow::IncrementDeflect"
+			{
+				"windows"			"223"
+				"linux"				"224"
+			}
+		}
+	}
+}

@@ -1,0 +1,20 @@
+L 10/24/2020 - 02:26:12: SourceMod log file session started (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/L20201024.log") (Version "1.10.0.6490")
+L 10/24/2020 - 02:26:12: [SM] Changed map to "vsh_manncohq_v14"
+L 10/24/2020 - 02:26:15: -------- Mapchange to vsh_manncohq_v14 --------
+L 10/24/2020 - 02:26:24: [mapchooser_extended.smx] Loaded map list for tf.
+L 10/24/2020 - 02:46:44: [mapchooser_extended.smx] Voting for next map has started.
+L 10/24/2020 - 02:46:45: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_area_54tress_b4.
+L 10/24/2020 - 02:57:52: [SM] Changed map to "vsh_area_54tress_b4"
+L 10/24/2020 - 02:57:54: -------- Mapchange to vsh_area_54tress_b4 --------
+L 10/24/2020 - 02:58:05: [mapchooser_extended.smx] Loaded map list for tf.
+L 10/24/2020 - 03:18:20: [mapchooser_extended.smx] Voting for next map has started.
+L 10/24/2020 - 03:18:23: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_gyros_v5.
+L 10/24/2020 - 20:31:39: [SM] Changed map to "vsh_gyros_v5"
+L 10/24/2020 - 20:31:44: -------- Mapchange to vsh_gyros_v5 --------
+L 10/24/2020 - 20:31:56: [mapchooser_extended.smx] Loaded map list for tf.
+L 10/24/2020 - 20:52:11: [mapchooser_extended.smx] Voting for next map has started.
+L 10/24/2020 - 21:54:16: [SM] Changed map to "vsh_Hakurei_Winter_v2"
+L 10/24/2020 - 21:54:21: -------- Mapchange to vsh_Hakurei_Winter_v2 --------
+L 10/24/2020 - 21:54:33: [mapchooser_extended.smx] Loaded map list for tf.
+L 10/24/2020 - 22:14:47: [mapchooser_extended.smx] Voting for next map has started.
+L 10/25/2020 - 01:04:48: Log file closed.

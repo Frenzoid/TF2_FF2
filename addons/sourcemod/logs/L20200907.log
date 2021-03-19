@@ -1,0 +1,239 @@
+L 09/07/2020 - 00:32:47: SourceMod log file session started (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/L20200907.log") (Version "1.10.0.6490")
+L 09/07/2020 - 00:32:47: [basecommands.smx] "Nezzie<13><[U:1:107910185]><>" changed map to "vsh_area_54tress_b4"
+L 09/07/2020 - 00:32:50: [SM] Changed map to "vsh_area_54tress_b4"
+L 09/07/2020 - 00:32:52: -------- Mapchange to vsh_area_54tress_b4 --------
+L 09/07/2020 - 00:33:04: [mapchooser_extended.smx] Loaded map list for tf.
+L 09/07/2020 - 00:34:56: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 09/07/2020 - 00:34:56: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 09/07/2020 - 00:34:56: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 09/07/2020 - 00:34:57: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 09/07/2020 - 00:34:57: [mapchooser_extended.smx] Loaded map list for tf.
+L 09/07/2020 - 00:35:33: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 09/07/2020 - 00:35:33: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 09/07/2020 - 00:35:33: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 09/07/2020 - 00:35:34: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 09/07/2020 - 00:35:34: [mapchooser_extended.smx] Loaded map list for tf.
+L 09/07/2020 - 00:38:32: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 09/07/2020 - 00:38:32: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 09/07/2020 - 00:38:32: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 09/07/2020 - 00:38:33: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 09/07/2020 - 00:38:33: [mapchooser_extended.smx] Loaded map list for tf.
+L 09/07/2020 - 00:39:45: [funcommandsX.smx] "Nezzie<13><[U:1:107910185]><>" teleported "Saxton Hale<21><BOT><>"
+L 09/07/2020 - 00:41:09: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 09/07/2020 - 00:41:09: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 09/07/2020 - 00:41:09: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 09/07/2020 - 00:41:10: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 09/07/2020 - 00:41:10: [mapchooser_extended.smx] Loaded map list for tf.
+L 09/07/2020 - 00:42:45: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 09/07/2020 - 00:42:45: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 09/07/2020 - 00:42:45: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 09/07/2020 - 00:42:45: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 09/07/2020 - 00:42:45: [mapchooser_extended.smx] Loaded map list for tf.
+L 09/07/2020 - 00:43:59: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 09/07/2020 - 00:43:59: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 09/07/2020 - 00:43:59: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 09/07/2020 - 00:43:59: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 09/07/2020 - 00:43:59: [mapchooser_extended.smx] Loaded map list for tf.
+L 09/07/2020 - 00:46:26: [funcommands.smx] "Nezzie<13><[U:1:107910185]><>" froze "Saxton Hale<21><BOT><>"
+L 09/07/2020 - 00:48:22: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 09/07/2020 - 00:48:22: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 09/07/2020 - 00:48:22: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 09/07/2020 - 00:48:23: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 09/07/2020 - 00:48:23: [mapchooser_extended.smx] Loaded map list for tf.
+L 09/07/2020 - 00:50:09: [funcommands.smx] "Nezzie<13><[U:1:107910185]><>" froze "Saxton Hale<21><BOT><>"
+L 09/07/2020 - 00:50:41: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 09/07/2020 - 00:50:41: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 09/07/2020 - 00:50:41: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 09/07/2020 - 00:50:41: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 09/07/2020 - 00:50:42: [mapchooser_extended.smx] Loaded map list for tf.
+L 09/07/2020 - 00:51:32: [respawn.smx] "Nezzie<13><[U:1:107910185]><>" respawned "Nezzie<13><[U:1:107910185]><>"
+L 09/07/2020 - 00:52:57: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 09/07/2020 - 00:52:57: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 09/07/2020 - 00:52:57: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 09/07/2020 - 00:52:57: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 09/07/2020 - 00:52:57: [mapchooser_extended.smx] Loaded map list for tf.
+L 09/07/2020 - 00:53:31: [playercommands.smx] "Nezzie<13><[U:1:107910185]><>" slayed "Saxton Hale<21><BOT><>"
+L 09/07/2020 - 00:53:34: [mapchooser_extended.smx] Voting for next map has started.
+L 09/07/2020 - 00:53:39: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_intrusion_rc2.
+L 09/07/2020 - 00:57:47: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 09/07/2020 - 00:57:47: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 09/07/2020 - 00:57:47: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 09/07/2020 - 00:57:48: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 09/07/2020 - 00:57:48: [mapchooser_extended.smx] Loaded map list for tf.
+L 09/07/2020 - 00:58:05: [mapchooser_extended.smx] Voting for next map has started.
+L 09/07/2020 - 00:58:11: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_egyptyspot_v2.
+L 09/07/2020 - 00:59:40: [playercommands.smx] "Nezzie<13><[U:1:107910185]><>" slayed "Saxton Hale<21><BOT><>"
+L 09/07/2020 - 01:03:59: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 09/07/2020 - 01:03:59: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 09/07/2020 - 01:03:59: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 09/07/2020 - 01:04:00: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 09/07/2020 - 01:04:00: [mapchooser_extended.smx] Loaded map list for tf.
+L 09/07/2020 - 01:04:05: [basecommands.smx] "Nezzie<13><[U:1:107910185]><>" changed map to "vsh_area_54tress_b4"
+L 09/07/2020 - 01:04:08: [SM] Changed map to "vsh_area_54tress_b4"
+L 09/07/2020 - 01:04:10: -------- Mapchange to vsh_area_54tress_b4 --------
+L 09/07/2020 - 01:04:24: [mapchooser_extended.smx] Loaded map list for tf.
+L 09/07/2020 - 01:05:52: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 09/07/2020 - 01:05:52: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 09/07/2020 - 01:05:52: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 09/07/2020 - 01:05:52: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 09/07/2020 - 01:05:53: [mapchooser_extended.smx] Loaded map list for tf.
+L 09/07/2020 - 01:06:27: [playercommands.smx] "Nezzie<13><[U:1:107910185]><>" slayed "test1<26><BOT><>"
+L 09/07/2020 - 01:07:26: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 09/07/2020 - 01:07:26: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 09/07/2020 - 01:07:26: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 09/07/2020 - 01:07:26: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 09/07/2020 - 01:07:27: [mapchooser_extended.smx] Loaded map list for tf.
+L 09/07/2020 - 01:07:57: [funcommandsX.smx] "Nezzie<13><[U:1:107910185]><>" teleported "test1<26><BOT><>"
+L 09/07/2020 - 01:08:25: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 09/07/2020 - 01:08:25: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 09/07/2020 - 01:08:25: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 09/07/2020 - 01:08:26: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 09/07/2020 - 01:08:26: [mapchooser_extended.smx] Loaded map list for tf.
+L 09/07/2020 - 01:11:21: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 09/07/2020 - 01:11:21: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 09/07/2020 - 01:11:21: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 09/07/2020 - 01:11:22: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 09/07/2020 - 01:11:22: [mapchooser_extended.smx] Loaded map list for tf.
+L 09/07/2020 - 01:13:04: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 09/07/2020 - 01:13:04: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 09/07/2020 - 01:13:04: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 09/07/2020 - 01:13:04: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 09/07/2020 - 01:13:05: [mapchooser_extended.smx] Loaded map list for tf.
+L 09/07/2020 - 01:16:06: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 09/07/2020 - 01:16:06: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 09/07/2020 - 01:16:06: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 09/07/2020 - 01:16:06: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 09/07/2020 - 01:16:07: [mapchooser_extended.smx] Loaded map list for tf.
+L 09/07/2020 - 01:17:42: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 09/07/2020 - 01:17:42: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 09/07/2020 - 01:17:42: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 09/07/2020 - 01:17:43: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 09/07/2020 - 01:17:43: [mapchooser_extended.smx] Loaded map list for tf.
+L 09/07/2020 - 01:18:26: [funcommandsX.smx] "Nezzie<13><[U:1:107910185]><>" teleported "Nezzie<13><[U:1:107910185]><>"
+L 09/07/2020 - 01:18:28: [funcommandsX.smx] "Nezzie<13><[U:1:107910185]><>" teleported "Nezzie<13><[U:1:107910185]><>"
+L 09/07/2020 - 01:18:41: [funcommands.smx] "Nezzie<13><[U:1:107910185]><>" froze "test1<26><BOT><>"
+L 09/07/2020 - 01:19:00: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 09/07/2020 - 01:19:00: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 09/07/2020 - 01:19:00: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 09/07/2020 - 01:19:01: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 09/07/2020 - 01:19:01: [mapchooser_extended.smx] Loaded map list for tf.
+L 09/07/2020 - 01:20:13: [funcommandsX.smx] "Nezzie<13><[U:1:107910185]><>" teleported "test1<26><BOT><>"
+L 09/07/2020 - 01:20:14: [funcommandsX.smx] "Nezzie<13><[U:1:107910185]><>" teleported "test1<26><BOT><>"
+L 09/07/2020 - 01:23:26: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 09/07/2020 - 01:23:26: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 09/07/2020 - 01:23:26: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 09/07/2020 - 01:23:27: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 09/07/2020 - 01:23:28: [mapchooser_extended.smx] Loaded map list for tf.
+L 09/07/2020 - 01:25:06: [mapchooser_extended.smx] Voting for next map has started.
+L 09/07/2020 - 01:27:45: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 09/07/2020 - 01:27:45: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 09/07/2020 - 01:27:45: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 09/07/2020 - 01:27:46: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 09/07/2020 - 01:27:47: [mapchooser_extended.smx] Loaded map list for tf.
+L 09/07/2020 - 01:28:03: [mapchooser_extended.smx] Voting for next map has started.
+L 09/07/2020 - 01:28:04: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_yammoe_rc3.
+L 09/07/2020 - 01:29:07: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 09/07/2020 - 01:29:07: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 09/07/2020 - 01:29:07: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 09/07/2020 - 01:29:07: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 09/07/2020 - 01:29:08: [mapchooser_extended.smx] Loaded map list for tf.
+L 09/07/2020 - 01:29:24: [mapchooser_extended.smx] Voting for next map has started.
+L 09/07/2020 - 01:29:25: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_nebula_rc1.
+L 09/07/2020 - 01:29:45: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 09/07/2020 - 01:29:45: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 09/07/2020 - 01:29:45: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 09/07/2020 - 01:29:46: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 09/07/2020 - 01:29:46: [mapchooser_extended.smx] Loaded map list for tf.
+L 09/07/2020 - 01:30:02: [mapchooser_extended.smx] Voting for next map has started.
+L 09/07/2020 - 01:30:06: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_pruvia_v9.
+L 09/07/2020 - 01:31:53: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 09/07/2020 - 01:31:53: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 09/07/2020 - 01:31:53: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 09/07/2020 - 01:31:53: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 09/07/2020 - 01:31:54: [mapchooser_extended.smx] Loaded map list for tf.
+L 09/07/2020 - 01:32:10: [mapchooser_extended.smx] Voting for next map has started.
+L 09/07/2020 - 01:32:14: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_abandoned_warehouse_final_v3.
+L 09/07/2020 - 01:33:10: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 09/07/2020 - 01:33:10: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 09/07/2020 - 01:33:10: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 09/07/2020 - 01:33:10: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 09/07/2020 - 01:33:10: [mapchooser_extended.smx] Loaded map list for tf.
+L 09/07/2020 - 01:35:28: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 09/07/2020 - 01:35:28: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 09/07/2020 - 01:35:28: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 09/07/2020 - 01:35:29: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 09/07/2020 - 01:35:31: [mapchooser_extended.smx] Loaded map list for tf.
+L 09/07/2020 - 01:36:11: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 09/07/2020 - 01:36:11: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 09/07/2020 - 01:36:11: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 09/07/2020 - 01:36:12: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 09/07/2020 - 01:36:12: [mapchooser_extended.smx] Loaded map list for tf.
+L 09/07/2020 - 01:55:22: [mapchooser_extended.smx] Voting for next map has started.
+L 09/07/2020 - 02:16:01: [SM] Changed map to "vsh_drejun_v3"
+L 09/07/2020 - 02:16:04: -------- Mapchange to vsh_drejun_v3 --------
+L 09/07/2020 - 02:16:16: [mapchooser_extended.smx] Loaded map list for tf.
+L 09/07/2020 - 02:36:30: [mapchooser_extended.smx] Voting for next map has started.
+L 09/07/2020 - 19:49:22: [basecommands.smx] "Nezzie<33><[U:1:107910185]><>" changed map to "vsh_abandoned_warehouse_final_v3"
+L 09/07/2020 - 19:49:25: [SM] Changed map to "vsh_abandoned_warehouse_final_v3"
+L 09/07/2020 - 19:49:29: -------- Mapchange to vsh_abandoned_warehouse_final_v3 --------
+L 09/07/2020 - 19:49:38: [mapchooser_extended.smx] Loaded map list for tf.
+L 09/07/2020 - 19:51:14: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 09/07/2020 - 19:51:14: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 09/07/2020 - 19:51:14: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 09/07/2020 - 19:51:14: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 09/07/2020 - 19:51:15: [mapchooser_extended.smx] Loaded map list for tf.
+L 09/07/2020 - 19:52:04: [funcommandsX.smx] "Nezzie<33><[U:1:107910185]><>" teleported "Crazed Gunman<39><BOT><>"
+L 09/07/2020 - 19:52:21: [funcommands.smx] "Nezzie<33><[U:1:107910185]><>" froze "Crazed Gunman<39><BOT><>"
+L 09/07/2020 - 19:52:39: [funcommands.smx] "Nezzie<33><[U:1:107910185]><>" froze "Crazed Gunman<39><BOT><>"
+L 09/07/2020 - 19:53:19: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 09/07/2020 - 19:53:19: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 09/07/2020 - 19:53:19: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 09/07/2020 - 19:53:19: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 09/07/2020 - 19:53:20: [mapchooser_extended.smx] Loaded map list for tf.
+L 09/07/2020 - 19:53:46: [funcommandsX.smx] "Nezzie<33><[U:1:107910185]><>" teleported "test1<41><BOT><>"
+L 09/07/2020 - 19:54:37: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 09/07/2020 - 19:54:37: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 09/07/2020 - 19:54:37: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 09/07/2020 - 19:54:37: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 09/07/2020 - 19:54:37: [mapchooser_extended.smx] Loaded map list for tf.
+L 09/07/2020 - 19:54:59: [funcommandsX.smx] "Nezzie<33><[U:1:107910185]><>" teleported "test1<41><BOT><>"
+L 09/07/2020 - 19:55:34: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 09/07/2020 - 19:55:34: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 09/07/2020 - 19:55:34: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 09/07/2020 - 19:55:34: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 09/07/2020 - 19:55:34: [mapchooser_extended.smx] Loaded map list for tf.
+L 09/07/2020 - 19:59:17: [funcommandsX.smx] "Nezzie<33><[U:1:107910185]><>" teleported "test1<41><BOT><>"
+L 09/07/2020 - 20:02:35: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 09/07/2020 - 20:02:35: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 09/07/2020 - 20:02:35: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 09/07/2020 - 20:02:36: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 09/07/2020 - 20:02:36: [mapchooser_extended.smx] Loaded map list for tf.
+L 09/07/2020 - 20:03:02: [funcommandsX.smx] "Nezzie<33><[U:1:107910185]><>" teleported "test1<41><BOT><>"
+L 09/07/2020 - 20:03:46: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 09/07/2020 - 20:03:46: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 09/07/2020 - 20:03:46: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 09/07/2020 - 20:03:46: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 09/07/2020 - 20:03:46: [mapchooser_extended.smx] Loaded map list for tf.
+L 09/07/2020 - 20:09:16: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 09/07/2020 - 20:09:16: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 09/07/2020 - 20:09:16: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 09/07/2020 - 20:09:17: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 09/07/2020 - 20:09:18: [mapchooser_extended.smx] Loaded map list for tf.
+L 09/07/2020 - 20:09:53: [funcommandsX.smx] "Nezzie<33><[U:1:107910185]><>" teleported "test1<41><BOT><>"
+L 09/07/2020 - 20:10:12: [mapchooser_extended.smx] Voting for next map has started.
+L 09/07/2020 - 20:10:26: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_gyros_v5.
+L 09/07/2020 - 20:10:36: [playercommands.smx] "Nezzie<33><[U:1:107910185]><>" slayed "test1<41><BOT><>"
+L 09/07/2020 - 20:13:22: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 09/07/2020 - 20:13:22: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 09/07/2020 - 20:13:22: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 09/07/2020 - 20:13:23: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 09/07/2020 - 20:13:23: [mapchooser_extended.smx] Loaded map list for tf.
+L 09/07/2020 - 20:13:40: [mapchooser_extended.smx] Voting for next map has started.
+L 09/07/2020 - 20:13:41: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_intrusion_rc2.
+L 09/07/2020 - 20:15:05: [respawn.smx] "Nezzie<33><[U:1:107910185]><>" respawned "Nezzie<33><[U:1:107910185]><>"
+L 09/07/2020 - 20:15:13: [funcommandsX.smx] "Nezzie<33><[U:1:107910185]><>" teleported "test1<41><BOT><>"
+L 09/07/2020 - 21:32:08: [SM] Changed map to "vsh_intrusion_rc2"
+L 09/07/2020 - 21:32:17: -------- Mapchange to vsh_intrusion_rc2 --------
+L 09/07/2020 - 21:32:32: [mapchooser_extended.smx] Loaded map list for tf.
+L 09/07/2020 - 21:52:46: [mapchooser_extended.smx] Voting for next map has started.
+L 09/10/2020 - 10:33:35: Log file closed.

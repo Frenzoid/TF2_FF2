@@ -1,0 +1,364 @@
+"Store"
+{	
+	"Trails"
+	{
+		"8Bit Mushroom"
+		{
+			"material" "materials/sprites/store/trails/8bitmushroom.vmt"
+			"price" "100000"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"8Bit Pow"
+		{
+			"material" "materials/sprites/store/trails/8bitpow.vmt"
+			"price" "100000"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Airforce"
+		{
+			"material" "materials/sprites/store/trails/airforce.vmt"
+			"price" "100000"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Airforce 2"
+		{
+			"material" "materials/sprites/store/trails/airforce2.vmt"
+			"price" "100000"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Apple"
+		{
+			"material" "materials/sprites/store/trails/apple.vmt"
+			"price" "100000"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Arrow Rainbow"
+		{
+			"material" "materials/sprites/store/trails/arrowrainbow.vmt"
+			"price" "100000"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Arrows"
+		{
+			"material" "materials/sprites/store/trails/arrows.vmt"
+			"price" "100000"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Assassin"
+		{
+			"material" "materials/sprites/store/trails/assasin.vmt"
+			"price" "100000"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+		"Blue Lightning"
+		{
+			"material" "materials/sprites/store/trails/bluelightning.vmt"
+			"price" "100000"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+		"Color Bolt"
+		{
+			"material" "materials/sprites/store/trails/colorbolt.vmt"
+			"price" "100000"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+		"Cracked Beam"
+		{
+			"material" "materials/sprites/store/trails/crackedbeam.vmt"
+			"price" "100000"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+		"Double Rainbow"
+		{
+			"material" "materials/sprites/store/trails/doublerainbow.vmt"
+			"price" "100000"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+		"Dragon"
+		{
+			"material" "materials/sprites/store/trails/dragon.vmt"
+			"price" "100000"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+		"Energy Ball"
+		{
+			"material" "materials/sprites/store/trails/energyball.vmt"
+			"price" "100000"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+		"Hex"
+		{
+            		"material" "materials/sprites/store/trails/hex.vmt"
+			"price" "100000"
+			"color" "255 255 255 255"
+			"type" "trail"
+      		}
+		"Hypnotic"
+		{
+            		"material" "materials/sprites/store/trails/hypnotic.vmt"
+			"price" "100000"
+			"color" "255 255 255 255"
+			"type" "trail"
+       		}
+		"Lightwave"
+		{
+            		"material" "materials/sprites/store/trails/lightwave.vmt"
+			"price" "100000"
+			"color" "255 255 255 255"
+			"type" "trail"
+        	}
+		"Psych Triangle"
+		{
+            		"material" "materials/sprites/store/trails/psychtriangle.vmt"
+			"price" "100000"
+			"color" "255 255 255 255"
+			"type" "trail"
+        	}
+		"Rainbow"
+		{
+            		"material" "materials/sprites/store/trails/rainbow.vmt"
+			"price" "100000"
+			"color" "255 255 255 255"
+			"type" "trail"
+        	}
+	}
+
+	"Chat stuff"
+	{
+		"Name Tags"
+		{
+			"Newbie"
+			{
+				"tag" "{lightblue}Newbie{teamcolor} "
+				"price" "50"
+				"type" "nametag"
+			}
+			"420"
+			{
+				"tag" "{limegreen}420{teamcolor} "
+				"price" "420"
+				"type" "nametag"
+			}
+
+			"Oldbox"
+			{
+				"tag" "{royalblue}Oldbox{teamcolor} "
+				"price" "500"
+				"type" "nametag"
+			}
+			"Boomer"
+			{
+				"tag" "{saddlebrown}Boomer{teamcolor} "
+				"price" "500"
+				"type" "nametag"
+			}
+			"Zoomer"
+			{
+				"tag" "{turquoise}Zoomer{teamcolor} "
+				"price" "500"
+				"type" "nametag"
+			}
+			"Millenial"
+			{
+				"tag" "{steelblue}Millenial{teamcolor} "
+				"price" "500"
+				"type" "nametag"
+			}
+			"simp"
+			{
+				"tag" "{lightskyblue}simp{teamcolor} "
+				"price"	"500"
+				"type"	"nametag"
+			}
+			"Scout"
+			{
+				"tag" "{maroon}Scout{teamcolor} "
+				"price" "1000"
+				"type" "nametag"
+			}
+			"Soldier"
+			{
+				"tag" "{maroon}Soldier{teamcolor} "
+				"price" "1000"
+				"type" "nametag"
+			}
+			"Pyro"
+			{
+				"tag" "{maroon}Pyro{teamcolor} "
+				"price" "1000"
+				"type" "nametag"
+			}
+			"Demoman"
+			{
+				"tag" "{maroon}Demoman{teamcolor} "
+				"price" "1000"
+				"type" "nametag"
+			}
+			"Heavy"
+			{
+				"tag" "{maroon}Heavy{teamcolor} "
+				"price" "1000"
+				"type" "nametag"
+			}
+			"Engineer"
+			{
+				"tag" "{maroon}Engineer{teamcolor} "
+				"price" "1000"
+				"type" "nametag"
+			}
+			"Medic"
+			{
+				"tag" "{maroon}Medic{teamcolor} "
+				"price" "1000"
+				"type" "nametag"
+			}
+			"Sniper"
+			{
+				"tag" "{maroon}Sniper{teamcolor} "
+				"price" "1000"
+				"type" "nametag"
+			}
+			"Spy"
+			{
+				"tag" "{maroon}Spy{teamcolor} "
+				"price" "1000"
+				"type" "nametag"
+			}
+			"Idot"
+			{
+				"tag" "{slategrey}Idot{teamcolor} "
+				"price" "1000"
+				"type" "nametag"
+			}
+			"Gamer"
+			{
+				"tag" "{darkorange}Gamer{teamcolor} "
+				"price" "1000"
+				"type" "nametag"
+			}
+			"Noob"
+			{
+				"tag" "{darkorange}Noob{teamcolor} "
+				"price" "1000"
+				"type" "nametag"
+			}
+			"Sir"
+			{
+				"tag" "{linen}Sir{teamcolor} "
+				"price" "2500"
+				"type" "nametag"
+			}
+			"Miss"
+			{
+				"tag" "{linen}Miss{teamcolor} "
+				"price" "2500"
+				"type" "nametag"
+			}
+			"Femboy"
+			{
+				"tag" "{deeppink}Femboy{teamcolor} "
+				"price"	"2500"
+				"type" "nametag"
+			}
+			"Gaymer"
+			{
+				"tag" "{orchid}Gaymer{teamcolor} "
+				"price" "5000"
+				"type" "nametag"
+			}
+			"Furry"
+			{
+				"tag" "{pink}Furry{teamcolor} "
+				"price" "5000"
+				"type" "nametag"
+			}
+			"Scalie"
+			{
+				"tag" "{darkviolet}Scalie{teamcolor} "
+				"price" "5000"
+				"type" "nametag"
+			}
+			"Weeb"
+			{
+				"tag" "{pink}Weeb{teamcolor} "
+				"price" "5000"
+				"type" "nametag"
+			}
+			"Brrrt"
+			{
+				"tag" "{white}Brrrt{teamcolor} "
+				"price" "5000"
+				"type" "nametag"
+			}
+			"Lucky"
+			{
+				"tag" "{gold}Lucky{teamcolor} "
+				"price" "5000"
+				"type" "nametag"
+			}
+			"Unlucky"
+			{
+				"tag" "{darkmagenta}Unlucky{teamcolor} "
+				"price" "5000"
+				"type" "nametag"
+			}
+			"69"
+			{
+				"tag" "{hotpink}69{teamcolor} "
+				"price" "6969"
+				"type" "nametag"
+			}
+			"♥"
+			{
+				"tag" "{lightpink}♥{teamcolor} "
+				"price" "10000"
+				"type" "nametag"
+			}
+			"☆"
+			{
+				"tag" "{unusual}☆{teamcolor} "
+				"price" "10000"
+				"type" "nametag"
+			}
+			"Hale's Own"
+			{
+				"tag" "{strange}Hale's Own{teamcolor} "
+				"price" "10000"
+				"type" "nametag"
+			}
+			"Hale Slayer"
+			{
+				"tag" "{firebrick}Hale Slayer{teamcolor} "
+				"price" "20000"
+				"type" "nametag"
+			}
+			"Stupid Expensive Tag"
+			{
+				"tag" "{vintage}Stupid Expensive Tag{teamcolor} "
+				"price" "2500000"
+				"type" "nametag"
+			}
+		}
+	}
+}

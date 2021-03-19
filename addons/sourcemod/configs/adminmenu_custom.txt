@@ -1,0 +1,405 @@
+// Custom admin menu commands.
+// For more information:
+//
+// http://wiki.alliedmods.net/Custom_Admin_Menu_%28SourceMod%29
+//
+// Note: This file must be in Valve KeyValues format (no multiline comments)
+//
+
+"Commands"
+{
+	"PlayerCommands"
+	{
+		"Change Players speed"
+		{
+			"cmd"		"sm_setspeed @1 @2"
+			"admin" 	"sm_slay"
+			"execute"	"player"
+			"1"
+			{
+				"type" 		"groupplayer"
+				"method"	"name"
+				"title"		"Target:"
+			}
+			"2"
+			{
+				"type" 		"list"
+				"title"		"Speeds:"
+				"1"		"100"
+				"1."		"100"
+				"2"		"200"
+				"2."		"200"
+				"3"		"300"
+				"3."		"300"
+				"4"		"400"
+				"4."		"400"
+				"5"		"520"
+				"5."		"Max"
+			     // "5*"		"sm_ban" 
+			     // restrict the Maxoption to admins who have access to the 'sm_ban' override
+			}		
+		}
+		"Reset Players speed"
+		{
+			"cmd"		"sm_resetspeed @1"
+			"admin" 	"sm_slay"
+			"execute"	"player"
+			"title"		"Reset speed"
+			"1"
+			{
+				"type" 		"groupplayer"
+				"method"	"name" 
+			}		
+		}
+		"Resize torso"
+		{
+			"cmd"		"sm_resizetorso @1 @2"
+			"admin" 	"sm_ban"
+			"execute"	"player"
+			"1"
+			{
+				"type" 		"groupplayer"
+				"method"	"name"
+				"title"		"Target:"
+			}
+			"2"
+			{
+				"type" 		"list"
+				"title"		"Sizes:"
+				"1"		"0.2"
+				"1."		"x0.2"
+				"2"		"0.5"
+				"2."		"x0.5"
+				"3"		"0.7"
+				"3."		"x0.7"
+				"4"		"1"
+				"4."		"x1"
+				"5"		"2"
+				"5."		"x2"
+				"6"		"4"
+				"6."		"x4"
+				"7"		"7"
+				"7."		"x7"
+				"8"		"10"
+				"8."		"x10"
+			}		
+		}
+		"Resize hands"
+		{
+			"cmd"		"sm_resizehand #1 #2"
+			"admin" 	"sm_ban"
+			"execute"	"player"
+			"1"
+			{
+				"type" 		"groupplayer"
+				"method"	"name"
+				"title"		"Target:"
+			}
+			"2"
+			{
+				"type" 		"list"
+				"title"		"Sizes:"
+				"1"		"0.2"
+				"1."		"x0.2"
+				"2"		"0.5"
+				"2."		"x0.5"
+				"3"		"0.7"
+				"3."		"x0.7"
+				"4"		"1"
+				"4."		"x1"
+				"5"		"2"
+				"5."		"x2"
+				"6"		"4"
+				"6."		"x4"
+				"7"		"7"
+				"7."		"x7"
+				"8"		"10"
+				"8."		"x10"
+			}		
+		}
+		"Add condition"
+		{
+			"cmd"		"sm_addcond #1 #2 #3"
+			"admin" 	"sm_ban"
+			"execute"	"player"
+			"1"
+			{
+				"type" 		"groupplayer"
+				"method"	"name"
+				"title"		"Target:"
+			}
+			"2"
+			{
+				"type" 		"list"
+				"title"		"Condition:"
+            			"1"     "5"
+            			"1."    "Temp Ubercharge"
+            			"2"     "11"
+            			"2."    "Temp Crits"
+            			"3"     "19"
+            			"3."    "Mini-crit"
+           			"4"     "57"
+          			"4."    "Perma Uber"
+         			"5"     "55"
+        		    	"5."    "Healing Aura"
+       			     	"6"     "56"
+            			"6."    "Perma Crits"
+            			"7"     "49"
+            			"7."    "Dispensergise"
+            			"8"     "58"
+            			"8."    "Vaccinator Uber"
+            			"9"     "64"
+            			"9."    "Invisibility"
+            			"10"    "66"
+            			"10."   "Ignore Bots"
+            			"11"    "72"
+            			"11."   "Adrenaline"
+            			"12"    "73"
+            			"12."   "Quick-Fix Uber"
+            			"13"    "74"
+            			"13."   "Titan"
+            			"14"    "75"
+            			"14."   "Mouse"
+            			"15"    "92"
+            			"15."   "Infinite Supply"			
+			}
+			"3"
+			{
+				"type" 		"list"
+				"title"		"Time (seconds):"
+				"1"		"5"
+				"1."		"5"
+				"2"		"10"
+				"2."		"10"
+				"3"		"20"
+				"3."		"20"
+				"4"		"30"
+				"4."		"30"
+				"5"		"60"
+				"5."		"60"
+				"6"		"120"
+				"6."		"120"
+				"7"		"180"
+				"7."		"180"
+				"8"		"99999"
+				"8."		"Until map change."
+			}	
+		}
+		"Remove condition"
+		{
+			"cmd"		"sm_removecond #1 #2"
+			"admin" 	"sm_ban"
+			"execute"	"player"
+			"1"
+			{
+				"type" 		"groupplayer"
+				"method"	"name"
+				"title"		"Target:"
+			}
+			"2"
+			{
+				"type" 		"list"
+				"title"		"Condition:"
+            			"1"     "5"
+            			"1."    "Temp Ubercharge"
+            			"2"     "11"
+            			"2."    "Temp Crits"
+            			"3"     "19"
+            			"3."    "Mini-crit"
+           			"4"     "57"
+          			"4."    "Perma Uber"
+         			"5"     "55"
+        		    	"5."    "Healing Aura"
+       			     	"6"     "56"
+            			"6."    "Perma Crits"
+            			"7"     "49"
+            			"7."    "Dispensergise"
+            			"8"     "58"
+            			"8."    "Vaccinator Uber"
+            			"9"     "64"
+            			"9."    "Invisibility"
+            			"10"    "66"
+            			"10."   "Ignore Bots"
+            			"11"    "72"
+            			"11."   "Adrenaline"
+            			"12"    "73"
+            			"12."   "Quick-Fix Uber"
+            			"13"    "74"
+            			"13."   "Titan"
+            			"14"    "75"
+            			"14."   "Mouse"
+            			"15"    "92"
+            			"15."   "Infinite Supply"			
+			}
+		}
+
+	}
+	"ServerCommands"
+	{
+		"Enable/Disable Bhop & Bounce"
+		{
+			"cmd"		"fc_enabled @1"
+			"admin" 	"sm_ban"
+			"execute"	"server"
+			"1"
+			{
+				"type" 		"list"
+				"method"	"name" 
+				"title"		"Toggle Bounce"
+				"1"		"1"
+				"1."		"On"
+				"2"		"0"
+				"2."		"Off"
+			}
+
+		}
+
+		"Enable/Disable Bounce"
+		{
+			"cmd"		"fc_bounce_enabled @1"
+			"admin" 	"sm_ban"
+			"execute"	"server"
+			"1"
+			{
+				"type" 		"list"
+				"method"	"name" 
+				"title"		"Toggle Bounce"
+				"1"		"1"
+				"1."		"On"
+				"2"		"0"
+				"2."		"Off"
+			}
+
+		}
+		"Change Bhop Y Speed M."
+		{
+			"cmd"		"fc_bhop_mult @1"
+			"admin" 	"sm_ban"
+			"execute"	"server"
+			"1"
+			{
+				"type" 		"list"
+				"title"		"Multipliers:"
+				"1"		"0.2"
+				"1."		"0.2"
+				"2"		"0.5"
+				"2."		"0.5"
+				"3"		"0.7"
+				"3."		"0.7"
+				"4"		"1"
+				"4."		"1"
+				"5"		"2"
+				"5."		"2"
+				"6"		"3"
+				"6."		"3"
+				"7"		"9999"
+				"7."		"Ur fucking serious bruh?"
+			}	
+		}
+		"Change Bhop Z Speed M."
+		{
+			"cmd"		"fc_bhop_zmult @1"
+			"admin" 	"sm_ban"
+			"execute"	"server"
+			"1"
+			{
+				"type" 		"list"
+				"title"		"Multipliers:"
+				"1"		"0.2"
+				"1."		"0.2"
+				"2"		"0.5"
+				"2."		"0.5"
+				"3"		"0.7"
+				"3."		"0.7"
+				"4"		"1"
+				"4."		"1"
+				"5"		"2"
+				"5."		"2"
+				"6"		"3"
+				"6."		"3"
+				"7"		"9999"
+				"7."		"Ur fucking serious bruh?"
+			}	
+		}
+		"Change Bounce Speed M."
+		{
+			"cmd"		"fc_bounce_mult @1"
+			"admin" 	"sm_ban"
+			"execute"	"server"
+			"1"
+			{
+				"type" 		"list"
+				"title"		"Multipliers:"
+				"1"		"0.2"
+				"1."		"0.2"
+				"2"		"0.5"
+				"2."		"0.5"
+				"3"		"0.7"
+				"3."		"0.7"
+				"4"		"1"
+				"4."		"1"
+				"5"		"2"
+				"5."		"2"
+				"6"		"3"
+				"6."		"3"
+				"7"		"9999"
+				"7."		"Ur fucking serious bruh?"
+			}	
+		}
+	}
+	"Extra Admin Tools"
+	{
+		"Stealth"
+		{
+			"cmd"		"sm_stealth"
+			"admin"		"sm_kick"
+			"execute"	"player"
+		}
+		"Hide Disconnect Message"
+		{
+			"cmd"		"sm_suppress_disconnect @1"
+			"admin"		"sm_kick"
+			"execute"	"player"
+			"1"
+			{
+				"type"		"list"
+				"title"		"Enable/Disable"
+				"1"		"sm_suppress_connect 1"
+				"1."		"Enable"
+				"2"		"sm_suppress_connect 0"
+				"2."		"Disable"
+			}
+		}
+		"Hide Connect Message"
+		{
+			"cmd"		"sm_suppress_connect @1"
+			"admin"		"sm_kick"
+			"execute"	"player"
+			"1"
+			{
+				"type"		"list"
+				"title"		"Enable/Disable"
+				"1"		"sm_suppress_connect 1"
+				"1."		"Enable"
+				"2"		"sm_suppress_connect 0"
+				"2."		"Disable"
+			}
+		}
+		"Hide Name Change"
+		{
+			"cmd"		"sm_suppress_namechange @1"
+			"admin"		"sm_kick"
+			"execute"	"player"
+			"1"
+			{
+				"type"		"list"
+				"title"		"Enable/Disable"
+				"1"		"sm_suppress_connect 1"
+				"1."		"Enable"
+				"2"		"sm_suppress_connect 0"
+				"2."		"Disable"
+			}
+		}
+	}
+}
+

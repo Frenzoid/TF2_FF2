@@ -1,0 +1,182 @@
+L 08/17/2020 - 18:47:58: SourceMod error session started
+L 08/17/2020 - 18:47:58: Info (map "arena_offblast_final") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200817.log")
+L 08/17/2020 - 18:47:58: [SM] Exception reported: Array index out-of-bounds (index -1, limit 4)
+L 08/17/2020 - 18:47:58: [SM] Blaming: freak_fortress_2.smx
+L 08/17/2020 - 18:47:58: [SM] Call stack trace:
+L 08/17/2020 - 18:47:58: [SM]   [1] Line 17336, Unofficial Freak Fortress::Native_GetBossCharge
+L 08/17/2020 - 18:47:58: [SM]   [3] FF2_GetBossCharge
+L 08/17/2020 - 18:47:58: [SM]   [4] Line 889, FF2 Subplugin: Bat's Public Pack::FF2_OnAbility2
+L 08/17/2020 - 18:47:58: [SM]   [5] Line 52, D:\batfo_qrgut13\Documents\SourceMod 1.9 Compiler\addons\sourcemod\scripting\include\freak_fortress_2_subplugin.inc::FF2_OnAbility
+L 08/17/2020 - 18:47:58: [SM]   [7] Call_Finish
+L 08/17/2020 - 18:47:58: [SM]   [8] Line 16949, Unofficial Freak Fortress::UseAbility
+L 08/17/2020 - 18:47:58: [SM]   [9] Line 11243, Unofficial Freak Fortress::ActivateAbilitySlot
+L 08/17/2020 - 18:47:58: [SM]   [10] Line 12183, Unofficial Freak Fortress::OnPlayerHurt
+L 08/17/2020 - 18:48:22: [SM] Exception reported: Array index out-of-bounds (index -1, limit 4)
+L 08/17/2020 - 18:48:22: [SM] Blaming: freak_fortress_2.smx
+L 08/17/2020 - 18:48:22: [SM] Call stack trace:
+L 08/17/2020 - 18:48:22: [SM]   [1] Line 17336, Unofficial Freak Fortress::Native_GetBossCharge
+L 08/17/2020 - 18:48:22: [SM]   [3] FF2_GetBossCharge
+L 08/17/2020 - 18:48:22: [SM]   [4] Line 889, FF2 Subplugin: Bat's Public Pack::FF2_OnAbility2
+L 08/17/2020 - 18:48:22: [SM]   [5] Line 52, D:\batfo_qrgut13\Documents\SourceMod 1.9 Compiler\addons\sourcemod\scripting\include\freak_fortress_2_subplugin.inc::FF2_OnAbility
+L 08/17/2020 - 18:48:22: [SM]   [7] Call_Finish
+L 08/17/2020 - 18:48:22: [SM]   [8] Line 16949, Unofficial Freak Fortress::UseAbility
+L 08/17/2020 - 18:48:22: [SM]   [9] Line 11243, Unofficial Freak Fortress::ActivateAbilitySlot
+L 08/17/2020 - 18:48:22: [SM]   [10] Line 12183, Unofficial Freak Fortress::OnPlayerHurt
+L 08/17/2020 - 18:48:37: [SM] Exception reported: Array index out-of-bounds (index -1, limit 4)
+L 08/17/2020 - 18:48:37: [SM] Blaming: freak_fortress_2.smx
+L 08/17/2020 - 18:48:37: [SM] Call stack trace:
+L 08/17/2020 - 18:48:37: [SM]   [1] Line 17336, Unofficial Freak Fortress::Native_GetBossCharge
+L 08/17/2020 - 18:48:37: [SM]   [3] FF2_GetBossCharge
+L 08/17/2020 - 18:48:37: [SM]   [4] Line 889, FF2 Subplugin: Bat's Public Pack::FF2_OnAbility2
+L 08/17/2020 - 18:48:37: [SM]   [5] Line 52, D:\batfo_qrgut13\Documents\SourceMod 1.9 Compiler\addons\sourcemod\scripting\include\freak_fortress_2_subplugin.inc::FF2_OnAbility
+L 08/17/2020 - 18:48:37: [SM]   [7] Call_Finish
+L 08/17/2020 - 18:48:37: [SM]   [8] Line 16949, Unofficial Freak Fortress::UseAbility
+L 08/17/2020 - 18:48:37: [SM]   [9] Line 11243, Unofficial Freak Fortress::ActivateAbilitySlot
+L 08/17/2020 - 18:48:37: [SM]   [10] Line 12183, Unofficial Freak Fortress::OnPlayerHurt
+L 08/17/2020 - 18:48:50: [SM] Exception reported: Array index out-of-bounds (index -1, limit 4)
+L 08/17/2020 - 18:48:50: [SM] Blaming: freak_fortress_2.smx
+L 08/17/2020 - 18:48:50: [SM] Call stack trace:
+L 08/17/2020 - 18:48:50: [SM]   [1] Line 17336, Unofficial Freak Fortress::Native_GetBossCharge
+L 08/17/2020 - 18:48:50: [SM]   [3] FF2_GetBossCharge
+L 08/17/2020 - 18:48:50: [SM]   [4] Line 889, FF2 Subplugin: Bat's Public Pack::FF2_OnAbility2
+L 08/17/2020 - 18:48:50: [SM]   [5] Line 52, D:\batfo_qrgut13\Documents\SourceMod 1.9 Compiler\addons\sourcemod\scripting\include\freak_fortress_2_subplugin.inc::FF2_OnAbility
+L 08/17/2020 - 18:48:50: [SM]   [7] Call_Finish
+L 08/17/2020 - 18:48:50: [SM]   [8] Line 16949, Unofficial Freak Fortress::UseAbility
+L 08/17/2020 - 18:48:50: [SM]   [9] Line 11243, Unofficial Freak Fortress::ActivateAbilitySlot
+L 08/17/2020 - 18:48:50: [SM]   [10] Line 12183, Unofficial Freak Fortress::OnPlayerHurt
+L 08/17/2020 - 19:00:27: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/17/2020 - 19:00:28: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/17/2020 - 19:00:28: [store.smx] Database connection is lost or not yet initialized.
+L 08/17/2020 - 19:00:28: [store.smx] Database connection is lost or not yet initialized.
+L 08/17/2020 - 19:06:14: [SM] Exception reported: Array index out-of-bounds (index -1, limit 4)
+L 08/17/2020 - 19:06:14: [SM] Blaming: freak_fortress_2.smx
+L 08/17/2020 - 19:06:14: [SM] Call stack trace:
+L 08/17/2020 - 19:06:14: [SM]   [1] Line 17336, Unofficial Freak Fortress::Native_GetBossCharge
+L 08/17/2020 - 19:06:14: [SM]   [3] FF2_GetBossCharge
+L 08/17/2020 - 19:06:14: [SM]   [4] Line 889, FF2 Subplugin: Bat's Public Pack::FF2_OnAbility2
+L 08/17/2020 - 19:06:14: [SM]   [5] Line 52, D:\batfo_qrgut13\Documents\SourceMod 1.9 Compiler\addons\sourcemod\scripting\include\freak_fortress_2_subplugin.inc::FF2_OnAbility
+L 08/17/2020 - 19:06:14: [SM]   [7] Call_Finish
+L 08/17/2020 - 19:06:14: [SM]   [8] Line 16949, Unofficial Freak Fortress::UseAbility
+L 08/17/2020 - 19:06:14: [SM]   [9] Line 11243, Unofficial Freak Fortress::ActivateAbilitySlot
+L 08/17/2020 - 19:06:14: [SM]   [10] Line 12183, Unofficial Freak Fortress::OnPlayerHurt
+L 08/17/2020 - 19:06:28: [SM] Exception reported: Array index out-of-bounds (index -1, limit 4)
+L 08/17/2020 - 19:06:28: [SM] Blaming: freak_fortress_2.smx
+L 08/17/2020 - 19:06:28: [SM] Call stack trace:
+L 08/17/2020 - 19:06:28: [SM]   [1] Line 17336, Unofficial Freak Fortress::Native_GetBossCharge
+L 08/17/2020 - 19:06:28: [SM]   [3] FF2_GetBossCharge
+L 08/17/2020 - 19:06:28: [SM]   [4] Line 889, FF2 Subplugin: Bat's Public Pack::FF2_OnAbility2
+L 08/17/2020 - 19:06:28: [SM]   [5] Line 52, D:\batfo_qrgut13\Documents\SourceMod 1.9 Compiler\addons\sourcemod\scripting\include\freak_fortress_2_subplugin.inc::FF2_OnAbility
+L 08/17/2020 - 19:06:28: [SM]   [7] Call_Finish
+L 08/17/2020 - 19:06:28: [SM]   [8] Line 16949, Unofficial Freak Fortress::UseAbility
+L 08/17/2020 - 19:06:28: [SM]   [9] Line 11243, Unofficial Freak Fortress::ActivateAbilitySlot
+L 08/17/2020 - 19:06:28: [SM]   [10] Line 12183, Unofficial Freak Fortress::OnPlayerHurt
+L 08/17/2020 - 19:06:43: [SM] Exception reported: Array index out-of-bounds (index -1, limit 4)
+L 08/17/2020 - 19:06:43: [SM] Blaming: freak_fortress_2.smx
+L 08/17/2020 - 19:06:43: [SM] Call stack trace:
+L 08/17/2020 - 19:06:43: [SM]   [1] Line 17336, Unofficial Freak Fortress::Native_GetBossCharge
+L 08/17/2020 - 19:06:43: [SM]   [3] FF2_GetBossCharge
+L 08/17/2020 - 19:06:43: [SM]   [4] Line 889, FF2 Subplugin: Bat's Public Pack::FF2_OnAbility2
+L 08/17/2020 - 19:06:43: [SM]   [5] Line 52, D:\batfo_qrgut13\Documents\SourceMod 1.9 Compiler\addons\sourcemod\scripting\include\freak_fortress_2_subplugin.inc::FF2_OnAbility
+L 08/17/2020 - 19:06:43: [SM]   [7] Call_Finish
+L 08/17/2020 - 19:06:43: [SM]   [8] Line 16949, Unofficial Freak Fortress::UseAbility
+L 08/17/2020 - 19:06:43: [SM]   [9] Line 11243, Unofficial Freak Fortress::ActivateAbilitySlot
+L 08/17/2020 - 19:06:43: [SM]   [10] Line 12183, Unofficial Freak Fortress::OnPlayerHurt
+L 08/17/2020 - 19:07:55: [SM] Exception reported: Array index out-of-bounds (index -1, limit 4)
+L 08/17/2020 - 19:07:55: [SM] Blaming: freak_fortress_2.smx
+L 08/17/2020 - 19:07:55: [SM] Call stack trace:
+L 08/17/2020 - 19:07:55: [SM]   [1] Line 17336, Unofficial Freak Fortress::Native_GetBossCharge
+L 08/17/2020 - 19:07:55: [SM]   [3] FF2_GetBossCharge
+L 08/17/2020 - 19:07:55: [SM]   [4] Line 889, FF2 Subplugin: Bat's Public Pack::FF2_OnAbility2
+L 08/17/2020 - 19:07:55: [SM]   [5] Line 52, D:\batfo_qrgut13\Documents\SourceMod 1.9 Compiler\addons\sourcemod\scripting\include\freak_fortress_2_subplugin.inc::FF2_OnAbility
+L 08/17/2020 - 19:07:55: [SM]   [7] Call_Finish
+L 08/17/2020 - 19:07:55: [SM]   [8] Line 16949, Unofficial Freak Fortress::UseAbility
+L 08/17/2020 - 19:07:55: [SM]   [9] Line 11243, Unofficial Freak Fortress::ActivateAbilitySlot
+L 08/17/2020 - 19:07:55: [SM]   [10] Line 12183, Unofficial Freak Fortress::OnPlayerHurt
+L 08/17/2020 - 19:12:13: [SM] Exception reported: Array index out-of-bounds (index -1, limit 4)
+L 08/17/2020 - 19:12:13: [SM] Blaming: freak_fortress_2.smx
+L 08/17/2020 - 19:12:13: [SM] Call stack trace:
+L 08/17/2020 - 19:12:13: [SM]   [1] Line 17336, Unofficial Freak Fortress::Native_GetBossCharge
+L 08/17/2020 - 19:12:13: [SM]   [3] FF2_GetBossCharge
+L 08/17/2020 - 19:12:13: [SM]   [4] Line 889, FF2 Subplugin: Bat's Public Pack::FF2_OnAbility2
+L 08/17/2020 - 19:12:13: [SM]   [5] Line 52, D:\batfo_qrgut13\Documents\SourceMod 1.9 Compiler\addons\sourcemod\scripting\include\freak_fortress_2_subplugin.inc::FF2_OnAbility
+L 08/17/2020 - 19:12:13: [SM]   [7] Call_Finish
+L 08/17/2020 - 19:12:13: [SM]   [8] Line 16949, Unofficial Freak Fortress::UseAbility
+L 08/17/2020 - 19:12:13: [SM]   [9] Line 11243, Unofficial Freak Fortress::ActivateAbilitySlot
+L 08/17/2020 - 19:12:13: [SM]   [10] Line 12183, Unofficial Freak Fortress::OnPlayerHurt
+L 08/17/2020 - 19:12:17: [SM] Exception reported: Array index out-of-bounds (index -1, limit 4)
+L 08/17/2020 - 19:12:17: [SM] Blaming: freak_fortress_2.smx
+L 08/17/2020 - 19:12:17: [SM] Call stack trace:
+L 08/17/2020 - 19:12:17: [SM]   [1] Line 17336, Unofficial Freak Fortress::Native_GetBossCharge
+L 08/17/2020 - 19:12:17: [SM]   [3] FF2_GetBossCharge
+L 08/17/2020 - 19:12:17: [SM]   [4] Line 889, FF2 Subplugin: Bat's Public Pack::FF2_OnAbility2
+L 08/17/2020 - 19:12:17: [SM]   [5] Line 52, D:\batfo_qrgut13\Documents\SourceMod 1.9 Compiler\addons\sourcemod\scripting\include\freak_fortress_2_subplugin.inc::FF2_OnAbility
+L 08/17/2020 - 19:12:17: [SM]   [7] Call_Finish
+L 08/17/2020 - 19:12:17: [SM]   [8] Line 16949, Unofficial Freak Fortress::UseAbility
+L 08/17/2020 - 19:12:17: [SM]   [9] Line 11243, Unofficial Freak Fortress::ActivateAbilitySlot
+L 08/17/2020 - 19:12:17: [SM]   [10] Line 12183, Unofficial Freak Fortress::OnPlayerHurt
+L 08/17/2020 - 19:13:14: [SM] Exception reported: Array index out-of-bounds (index -1, limit 4)
+L 08/17/2020 - 19:13:14: [SM] Blaming: freak_fortress_2.smx
+L 08/17/2020 - 19:13:14: [SM] Call stack trace:
+L 08/17/2020 - 19:13:14: [SM]   [1] Line 17336, Unofficial Freak Fortress::Native_GetBossCharge
+L 08/17/2020 - 19:13:14: [SM]   [3] FF2_GetBossCharge
+L 08/17/2020 - 19:13:14: [SM]   [4] Line 889, FF2 Subplugin: Bat's Public Pack::FF2_OnAbility2
+L 08/17/2020 - 19:13:14: [SM]   [5] Line 52, D:\batfo_qrgut13\Documents\SourceMod 1.9 Compiler\addons\sourcemod\scripting\include\freak_fortress_2_subplugin.inc::FF2_OnAbility
+L 08/17/2020 - 19:13:14: [SM]   [7] Call_Finish
+L 08/17/2020 - 19:13:14: [SM]   [8] Line 16949, Unofficial Freak Fortress::UseAbility
+L 08/17/2020 - 19:13:14: [SM]   [9] Line 11243, Unofficial Freak Fortress::ActivateAbilitySlot
+L 08/17/2020 - 19:13:14: [SM]   [10] Line 12183, Unofficial Freak Fortress::OnPlayerHurt
+L 08/17/2020 - 19:13:15: [SM] Exception reported: Array index out-of-bounds (index -1, limit 4)
+L 08/17/2020 - 19:13:15: [SM] Blaming: freak_fortress_2.smx
+L 08/17/2020 - 19:13:15: [SM] Call stack trace:
+L 08/17/2020 - 19:13:15: [SM]   [1] Line 17336, Unofficial Freak Fortress::Native_GetBossCharge
+L 08/17/2020 - 19:13:15: [SM]   [3] FF2_GetBossCharge
+L 08/17/2020 - 19:13:15: [SM]   [4] Line 889, FF2 Subplugin: Bat's Public Pack::FF2_OnAbility2
+L 08/17/2020 - 19:13:15: [SM]   [5] Line 52, D:\batfo_qrgut13\Documents\SourceMod 1.9 Compiler\addons\sourcemod\scripting\include\freak_fortress_2_subplugin.inc::FF2_OnAbility
+L 08/17/2020 - 19:13:15: [SM]   [7] Call_Finish
+L 08/17/2020 - 19:13:15: [SM]   [8] Line 16949, Unofficial Freak Fortress::UseAbility
+L 08/17/2020 - 19:13:15: [SM]   [9] Line 11243, Unofficial Freak Fortress::ActivateAbilitySlot
+L 08/17/2020 - 19:13:15: [SM]   [10] Line 12183, Unofficial Freak Fortress::OnPlayerHurt
+L 08/17/2020 - 19:17:42: Error log file session closed.
+L 08/17/2020 - 19:21:42: SourceMod error session started
+L 08/17/2020 - 19:21:42: Info (map "arena_byre") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200817.log")
+L 08/17/2020 - 19:21:42: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 08/17/2020 - 20:04:56: Error log file session closed.
+L 08/17/2020 - 22:08:27: SourceMod error session started
+L 08/17/2020 - 22:08:27: Info (map "vsh_drejun_v3") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200817.log")
+L 08/17/2020 - 22:08:27: [SM] Plugin "roundtimer.smx" encountered error 23: Native detected error
+L 08/17/2020 - 22:08:27: [SM] Invalid timer handle 1c74005a (error 3) during timer end, displayed function is timer callback, not the stack trace
+L 08/17/2020 - 22:08:27: [SM] Unable to call function "Timer_Round" due to above error(s).
+L 08/17/2020 - 22:16:45: [SM] Plugin "roundtimer.smx" encountered error 23: Native detected error
+L 08/17/2020 - 22:16:45: [SM] Invalid timer handle 9fb20326 (error 3) during timer end, displayed function is timer callback, not the stack trace
+L 08/17/2020 - 22:16:45: [SM] Unable to call function "Timer_Round" due to above error(s).
+L 08/17/2020 - 22:20:58: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/17/2020 - 22:20:59: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/17/2020 - 22:20:59: [store.smx] Database connection is lost or not yet initialized.
+L 08/17/2020 - 22:23:09: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/17/2020 - 22:23:10: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/17/2020 - 22:23:10: [store.smx] Database connection is lost or not yet initialized.
+L 08/17/2020 - 22:25:40: Error log file session closed.
+L 08/17/2020 - 22:34:29: SourceMod error session started
+L 08/17/2020 - 22:34:29: Info (map "arena_lumberyard") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200817.log")
+L 08/17/2020 - 22:34:29: [SM] Plugin "roundtimer.smx" encountered error 23: Native detected error
+L 08/17/2020 - 22:34:29: [SM] Invalid timer handle b5de067b (error 3) during timer end, displayed function is timer callback, not the stack trace
+L 08/17/2020 - 22:34:29: [SM] Unable to call function "Timer_Round" due to above error(s).
+L 08/17/2020 - 22:35:02: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/17/2020 - 22:35:02: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/17/2020 - 22:35:02: [store.smx] Database connection is lost or not yet initialized.
+L 08/17/2020 - 22:37:47: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/17/2020 - 22:37:48: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/17/2020 - 22:37:48: [store.smx] Database connection is lost or not yet initialized.
+L 08/17/2020 - 22:38:54: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/17/2020 - 22:38:54: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/17/2020 - 22:38:54: [store.smx] Database connection is lost or not yet initialized.
+L 08/17/2020 - 22:41:01: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/17/2020 - 22:41:02: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/17/2020 - 22:41:02: [store.smx] Database connection is lost or not yet initialized.
+L 08/17/2020 - 22:42:28: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/17/2020 - 22:42:29: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/17/2020 - 22:42:29: [store.smx] Database connection is lost or not yet initialized.
+L 08/17/2020 - 22:44:21: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/17/2020 - 22:44:21: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/17/2020 - 22:44:21: [store.smx] Database connection is lost or not yet initialized.
+L 08/18/2020 - 01:17:37: Error log file session closed.

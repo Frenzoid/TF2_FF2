@@ -1,0 +1,51 @@
+// Advertisements 2.0
+// by Tsunami
+//
+// Types
+// -----
+// center: Center message
+// chat: Chat message
+// hint: Hint message
+// menu: Menu message
+// top: Top message
+//
+// Flags (optional)
+// -----
+// Accepts flags of admins that will not see the advertisement.
+// When omitted everyone will see the advertisement.
+// When left empty only admins will see the advertisement.
+// ------------------------
+//
+// {default}Don't forget to visit our forums! at {lightgreen}forum.oldbox.cloud
+//
+"Advertisements"
+{
+    "1"
+    {
+        "chat"		"{lightcyan}You can help your fellow {darkorange}Engineers {lightcyan}with their buildings by hitting them with the {fullred}Homewrecker{lightcyan}, {fullred}Maul {lightcyan}or {fullred}Neon Annihilator{lightcyan}."
+    }
+    "2"
+    {
+	"chat"		"{lightcyan}Please, feel free to give us your feedback or bugs report at: {dodgerblue}discord.oldbox.cloud{lightcyan}, it's important for us to know what would you change to make the gameplay more enjoyable!"
+    }
+    "3"
+    {
+	"chat"		"{orange}This server is still in development, so expect changes!"
+    }
+    "4"
+    {
+	"chat"		"{lightcyan}Join our steam group at: {dodgerblue}https://steamcommunity.com/groups/oldbox"
+    }
+    "5"
+    {
+	"chat"		"{lightcyan}Want to help support the server? Donate at: {dodgerblue}https://paypal.me/Frenzoid"
+    }
+    "6"
+    {
+	"chat"		"{lightcyan}Wonder what some weapons do? You can find the exact stats for each weapon in our steam guide: {dodgerblue}https://steamcommunity.com/sharedfiles/filedetails/?id=2193549053"
+    }
+    "7"
+    {
+	"chat"		"{lightcyan}Join our discord server! {dodgerblue}discord.oldbox.cloud"
+    }
+}

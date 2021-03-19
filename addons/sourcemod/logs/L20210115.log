@@ -1,0 +1,98 @@
+L 01/15/2021 - 00:12:10: SourceMod log file session started (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/L20210115.log") (Version "1.10.0.6490")
+L 01/15/2021 - 00:12:10: [mapchooser_extended.smx] Voting for next map has started.
+L 01/15/2021 - 00:12:18: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_west_event.
+L 01/15/2021 - 00:23:17: [SM] Changed map to "vsh_west_event"
+L 01/15/2021 - 00:23:19: -------- Mapchange to vsh_west_event --------
+L 01/15/2021 - 00:23:32: [mapchooser_extended.smx] Loaded map list for tf.
+L 01/15/2021 - 00:43:00: [mapchooser_extended.smx] Starting map vote because outside request
+L 01/15/2021 - 00:43:16: [mapchooser_extended.smx] Voting for next map has started.
+L 01/15/2021 - 00:43:36: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_crevice_b5.
+L 01/15/2021 - 00:43:40: [SM] Changed map to "vsh_crevice_b5"
+L 01/15/2021 - 00:43:43: -------- Mapchange to vsh_crevice_b5 --------
+L 01/15/2021 - 00:43:55: [mapchooser_extended.smx] Loaded map list for tf.
+L 01/15/2021 - 01:04:14: [mapchooser_extended.smx] Voting for next map has started.
+L 01/15/2021 - 01:04:41: [mapchooser_extended.smx] Voting for next map has started.
+L 01/15/2021 - 01:05:00: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_chinatown_b3.
+L 01/15/2021 - 01:16:23: [SM] Changed map to "vsh_chinatown_b3"
+L 01/15/2021 - 01:16:28: -------- Mapchange to vsh_chinatown_b3 --------
+L 01/15/2021 - 01:16:42: [mapchooser_extended.smx] Loaded map list for tf.
+L 01/15/2021 - 01:32:33: [nominations_extended.smx] Draconic (Azel) nominated vsh_warebloom_r1a
+L 01/15/2021 - 01:34:23: [nominations_extended.smx] Nezzie nominated vsh_jungle_beach_v3
+L 01/15/2021 - 01:34:32: [nominations_extended.smx] Giggity nominated vsh_cactustemple_v1
+L 01/15/2021 - 01:37:03: [mapchooser_extended.smx] Voting for next map has started.
+L 01/15/2021 - 01:37:24: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_warebloom_r1a.
+L 01/15/2021 - 01:47:58: [SM] Changed map to "vsh_warebloom_r1a"
+L 01/15/2021 - 01:48:02: -------- Mapchange to vsh_warebloom_r1a --------
+L 01/15/2021 - 01:48:17: [mapchooser_extended.smx] Loaded map list for tf.
+L 01/15/2021 - 02:01:20: [basechat.smx] "Nezzie<46><[U:1:107910185]><>" triggered sm_csay (text HAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+L 01/15/2021 - 02:08:40: [mapchooser_extended.smx] Voting for next map has started.
+L 01/15/2021 - 02:08:47: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_outdoors_b2a.
+L 01/15/2021 - 02:09:03: [basechat.smx] "Nezzie<46><[U:1:107910185]><>" triggered sm_csay (text ok gonna restart server after this round)
+L 01/15/2021 - 02:11:07: [basechat.smx] "Nezzie<46><[U:1:107910185]><>" triggered sm_csay (text Server restarting.)
+L 01/15/2021 - 02:13:22: SourceMod log file session started (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/L20210115.log") (Version "1.10.0.6490")
+L 01/15/2021 - 02:13:22: [TF2ITEMS] "GiveNamedItem" offset = 484
+L 01/15/2021 - 02:13:24: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 01/15/2021 - 02:13:24: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 01/15/2021 - 02:13:24: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 01/15/2021 - 02:13:25: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 01/15/2021 - 02:13:45: [mapchooser_extended.smx] Loaded map list for tf.
+L 01/15/2021 - 02:17:48: [basecommands.smx] "Nezzie<5><[U:1:107910185]><>" changed map to "vsh_outdoors_b2a"
+L 01/15/2021 - 02:17:51: [SM] Changed map to "vsh_outdoors_b2a"
+L 01/15/2021 - 02:17:54: -------- Mapchange to vsh_outdoors_b2a --------
+L 01/15/2021 - 02:18:09: [mapchooser_extended.smx] Loaded map list for tf.
+L 01/15/2021 - 02:33:59: [respawn.smx] "Nezzie<5><[U:1:107910185]><>" respawned "ant<3><[U:1:991419662]><>"
+L 01/15/2021 - 02:33:59: [respawn.smx] "Nezzie<5><[U:1:107910185]><>" respawned "Giggity<4><[U:1:899071019]><>"
+L 01/15/2021 - 02:33:59: [respawn.smx] "Nezzie<5><[U:1:107910185]><>" respawned "SomeGuy<6><[U:1:96333015]><>"
+L 01/15/2021 - 02:33:59: [respawn.smx] "Nezzie<5><[U:1:107910185]><>" respawned "Moderationdev<8><[U:1:161525445]><>"
+L 01/15/2021 - 02:36:30: [funcommandsX.smx] "Draconic (Azel)<9><[U:1:101368949]><>" teleported "Draconic (Azel)<9><[U:1:101368949]><>"
+L 01/15/2021 - 02:36:37: [funcommandsX.smx] "Nezzie<5><[U:1:107910185]><>" teleported "Draconic (Azel)<9><[U:1:101368949]><>"
+L 01/15/2021 - 02:36:45: [funcommandsX.smx] "Draconic (Azel)<9><[U:1:101368949]><>" teleported "Draconic (Azel)<9><[U:1:101368949]><>"
+L 01/15/2021 - 02:36:46: [funcommandsX.smx] "Nezzie<5><[U:1:107910185]><>" teleported "Draconic (Azel)<9><[U:1:101368949]><>"
+L 01/15/2021 - 02:36:49: [funcommandsX.smx] "Draconic (Azel)<9><[U:1:101368949]><>" teleported "Draconic (Azel)<9><[U:1:101368949]><>"
+L 01/15/2021 - 02:36:52: [funcommandsX.smx] "Nezzie<5><[U:1:107910185]><>" teleported "Draconic (Azel)<9><[U:1:101368949]><>"
+L 01/15/2021 - 02:36:54: [funcommandsX.smx] "Draconic (Azel)<9><[U:1:101368949]><>" teleported "Draconic (Azel)<9><[U:1:101368949]><>"
+L 01/15/2021 - 02:36:56: [funcommandsX.smx] "Nezzie<5><[U:1:107910185]><>" teleported "Draconic (Azel)<9><[U:1:101368949]><>"
+L 01/15/2021 - 02:36:57: [funcommandsX.smx] "Draconic (Azel)<9><[U:1:101368949]><>" teleported "Draconic (Azel)<9><[U:1:101368949]><>"
+L 01/15/2021 - 02:36:59: [funcommandsX.smx] "Draconic (Azel)<9><[U:1:101368949]><>" teleported "Draconic (Azel)<9><[U:1:101368949]><>"
+L 01/15/2021 - 02:36:59: [funcommandsX.smx] "Nezzie<5><[U:1:107910185]><>" teleported "Draconic (Azel)<9><[U:1:101368949]><>"
+L 01/15/2021 - 02:36:59: [funcommandsX.smx] "Draconic (Azel)<9><[U:1:101368949]><>" teleported "Draconic (Azel)<9><[U:1:101368949]><>"
+L 01/15/2021 - 02:37:01: [funcommandsX.smx] "Nezzie<5><[U:1:107910185]><>" teleported "Draconic (Azel)<9><[U:1:101368949]><>"
+L 01/15/2021 - 02:37:02: [funcommandsX.smx] "Nezzie<5><[U:1:107910185]><>" teleported "Draconic (Azel)<9><[U:1:101368949]><>"
+L 01/15/2021 - 02:37:03: [funcommandsX.smx] "Nezzie<5><[U:1:107910185]><>" teleported "Draconic (Azel)<9><[U:1:101368949]><>"
+L 01/15/2021 - 02:37:03: [funcommandsX.smx] "Nezzie<5><[U:1:107910185]><>" teleported "Draconic (Azel)<9><[U:1:101368949]><>"
+L 01/15/2021 - 02:37:04: [funcommandsX.smx] "Nezzie<5><[U:1:107910185]><>" teleported "Draconic (Azel)<9><[U:1:101368949]><>"
+L 01/15/2021 - 02:37:17: [respawn.smx] "Nezzie<5><[U:1:107910185]><>" respawned "Giggity<4><[U:1:899071019]><>"
+L 01/15/2021 - 02:37:37: [funcommandsX.smx] "Nezzie<5><[U:1:107910185]><>" teleported "Nezzie<5><[U:1:107910185]><>"
+L 01/15/2021 - 02:37:46: [respawn.smx] "Nezzie<5><[U:1:107910185]><>" respawned "Giggity<4><[U:1:899071019]><>"
+L 01/15/2021 - 02:38:26: [mapchooser_extended.smx] Voting for next map has started.
+L 01/15/2021 - 02:38:35: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_crevice_b5.
+L 01/15/2021 - 08:48:19: SourceMod log file session started (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/L20210115.log") (Version "1.10.0.6490")
+L 01/15/2021 - 08:48:19: [TF2ITEMS] "GiveNamedItem" offset = 484
+L 01/15/2021 - 08:48:20: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 01/15/2021 - 08:48:20: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 01/15/2021 - 08:48:20: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 01/15/2021 - 08:48:20: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 01/15/2021 - 08:48:37: [mapchooser_extended.smx] Loaded map list for tf.
+L 01/15/2021 - 09:02:04: SourceMod log file session started (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/L20210115.log") (Version "1.10.0.6490")
+L 01/15/2021 - 09:02:04: [TF2ITEMS] "GiveNamedItem" offset = 484
+L 01/15/2021 - 09:02:04: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 01/15/2021 - 09:02:04: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 01/15/2021 - 09:02:04: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 01/15/2021 - 09:02:05: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 01/15/2021 - 09:02:21: [mapchooser_extended.smx] Loaded map list for tf.
+L 01/15/2021 - 18:26:41: [basecommands.smx] "Nezzie<2><[U:1:107910185]><>" changed map to "vsh_area_54tress_b4"
+L 01/15/2021 - 18:26:44: [SM] Changed map to "vsh_area_54tress_b4"
+L 01/15/2021 - 18:26:47: -------- Mapchange to vsh_area_54tress_b4 --------
+L 01/15/2021 - 18:27:00: [mapchooser_extended.smx] Loaded map list for tf.
+L 01/15/2021 - 18:41:36: [basechat.smx] "Console<0><Console><Console>" triggered sm_say (text The round time has ended, omaewa-mou shindeiru)
+L 01/15/2021 - 18:41:36: [playercommands.smx] "Console<0><Console><Console>" slayed "Nezzie<2><[U:1:107910185]><>"
+L 01/15/2021 - 18:41:36: [playercommands.smx] "Console<0><Console><Console>" slayed "test<3><BOT><>"
+L 01/15/2021 - 18:41:36: [playercommands.smx] "Console<0><Console><Console>" slayed "test1<4><BOT><>"
+L 01/15/2021 - 18:47:15: [mapchooser_extended.smx] Voting for next map has started.
+L 01/15/2021 - 19:54:17: [SM] Changed map to "vsh_crevice_b5"
+L 01/15/2021 - 19:54:20: -------- Mapchange to vsh_crevice_b5 --------
+L 01/15/2021 - 19:54:32: [mapchooser_extended.smx] Loaded map list for tf.
+L 01/15/2021 - 20:14:48: [mapchooser_extended.smx] Voting for next map has started.
+L 01/15/2021 - 20:15:04: [mapchooser_extended.smx] Voting for next map has started.
+L 01/15/2021 - 20:15:09: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_apg_reworked_b2.
+L 01/16/2021 - 01:04:48: Log file closed.

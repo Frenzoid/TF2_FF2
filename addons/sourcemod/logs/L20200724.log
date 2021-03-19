@@ -1,0 +1,15 @@
+L 07/24/2020 - 18:41:12: SourceMod log file session started (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/L20200724.log") (Version "1.10.0.6490")
+L 07/24/2020 - 18:41:12: [SM] Changed map to "vsh_tranquil_b5"
+L 07/24/2020 - 18:41:14: -------- Mapchange to vsh_tranquil_b5 --------
+L 07/24/2020 - 18:41:24: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/24/2020 - 19:01:43: [mapchooser_extended.smx] Voting for next map has started.
+L 07/24/2020 - 19:12:54: [SM] Changed map to "arena_sawmill"
+L 07/24/2020 - 19:12:57: -------- Mapchange to arena_sawmill --------
+L 07/24/2020 - 19:13:08: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/24/2020 - 19:33:25: [mapchooser_extended.smx] Voting for next map has started.
+L 07/24/2020 - 19:36:54: [rockthevote_extended.smx] RTV changing map manually
+L 07/24/2020 - 19:36:54: [SM] Changed map to "arena_ravine"
+L 07/24/2020 - 19:36:57: -------- Mapchange to arena_ravine --------
+L 07/24/2020 - 19:37:08: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/24/2020 - 19:57:23: [mapchooser_extended.smx] Voting for next map has started.
+L 07/25/2020 - 22:52:29: Log file closed.

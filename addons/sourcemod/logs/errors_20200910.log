@@ -1,0 +1,14 @@
+L 09/10/2020 - 12:14:40: SourceMod error session started
+L 09/10/2020 - 12:14:40: Info (map "vsh_mountainbash_v3_sg1") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200910.log")
+L 09/10/2020 - 12:14:40: [SM] Exception reported: Array index out-of-bounds (index -1, limit 4)
+L 09/10/2020 - 12:14:40: [SM] Blaming: freak_fortress_2.smx
+L 09/10/2020 - 12:14:40: [SM] Call stack trace:
+L 09/10/2020 - 12:14:40: [SM]   [1] Line 17336, Unofficial Freak Fortress::Native_GetBossCharge
+L 09/10/2020 - 12:14:40: [SM]   [3] FF2_GetBossCharge
+L 09/10/2020 - 12:14:40: [SM]   [4] Line 889, FF2 Subplugin: Bat's Public Pack::FF2_OnAbility2
+L 09/10/2020 - 12:14:40: [SM]   [5] Line 52, D:\batfo_qrgut13\Documents\SourceMod 1.9 Compiler\addons\sourcemod\scripting\include\freak_fortress_2_subplugin.inc::FF2_OnAbility
+L 09/10/2020 - 12:14:40: [SM]   [7] Call_Finish
+L 09/10/2020 - 12:14:40: [SM]   [8] Line 16949, Unofficial Freak Fortress::UseAbility
+L 09/10/2020 - 12:14:40: [SM]   [9] Line 11243, Unofficial Freak Fortress::ActivateAbilitySlot
+L 09/10/2020 - 12:14:40: [SM]   [10] Line 12183, Unofficial Freak Fortress::OnPlayerHurt
+L 09/11/2020 - 14:52:57: Error log file session closed.

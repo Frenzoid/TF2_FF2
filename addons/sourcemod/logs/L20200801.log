@@ -1,0 +1,56 @@
+L 08/01/2020 - 18:34:56: SourceMod log file session started (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/L20200801.log") (Version "1.10.0.6490")
+L 08/01/2020 - 18:34:56: [basecommands.smx] "Nezzie<102><[U:1:107910185]><>" changed map to "arena_lumberyard"
+L 08/01/2020 - 18:34:59: [SM] Changed map to "arena_lumberyard"
+L 08/01/2020 - 18:35:00: -------- Mapchange to arena_lumberyard --------
+L 08/01/2020 - 18:35:13: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/01/2020 - 18:40:56: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 08/01/2020 - 18:40:56: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 08/01/2020 - 18:40:56: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 08/01/2020 - 18:40:56: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/01/2020 - 18:40:59: [hpregeneration.smx] [HpRegeneration] - Loaded
+L 08/01/2020 - 18:44:11: [playercommands.smx] "Nezzie<102><[U:1:107910185]><>" slayed "NotMe<106><BOT><>"
+L 08/01/2020 - 18:44:56: [respawn.smx] "Nezzie<102><[U:1:107910185]><>" respawned "NotMe<106><BOT><>"
+L 08/01/2020 - 18:45:00: [respawn.smx] "Nezzie<102><[U:1:107910185]><>" respawned "Nezzie<102><[U:1:107910185]><>"
+L 08/01/2020 - 18:47:12: [playercommands.smx] "Nezzie<102><[U:1:107910185]><>" slayed "Mann Co.<108><BOT><>"
+L 08/01/2020 - 18:55:31: [basechat.smx] "Console<0><Console><Console>" triggered sm_say (text The round time has ended, omaewa-mou shindeiru)
+L 08/01/2020 - 18:55:31: [playercommands.smx] "Console<0><Console><Console>" slayed "NotMe<106><BOT><>"
+L 08/01/2020 - 18:55:31: [playercommands.smx] "Console<0><Console><Console>" slayed "BoomerBile<107><BOT><>"
+L 08/01/2020 - 18:55:31: [playercommands.smx] "Console<0><Console><Console>" slayed "Mann Co.<108><BOT><>"
+L 08/01/2020 - 18:55:31: [playercommands.smx] "Console<0><Console><Console>" slayed "test<109><BOT><>"
+L 08/01/2020 - 18:55:31: [playercommands.smx] "Console<0><Console><Console>" slayed "test1<110><BOT><>"
+L 08/01/2020 - 18:55:31: [mapchooser_extended.smx] Voting for next map has started.
+L 08/01/2020 - 18:58:11: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 08/01/2020 - 18:58:11: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 08/01/2020 - 18:58:11: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 08/01/2020 - 18:58:11: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/01/2020 - 18:58:14: [hpregeneration.smx] [HpRegeneration] - Loaded
+L 08/01/2020 - 18:58:27: [mapchooser_extended.smx] Voting for next map has started.
+L 08/01/2020 - 19:00:24: [playercommands.smx] "Nezzie<102><[U:1:107910185]><>" slayed "test1<110><BOT><>"
+L 08/01/2020 - 19:00:27: [playercommands.smx] "Nezzie<102><[U:1:107910185]><>" slayed "NotMe<106><BOT><>"
+L 08/01/2020 - 19:00:28: [playercommands.smx] "Nezzie<102><[U:1:107910185]><>" slayed "Mann Co.<108><BOT><>"
+L 08/01/2020 - 19:00:29: [playercommands.smx] "Nezzie<102><[U:1:107910185]><>" slayed "BoomerBile<107><BOT><>"
+L 08/01/2020 - 19:07:40: [SM] Changed map to "koth_viaduct_event"
+L 08/01/2020 - 19:07:44: -------- Mapchange to koth_viaduct_event --------
+L 08/01/2020 - 19:07:56: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/01/2020 - 19:28:10: [mapchooser_extended.smx] Voting for next map has started.
+L 08/01/2020 - 21:18:18: [SM] Changed map to "vsh_manncohq_v14"
+L 08/01/2020 - 21:18:22: -------- Mapchange to vsh_manncohq_v14 --------
+L 08/01/2020 - 21:18:34: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/01/2020 - 21:38:51: [mapchooser_extended.smx] Voting for next map has started.
+L 08/01/2020 - 23:56:12: [respawn.smx] "Nezzie<119><[U:1:107910185]><>" respawned "Bad Memes<123><[U:1:315000078]><>"
+L 08/01/2020 - 23:56:12: [respawn.smx] "Nezzie<119><[U:1:107910185]><>" respawned "Nobody<121><BOT><>"
+L 08/01/2020 - 23:56:52: [playercommands.smx] "Nezzie<119><[U:1:107910185]><>" slayed "Bad Memes<123><[U:1:315000078]><>"
+L 08/01/2020 - 23:56:57: [respawn.smx] "Nezzie<119><[U:1:107910185]><>" respawned "Nezzie<119><[U:1:107910185]><>"
+L 08/01/2020 - 23:57:10: [respawn.smx] "Nezzie<119><[U:1:107910185]><>" respawned "Bad Memes<123><[U:1:315000078]><>"
+L 08/01/2020 - 23:57:10: [funcommands.smx] "Nezzie<119><[U:1:107910185]><>" froze "Bad Memes<123><[U:1:315000078]><>"
+L 08/01/2020 - 23:57:23: [basechat.smx] "Console<0><Console><Console>" triggered sm_say (text The round time has ended, omaewa-mou shindeiru)
+L 08/01/2020 - 23:57:23: [playercommands.smx] "Console<0><Console><Console>" slayed "Nezzie<119><[U:1:107910185]><>"
+L 08/01/2020 - 23:57:23: [playercommands.smx] "Console<0><Console><Console>" slayed "C++<120><BOT><>"
+L 08/01/2020 - 23:57:23: [playercommands.smx] "Console<0><Console><Console>" slayed "Nobody<121><BOT><>"
+L 08/01/2020 - 23:57:23: [playercommands.smx] "Console<0><Console><Console>" slayed "RageQuit<122><BOT><>"
+L 08/01/2020 - 23:57:23: [playercommands.smx] "Console<0><Console><Console>" slayed "Bad Memes<123><[U:1:315000078]><>"
+L 08/01/2020 - 23:57:27: [basecommands.smx] "Nezzie<119><[U:1:107910185]><>" changed map to "arena_lumberyard"
+L 08/01/2020 - 23:57:30: [SM] Changed map to "arena_lumberyard"
+L 08/01/2020 - 23:57:34: -------- Mapchange to arena_lumberyard --------
+L 08/01/2020 - 23:57:46: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/02/2020 - 00:00:39: Log file closed.

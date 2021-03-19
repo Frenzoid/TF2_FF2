@@ -1,0 +1,289 @@
+L 12/27/2020 - 00:03:47: SourceMod log file session started (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/L20201227.log") (Version "1.10.0.6490")
+L 12/27/2020 - 00:03:47: [respawn.smx] "Hailstorm<8><[U:1:181986054]><>" respawned "Hailstorm<8><[U:1:181986054]><>"
+L 12/27/2020 - 00:04:07: [respawn.smx] "Hailstorm<8><[U:1:181986054]><>" respawned "Hailstorm<8><[U:1:181986054]><>"
+L 12/27/2020 - 00:10:55: [respawn.smx] "Hailstorm<8><[U:1:181986054]><>" respawned "Draconic (Azel)<6><[U:1:101368949]><>"
+L 12/27/2020 - 00:10:56: [respawn.smx] "Hailstorm<8><[U:1:181986054]><>" respawned "Hailstorm<8><[U:1:181986054]><>"
+L 12/27/2020 - 00:10:56: [respawn.smx] "Hailstorm<8><[U:1:181986054]><>" respawned "unspacy<10><[U:1:130638097]><>"
+L 12/27/2020 - 00:10:57: [respawn.smx] "Hailstorm<8><[U:1:181986054]><>" respawned "Dozii<7><[U:1:94212661]><>"
+L 12/27/2020 - 00:10:57: [respawn.smx] "Hailstorm<8><[U:1:181986054]><>" respawned "HacobLacob<13><[U:1:1036400442]><>"
+L 12/27/2020 - 00:10:58: [respawn.smx] "Hailstorm<8><[U:1:181986054]><>" respawned "MERRY DISCORD<14><[U:1:1092608481]><>"
+L 12/27/2020 - 00:10:58: [respawn.smx] "Hailstorm<8><[U:1:181986054]><>" respawned "Spade<15><[U:1:448231590]><>"
+L 12/27/2020 - 00:11:00: [SM] Changed map to "vsh_gyros_v5"
+L 12/27/2020 - 00:11:06: -------- Mapchange to vsh_gyros_v5 --------
+L 12/27/2020 - 00:11:20: [mapchooser_extended.smx] Loaded map list for tf.
+L 12/27/2020 - 00:31:39: [mapchooser_extended.smx] Voting for next map has started.
+L 12/27/2020 - 00:32:00: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_void_a1f.
+L 12/27/2020 - 00:41:58: [SM] Changed map to "vsh_void_a1f"
+L 12/27/2020 - 00:42:00: -------- Mapchange to vsh_void_a1f --------
+L 12/27/2020 - 00:42:12: [mapchooser_extended.smx] Loaded map list for tf.
+L 12/27/2020 - 00:48:02: [respawn.smx] "F1SH<4><[U:1:445849108]><>" respawned "F1SH<4><[U:1:445849108]><>"
+L 12/27/2020 - 00:48:22: [respawn.smx] "Nezzie<5><[U:1:107910185]><>" respawned "Nezzie<5><[U:1:107910185]><>"
+L 12/27/2020 - 00:48:26: [respawn.smx] "Nezzie<5><[U:1:107910185]><>" respawned "Dozii<7><[U:1:94212661]><>"
+L 12/27/2020 - 00:48:26: [respawn.smx] "Nezzie<5><[U:1:107910185]><>" respawned "Koffee mood<17><[U:1:397945262]><>"
+L 12/27/2020 - 00:49:25: [respawn.smx] "Hailstorm<8><[U:1:181986054]><>" respawned "Hailstorm<8><[U:1:181986054]><>"
+L 12/27/2020 - 01:00:14: [basechat.smx] "Console<0><Console><Console>" triggered sm_say (text The round time has ended, omaewa-mou shindeiru)
+L 12/27/2020 - 01:00:14: [playercommands.smx] "Console<0><Console><Console>" slayed "F1SH<4><[U:1:445849108]><>"
+L 12/27/2020 - 01:00:14: [playercommands.smx] "Console<0><Console><Console>" slayed "Nezzie<5><[U:1:107910185]><>"
+L 12/27/2020 - 01:00:14: [playercommands.smx] "Console<0><Console><Console>" slayed "Spade<15><[U:1:448231590]><>"
+L 12/27/2020 - 01:02:30: [mapchooser_extended.smx] Voting for next map has started.
+L 12/27/2020 - 01:02:56: [mapchooser_extended.smx] Voting for next map has started.
+L 12/27/2020 - 01:03:16: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_nebula_rc1.
+L 12/27/2020 - 01:15:04: [SM] Changed map to "vsh_nebula_rc1"
+L 12/27/2020 - 01:15:08: -------- Mapchange to vsh_nebula_rc1 --------
+L 12/27/2020 - 01:15:20: [mapchooser_extended.smx] Loaded map list for tf.
+L 12/27/2020 - 01:26:00: [funcommandsX.smx] "Hailstorm<8><[U:1:181986054]><>" made "Hailstorm<8><[U:1:181986054]><>" black
+L 12/27/2020 - 01:32:32: [respawn.smx] "Hailstorm<8><[U:1:181986054]><>" respawned "F1SH<4><[U:1:445849108]><>"
+L 12/27/2020 - 01:32:33: [respawn.smx] "Hailstorm<8><[U:1:181986054]><>" respawned "rinzor<19><[U:1:103173271]><>"
+L 12/27/2020 - 01:32:55: [respawn.smx] "Hailstorm<8><[U:1:181986054]><>" respawned "F1SH<4><[U:1:445849108]><>"
+L 12/27/2020 - 01:32:55: [respawn.smx] "Hailstorm<8><[U:1:181986054]><>" respawned "Draconic (Azel)<6><[U:1:101368949]><>"
+L 12/27/2020 - 01:32:56: [respawn.smx] "Hailstorm<8><[U:1:181986054]><>" respawned "unspacy<10><[U:1:130638097]><>"
+L 12/27/2020 - 01:33:40: [respawn.smx] "Hailstorm<8><[U:1:181986054]><>" respawned "unspacy<10><[U:1:130638097]><>"
+L 12/27/2020 - 01:35:38: [mapchooser_extended.smx] Voting for next map has started.
+L 12/27/2020 - 01:35:58: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_manncohq_v14.
+L 12/27/2020 - 01:42:43: [respawn.smx] "F1SH<4><[U:1:445849108]><>" respawned "Hailstorm<8><[U:1:181986054]><>"
+L 12/27/2020 - 01:44:21: [respawn.smx] "F1SH<4><[U:1:445849108]><>" respawned "Spade<15><[U:1:448231590]><>"
+L 12/27/2020 - 01:44:44: [respawn.smx] "F1SH<4><[U:1:445849108]><>" respawned "F1SH<4><[U:1:445849108]><>"
+L 12/27/2020 - 01:45:09: [funcommands.smx] "F1SH<4><[U:1:445849108]><>" set a beacon on "rinzor<19><[U:1:103173271]><>"
+L 12/27/2020 - 01:48:42: [SM] Changed map to "vsh_manncohq_v14"
+L 12/27/2020 - 01:48:45: -------- Mapchange to vsh_manncohq_v14 --------
+L 12/27/2020 - 01:48:57: [mapchooser_extended.smx] Loaded map list for tf.
+L 12/27/2020 - 02:09:21: [mapchooser_extended.smx] Voting for next map has started.
+L 12/27/2020 - 02:09:48: [mapchooser_extended.smx] Voting for next map has started.
+L 12/27/2020 - 02:10:08: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_skyhigh_resort_b8_sg4.
+L 12/27/2020 - 02:20:42: [SM] Changed map to "vsh_skyhigh_resort_b8_sg4"
+L 12/27/2020 - 02:20:45: -------- Mapchange to vsh_skyhigh_resort_b8_sg4 --------
+L 12/27/2020 - 02:20:58: [mapchooser_extended.smx] Loaded map list for tf.
+L 12/27/2020 - 02:29:10: SourceMod log file session started (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/L20201227.log") (Version "1.10.0.6490")
+L 12/27/2020 - 02:29:10: [TF2ITEMS] "GiveNamedItem" offset = 484
+L 12/27/2020 - 02:29:12: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 12/27/2020 - 02:29:12: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 12/27/2020 - 02:29:12: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 12/27/2020 - 02:29:13: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 12/27/2020 - 02:29:37: [mapchooser_extended.smx] Loaded map list for tf.
+L 12/27/2020 - 10:25:56: [mapchooser_extended.smx] Voting for next map has started.
+L 12/27/2020 - 22:10:33: [SM] Changed map to "vsh_cairo_pyramid_v4"
+L 12/27/2020 - 22:10:35: -------- Mapchange to vsh_cairo_pyramid_v4 --------
+L 12/27/2020 - 22:10:48: [mapchooser_extended.smx] Loaded map list for tf.
+L 12/27/2020 - 22:14:02: [funcommandsX.smx] "Nezzie<6><[U:1:107910185]><>" teleported "Draconic (Azel)<5><[U:1:101368949]><>"
+L 12/27/2020 - 22:14:05: [funcommandsX.smx] "Nezzie<6><[U:1:107910185]><>" teleported "Draconic (Azel)<5><[U:1:101368949]><>"
+L 12/27/2020 - 22:14:06: [funcommandsX.smx] "Nezzie<6><[U:1:107910185]><>" teleported "Draconic (Azel)<5><[U:1:101368949]><>"
+L 12/27/2020 - 22:14:07: [funcommandsX.smx] "Nezzie<6><[U:1:107910185]><>" teleported "Draconic (Azel)<5><[U:1:101368949]><>"
+L 12/27/2020 - 22:15:07: [funcommandsX.smx] "Nezzie<6><[U:1:107910185]><>" teleported "Draconic (Azel)<5><[U:1:101368949]><>"
+L 12/27/2020 - 22:15:13: [funcommandsX.smx] "Nezzie<6><[U:1:107910185]><>" teleported "Draconic (Azel)<5><[U:1:101368949]><>"
+L 12/27/2020 - 22:15:15: [funcommandsX.smx] "Nezzie<6><[U:1:107910185]><>" teleported "Draconic (Azel)<5><[U:1:101368949]><>"
+L 12/27/2020 - 22:15:17: [funcommandsX.smx] "Nezzie<6><[U:1:107910185]><>" teleported "Draconic (Azel)<5><[U:1:101368949]><>"
+L 12/27/2020 - 22:15:18: [funcommandsX.smx] "Nezzie<6><[U:1:107910185]><>" teleported "Draconic (Azel)<5><[U:1:101368949]><>"
+L 12/27/2020 - 22:15:20: [funcommandsX.smx] "Nezzie<6><[U:1:107910185]><>" teleported "Draconic (Azel)<5><[U:1:101368949]><>"
+L 12/27/2020 - 22:15:21: [funcommandsX.smx] "Nezzie<6><[U:1:107910185]><>" teleported "Draconic (Azel)<5><[U:1:101368949]><>"
+L 12/27/2020 - 22:15:33: [funcommandsX.smx] "Nezzie<6><[U:1:107910185]><>" teleported "Draconic (Azel)<5><[U:1:101368949]><>"
+L 12/27/2020 - 22:15:46: [funcommandsX.smx] "Nezzie<6><[U:1:107910185]><>" teleported "Draconic (Azel)<5><[U:1:101368949]><>"
+L 12/27/2020 - 22:16:42: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 12/27/2020 - 22:16:42: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 12/27/2020 - 22:16:42: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 12/27/2020 - 22:16:43: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 12/27/2020 - 22:16:43: [mapchooser_extended.smx] Loaded map list for tf.
+L 12/27/2020 - 22:19:56: [respawn.smx] "Hailstorm<7><[U:1:181986054]><>" respawned "Hailstorm<7><[U:1:181986054]><>"
+L 12/27/2020 - 22:21:44: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 12/27/2020 - 22:21:45: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 12/27/2020 - 22:21:45: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 12/27/2020 - 22:21:45: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 12/27/2020 - 22:21:45: [mapchooser_extended.smx] Loaded map list for tf.
+L 12/27/2020 - 22:23:33: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 12/27/2020 - 22:23:33: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 12/27/2020 - 22:23:33: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 12/27/2020 - 22:23:33: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 12/27/2020 - 22:23:34: [mapchooser_extended.smx] Loaded map list for tf.
+L 12/27/2020 - 22:26:12: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 12/27/2020 - 22:26:12: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 12/27/2020 - 22:26:12: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 12/27/2020 - 22:26:12: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 12/27/2020 - 22:26:13: [mapchooser_extended.smx] Loaded map list for tf.
+L 12/27/2020 - 22:26:27: [funcommandsX.smx] "Nezzie<6><[U:1:107910185]><>" teleported "Draconic (Azel)<5><[U:1:101368949]><>"
+L 12/27/2020 - 22:26:27: [funcommandsX.smx] "Nezzie<6><[U:1:107910185]><>" teleported "Hailstorm<7><[U:1:181986054]><>"
+L 12/27/2020 - 22:28:03: [respawn.smx] "Draconic (Azel)<5><[U:1:101368949]><>" respawned "Bad Memes<8><[U:1:315000078]><>"
+L 12/27/2020 - 22:30:09: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 12/27/2020 - 22:30:09: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 12/27/2020 - 22:30:09: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 12/27/2020 - 22:30:10: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 12/27/2020 - 22:30:10: [mapchooser_extended.smx] Loaded map list for tf.
+L 12/27/2020 - 22:30:23: [funcommandsX.smx] "Nezzie<6><[U:1:107910185]><>" teleported "Bad Memes<8><[U:1:315000078]><>"
+L 12/27/2020 - 22:31:16: [mapchooser_extended.smx] Voting for next map has started.
+L 12/27/2020 - 22:31:35: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 12/27/2020 - 22:31:35: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 12/27/2020 - 22:31:35: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 12/27/2020 - 22:31:36: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 12/27/2020 - 22:31:36: [mapchooser_extended.smx] Loaded map list for tf.
+L 12/27/2020 - 22:31:48: [funcommandsX.smx] "Nezzie<6><[U:1:107910185]><>" teleported "Bad Memes<8><[U:1:315000078]><>"
+L 12/27/2020 - 22:31:52: [mapchooser_extended.smx] Voting for next map has started.
+L 12/27/2020 - 22:31:59: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_nebula_rc1.
+L 12/27/2020 - 22:34:40: [playercommands.smx] "Hailstorm<7><[U:1:181986054]><>" slapped "Bad Memes<8><[U:1:315000078]><>" (damage "0")
+L 12/27/2020 - 22:34:46: [respawn.smx] "Hailstorm<7><[U:1:181986054]><>" respawned "Hailstorm<7><[U:1:181986054]><>"
+L 12/27/2020 - 22:36:13: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 12/27/2020 - 22:36:13: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 12/27/2020 - 22:36:13: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 12/27/2020 - 22:36:14: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 12/27/2020 - 22:36:14: [mapchooser_extended.smx] Loaded map list for tf.
+L 12/27/2020 - 22:36:30: [mapchooser_extended.smx] Voting for next map has started.
+L 12/27/2020 - 22:36:37: [funcommandsX.smx] "Nezzie<6><[U:1:107910185]><>" teleported "Draconic (Azel)<5><[U:1:101368949]><>"
+L 12/27/2020 - 22:36:37: [funcommandsX.smx] "Nezzie<6><[U:1:107910185]><>" teleported "Hailstorm<7><[U:1:181986054]><>"
+L 12/27/2020 - 22:36:38: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_castle_siege_unreal_sg1.
+L 12/27/2020 - 22:39:58: [respawn.smx] "Hailstorm<7><[U:1:181986054]><>" respawned "Draconic (Azel)<5><[U:1:101368949]><>"
+L 12/27/2020 - 22:40:06: [funcommandsX.smx] "Hailstorm<7><[U:1:181986054]><>" made "Hailstorm<7><[U:1:181986054]><>" black
+L 12/27/2020 - 22:40:28: [funcommandsX.smx] "Hailstorm<7><[U:1:181986054]><>" made "Draconic (Azel)<5><[U:1:101368949]><>" black
+L 12/27/2020 - 22:40:57: [funcommandsX.smx] "Hailstorm<7><[U:1:181986054]><>" enabled disco mode
+L 12/27/2020 - 22:41:27: [funcommandsX.smx] "Hailstorm<7><[U:1:181986054]><>" disabled disco mode
+L 12/27/2020 - 22:43:27: [playercommands.smx] "Draconic (Azel)<5><[U:1:101368949]><>" slapped "Draconic (Azel)<5><[U:1:101368949]><>" (damage "0")
+L 12/27/2020 - 22:43:27: [playercommands.smx] "Draconic (Azel)<5><[U:1:101368949]><>" slapped "Draconic (Azel)<5><[U:1:101368949]><>" (damage "0")
+L 12/27/2020 - 22:43:27: [playercommands.smx] "Draconic (Azel)<5><[U:1:101368949]><>" slapped "Draconic (Azel)<5><[U:1:101368949]><>" (damage "0")
+L 12/27/2020 - 22:43:28: [playercommands.smx] "Draconic (Azel)<5><[U:1:101368949]><>" slapped "Draconic (Azel)<5><[U:1:101368949]><>" (damage "0")
+L 12/27/2020 - 22:43:28: [playercommands.smx] "Draconic (Azel)<5><[U:1:101368949]><>" slapped "Draconic (Azel)<5><[U:1:101368949]><>" (damage "0")
+L 12/27/2020 - 22:43:28: [playercommands.smx] "Draconic (Azel)<5><[U:1:101368949]><>" slapped "Draconic (Azel)<5><[U:1:101368949]><>" (damage "0")
+L 12/27/2020 - 22:43:28: [playercommands.smx] "Draconic (Azel)<5><[U:1:101368949]><>" slapped "Draconic (Azel)<5><[U:1:101368949]><>" (damage "0")
+L 12/27/2020 - 22:43:28: [playercommands.smx] "Draconic (Azel)<5><[U:1:101368949]><>" slapped "Draconic (Azel)<5><[U:1:101368949]><>" (damage "0")
+L 12/27/2020 - 22:43:47: [funcommands.smx] "Draconic (Azel)<5><[U:1:101368949]><>" froze "Draconic (Azel)<5><[U:1:101368949]><>"
+L 12/27/2020 - 22:44:07: [funcommands.smx] "Hailstorm<7><[U:1:181986054]><>" ignited "Draconic (Azel)<5><[U:1:101368949]><>" (seconds "20.000000")
+L 12/27/2020 - 22:44:30: [funcommands.smx] "Hailstorm<7><[U:1:181986054]><>" set blind on "Draconic (Azel)<5><[U:1:101368949]><>" (amount "240")
+L 12/27/2020 - 22:44:33: [funcommands.smx] "Hailstorm<7><[U:1:181986054]><>" set blind on "Hailstorm<7><[U:1:181986054]><>" (amount "240")
+L 12/27/2020 - 22:44:37: [SetSpeed.smx] "Draconic (Azel)<5><[U:1:101368949]><>" set speed of  "Hailstorm<7><[U:1:181986054]><>" to (100.000000)
+L 12/27/2020 - 22:44:54: [funcommands.smx] "Hailstorm<7><[U:1:181986054]><>" set blind on "Draconic (Azel)<5><[U:1:101368949]><>" (amount "0")
+L 12/27/2020 - 22:44:55: [funcommands.smx] "Draconic (Azel)<5><[U:1:101368949]><>" set a FreezeBomb on "Draconic (Azel)<5><[U:1:101368949]><>"
+L 12/27/2020 - 22:44:56: [funcommands.smx] "Hailstorm<7><[U:1:181986054]><>" set blind on "Hailstorm<7><[U:1:181986054]><>" (amount "0")
+L 12/27/2020 - 22:45:19: [SetSpeed.smx] "Hailstorm<7><[U:1:181986054]><>" set speed of  "Draconic (Azel)<5><[U:1:101368949]><>" to (100.000000)
+L 12/27/2020 - 22:45:19: [SetSpeed.smx] "Hailstorm<7><[U:1:181986054]><>" set speed of  "Hailstorm<7><[U:1:181986054]><>" to (100.000000)
+L 12/27/2020 - 22:45:25: [SetSpeed.smx] "Hailstorm<7><[U:1:181986054]><>" reset speed of  "Draconic (Azel)<5><[U:1:101368949]><>" to Normal
+L 12/27/2020 - 22:45:25: [SetSpeed.smx] "Hailstorm<7><[U:1:181986054]><>" reset speed of  "Hailstorm<7><[U:1:181986054]><>" to Normal
+L 12/27/2020 - 22:45:29: [funcommands.smx] "Draconic (Azel)<5><[U:1:101368949]><>" drugged "Draconic (Azel)<5><[U:1:101368949]><>"
+L 12/27/2020 - 22:45:35: [funcommands.smx] "Draconic (Azel)<5><[U:1:101368949]><>" undrugged "Draconic (Azel)<5><[U:1:101368949]><>"
+L 12/27/2020 - 22:45:40: [funcommandsX.smx] "Hailstorm<7><[U:1:181986054]><>" made "Draconic (Azel)<5><[U:1:101368949]><>" Happy
+L 12/27/2020 - 22:45:44: [funcommandsX.smx] "Draconic (Azel)<5><[U:1:101368949]><>" made "Draconic (Azel)<5><[U:1:101368949]><>" invisible
+L 12/27/2020 - 22:45:44: [basechat.smx] "Console<0><Console><Console>" triggered sm_say (text The round time has ended, omaewa-mou shindeiru)
+L 12/27/2020 - 22:45:44: [playercommands.smx] "Console<0><Console><Console>" slayed "Draconic (Azel)<5><[U:1:101368949]><>"
+L 12/27/2020 - 22:45:44: [playercommands.smx] "Console<0><Console><Console>" slayed "Nezzie<6><[U:1:107910185]><>"
+L 12/27/2020 - 22:45:44: [playercommands.smx] "Console<0><Console><Console>" slayed "Hailstorm<7><[U:1:181986054]><>"
+L 12/27/2020 - 22:46:02: [SM] Changed map to "vsh_castle_siege_unreal_sg1"
+L 12/27/2020 - 22:46:05: -------- Mapchange to vsh_castle_siege_unreal_sg1 --------
+L 12/27/2020 - 22:46:15: [mapchooser_extended.smx] Loaded map list for tf.
+L 12/27/2020 - 22:47:31: [funcommandsX.smx] "Hailstorm<7><[U:1:181986054]><>" made "Hailstorm<7><[U:1:181986054]><>" Happy
+L 12/27/2020 - 22:48:14: [funcommandsX.smx] "Hailstorm<7><[U:1:181986054]><>" made "Hailstorm<7><[U:1:181986054]><>" Unhappy
+L 12/27/2020 - 22:48:15: [funcommandsX.smx] "Hailstorm<7><[U:1:181986054]><>" made "Draconic (Azel)<5><[U:1:101368949]><>" Happy
+L 12/27/2020 - 22:48:21: [funcommandsX.smx] "Hailstorm<7><[U:1:181986054]><>" made "Draconic (Azel)<5><[U:1:101368949]><>" Unhappy
+L 12/27/2020 - 22:48:39: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 12/27/2020 - 22:48:39: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 12/27/2020 - 22:48:39: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 12/27/2020 - 22:48:39: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 12/27/2020 - 22:48:39: [mapchooser_extended.smx] Loaded map list for tf.
+L 12/27/2020 - 22:51:31: [SetSpeed.smx] "Draconic (Azel)<5><[U:1:101368949]><>" set speed of  "Hailstorm<7><[U:1:181986054]><>" to (100.000000)
+L 12/27/2020 - 22:51:48: [SetSpeed.smx] "Draconic (Azel)<5><[U:1:101368949]><>" reset speed of  "Draconic (Azel)<5><[U:1:101368949]><>" to Normal
+L 12/27/2020 - 22:51:48: [SetSpeed.smx] "Draconic (Azel)<5><[U:1:101368949]><>" reset speed of  "Hailstorm<7><[U:1:181986054]><>" to Normal
+L 12/27/2020 - 22:51:57: [SetSpeed.smx] "Hailstorm<7><[U:1:181986054]><>" set speed of  "Draconic (Azel)<5><[U:1:101368949]><>" to (520.000000)
+L 12/27/2020 - 22:51:57: [SetSpeed.smx] "Hailstorm<7><[U:1:181986054]><>" set speed of  "Hailstorm<7><[U:1:181986054]><>" to (520.000000)
+L 12/27/2020 - 22:52:06: [SetSpeed.smx] "Hailstorm<7><[U:1:181986054]><>" reset speed of  "Draconic (Azel)<5><[U:1:101368949]><>" to Normal
+L 12/27/2020 - 22:52:06: [SetSpeed.smx] "Hailstorm<7><[U:1:181986054]><>" reset speed of  "Hailstorm<7><[U:1:181986054]><>" to Normal
+L 12/27/2020 - 22:52:16: [funcommandsX.smx] "Hailstorm<7><[U:1:181986054]><>" made "Hailstorm<7><[U:1:181986054]><>" black
+L 12/27/2020 - 22:52:26: [funcommands.smx] "Hailstorm<7><[U:1:181986054]><>" set a beacon on "Hailstorm<7><[U:1:181986054]><>"
+L 12/27/2020 - 22:52:57: [funcommandsX.smx] "Draconic (Azel)<5><[U:1:101368949]><>" made "Draconic (Azel)<5><[U:1:101368949]><>" gold
+L 12/27/2020 - 22:53:03: [funcommandsX.smx] "Draconic (Azel)<5><[U:1:101368949]><>" made "Draconic (Azel)<5><[U:1:101368949]><>" black
+L 12/27/2020 - 22:53:49: [funcommandsX.smx] "Draconic (Azel)<5><[U:1:101368949]><>" made "Draconic (Azel)<5><[U:1:101368949]><>" violet
+L 12/27/2020 - 22:54:30: [funcommandsX.smx] "Draconic (Azel)<5><[U:1:101368949]><>" made "Draconic (Azel)<5><[U:1:101368949]><>" ghostwhite
+L 12/27/2020 - 22:54:56: [funcommandsX.smx] "Nezzie<6><[U:1:107910185]><>" set alpha on "Nezzie<6><[U:1:107910185]><>" to 50
+L 12/27/2020 - 22:55:14: [funcommandsX.smx] "Hailstorm<7><[U:1:181986054]><>" made "Hailstorm<7><[U:1:181986054]><>" normal
+L 12/27/2020 - 22:56:27: [funcommandsX.smx] "Nezzie<6><[U:1:107910185]><>" set alpha on "Draconic (Azel)<5><[U:1:101368949]><>" to 0
+L 12/27/2020 - 22:56:32: [funcommandsX.smx] "Nezzie<6><[U:1:107910185]><>" set alpha on "Nezzie<6><[U:1:107910185]><>" to 0
+L 12/27/2020 - 22:56:38: [respawn.smx] "Hailstorm<7><[U:1:181986054]><>" respawned "M1STY F1SH<9><[U:1:445849108]><>"
+L 12/27/2020 - 22:56:40: [funcommandsX.smx] "Nezzie<6><[U:1:107910185]><>" set alpha on "M1STY F1SH<9><[U:1:445849108]><>" to 0
+L 12/27/2020 - 22:56:43: [funcommandsX.smx] "Nezzie<6><[U:1:107910185]><>" set alpha on "Hailstorm<7><[U:1:181986054]><>" to 0
+L 12/27/2020 - 22:57:28: [respawn.smx] "Nezzie<6><[U:1:107910185]><>" respawned "Hailstorm<7><[U:1:181986054]><>"
+L 12/27/2020 - 22:57:31: [funcommands.smx] "Nezzie<6><[U:1:107910185]><>" set a beacon on "Draconic (Azel)<5><[U:1:101368949]><>"
+L 12/27/2020 - 22:57:31: [funcommands.smx] "Nezzie<6><[U:1:107910185]><>" set a beacon on "Nezzie<6><[U:1:107910185]><>"
+L 12/27/2020 - 22:57:31: [funcommands.smx] "Nezzie<6><[U:1:107910185]><>" set a beacon on "Hailstorm<7><[U:1:181986054]><>"
+L 12/27/2020 - 22:57:31: [funcommands.smx] "Nezzie<6><[U:1:107910185]><>" set a beacon on "M1STY F1SH<9><[U:1:445849108]><>"
+L 12/27/2020 - 22:57:37: [funcommandsX.smx] "Nezzie<6><[U:1:107910185]><>" set alpha on "Hailstorm<7><[U:1:181986054]><>" to 0
+L 12/27/2020 - 22:58:55: [funcommandsX.smx] "Hailstorm<7><[U:1:181986054]><>" set alpha on "Hailstorm<7><[U:1:181986054]><>" to 0
+L 12/27/2020 - 22:58:59: [funcommandsX.smx] "Nezzie<6><[U:1:107910185]><>" set alpha on "Draconic (Azel)<5><[U:1:101368949]><>" to 255
+L 12/27/2020 - 22:58:59: [funcommandsX.smx] "Nezzie<6><[U:1:107910185]><>" set alpha on "Nezzie<6><[U:1:107910185]><>" to 255
+L 12/27/2020 - 22:58:59: [funcommandsX.smx] "Nezzie<6><[U:1:107910185]><>" set alpha on "Hailstorm<7><[U:1:181986054]><>" to 255
+L 12/27/2020 - 22:58:59: [funcommandsX.smx] "Nezzie<6><[U:1:107910185]><>" set alpha on "M1STY F1SH<9><[U:1:445849108]><>" to 255
+L 12/27/2020 - 22:59:11: [funcommandsX.smx] "Hailstorm<7><[U:1:181986054]><>" set alpha on "Hailstorm<7><[U:1:181986054]><>" to 0
+L 12/27/2020 - 22:59:44: [respawn.smx] "Hailstorm<7><[U:1:181986054]><>" respawned "Draconic (Azel)<5><[U:1:101368949]><>"
+L 12/27/2020 - 23:00:01: [funcommandsX.smx] "Hailstorm<7><[U:1:181986054]><>" set alpha on "Hailstorm<7><[U:1:181986054]><>" to 50
+L 12/27/2020 - 23:00:09: [funcommandsX.smx] "Hailstorm<7><[U:1:181986054]><>" set alpha on "Hailstorm<7><[U:1:181986054]><>" to 100
+L 12/27/2020 - 23:00:14: [funcommandsX.smx] "Nezzie<6><[U:1:107910185]><>" set alpha on "Nezzie<6><[U:1:107910185]><>" to 1
+L 12/27/2020 - 23:00:15: [funcommandsX.smx] "Hailstorm<7><[U:1:181986054]><>" set alpha on "Hailstorm<7><[U:1:181986054]><>" to 150
+L 12/27/2020 - 23:00:18: [funcommandsX.smx] "Hailstorm<7><[U:1:181986054]><>" set alpha on "Hailstorm<7><[U:1:181986054]><>" to 200
+L 12/27/2020 - 23:00:22: [funcommandsX.smx] "Hailstorm<7><[U:1:181986054]><>" set alpha on "Hailstorm<7><[U:1:181986054]><>" to 150
+L 12/27/2020 - 23:00:25: [funcommandsX.smx] "Hailstorm<7><[U:1:181986054]><>" set alpha on "Hailstorm<7><[U:1:181986054]><>" to 50
+L 12/27/2020 - 23:00:39: [funcommandsX.smx] "Nezzie<6><[U:1:107910185]><>" set alpha on "Nezzie<6><[U:1:107910185]><>" to 10
+L 12/27/2020 - 23:01:12: [funcommandsX.smx] "Nezzie<6><[U:1:107910185]><>" set alpha on "Nezzie<6><[U:1:107910185]><>" to 10
+L 12/27/2020 - 23:01:18: [funcommands.smx] "Nezzie<6><[U:1:107910185]><>" set a beacon on "Nezzie<6><[U:1:107910185]><>"
+L 12/27/2020 - 23:01:30: [funcommandsX.smx] "Hailstorm<7><[U:1:181986054]><>" set alpha on "Hailstorm<7><[U:1:181986054]><>" to 0
+L 12/27/2020 - 23:01:32: [funcommandsX.smx] "Hailstorm<7><[U:1:181986054]><>" set alpha on "Hailstorm<7><[U:1:181986054]><>" to 255
+L 12/27/2020 - 23:01:40: [respawn.smx] "M1STY F1SH<9><[U:1:445849108]><>" respawned "M1STY F1SH<9><[U:1:445849108]><>"
+L 12/27/2020 - 23:01:48: [funcommandsX.smx] "Hailstorm<7><[U:1:181986054]><>" set alpha on "Hailstorm<7><[U:1:181986054]><>" to 0
+L 12/27/2020 - 23:01:50: [funcommandsX.smx] "Hailstorm<7><[U:1:181986054]><>" set alpha on "Hailstorm<7><[U:1:181986054]><>" to 50
+L 12/27/2020 - 23:02:02: [playercommands.smx] "Hailstorm<7><[U:1:181986054]><>" renamed "Hailstorm<7><[U:1:181986054]><>" (to "Hasslasal")
+L 12/27/2020 - 23:02:05: [playercommands.smx] "Hasslasal<7><[U:1:181986054]><>" renamed "Hasslasal<7><[U:1:181986054]><>" (to "aHsaalaal")
+L 12/27/2020 - 23:02:06: [playercommands.smx] "aHsaalaal<7><[U:1:181986054]><>" renamed "aHsaalaal<7><[U:1:181986054]><>" (to "asaaaaals")
+L 12/27/2020 - 23:02:08: [playercommands.smx] "asaaaaals<7><[U:1:181986054]><>" renamed "asaaaaals<7><[U:1:181986054]><>" (to "aaaslssls")
+L 12/27/2020 - 23:02:09: [playercommands.smx] "aaaslssls<7><[U:1:181986054]><>" renamed "aaaslssls<7><[U:1:181986054]><>" (to "asslasssl")
+L 12/27/2020 - 23:02:10: [playercommands.smx] "asslasssl<7><[U:1:181986054]><>" renamed "asslasssl<7><[U:1:181986054]><>" (to "saalsssal")
+L 12/27/2020 - 23:02:10: [playercommands.smx] "saalsssal<7><[U:1:181986054]><>" renamed "saalsssal<7><[U:1:181986054]><>" (to "aaassaaaa")
+L 12/27/2020 - 23:02:10: [playercommands.smx] "aaassaaaa<7><[U:1:181986054]><>" renamed "aaassaaaa<7><[U:1:181986054]><>" (to "aaasaaaaa")
+L 12/27/2020 - 23:02:11: [playercommands.smx] "aaasaaaaa<7><[U:1:181986054]><>" renamed "aaasaaaaa<7><[U:1:181986054]><>" (to "sssaasaaa")
+L 12/27/2020 - 23:02:11: [playercommands.smx] "sssaasaaa<7><[U:1:181986054]><>" renamed "sssaasaaa<7><[U:1:181986054]><>" (to "asassaaaa")
+L 12/27/2020 - 23:02:11: [playercommands.smx] "asassaaaa<7><[U:1:181986054]><>" renamed "asassaaaa<7><[U:1:181986054]><>" (to "aaaaaaasa")
+L 12/27/2020 - 23:02:11: [playercommands.smx] "aaaaaaasa<7><[U:1:181986054]><>" renamed "aaaaaaasa<7><[U:1:181986054]><>" (to "aaaaaaaaa")
+L 12/27/2020 - 23:02:27: [playercommands.smx] "aaaaaaaaa<7><[U:1:181986054]><>" renamed "aaaaaaaaa<7><[U:1:181986054]><>" (to "aaaaaaaaa")
+L 12/27/2020 - 23:02:28: [playercommands.smx] "aaaaaaaaa<7><[U:1:181986054]><>" renamed "aaaaaaaaa<7><[U:1:181986054]><>" (to "aaaaaaaaa")
+L 12/27/2020 - 23:02:28: [playercommands.smx] "aaaaaaaaa<7><[U:1:181986054]><>" renamed "aaaaaaaaa<7><[U:1:181986054]><>" (to "aaaaaaaaa")
+L 12/27/2020 - 23:02:28: [playercommands.smx] "aaaaaaaaa<7><[U:1:181986054]><>" renamed "aaaaaaaaa<7><[U:1:181986054]><>" (to "aaaaaaaaa")
+L 12/27/2020 - 23:02:29: [playercommands.smx] "aaaaaaaaa<7><[U:1:181986054]><>" renamed "aaaaaaaaa<7><[U:1:181986054]><>" (to "aaaaaaaaa")
+L 12/27/2020 - 23:02:39: [funcommandsX.smx] "Nezzie<6><[U:1:107910185]><>" set alpha on "Nezzie<6><[U:1:107910185]><>" to 255
+L 12/27/2020 - 23:02:48: [playercommands.smx] "M1STY F1SH<9><[U:1:445849108]><>" renamed "Draconic (Azel)<5><[U:1:101368949]><>" (to "D)cnl(ea(ccaloA")
+L 12/27/2020 - 23:02:49: [playercommands.smx] "M1STY F1SH<9><[U:1:445849108]><>" renamed "D)cnl(ea(ccaloA<5><[U:1:101368949]><>" (to "(Dlanccaaoc(D((")
+L 12/27/2020 - 23:02:49: [playercommands.smx] "M1STY F1SH<9><[U:1:445849108]><>" renamed "(Dlanccaaoc(D((<5><[U:1:101368949]><>" (to "ccoD(coccocl(aa")
+L 12/27/2020 - 23:02:50: [playercommands.smx] "M1STY F1SH<9><[U:1:445849108]><>" renamed "ccoD(coccocl(aa<5><[U:1:101368949]><>" (to "cca(cocDc(ccocc")
+L 12/27/2020 - 23:02:50: [playercommands.smx] "M1STY F1SH<9><[U:1:445849108]><>" renamed "cca(cocDc(ccocc<5><[U:1:101368949]><>" (to "o(cccc(ccoaac((")
+L 12/27/2020 - 23:02:50: [playercommands.smx] "M1STY F1SH<9><[U:1:445849108]><>" renamed "o(cccc(ccoaac((<5><[U:1:101368949]><>" (to "cocccc(accccccc")
+L 12/27/2020 - 23:02:50: [playercommands.smx] "M1STY F1SH<9><[U:1:445849108]><>" renamed "cocccc(accccccc<5><[U:1:101368949]><>" (to "cccccccc(aocccc")
+L 12/27/2020 - 23:02:50: [playercommands.smx] "M1STY F1SH<9><[U:1:445849108]><>" renamed "cccccccc(aocccc<5><[U:1:101368949]><>" (to "ccc(ccccccccocc")
+L 12/27/2020 - 23:02:50: [playercommands.smx] "M1STY F1SH<9><[U:1:445849108]><>" renamed "ccc(ccccccccocc<5><[U:1:101368949]><>" (to "ccccc(ccccccccc")
+L 12/27/2020 - 23:02:51: [playercommands.smx] "M1STY F1SH<9><[U:1:445849108]><>" renamed "ccccc(ccccccccc<5><[U:1:101368949]><>" (to "ccccccccccccccc")
+L 12/27/2020 - 23:02:51: [playercommands.smx] "M1STY F1SH<9><[U:1:445849108]><>" renamed "ccccccccccccccc<5><[U:1:101368949]><>" (to "ccccccccccccccc")
+L 12/27/2020 - 23:02:51: [playercommands.smx] "M1STY F1SH<9><[U:1:445849108]><>" renamed "ccccccccccccccc<5><[U:1:101368949]><>" (to "ccccccccccccccc")
+L 12/27/2020 - 23:03:09: [playercommands.smx] "aaaaaaaaa<7><[U:1:181986054]><>" renamed "aaaaaaaaa<7><[U:1:181986054]><>" (to "aaaaaaaaa")
+L 12/27/2020 - 23:03:12: [playercommands.smx] "M1STY F1SH<9><[U:1:445849108]><>" renamed "ccccccccccccccc<5><[U:1:101368949]><>" (to "ccccccccccccccc")
+L 12/27/2020 - 23:03:12: [playercommands.smx] "M1STY F1SH<9><[U:1:445849108]><>" renamed "ccccccccccccccc<5><[U:1:101368949]><>" (to "ccccccccccccccc")
+L 12/27/2020 - 23:03:12: [playercommands.smx] "M1STY F1SH<9><[U:1:445849108]><>" renamed "ccccccccccccccc<5><[U:1:101368949]><>" (to "ccccccccccccccc")
+L 12/27/2020 - 23:03:13: [playercommands.smx] "M1STY F1SH<9><[U:1:445849108]><>" renamed "ccccccccccccccc<5><[U:1:101368949]><>" (to "ccccccccccccccc")
+L 12/27/2020 - 23:03:13: [playercommands.smx] "M1STY F1SH<9><[U:1:445849108]><>" renamed "ccccccccccccccc<5><[U:1:101368949]><>" (to "ccccccccccccccc")
+L 12/27/2020 - 23:03:13: [playercommands.smx] "M1STY F1SH<9><[U:1:445849108]><>" renamed "ccccccccccccccc<5><[U:1:101368949]><>" (to "ccccccccccccccc")
+L 12/27/2020 - 23:03:13: [playercommands.smx] "M1STY F1SH<9><[U:1:445849108]><>" renamed "ccccccccccccccc<5><[U:1:101368949]><>" (to "ccccccccccccccc")
+L 12/27/2020 - 23:03:14: [playercommands.smx] "M1STY F1SH<9><[U:1:445849108]><>" renamed "ccccccccccccccc<5><[U:1:101368949]><>" (to "ccccccccccccccc")
+L 12/27/2020 - 23:03:34: [respawn.smx] "aaaaaaaaa<7><[U:1:181986054]><>" respawned "M1STY F1SH<9><[U:1:445849108]><>"
+L 12/27/2020 - 23:03:34: [respawn.smx] "aaaaaaaaa<7><[U:1:181986054]><>" respawned "Giggity<12><[U:1:899071019]><>"
+L 12/27/2020 - 23:03:35: [respawn.smx] "aaaaaaaaa<7><[U:1:181986054]><>" respawned "LunaTics<13><[U:1:172555002]><>"
+L 12/27/2020 - 23:04:20: [basecommands.smx] "Nezzie<6><[U:1:107910185]><>" changed map to "vsh_dirtmound_b9"
+L 12/27/2020 - 23:04:23: [SM] Changed map to "vsh_dirtmound_b9"
+L 12/27/2020 - 23:04:27: -------- Mapchange to vsh_dirtmound_b9 --------
+L 12/27/2020 - 23:04:37: [mapchooser_extended.smx] Loaded map list for tf.
+L 12/27/2020 - 23:06:29: [funcommandsX.smx] "Hailstorm<7><[U:1:181986054]><>" set alpha on "LunaTics<13><[U:1:172555002]><>" to 50
+L 12/27/2020 - 23:06:34: [funcommandsX.smx] "Hailstorm<7><[U:1:181986054]><>" set alpha on "LunaTics<13><[U:1:172555002]><>" to 100
+L 12/27/2020 - 23:06:51: [funcommandsX.smx] "Hailstorm<7><[U:1:181986054]><>" set alpha on "LunaTics<13><[U:1:172555002]><>" to 255
+L 12/27/2020 - 23:24:54: [mapchooser_extended.smx] Voting for next map has started.
+L 12/27/2020 - 23:25:14: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_area_54tress_b4.
+L 12/27/2020 - 23:36:17: [SM] Changed map to "vsh_area_54tress_b4"
+L 12/27/2020 - 23:36:20: -------- Mapchange to vsh_area_54tress_b4 --------
+L 12/27/2020 - 23:36:29: [mapchooser_extended.smx] Loaded map list for tf.
+L 12/27/2020 - 23:41:32: [playercommands.smx] "SKULLY F1SH<9><[U:1:445849108]><>" slapped "MERRY DISCORD<15><[U:1:1092608481]><>" (damage "1")
+L 12/27/2020 - 23:41:32: [playercommands.smx] "SKULLY F1SH<9><[U:1:445849108]><>" slapped "MERRY DISCORD<15><[U:1:1092608481]><>" (damage "1")
+L 12/27/2020 - 23:41:32: [playercommands.smx] "SKULLY F1SH<9><[U:1:445849108]><>" slapped "MERRY DISCORD<15><[U:1:1092608481]><>" (damage "1")
+L 12/27/2020 - 23:41:32: [playercommands.smx] "SKULLY F1SH<9><[U:1:445849108]><>" slapped "MERRY DISCORD<15><[U:1:1092608481]><>" (damage "1")
+L 12/27/2020 - 23:41:33: [playercommands.smx] "SKULLY F1SH<9><[U:1:445849108]><>" slapped "MERRY DISCORD<15><[U:1:1092608481]><>" (damage "1")
+L 12/27/2020 - 23:41:33: [playercommands.smx] "SKULLY F1SH<9><[U:1:445849108]><>" slapped "MERRY DISCORD<15><[U:1:1092608481]><>" (damage "1")
+L 12/27/2020 - 23:41:33: [playercommands.smx] "SKULLY F1SH<9><[U:1:445849108]><>" slapped "MERRY DISCORD<15><[U:1:1092608481]><>" (damage "1")
+L 12/27/2020 - 23:41:33: [playercommands.smx] "SKULLY F1SH<9><[U:1:445849108]><>" slapped "MERRY DISCORD<15><[U:1:1092608481]><>" (damage "1")
+L 12/27/2020 - 23:41:33: [playercommands.smx] "SKULLY F1SH<9><[U:1:445849108]><>" slapped "MERRY DISCORD<15><[U:1:1092608481]><>" (damage "1")
+L 12/27/2020 - 23:56:27: [nominations_extended.smx] Hailstorm nominated vsh_nebula_rc1
+L 12/27/2020 - 23:56:46: [mapchooser_extended.smx] Voting for next map has started.
+L 12/27/2020 - 23:57:06: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_nebula_rc1.
+L 12/28/2020 - 00:00:35: Log file closed.

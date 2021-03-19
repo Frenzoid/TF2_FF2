@@ -1,0 +1,88 @@
+L 08/20/2020 - 01:36:54: SourceMod log file session started (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/L20200820.log") (Version "1.10.0.6490")
+L 08/20/2020 - 01:36:54: [basecommands.smx] "Nezzie<423><[U:1:107910185]><>" changed map to "arena_lumberyard"
+L 08/20/2020 - 01:36:57: [SM] Changed map to "arena_lumberyard"
+L 08/20/2020 - 01:36:59: -------- Mapchange to arena_lumberyard --------
+L 08/20/2020 - 01:37:13: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/20/2020 - 01:38:49: [respawn.smx] "Nezzie<423><[U:1:107910185]><>" respawned "Nezzie<423><[U:1:107910185]><>"
+L 08/20/2020 - 01:43:08: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 08/20/2020 - 01:43:08: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 08/20/2020 - 01:43:08: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 08/20/2020 - 01:43:08: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 08/20/2020 - 01:43:09: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/20/2020 - 01:57:36: [mapchooser_extended.smx] Voting for next map has started.
+L 08/20/2020 - 02:40:09: [basecommands.smx] "Nezzie<436><[U:1:107910185]><>" changed map to "arena_lumberyard"
+L 08/20/2020 - 02:40:12: [SM] Changed map to "arena_lumberyard"
+L 08/20/2020 - 02:40:14: -------- Mapchange to arena_lumberyard --------
+L 08/20/2020 - 02:40:26: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/20/2020 - 02:41:25: [respawn.smx] "Nezzie<436><[U:1:107910185]><>" respawned "Nezzie<436><[U:1:107910185]><>"
+L 08/20/2020 - 02:41:43: [respawn.smx] "Nezzie<436><[U:1:107910185]><>" respawned "Nezzie<436><[U:1:107910185]><>"
+L 08/20/2020 - 02:42:01: [respawn.smx] "Nezzie<436><[U:1:107910185]><>" respawned "Nezzie<436><[U:1:107910185]><>"
+L 08/20/2020 - 02:44:11: [respawn.smx] "Nezzie<436><[U:1:107910185]><>" respawned "Nezzie<436><[U:1:107910185]><>"
+L 08/20/2020 - 03:00:41: [mapchooser_extended.smx] Voting for next map has started.
+L 08/20/2020 - 13:40:52: [basecommands.smx] "Nezzie<449><[U:1:107910185]><>" changed map to "arena_lumberyard"
+L 08/20/2020 - 13:40:55: [SM] Changed map to "arena_lumberyard"
+L 08/20/2020 - 13:40:57: -------- Mapchange to arena_lumberyard --------
+L 08/20/2020 - 13:41:10: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/20/2020 - 13:42:37: [basecommands.smx] "Nezzie<449><[U:1:107910185]><>" changed map to "arena_lumberyard"
+L 08/20/2020 - 13:42:40: [SM] Changed map to "arena_lumberyard"
+L 08/20/2020 - 13:42:41: -------- Mapchange to arena_lumberyard --------
+L 08/20/2020 - 13:42:53: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/20/2020 - 13:44:29: [respawn.smx] "Nezzie<449><[U:1:107910185]><>" respawned "Nezzie<449><[U:1:107910185]><>"
+L 08/20/2020 - 13:45:16: [basecommands.smx] "Nezzie<449><[U:1:107910185]><>" changed map to "arena_lumberyard"
+L 08/20/2020 - 13:45:19: [SM] Changed map to "arena_lumberyard"
+L 08/20/2020 - 13:45:20: -------- Mapchange to arena_lumberyard --------
+L 08/20/2020 - 13:45:30: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/20/2020 - 13:47:26: [basecommands.smx] "Nezzie<449><[U:1:107910185]><>" changed map to "arena_lumberyard"
+L 08/20/2020 - 13:47:29: [SM] Changed map to "arena_lumberyard"
+L 08/20/2020 - 13:47:31: -------- Mapchange to arena_lumberyard --------
+L 08/20/2020 - 13:47:41: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/20/2020 - 13:53:35: [playercommands.smx] "Nezzie<449><[U:1:107910185]><>" slayed "CRITRAWKETS<474><BOT><>"
+L 08/20/2020 - 13:58:38: [respawn.smx] "Nezzie<480><[U:1:107910185]><>" respawned "Nezzie<480><[U:1:107910185]><>"
+L 08/20/2020 - 13:58:59: [respawn.smx] "Nezzie<480><[U:1:107910185]><>" respawned "Nezzie<480><[U:1:107910185]><>"
+L 08/20/2020 - 13:59:08: [respawn.smx] "Nezzie<480><[U:1:107910185]><>" respawned "Nezzie<480><[U:1:107910185]><>"
+L 08/20/2020 - 13:59:30: [respawn.smx] "Nezzie<480><[U:1:107910185]><>" respawned "Nezzie<480><[U:1:107910185]><>"
+L 08/20/2020 - 13:59:44: [respawn.smx] "Nezzie<480><[U:1:107910185]><>" respawned "Nezzie<480><[U:1:107910185]><>"
+L 08/20/2020 - 14:00:18: [respawn.smx] "Nezzie<480><[U:1:107910185]><>" respawned "Nezzie<480><[U:1:107910185]><>"
+L 08/20/2020 - 14:05:07: [basechat.smx] "Console<0><Console><Console>" triggered sm_say (text The round time has ended, omaewa-mou shindeiru)
+L 08/20/2020 - 14:05:07: [playercommands.smx] "Console<0><Console><Console>" slayed "Nezzie<480><[U:1:107910185]><>"
+L 08/20/2020 - 14:05:07: [playercommands.smx] "Console<0><Console><Console>" slayed "Nom Nom Nom<481><BOT><>"
+L 08/20/2020 - 14:05:07: [playercommands.smx] "Console<0><Console><Console>" slayed "GENTLE MANNE of LEISURE<482><BOT><>"
+L 08/20/2020 - 14:05:07: [playercommands.smx] "Console<0><Console><Console>" slayed "Tiny Baby Man<483><BOT><>"
+L 08/20/2020 - 14:05:07: [playercommands.smx] "Console<0><Console><Console>" slayed "Force of Nature<484><BOT><>"
+L 08/20/2020 - 14:05:07: [playercommands.smx] "Console<0><Console><Console>" slayed "Grim Bloody Fable<485><BOT><>"
+L 08/20/2020 - 14:05:07: [playercommands.smx] "Console<0><Console><Console>" slayed "A Professional With Standards<486><BOT><>"
+L 08/20/2020 - 14:07:56: [mapchooser_extended.smx] Voting for next map has started.
+L 08/20/2020 - 15:52:41: [basecommands.smx] "Nezzie<488><[U:1:107910185]><>" changed map to "arena_lumberyard"
+L 08/20/2020 - 15:52:44: [SM] Changed map to "arena_lumberyard"
+L 08/20/2020 - 15:52:46: -------- Mapchange to arena_lumberyard --------
+L 08/20/2020 - 15:52:56: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/20/2020 - 15:59:32: [respawn.smx] "Nezzie<495><[U:1:107910185]><>" respawned "Nezzie<495><[U:1:107910185]><>"
+L 08/20/2020 - 16:13:11: [mapchooser_extended.smx] Voting for next map has started.
+L 08/20/2020 - 17:30:14: [playercommands.smx] "Nezzie<502><[U:1:107910185]><>" slayed "THEM<503><BOT><>"
+L 08/20/2020 - 17:30:24: [basecommands.smx] "Nezzie<502><[U:1:107910185]><>" changed map to "arena_lumberyard"
+L 08/20/2020 - 17:30:27: [SM] Changed map to "arena_lumberyard"
+L 08/20/2020 - 17:30:29: -------- Mapchange to arena_lumberyard --------
+L 08/20/2020 - 17:30:40: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/20/2020 - 17:33:23: [respawn.smx] "Nezzie<502><[U:1:107910185]><>" respawned "Nezzie<502><[U:1:107910185]><>"
+L 08/20/2020 - 17:33:43: [respawn.smx] "Nezzie<502><[U:1:107910185]><>" respawned "Nezzie<502><[U:1:107910185]><>"
+L 08/20/2020 - 17:34:21: [playercommands.smx] "Nezzie<502><[U:1:107910185]><>" slayed "NotMe<509><BOT><>"
+L 08/20/2020 - 17:38:09: [respawn.smx] "Nezzie<502><[U:1:107910185]><>" respawned "Nezzie<502><[U:1:107910185]><>"
+L 08/20/2020 - 17:38:14: [playercommands.smx] "Nezzie<502><[U:1:107910185]><>" slayed "Mann Co.<511><BOT><>"
+L 08/20/2020 - 17:38:14: [playercommands.smx] "Nezzie<502><[U:1:107910185]><>" slayed "Kaboom!<512><BOT><>"
+L 08/20/2020 - 17:39:03: [playercommands.smx] "Nezzie<502><[U:1:107910185]><>" slayed "BoomerBile<510><BOT><>"
+L 08/20/2020 - 17:44:15: [playercommands.smx] "Nezzie<502><[U:1:107910185]><>" slayed "SomeDude<514><BOT><>"
+L 08/20/2020 - 17:50:41: [playercommands.smx] "Nezzie<502><[U:1:107910185]><>" slayed "0xDEADBEEF<513><BOT><>"
+L 08/20/2020 - 17:50:55: [mapchooser_extended.smx] Voting for next map has started.
+L 08/20/2020 - 17:51:00: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_nebula_rc1.
+L 08/20/2020 - 17:53:15: [basecommands.smx] "Nezzie<502><[U:1:107910185]><>" changed map to "vsh_gyros_v5"
+L 08/20/2020 - 17:53:19: [SM] Changed map to "vsh_gyros_v5"
+L 08/20/2020 - 17:53:23: -------- Mapchange to vsh_gyros_v5 --------
+L 08/20/2020 - 17:53:35: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/20/2020 - 18:13:50: [mapchooser_extended.smx] Voting for next map has started.
+L 08/20/2020 - 20:46:44: [respawn.smx] "Nezzie<542><[U:1:107910185]><>" respawned "Nezzie<542><[U:1:107910185]><>"
+L 08/20/2020 - 20:52:43: [basecommands.smx] "Nezzie<542><[U:1:107910185]><>" changed map to "arena_yunshu_rc1"
+L 08/20/2020 - 20:52:46: [SM] Changed map to "arena_yunshu_rc1"
+L 08/20/2020 - 20:52:54: -------- Mapchange to arena_yunshu_rc1 --------
+L 08/20/2020 - 20:53:10: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/20/2020 - 21:13:25: [mapchooser_extended.smx] Voting for next map has started.
+L 08/21/2020 - 03:08:30: Log file closed.

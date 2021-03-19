@@ -1,0 +1,251 @@
+L 08/10/2020 - 00:39:15: SourceMod error session started
+L 08/10/2020 - 00:39:15: Info (map "vsh_gyros_v5") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200810.log")
+L 08/10/2020 - 00:39:15: [SM] Plugin "roundtimer.smx" encountered error 23: Native detected error
+L 08/10/2020 - 00:39:15: [SM] Invalid timer handle f16d065f (error 3) during timer end, displayed function is timer callback, not the stack trace
+L 08/10/2020 - 00:39:15: [SM] Unable to call function "Timer_Round" due to above error(s).
+L 08/10/2020 - 00:47:33: [SM] Plugin "roundtimer.smx" encountered error 23: Native detected error
+L 08/10/2020 - 00:47:33: [SM] Invalid timer handle 76210072 (error 3) during timer end, displayed function is timer callback, not the stack trace
+L 08/10/2020 - 00:47:33: [SM] Unable to call function "Timer_Round" due to above error(s).
+L 08/10/2020 - 00:56:11: [SM] Plugin "roundtimer.smx" encountered error 23: Native detected error
+L 08/10/2020 - 00:56:11: [SM] Invalid timer handle 4990775 (error 3) during timer end, displayed function is timer callback, not the stack trace
+L 08/10/2020 - 00:56:11: [SM] Unable to call function "Timer_Round" due to above error(s).
+L 08/10/2020 - 01:03:29: Error log file session closed.
+L 08/10/2020 - 01:14:21: SourceMod error session started
+L 08/10/2020 - 01:14:21: Info (map "vsh_abandoned_warehouse_final_v3") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200810.log")
+L 08/10/2020 - 01:14:21: [SM] Exception reported: Array index out-of-bounds (index -1, limit 4)
+L 08/10/2020 - 01:14:21: [SM] Blaming: freak_fortress_2.smx
+L 08/10/2020 - 01:14:21: [SM] Call stack trace:
+L 08/10/2020 - 01:14:21: [SM]   [1] Line 17336, Unofficial Freak Fortress::Native_GetBossCharge
+L 08/10/2020 - 01:14:21: [SM]   [3] FF2_GetBossCharge
+L 08/10/2020 - 01:14:21: [SM]   [4] Line 889, FF2 Subplugin: Bat's Public Pack::FF2_OnAbility2
+L 08/10/2020 - 01:14:21: [SM]   [5] Line 52, D:\batfo_qrgut13\Documents\SourceMod 1.9 Compiler\addons\sourcemod\scripting\include\freak_fortress_2_subplugin.inc::FF2_OnAbility
+L 08/10/2020 - 01:14:21: [SM]   [7] Call_Finish
+L 08/10/2020 - 01:14:21: [SM]   [8] Line 16949, Unofficial Freak Fortress::UseAbility
+L 08/10/2020 - 01:14:21: [SM]   [9] Line 11243, Unofficial Freak Fortress::ActivateAbilitySlot
+L 08/10/2020 - 01:14:21: [SM]   [10] Line 12183, Unofficial Freak Fortress::OnPlayerHurt
+L 08/10/2020 - 01:15:04: [SM] Exception reported: Entity 10 is invalid
+L 08/10/2020 - 01:15:04: [SM] Blaming: fc.smx
+L 08/10/2020 - 01:15:04: [SM] Call stack trace:
+L 08/10/2020 - 01:15:04: [SM]   [0] SDKHook
+L 08/10/2020 - 01:15:04: [SM]   [1] Line 391, D:\storage\Dropbox\Sourcemod\nieuw\sourcemod\scripting\fc.sp::Init
+L 08/10/2020 - 01:15:04: [SM]   [2] Line 173, D:\storage\Dropbox\Sourcemod\nieuw\sourcemod\scripting\fc.sp::OnPluginStart
+L 08/10/2020 - 01:15:04: [SM] Unable to load plugin "fc.smx": Error detected in plugin startup (see error logs)
+L 08/10/2020 - 01:15:04: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/10/2020 - 01:15:05: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/10/2020 - 01:15:05: [store.smx] Database connection is lost or not yet initialized.
+L 08/10/2020 - 01:15:05: [store.smx] Database connection is lost or not yet initialized.
+L 08/10/2020 - 01:15:05: [store.smx] Database connection is lost or not yet initialized.
+L 08/10/2020 - 01:15:32: [SM] Exception reported: Entity 10 is invalid
+L 08/10/2020 - 01:15:32: [SM] Blaming: fc.smx
+L 08/10/2020 - 01:15:32: [SM] Call stack trace:
+L 08/10/2020 - 01:15:32: [SM]   [0] SDKHook
+L 08/10/2020 - 01:15:32: [SM]   [1] Line 391, D:\storage\Dropbox\Sourcemod\nieuw\sourcemod\scripting\fc.sp::Init
+L 08/10/2020 - 01:15:32: [SM]   [2] Line 173, D:\storage\Dropbox\Sourcemod\nieuw\sourcemod\scripting\fc.sp::OnPluginStart
+L 08/10/2020 - 01:15:32: [SM] Unable to load plugin "fc.smx": Error detected in plugin startup (see error logs)
+L 08/10/2020 - 01:15:32: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/10/2020 - 01:15:33: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/10/2020 - 01:15:33: [store.smx] Database connection is lost or not yet initialized.
+L 08/10/2020 - 01:15:33: [store.smx] Database connection is lost or not yet initialized.
+L 08/10/2020 - 01:15:33: [store.smx] Database connection is lost or not yet initialized.
+L 08/10/2020 - 01:16:03: [SM] Exception reported: Entity 10 is invalid
+L 08/10/2020 - 01:16:03: [SM] Blaming: fc.smx
+L 08/10/2020 - 01:16:03: [SM] Call stack trace:
+L 08/10/2020 - 01:16:03: [SM]   [0] SDKHook
+L 08/10/2020 - 01:16:03: [SM]   [1] Line 391, D:\storage\Dropbox\Sourcemod\nieuw\sourcemod\scripting\fc.sp::Init
+L 08/10/2020 - 01:16:03: [SM]   [2] Line 173, D:\storage\Dropbox\Sourcemod\nieuw\sourcemod\scripting\fc.sp::OnPluginStart
+L 08/10/2020 - 01:16:03: [SM] Unable to load plugin "fc.smx": Error detected in plugin startup (see error logs)
+L 08/10/2020 - 01:16:03: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/10/2020 - 01:16:03: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/10/2020 - 01:16:03: [store.smx] Database connection is lost or not yet initialized.
+L 08/10/2020 - 01:16:03: [store.smx] Database connection is lost or not yet initialized.
+L 08/10/2020 - 01:16:03: [store.smx] Database connection is lost or not yet initialized.
+L 08/10/2020 - 01:16:59: [SM] Exception reported: Entity 10 is invalid
+L 08/10/2020 - 01:16:59: [SM] Blaming: fc.smx
+L 08/10/2020 - 01:16:59: [SM] Call stack trace:
+L 08/10/2020 - 01:16:59: [SM]   [0] SDKHook
+L 08/10/2020 - 01:16:59: [SM]   [1] Line 391, D:\storage\Dropbox\Sourcemod\nieuw\sourcemod\scripting\fc.sp::Init
+L 08/10/2020 - 01:16:59: [SM]   [2] Line 173, D:\storage\Dropbox\Sourcemod\nieuw\sourcemod\scripting\fc.sp::OnPluginStart
+L 08/10/2020 - 01:16:59: [SM] Unable to load plugin "fc.smx": Error detected in plugin startup (see error logs)
+L 08/10/2020 - 01:16:59: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/10/2020 - 01:16:59: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/10/2020 - 01:16:59: [store.smx] Database connection is lost or not yet initialized.
+L 08/10/2020 - 01:16:59: [store.smx] Database connection is lost or not yet initialized.
+L 08/10/2020 - 01:16:59: [store.smx] Database connection is lost or not yet initialized.
+L 08/10/2020 - 01:20:56: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/10/2020 - 01:20:57: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/10/2020 - 01:20:57: [store.smx] Database connection is lost or not yet initialized.
+L 08/10/2020 - 01:20:57: [store.smx] Database connection is lost or not yet initialized.
+L 08/10/2020 - 01:20:57: [store.smx] Database connection is lost or not yet initialized.
+L 08/10/2020 - 01:20:57: [store.smx] Database connection is lost or not yet initialized.
+L 08/10/2020 - 01:23:06: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/10/2020 - 01:23:06: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/10/2020 - 01:23:06: [store.smx] Database connection is lost or not yet initialized.
+L 08/10/2020 - 01:23:06: [store.smx] Database connection is lost or not yet initialized.
+L 08/10/2020 - 01:23:06: [store.smx] Database connection is lost or not yet initialized.
+L 08/10/2020 - 01:23:06: [store.smx] Database connection is lost or not yet initialized.
+L 08/10/2020 - 01:24:38: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/10/2020 - 01:24:39: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/10/2020 - 01:24:39: [store.smx] Database connection is lost or not yet initialized.
+L 08/10/2020 - 01:24:39: [store.smx] Database connection is lost or not yet initialized.
+L 08/10/2020 - 01:24:39: [store.smx] Database connection is lost or not yet initialized.
+L 08/10/2020 - 01:24:39: [store.smx] Database connection is lost or not yet initialized.
+L 08/10/2020 - 01:28:00: [freaks/shadow93_abilities.ff2] [SHADoW93 Minions] Blutarch Mann has an invalid  formula for minions, using default health!
+L 08/10/2020 - 01:28:00: [freaks/shadow93_abilities.ff2] [SHADoW93 Minions] Blutarch Mann has an invalid  formula for minions, using default health!
+L 08/10/2020 - 01:37:58: Error log file session closed.
+L 08/10/2020 - 12:16:34: SourceMod error session started
+L 08/10/2020 - 12:16:34: Info (map "arena_suijin_rc2") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200810.log")
+L 08/10/2020 - 12:16:34: [SM] Exception reported: Database failure: could not find database config: sourcebans
+L 08/10/2020 - 12:16:34: [SM] Blaming: sbpp_comms.smx
+L 08/10/2020 - 12:16:34: [SM] Call stack trace:
+L 08/10/2020 - 12:16:34: [SM]   [0] SetFailState
+L 08/10/2020 - 12:16:34: [SM]   [1] Line 219, .\sbpp_comms.sp::OnPluginStart
+L 08/10/2020 - 12:16:34: [SM] Unable to load plugin "sbpp_comms.smx": Error detected in plugin startup (see error logs)
+L 08/10/2020 - 12:16:34: [SM] Exception reported: Database failure: Could not find Database conf "sourcebans"
+L 08/10/2020 - 12:16:34: [SM] Blaming: sbpp_main.smx
+L 08/10/2020 - 12:16:34: [SM] Call stack trace:
+L 08/10/2020 - 12:16:34: [SM]   [0] SetFailState
+L 08/10/2020 - 12:16:34: [SM]   [1] Line 216, .\sbpp_main.sp::OnPluginStart
+L 08/10/2020 - 12:16:34: [SM] Unable to load plugin "sbpp_main.smx": Error detected in plugin startup (see error logs)
+L 08/10/2020 - 12:16:44: [sbpp_sleuth.smx] SourceSleuth: Database connection error: Could not find database config "sourcebans"
+L 08/10/2020 - 12:16:44: [SM] Exception reported: Failed to connect to SourceBans DB, Could not find database config "sourcebans"
+L 08/10/2020 - 12:16:44: [SM] Blaming: sbpp_checker.smx
+L 08/10/2020 - 12:16:44: [SM] Call stack trace:
+L 08/10/2020 - 12:16:44: [SM]   [0] SetFailState
+L 08/10/2020 - 12:16:44: [SM]   [1] Line 75, .\sbpp_checker.sp::OnDatabaseConnected
+L 08/10/2020 - 12:23:11: Error log file session closed.
+L 08/10/2020 - 12:23:11: SourceMod error session started
+L 08/10/2020 - 12:23:11: Info (map "arena_suijin_rc2") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200810.log")
+L 08/10/2020 - 12:23:11: [SM] Unable to load plugin "sbpp_report.smx": Could not find required plugin "sourcebans++"
+L 08/10/2020 - 12:38:04: SourceMod error session started
+L 08/10/2020 - 12:38:04: Info (map "arena_lumberyard") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200810.log")
+L 08/10/2020 - 12:38:04: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/10/2020 - 12:38:04: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/10/2020 - 12:38:18: [sbpp_comms.smx] You must set valid `ServerID` value in sourcebans.cfg!
+L 08/10/2020 - 14:25:09: Error log file session closed.
+L 08/10/2020 - 14:25:19: SourceMod error session started
+L 08/10/2020 - 14:25:19: Info (map "arena_graveyardbash_v1") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200810.log")
+L 08/10/2020 - 14:25:19: [sbpp_comms.smx] You must set valid `ServerID` value in sourcebans.cfg!
+L 08/10/2020 - 16:19:09: Error log file session closed.
+L 08/10/2020 - 16:19:20: SourceMod error session started
+L 08/10/2020 - 16:19:20: Info (map "arena_lumberyard") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200810.log")
+L 08/10/2020 - 16:19:20: [sbpp_comms.smx] You must set valid `ServerID` value in sourcebans.cfg!
+L 08/10/2020 - 16:22:06: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/10/2020 - 16:22:06: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/10/2020 - 16:22:06: [store.smx] Database connection is lost or not yet initialized.
+L 08/10/2020 - 16:22:07: [sbpp_comms.smx] You must set valid `ServerID` value in sourcebans.cfg!
+L 08/10/2020 - 16:23:24: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/10/2020 - 16:23:24: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/10/2020 - 16:23:24: [store.smx] Database connection is lost or not yet initialized.
+L 08/10/2020 - 16:23:24: [sbpp_comms.smx] You must set valid `ServerID` value in sourcebans.cfg!
+L 08/10/2020 - 16:26:20: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/10/2020 - 16:26:20: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/10/2020 - 16:26:20: [store.smx] Database connection is lost or not yet initialized.
+L 08/10/2020 - 16:26:20: [sbpp_comms.smx] You must set valid `ServerID` value in sourcebans.cfg!
+L 08/10/2020 - 16:31:08: SourceMod error session started
+L 08/10/2020 - 16:31:08: Info (map "arena_lumberyard") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200810.log")
+L 08/10/2020 - 16:31:08: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/10/2020 - 16:31:08: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/10/2020 - 16:31:26: [sbpp_comms.smx] You must set valid `ServerID` value in sourcebans.cfg!
+L 08/10/2020 - 16:38:26: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/10/2020 - 16:38:26: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/10/2020 - 16:38:26: [store.smx] Database connection is lost or not yet initialized.
+L 08/10/2020 - 16:38:27: [sbpp_comms.smx] You must set valid `ServerID` value in sourcebans.cfg!
+L 08/10/2020 - 16:45:46: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/10/2020 - 16:45:46: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/10/2020 - 16:45:46: [store.smx] Database connection is lost or not yet initialized.
+L 08/10/2020 - 16:45:46: [sbpp_comms.smx] You must set valid `ServerID` value in sourcebans.cfg!
+L 08/10/2020 - 16:47:39: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/10/2020 - 16:47:39: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/10/2020 - 16:47:39: [store.smx] Database connection is lost or not yet initialized.
+L 08/10/2020 - 16:47:39: [sbpp_comms.smx] You must set valid `ServerID` value in sourcebans.cfg!
+L 08/10/2020 - 16:49:09: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/10/2020 - 16:49:09: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/10/2020 - 16:49:09: [store.smx] Database connection is lost or not yet initialized.
+L 08/10/2020 - 16:49:09: [sbpp_comms.smx] You must set valid `ServerID` value in sourcebans.cfg!
+L 08/10/2020 - 16:51:31: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/10/2020 - 16:51:31: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/10/2020 - 16:51:31: [store.smx] Database connection is lost or not yet initialized.
+L 08/10/2020 - 16:51:31: [sbpp_comms.smx] You must set valid `ServerID` value in sourcebans.cfg!
+L 08/10/2020 - 16:53:10: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/10/2020 - 16:53:11: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/10/2020 - 16:53:11: [store.smx] Database connection is lost or not yet initialized.
+L 08/10/2020 - 16:53:11: [sbpp_comms.smx] You must set valid `ServerID` value in sourcebans.cfg!
+L 08/10/2020 - 16:57:31: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/10/2020 - 16:57:32: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/10/2020 - 16:57:32: [store.smx] Database connection is lost or not yet initialized.
+L 08/10/2020 - 16:57:32: [sbpp_comms.smx] You must set valid `ServerID` value in sourcebans.cfg!
+L 08/10/2020 - 17:01:50: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/10/2020 - 17:01:51: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/10/2020 - 17:01:51: [store.smx] Database connection is lost or not yet initialized.
+L 08/10/2020 - 17:01:51: [sbpp_comms.smx] You must set valid `ServerID` value in sourcebans.cfg!
+L 08/10/2020 - 17:03:36: Error log file session closed.
+L 08/10/2020 - 17:03:45: SourceMod error session started
+L 08/10/2020 - 17:03:45: Info (map "arena_lumberyard") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200810.log")
+L 08/10/2020 - 17:03:45: [sbpp_comms.smx] You must set valid `ServerID` value in sourcebans.cfg!
+L 08/10/2020 - 19:12:31: Error log file session closed.
+L 08/10/2020 - 19:12:41: SourceMod error session started
+L 08/10/2020 - 19:12:41: Info (map "arena_lumberyard") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200810.log")
+L 08/10/2020 - 19:12:41: [sbpp_comms.smx] You must set valid `ServerID` value in sourcebans.cfg!
+L 08/10/2020 - 19:24:55: [SM] Plugin "roundtimer.smx" encountered error 23: Native detected error
+L 08/10/2020 - 19:24:55: [SM] Invalid timer handle 994f06f0 (error 3) during timer end, displayed function is timer callback, not the stack trace
+L 08/10/2020 - 19:24:55: [SM] Unable to call function "Timer_Round" due to above error(s).
+L 08/10/2020 - 19:43:14: [SM] Plugin "roundtimer.smx" encountered error 23: Native detected error
+L 08/10/2020 - 19:43:14: [SM] Invalid timer handle ab85073a (error 3) during timer end, displayed function is timer callback, not the stack trace
+L 08/10/2020 - 19:43:14: [SM] Unable to call function "Timer_Round" due to above error(s).
+L 08/10/2020 - 19:43:38: Error log file session closed.
+L 08/10/2020 - 19:43:50: SourceMod error session started
+L 08/10/2020 - 19:43:50: Info (map "vsh_impure_v3") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200810.log")
+L 08/10/2020 - 19:43:50: [sbpp_comms.smx] You must set valid `ServerID` value in sourcebans.cfg!
+L 08/10/2020 - 20:14:36: Error log file session closed.
+L 08/10/2020 - 20:14:45: SourceMod error session started
+L 08/10/2020 - 20:14:45: Info (map "arena_badlands") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200810.log")
+L 08/10/2020 - 20:14:45: [sbpp_comms.smx] You must set valid `ServerID` value in sourcebans.cfg!
+L 08/10/2020 - 20:14:52: Error log file session closed.
+L 08/10/2020 - 20:15:02: SourceMod error session started
+L 08/10/2020 - 20:15:02: Info (map "arena_lumberyard") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200810.log")
+L 08/10/2020 - 20:15:02: [sbpp_comms.smx] You must set valid `ServerID` value in sourcebans.cfg!
+L 08/10/2020 - 20:18:20: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/10/2020 - 20:18:20: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/10/2020 - 20:18:20: [store.smx] Database connection is lost or not yet initialized.
+L 08/10/2020 - 20:18:20: [sbpp_comms.smx] You must set valid `ServerID` value in sourcebans.cfg!
+L 08/10/2020 - 22:24:03: [sbpp_sleuth.smx] SourceSleuth: Database query error: Can't connect to MySQL server on 'oldbox.cloud' (111)
+L 08/10/2020 - 22:24:03: [sbpp_comms.smx] Lost connection to DB. Reconnect after delay.
+L 08/10/2020 - 22:24:03: [sbpp_comms.smx] Query_VerifyBlock failed: Can't connect to MySQL server on 'oldbox.cloud' (111)
+L 08/10/2020 - 22:24:49: Error log file session closed.
+L 08/10/2020 - 22:25:01: SourceMod error session started
+L 08/10/2020 - 22:25:01: Info (map "arena_lumberyard") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200810.log")
+L 08/10/2020 - 22:25:01: [sbpp_comms.smx] You must set valid `ServerID` value in sourcebans.cfg!
+L 08/10/2020 - 22:25:17: [sbpp_sleuth.smx] SourceSleuth: Database query error: Can't connect to MySQL server on 'oldbox.cloud' (111)
+L 08/10/2020 - 22:26:48: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/10/2020 - 22:26:49: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/10/2020 - 22:26:49: [store.smx] Database connection is lost or not yet initialized.
+L 08/10/2020 - 22:26:49: [sbpp_comms.smx] You must set valid `ServerID` value in sourcebans.cfg!
+L 08/10/2020 - 22:26:49: [sbpp_sleuth.smx] SourceSleuth: Database connection error: [2003]: Can't connect to MySQL server on 'oldbox.cloud' (111)
+L 08/10/2020 - 22:26:49: [sbpp_comms.smx] Connecting to database failed: [2003]: Can't connect to MySQL server on 'oldbox.cloud' (111)
+L 08/10/2020 - 22:26:49: [SM] Exception reported: Failed to connect to SourceBans DB, [2003]: Can't connect to MySQL server on 'oldbox.cloud' (111)
+L 08/10/2020 - 22:26:49: [SM] Blaming: sbpp_checker.smx
+L 08/10/2020 - 22:26:49: [SM] Call stack trace:
+L 08/10/2020 - 22:26:49: [SM]   [0] SetFailState
+L 08/10/2020 - 22:26:49: [SM]   [1] Line 75, .\sbpp_checker.sp::OnDatabaseConnected
+L 08/10/2020 - 22:28:07: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/10/2020 - 22:28:08: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/10/2020 - 22:28:08: [store.smx] Database connection is lost or not yet initialized.
+L 08/10/2020 - 22:28:08: [sbpp_comms.smx] You must set valid `ServerID` value in sourcebans.cfg!
+L 08/10/2020 - 22:28:08: [sbpp_sleuth.smx] SourceSleuth: Database connection error: [2003]: Can't connect to MySQL server on 'oldbox.cloud' (111)
+L 08/10/2020 - 22:28:08: [sbpp_comms.smx] Connecting to database failed: [2003]: Can't connect to MySQL server on 'oldbox.cloud' (111)
+L 08/10/2020 - 22:28:08: [SM] Exception reported: Failed to connect to SourceBans DB, [2003]: Can't connect to MySQL server on 'oldbox.cloud' (111)
+L 08/10/2020 - 22:28:08: [SM] Blaming: sbpp_checker.smx
+L 08/10/2020 - 22:28:08: [SM] Call stack trace:
+L 08/10/2020 - 22:28:08: [SM]   [0] SetFailState
+L 08/10/2020 - 22:28:08: [SM]   [1] Line 75, .\sbpp_checker.sp::OnDatabaseConnected
+L 08/10/2020 - 22:30:55: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/10/2020 - 22:30:55: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/10/2020 - 22:30:55: [store.smx] Database connection is lost or not yet initialized.
+L 08/10/2020 - 22:30:55: [sbpp_comms.smx] You must set valid `ServerID` value in sourcebans.cfg!
+L 08/10/2020 - 22:30:56: [sbpp_sleuth.smx] SourceSleuth: Database connection error: [2003]: Can't connect to MySQL server on 'oldbox.cloud' (111)
+L 08/10/2020 - 22:30:56: [sbpp_comms.smx] Connecting to database failed: [2003]: Can't connect to MySQL server on 'oldbox.cloud' (111)
+L 08/10/2020 - 22:30:56: [SM] Exception reported: Failed to connect to SourceBans DB, [2003]: Can't connect to MySQL server on 'oldbox.cloud' (111)
+L 08/10/2020 - 22:30:56: [SM] Blaming: sbpp_checker.smx
+L 08/10/2020 - 22:30:56: [SM] Call stack trace:
+L 08/10/2020 - 22:30:56: [SM]   [0] SetFailState
+L 08/10/2020 - 22:30:56: [SM]   [1] Line 75, .\sbpp_checker.sp::OnDatabaseConnected

@@ -1,0 +1,13 @@
+L 01/27/2021 - 04:05:17: SourceMod log file session started (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/L20210127.log") (Version "1.10.0.6490")
+L 01/27/2021 - 04:05:17: [basecommands.smx] "Nezzie<85><[U:1:107910185]><>" changed map to "vsh_apg_reworked_b2"
+L 01/27/2021 - 04:05:20: [SM] Changed map to "vsh_apg_reworked_b2"
+L 01/27/2021 - 04:05:25: -------- Mapchange to vsh_apg_reworked_b2 --------
+L 01/27/2021 - 04:05:38: [mapchooser_extended.smx] Loaded map list for tf.
+L 01/27/2021 - 04:13:25: SourceMod log file session started (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/L20210127.log") (Version "1.10.0.6490")
+L 01/27/2021 - 04:13:25: [TF2ITEMS] "GiveNamedItem" offset = 484
+L 01/27/2021 - 04:13:26: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 01/27/2021 - 04:13:26: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 01/27/2021 - 04:13:26: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 01/27/2021 - 04:13:26: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 01/27/2021 - 04:13:45: [mapchooser_extended.smx] Loaded map list for tf.
+L 01/28/2021 - 00:26:03: Log file closed.

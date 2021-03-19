@@ -1,0 +1,112 @@
+L 01/01/2021 - 21:23:25: SourceMod error session started
+L 01/01/2021 - 21:23:25: Info (map "vsh_dunger_b2a") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20210101.log")
+L 01/01/2021 - 21:23:25: [SM] Exception reported: Cowardly refusing to add invalid attribute index "0" to an item.
+L 01/01/2021 - 21:23:25: [SM] Blaming: pyrogineer.smx
+L 01/01/2021 - 21:23:25: [SM] Call stack trace:
+L 01/01/2021 - 21:23:25: [SM]   [0] TF2Items_SetAttribute
+L 01/01/2021 - 21:23:25: [SM]   [1] Line 271, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::PrepareItemHandle
+L 01/01/2021 - 21:23:25: [SM]   [2] Line 294, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::TF2Items_OnGiveNamedItem
+L 01/01/2021 - 21:25:03: [SM] Exception reported: Cowardly refusing to add invalid attribute index "0" to an item.
+L 01/01/2021 - 21:25:03: [SM] Blaming: pyrogineer.smx
+L 01/01/2021 - 21:25:03: [SM] Call stack trace:
+L 01/01/2021 - 21:25:03: [SM]   [0] TF2Items_SetAttribute
+L 01/01/2021 - 21:25:03: [SM]   [1] Line 271, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::PrepareItemHandle
+L 01/01/2021 - 21:25:03: [SM]   [2] Line 294, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::TF2Items_OnGiveNamedItem
+L 01/01/2021 - 21:25:03: [SM]   [4] TF2_RegeneratePlayer
+L 01/01/2021 - 21:25:03: [SM]   [5] Line 27, /groups/sourcemod/upload_tmp/textISXu91.sp::Fix_Function
+L 01/01/2021 - 21:26:52: [SM] Exception reported: Cowardly refusing to add invalid attribute index "0" to an item.
+L 01/01/2021 - 21:26:52: [SM] Blaming: pyrogineer.smx
+L 01/01/2021 - 21:26:52: [SM] Call stack trace:
+L 01/01/2021 - 21:26:52: [SM]   [0] TF2Items_SetAttribute
+L 01/01/2021 - 21:26:52: [SM]   [1] Line 271, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::PrepareItemHandle
+L 01/01/2021 - 21:26:52: [SM]   [2] Line 294, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::TF2Items_OnGiveNamedItem
+L 01/01/2021 - 21:26:52: [SM] Exception reported: Cowardly refusing to add invalid attribute index "0" to an item.
+L 01/01/2021 - 21:26:52: [SM] Blaming: pyrogineer.smx
+L 01/01/2021 - 21:26:52: [SM] Call stack trace:
+L 01/01/2021 - 21:26:52: [SM]   [0] TF2Items_SetAttribute
+L 01/01/2021 - 21:26:52: [SM]   [1] Line 271, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::PrepareItemHandle
+L 01/01/2021 - 21:26:52: [SM]   [2] Line 294, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::TF2Items_OnGiveNamedItem
+L 01/01/2021 - 21:26:52: [SM] Exception reported: Cowardly refusing to add invalid attribute index "0" to an item.
+L 01/01/2021 - 21:26:52: [SM] Blaming: pyrogineer.smx
+L 01/01/2021 - 21:26:52: [SM] Call stack trace:
+L 01/01/2021 - 21:26:52: [SM]   [0] TF2Items_SetAttribute
+L 01/01/2021 - 21:26:52: [SM]   [1] Line 271, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::PrepareItemHandle
+L 01/01/2021 - 21:26:52: [SM]   [2] Line 294, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::TF2Items_OnGiveNamedItem
+L 01/01/2021 - 21:26:52: [SM]   [4] TF2_RegeneratePlayer
+L 01/01/2021 - 21:26:52: [SM]   [5] Line 27, /groups/sourcemod/upload_tmp/textISXu91.sp::Fix_Function
+L 01/01/2021 - 21:26:52: [SM] Exception reported: Cowardly refusing to add invalid attribute index "0" to an item.
+L 01/01/2021 - 21:26:52: [SM] Blaming: pyrogineer.smx
+L 01/01/2021 - 21:26:52: [SM] Call stack trace:
+L 01/01/2021 - 21:26:52: [SM]   [0] TF2Items_SetAttribute
+L 01/01/2021 - 21:26:52: [SM]   [1] Line 271, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::PrepareItemHandle
+L 01/01/2021 - 21:26:52: [SM]   [2] Line 294, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::TF2Items_OnGiveNamedItem
+L 01/01/2021 - 21:26:52: [SM]   [4] TF2_RegeneratePlayer
+L 01/01/2021 - 21:26:52: [SM]   [5] Line 27, /groups/sourcemod/upload_tmp/textISXu91.sp::Fix_Function
+L 01/01/2021 - 21:35:06: Error log file session closed.
+L 01/01/2021 - 21:38:22: SourceMod error session started
+L 01/01/2021 - 21:38:22: Info (map "vsh_apg_v2_sg1") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20210101.log")
+L 01/01/2021 - 21:38:22: [SM] Exception reported: Cowardly refusing to add invalid attribute index "0" to an item.
+L 01/01/2021 - 21:38:22: [SM] Blaming: pyrogineer.smx
+L 01/01/2021 - 21:38:22: [SM] Call stack trace:
+L 01/01/2021 - 21:38:22: [SM]   [0] TF2Items_SetAttribute
+L 01/01/2021 - 21:38:22: [SM]   [1] Line 271, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::PrepareItemHandle
+L 01/01/2021 - 21:38:22: [SM]   [2] Line 294, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::TF2Items_OnGiveNamedItem
+L 01/01/2021 - 21:41:55: [SM] Exception reported: Cowardly refusing to add invalid attribute index "0" to an item.
+L 01/01/2021 - 21:41:55: [SM] Blaming: pyrogineer.smx
+L 01/01/2021 - 21:41:55: [SM] Call stack trace:
+L 01/01/2021 - 21:41:55: [SM]   [0] TF2Items_SetAttribute
+L 01/01/2021 - 21:41:55: [SM]   [1] Line 271, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::PrepareItemHandle
+L 01/01/2021 - 21:41:55: [SM]   [2] Line 294, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::TF2Items_OnGiveNamedItem
+L 01/01/2021 - 21:41:55: [SM]   [4] TF2_RegeneratePlayer
+L 01/01/2021 - 21:41:55: [SM]   [5] Line 27, /groups/sourcemod/upload_tmp/textISXu91.sp::Fix_Function
+L 01/01/2021 - 21:47:20: [SM] Exception reported: Cowardly refusing to add invalid attribute index "0" to an item.
+L 01/01/2021 - 21:47:20: [SM] Blaming: pyrogineer.smx
+L 01/01/2021 - 21:47:20: [SM] Call stack trace:
+L 01/01/2021 - 21:47:20: [SM]   [0] TF2Items_SetAttribute
+L 01/01/2021 - 21:47:20: [SM]   [1] Line 271, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::PrepareItemHandle
+L 01/01/2021 - 21:47:20: [SM]   [2] Line 294, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::TF2Items_OnGiveNamedItem
+L 01/01/2021 - 21:47:20: [SM]   [4] TF2_RegeneratePlayer
+L 01/01/2021 - 21:47:20: [SM]   [5] Line 27, /groups/sourcemod/upload_tmp/textISXu91.sp::Fix_Function
+L 01/01/2021 - 21:50:50: [SM] Exception reported: Cowardly refusing to add invalid attribute index "0" to an item.
+L 01/01/2021 - 21:50:50: [SM] Blaming: pyrogineer.smx
+L 01/01/2021 - 21:50:50: [SM] Call stack trace:
+L 01/01/2021 - 21:50:50: [SM]   [0] TF2Items_SetAttribute
+L 01/01/2021 - 21:50:50: [SM]   [1] Line 271, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::PrepareItemHandle
+L 01/01/2021 - 21:50:50: [SM]   [2] Line 294, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::TF2Items_OnGiveNamedItem
+L 01/01/2021 - 21:50:50: [SM]   [4] TF2_RegeneratePlayer
+L 01/01/2021 - 21:50:50: [SM]   [5] Line 27, /groups/sourcemod/upload_tmp/textISXu91.sp::Fix_Function
+L 01/01/2021 - 21:53:45: [SM] Exception reported: Cowardly refusing to add invalid attribute index "0" to an item.
+L 01/01/2021 - 21:53:45: [SM] Blaming: pyrogineer.smx
+L 01/01/2021 - 21:53:45: [SM] Call stack trace:
+L 01/01/2021 - 21:53:45: [SM]   [0] TF2Items_SetAttribute
+L 01/01/2021 - 21:53:45: [SM]   [1] Line 271, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::PrepareItemHandle
+L 01/01/2021 - 21:53:45: [SM]   [2] Line 294, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::TF2Items_OnGiveNamedItem
+L 01/01/2021 - 21:53:45: [SM] Exception reported: Cowardly refusing to add invalid attribute index "0" to an item.
+L 01/01/2021 - 21:53:45: [SM] Blaming: pyrogineer.smx
+L 01/01/2021 - 21:53:45: [SM] Call stack trace:
+L 01/01/2021 - 21:53:45: [SM]   [0] TF2Items_SetAttribute
+L 01/01/2021 - 21:53:45: [SM]   [1] Line 271, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::PrepareItemHandle
+L 01/01/2021 - 21:53:45: [SM]   [2] Line 294, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::TF2Items_OnGiveNamedItem
+L 01/01/2021 - 21:53:45: [SM]   [4] TF2_RegeneratePlayer
+L 01/01/2021 - 21:53:45: [SM]   [5] Line 27, /groups/sourcemod/upload_tmp/textISXu91.sp::Fix_Function
+L 01/01/2021 - 22:06:12: Error log file session closed.
+L 01/01/2021 - 22:06:44: SourceMod error session started
+L 01/01/2021 - 22:06:44: Info (map "vsh_manncohq_v14") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20210101.log")
+L 01/01/2021 - 22:06:44: [SM] Exception reported: Cowardly refusing to add invalid attribute index "0" to an item.
+L 01/01/2021 - 22:06:44: [SM] Blaming: pyrogineer.smx
+L 01/01/2021 - 22:06:44: [SM] Call stack trace:
+L 01/01/2021 - 22:06:44: [SM]   [0] TF2Items_SetAttribute
+L 01/01/2021 - 22:06:44: [SM]   [1] Line 271, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::PrepareItemHandle
+L 01/01/2021 - 22:06:44: [SM]   [2] Line 294, C:\Users\James\Desktop\ServerStuff\TF2server\tf\addons\sourcemod\scripting\pyrogineer.sp::TF2Items_OnGiveNamedItem
+L 01/01/2021 - 22:36:59: Error log file session closed.
+L 01/01/2021 - 22:42:11: SourceMod error session started
+L 01/01/2021 - 22:42:11: Info (map "vsh_void_a1f") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20210101.log")
+L 01/01/2021 - 22:42:11: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 01/01/2021 - 22:42:41: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 01/01/2021 - 22:42:41: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 01/01/2021 - 22:44:01: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 01/01/2021 - 22:44:01: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 01/01/2021 - 22:44:01: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 01/01/2021 - 22:44:01: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 01/01/2021 - 22:44:01: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 01/01/2021 - 23:07:59: Error log file session closed.
