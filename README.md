@@ -3,98 +3,115 @@
   <img src="https://i.imgur.com/MtDftHn.png"></img>
 <p>
   
-## Plugins installed - [SM] Listing 91 plugins:
--  01 "Fun Commands X" (2.5) by Spazman0 and Arg!
--  02 "Anti-Flood" (1.10.0.6490) by AlliedModders LLC
--  03 "[TF2] Set class health regen" (5.0) by MrFrenzoid
--  04 "Basic Votes" (1.10.0.6490) by AlliedModders LLC
--  05 "Minecraft Plugin" (1.01) by Moonly Days
--  06 "Goomba Stomp Core" (2.0.2) by Flyflo
--  07 "Round Timer Redux" (1.4.1) by ReFlexPoison, updated by Frenzoid
--  08 "Goomba Stomp TF2" (1.1.0) by Flyflo
--  09 "Simple Chat Processor (Redux)" (2.3.0) by Simple Plugins, Mini
--  10 "Sound Commands" (1.10.0.6490) by AlliedModders LLC
--  11 "[TF2] Set class max speed" (5.0) by MrFrenzoid
--  12 "[Source 2013] Custom Chat Colors" (3.1.0) by Dr. McKay
--  13 "Player Commands" (1.10.0.6490) by AlliedModders LLC
--  14 "Nextmap" (1.10.0.6490) by AlliedModders LLC
--  15 "Reserved Slots" (1.10.0.6490) by AlliedModders LLC
--  16 "Killstreak" (1.8) by Dr_Knuckles / Kredit
--  17 "[TF2] Resize etc." (0.1.0) by nosoop
--  18 "Basic Commands" (1.10.0.6490) by AlliedModders LLC
--  19 "Player Respawn" (1.6) by Rogue
--  20 "[TF2] TF2Attributes" (1.2.1) by FlaminSarge
--  21 "Store - Trade System" (1.0) by Zephyrus
--  22 "Basic Info Triggers" (1.10.0.6490) by AlliedModders LLC
--  23 "Basic Chat" (1.10.0.6490) by AlliedModders LLC
--  24 "SourceBans++: SourceComms" (1.6.3) by Alex, SourceBans++ Dev Team
--  25 "invisiwepfix" (1.0) by Frenzoid
--  26 "[TF2Items] Manager" (1.4.3) by Damizean & Asherkin
--  27 "SourceBans++: Main Plugin" (1.6.3) by SourceBans Development Team, SourceBans++ Dev Team
--  28 "SourceBans++: SourceSleuth" (1.6.3) by ecca, SourceBans++ Dev Team
--  29 "[TF2] Engineer Pads" (1.1.0) by Starblaster 64
--  30 "Mapchooser Extended Sounds" (1.10.1) by Powerlord
--  31 "TF2 Set Speed" (1.4.0) by Tylerst
--  32 "Store - The Resurrection" (1.0) by Zephyrus
--  33 "SteamWorks Update Check" (1.0b) by Kyle Sanderson
--  34 "Client Preferences" (1.10.0.6490) by AlliedModders LLC
--  35 "Rock The Vote Extended" (1.10.0) by Powerlord and AlliedModders LLC
--  36 "[TF2] Set class max health" (5.0) by MrFrenzoid
--  37 "Admin Menu" (1.10.0.6490) by AlliedModders LLC
--  38 "Player Climb" (1.4) by Nanochip
--  39 "SourceBans++ Report Plugin" (1.6.3) by RumbleFrog, SourceBans++ Dev Team
--  40 "Advertisements" (2.0.3) by Tsunami
--  41 "Basic Comm Control" (1.10.0.6490) by AlliedModders LLC
--  42 "SourceBans++: Bans Checker" (1.6.3) by psychonic, Ca$h Munny, SourceBans++ Dev Team
--  43 "Thirdperson Mode" (1.0) by Zephyrus
--  44 "Freak Fortress 2" (Unofficial 1.19.9) by Many many people
--  45 "Fysics Control" (1.0.4) by thaCURSEDpie
--  46 "SourceBans++: Admin Config Loader" (1.6.3) by AlliedModders LLC, SourceBans++ Dev Team
--  47 "[TF2] Engineer Metal Regen" (2.0.3) by DarthNinja
--  48 "MapChooser Extended" (1.10.2) by Powerlord, Zuko, and AlliedModders LLC
--  49 "Pyrogineer" (1.0.2) by Blinx
--  50 "Map Nominations Extended" (1.10.0) by Powerlord and AlliedModders LLC
--  51 "Fun Votes" (1.10.0.6490) by AlliedModders LLC
--  52 "Admin File Reader" (1.10.0.6490) by AlliedModders LLC
--  53 "The Amplifier" (2.4) by RainBolt Dash (plugin); Jumento M.D. (idea & model); Naris and FlaminSarge (helpers)
--  54 "Fun Commands" (1.10.0.6490) by AlliedModders LLC
--  55 "TF2 Add Condition" (1.0.0) by Tylerst
--  56 "Admin Help" (1.10.0.6490) by AlliedModders LLC
--  57 "Freak Fortress 2: Koishi's Abilities Pack" (1.23) by Koishi (SHADoW NiNE TR3S)
--  58 "Freak Fortress 2: TFConditions" (1.1.1) by SHADoW NiNE TR3S
--  59 "Freak Fortress 2: Bat's Public Pack" (1.9.0) by Batfoxkid
--  60 "Freak Fortress 2: WC3 Ability Pack (1.1)" by Otokiru
--  61 "Freak Fortress 2: AMS Do Ability" (1.1.0) by Batfoxkid
--  62 "Freak Fortress 2: DOT Template" (1.0.0) by sarysa
--  63 "Freak Fortress 2: sarysa's public mods, third pack" (1.0.1) by sarysa
--  64 "Freak Fortress 2: Default DOTs" (1.1.3) by sarysa
--  65 "Freak Fortress 2: Dynamic Defaults" (1.3.2) by sarysa, with a small amount of code by RainBolt Dash
--  66 "Freak Fortress 2: rage_overlay" (1.9.2) by Jery0987, RainBolt Dash
--  67 "Freak Fortress 2: sarysa's mods, eighth pack" (1.2.3) by sarysa
--  68 "Freak Fortress 2: Default Abilities" (1.10.4) by RainBolt Dash
--  69 "Freak Fortress 2: The Administrator" (1.0) by M7
--  70 "Freak Fortress 2: Koishi's Boss Abilities" (1.23) by Koishi (SHADoW NiNE TR3S)
--  71 "Freak Fortress 2: Abilities of 1st set" (1.10.7) by RainBolt Dash
--  72 "Freak Fortress 2: Salmon Summon System" (0.4.6) by Koishi (SHADoW NiNE TR3S)
--  73 "Freak Fortress 2: sarysa's mods, fifth pack" (1.1.1) by sarysa
--  74 "Freak Fortress 2: sarysa's mods, third pack" (1.1.1) by sarysa
--  75 "Freak Fortress 2: sarysa's mods, seventh pack" (1.3.1) by sarysa
--  76 "Freak Fortress 2: sarysa's mods" (1.1.0) by sarysa
--  77 "Freak Fortress 2: sarysa's mods, second pack" (1.1.1) by sarysa
--  78 "Freak Fortress 2: Gray Mann" (1.4.3) by SHADoW NiNE TR3S, edited by Batfoxkid
--  79 "Freak Fortress 2: skeleton king" (1.0.1) by DaNetNavern0
--  80 "Freak Fortress 2: Advanced Formulas" (1.0) by Batfoxkid
--  81 "Freak Fortress 2: Phat Rages" (0.9.4) by frog,Kemsan,Peace Maker,LeGone,RainBolt Dash
--  82 "Freak Fortress 2: Easter Abilities" (1.10.7) by Powerlord and FlaminSarge, updated by Wliu
--  83 "Freak Fortress 2: M7's new Abilities" (3.0) by M76030
--  84 "Freak Fortress 2: special_noanims" (1.10.7) by RainBolt Dash, Wliu
--  85 "Unofficial Freak Fortress 2: Defaults" (0.6.0) by Many many people
--  86 "Freak Fortress 2: Fog Effects" (1.04) by Koishi
--  87 "Freak Fortress 2: sarysa's mods, fourth pack" (1.4.2) by sarysa
--  88 "Freak Fortress 2: The Blitzkrieg" (3.3 Beta (Stable)) by SHADoW NiNE TR3S, sarysa
--  89 "Freak Fortress 2: Move Speed" (1.3.4) by SHADoW NiNE TR3S
--  90 "Freak Fortress 2: The Blitzkrieg Return" (0.1.0) by Batfoxkid
--  91 "Freak Fortress 2: Boss Tweaks" (1.0) by frog
+## Plugins installed - [SM] Listing 107 plugins:
+- 001 "Fun Commands X" (2.5) by Spazman0 and Arg!
+- 002 "Anti-Flood" (1.10.0.6490) by AlliedModders LLC
+- 003 "[TF2] Set class health regen" (5.0) by MrFrenzoid
+- 004 "Basic Votes" (1.10.0.6490) by AlliedModders LLC
+- 005 "[TF2] Homing Rocket" (2409) by Leonardo
+- 006 "Minecraft Plugin" (1.01) by Moonly Days
+- 007 "Goomba Stomp Core" (2.0.2) by Flyflo
+- 008 "Round Timer Redux" (1.4.1) by ReFlexPoison, updated by Frenzoid
+- 009 "Goomba Stomp TF2" (1.1.0) by Flyflo
+- 010 "Simple Chat Processor (Redux)" (2.3.0) by Simple Plugins, Mini
+- 011 "[TF2] Explosive Arrows" (1.31) by Tak (Chaosxk)
+- 012 "Sound Commands" (1.10.0.6490) by AlliedModders LLC
+- 013 "[TF2] Set class max speed" (5.0) by MrFrenzoid
+- 014 "[Source 2013] Custom Chat Colors" (3.1.0) by Dr. McKay
+- 015 "[TF2] Model Manager" (1.0.4) by FlaminSarge (based on Damizean's TF2 Equipment Manager)
+- 016 "Player Commands" (1.10.0.6490) by AlliedModders LLC
+- 017 "Nextmap" (1.10.0.6490) by AlliedModders LLC
+- 018 "Reserved Slots" (1.10.0.6490) by AlliedModders LLC
+- 019 "Killstreak" (1.8) by Dr_Knuckles / Kredit
+- 020 "[TF2] Resize etc." (0.1.0) by nosoop
+- 021 "Basic Commands" (1.10.0.6490) by AlliedModders LLC
+- 022 "Player Respawn" (1.6) by Rogue
+- 023 "[TF2] TF2Attributes" (1.2.1) by FlaminSarge
+- 024 "TF2 Class Restrictions" (0.6.1) by Tsunami
+- 025 "Store - Trade System" (1.0) by Zephyrus
+- 026 "Basic Info Triggers" (1.10.0.6490) by AlliedModders LLC
+- 027 "Basic Chat" (1.10.0.6490) by AlliedModders LLC
+- 028 "SourceBans++: SourceComms" (1.6.3) by Alex, SourceBans++ Dev Team
+- 029 "Super Spray Handler" (1.3.4) by shavit, Nican132, CptMoore, Lebson506th, and TheWreckingCrew6
+- 030 "invisiwepfix" (1.0) by Frenzoid
+- 031 "[TF2Items] Manager" (1.4.3) by Damizean & Asherkin
+- 032 "SourceBans++: Main Plugin" (1.6.3) by SourceBans Development Team, SourceBans++ Dev Team
+- 033 "SourceBans++: SourceSleuth" (1.6.3) by ecca, SourceBans++ Dev Team
+- 034 "[TF2] Engineer Pads" (1.1.0) by Starblaster 64
+- 035 "Mapchooser Extended Sounds" (1.10.1) by Powerlord
+- 036 "TF2 Set Speed" (1.4.0) by Tylerst
+- 037 "[TF2] Baseball" (1.0.0) by Scag
+- 038 "Store - The Resurrection" (1.0) by Zephyrus
+- 039 "SteamWorks Update Check" (1.0b) by Kyle Sanderson
+- 040 "Client Preferences" (1.10.0.6490) by AlliedModders LLC
+- 041 "Rock The Vote Extended" (1.10.0) by Powerlord and AlliedModders LLC
+- 042 "[TF2] Set class max health" (5.0) by MrFrenzoid
+- 043 "Admin Menu" (1.10.0.6490) by AlliedModders LLC
+- 044 "Player Climb" (1.4) by Nanochip
+- 045 "SourceBans++ Report Plugin" (1.6.3) by RumbleFrog, SourceBans++ Dev Team
+- 046 "Advertisements" (2.0.3) by Tsunami
+- 047 "TF2 Hidden Attribuites" (1.2) by rafradek
+- 048 "Basic Comm Control" (1.10.0.6490) by AlliedModders LLC
+- 049 "SourceBans++: Bans Checker" (1.6.3) by psychonic, Ca$h Munny, SourceBans++ Dev Team
+- 050 "Thirdperson Mode" (1.0) by Zephyrus
+- 051 "Freak Fortress 2" (Unofficial 1.19.9) by Many many people
+- 052 "Fysics Control" (1.0.4) by thaCURSEDpie
+- 053 "Admin Stealth REDUX" (1.6.1) by necavi and Naydef (new developer)
+- 054 "SourceBans++: Admin Config Loader" (1.6.3) by AlliedModders LLC, SourceBans++ Dev Team
+- 055 "[TF2] Engineer Metal Regen" (2.0.3) by DarthNinja
+- 056 "MapChooser Extended" (1.10.2) by Powerlord, Zuko, and AlliedModders LLC
+- 057 "Map Nominations Extended" (1.10.0) by Powerlord and AlliedModders LLC
+- 058 "Fun Votes" (1.10.0.6490) by AlliedModders LLC
+- 059 "Admin File Reader" (1.10.0.6490) by AlliedModders LLC
+- 060 "The Amplifier" (2.4) by RainBolt Dash (plugin); Jumento M.D. (idea & model); Naris and FlaminSarge (helpers)
+- 061 "Fun Commands" (1.10.0.6490) by AlliedModders LLC
+- 062 "TF2 Add Condition" (1.0.0) by Tylerst
+- 063 "Admin Help" (1.10.0.6490) by AlliedModders LLC
+- 064 "Freak Fortress 2: Koishi's Abilities Pack" (1.23) by Koishi (SHADoW NiNE TR3S)
+- 065 "Freak Fortress 2: TFConditions" (1.1.1) by SHADoW NiNE TR3S
+- 066 "Freak Fortress 2: Deathreus Boss Pack" (1.5) by Deathreus
+- 067 "Freak Fortress 2: Bat's Public Pack" (1.9.0) by Batfoxkid
+- 067 "Freak Fortress 2: Bat's Public Pack" (1.9.0) by Batfoxkid
+- 068 "Freak Fortress 2: WC3 Ability Pack (1.1)" by Otokiru
+- 069 "Freak Fortress 2: AMS Do Ability" (1.1.0) by Batfoxkid
+- 070 "Freak Fortress 2: DOT Template" (1.0.0) by sarysa
+- 071 "Freak Fortress 2: sarysa's public mods, third pack" (1.0.1) by sarysa
+- 072 "Freak Fortress 2: Default DOTs" (1.1.3) by sarysa
+- 073 "Freak Fortress 2: Dynamic Defaults" (1.3.2) by sarysa, with a small amount of code by RainBolt Dash
+- 074 "Freak Fortress 2: rage_overlay" (1.9.2) by Jery0987, RainBolt Dash
+- 075 "Freak Fortress 2: The Killing Manns abilities" (1.0) by M7
+- 076 "Freak Fortress 2: Monochromatic" (1.00) by Koishi
+- 077 "Freak Fortress 2: sarysa's mods, eighth pack" (1.2.3) by sarysa
+- 078 "Freak Fortress 2: Default Abilities" (1.10.4) by RainBolt Dash
+- 079 "Freak Fortress 2: The Administrator" (1.0) by M7
+- 080 "Freak Fortress 2: Koishi's Boss Abilities" (1.23) by Koishi (SHADoW NiNE TR3S)
+- 081 "Freak Fortress 2: Abilities of 1st set" (1.10.7) by RainBolt Dash
+- 082 "Freak Fortress 2: Salmon Summon System" (0.4.6) by Koishi (SHADoW NiNE TR3S)
+- 083 "Freak Fortress 2: sarysa's mods, fifth pack" (1.1.1) by sarysa
+- 084 "Freak Fortress 2: sarysa's mods, third pack" (1.1.1) by sarysa
+- 085 "Freak Fortress 2: sarysa's mods, seventh pack" (1.3.1) by sarysa
+- 086 "Freak Fortress 2: sarysa's mods" (1.1.0) by sarysa
+- 087 "Freak Fortress 2: sarysa's mods, second pack" (1.1.1) by sarysa
+- 088 "Freak Fortress 2: TFConditions" (1.1.1) by SHADoW NiNE TR3S
+- 089 "Freak Fortress 2: Gray Mann" (1.4.3) by SHADoW NiNE TR3S, edited by Batfoxkid
+- 090 "Freak Fortress 2: skeleton king" (1.0.1) by DaNetNavern0
+- 091 "freaks/duck_abilities.ff2"
+- 092 "Freak Fortress 2: Advanced Formulas" (1.0) by Batfoxkid
+- 093 "Freak Fortress 2: Phat Rages" (0.9.4) by frog,Kemsan,Peace Maker,LeGone,RainBolt Dash
+- 094 "Freak Fortress 2: Mr. Dan and Dr. Dum" (1.0) by M76030
+- 095 "Freak Fortress 2: Bloodrider - the 9 Soul Grenade Spammer" (3.0) by M7
+- 096 "Freak Fortress 2: Saxtoner Ability Pack" (1.6.6) by Otokiru, updated by SHADow93
+- 097 "Freak Fortress 2: Easter Abilities" (1.10.7) by Powerlord and FlaminSarge, updated by Wliu
+- 098 "Freak Fortress 2: M7's new Abilities" (3.0) by M76030
+- 099 "Freak Fortress 2: special_noanims" (1.10.7) by RainBolt Dash, Wliu
+- 100 "Unofficial Freak Fortress 2: Defaults" (0.6.0) by Many many people
+- 101 "Freak Fortress 2: Fog Effects" (1.04) by Koishi
+- 102 "Freak Fortress 2: sarysa's mods, fourth pack" (1.4.2) by sarysa
+- 103 "Freak Fortress 2: The Blitzkrieg" (3.3 Beta (Stable)) by SHADoW NiNE TR3S, sarysa
+- 104 "Freak Fortress 2: Move Speed" (1.3.4) by SHADoW NiNE TR3S
+- 105 "Freak Fortress 2: The Blitzkrieg Return" (0.1.0) by Batfoxkid
+- 106 "Freak Fortress 2: Boss Tweaks" (1.0) by frog
+- 107 "Freak Fortress 2: Ready to Mann Up?" (1.0) by M7
 
 
 ## Contributors.
