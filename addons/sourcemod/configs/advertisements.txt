@@ -20,10 +20,10 @@
 //
 "Advertisements"
 {
-    "1"
-    {
-        "chat"		"{lightcyan}You can help your fellow {darkorange}Engineers {lightcyan}with their buildings by hitting them with the {fullred}Homewrecker{lightcyan}, {fullred}Maul {lightcyan}or {fullred}Neon Annihilator{lightcyan}."
-    }
+    //"1"
+    //{
+    //    "chat"		"{lightcyan}You can help your fellow {darkorange}Engineers {lightcyan}with their buildings by hitting them with the {fullred}Homewrecker{lightcyan}, {fullred}Maul {lightcyan}or {fullred}Neon Annihilator{lightcyan}."
+    //}
     "2"
     {
 	"chat"		"{lightcyan}Please, feel free to give us your feedback or bugs report at: {dodgerblue}discord.oldbox.cloud{lightcyan}, it's important for us to know what would you change to make the gameplay more enjoyable!"

@@ -1,0 +1,43 @@
+L 03/21/2021 - 00:08:58: SourceMod error session started
+L 03/21/2021 - 00:08:58: Info (map "vsh_manncohq_v14") (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/errors_20210321.log")
+L 03/21/2021 - 00:08:58: [SM] Plugin "roundtimer.smx" encountered error 23: Native detected error
+L 03/21/2021 - 00:08:58: [SM] Invalid timer handle 3f541ca1 (error 3) during timer end, displayed function is timer callback, not the stack trace
+L 03/21/2021 - 00:08:58: [SM] Unable to call function "Timer_Round" due to above error(s).
+L 03/21/2021 - 00:19:40: Error log file session closed.
+L 03/21/2021 - 02:09:13: SourceMod error session started
+L 03/21/2021 - 02:09:13: Info (map "vsh_dunger_b2a") (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/errors_20210321.log")
+L 03/21/2021 - 02:09:13: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 03/21/2021 - 02:09:14: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 03/21/2021 - 02:09:14: [store.smx] Database connection is lost or not yet initialized.
+L 03/21/2021 - 02:09:14: [store.smx] Database connection is lost or not yet initialized.
+L 03/21/2021 - 02:24:10: [SM] Plugin "roundtimer.smx" encountered error 23: Native detected error
+L 03/21/2021 - 02:24:10: [SM] Invalid timer handle 994e0841 (error 3) during timer end, displayed function is timer callback, not the stack trace
+L 03/21/2021 - 02:24:10: [SM] Unable to call function "Timer_Round" due to above error(s).
+L 03/21/2021 - 02:32:28: [SM] Plugin "roundtimer.smx" encountered error 23: Native detected error
+L 03/21/2021 - 02:32:28: [SM] Invalid timer handle 2b030827 (error 3) during timer end, displayed function is timer callback, not the stack trace
+L 03/21/2021 - 02:32:28: [SM] Unable to call function "Timer_Round" due to above error(s).
+L 03/21/2021 - 02:32:48: Error log file session closed.
+L 03/21/2021 - 22:14:16: SourceMod error session started
+L 03/21/2021 - 22:14:16: Info (map "vsh_jungle_beach_v3") (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/errors_20210321.log")
+L 03/21/2021 - 22:14:16: [SM] Plugin "roundtimer.smx" encountered error 23: Native detected error
+L 03/21/2021 - 22:14:16: [SM] Invalid timer handle f5f103cd (error 3) during timer end, displayed function is timer callback, not the stack trace
+L 03/21/2021 - 22:14:16: [SM] Unable to call function "Timer_Round" due to above error(s).
+L 03/21/2021 - 22:19:09: Error log file session closed.
+L 03/21/2021 - 22:36:11: SourceMod error session started
+L 03/21/2021 - 22:36:11: Info (map "vsh_necropolis_b1") (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/errors_20210321.log")
+L 03/21/2021 - 22:36:11: [SM] Plugin "roundtimer.smx" encountered error 23: Native detected error
+L 03/21/2021 - 22:36:11: [SM] Invalid timer handle 4a9e087f (error 3) during timer end, displayed function is timer callback, not the stack trace
+L 03/21/2021 - 22:36:11: [SM] Unable to call function "Timer_Round" due to above error(s).
+L 03/21/2021 - 22:49:55: Error log file session closed.
+L 03/21/2021 - 23:00:12: SourceMod error session started
+L 03/21/2021 - 23:00:12: Info (map "vsh_west_event") (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/errors_20210321.log")
+L 03/21/2021 - 23:00:12: [SM] Plugin "roundtimer.smx" encountered error 23: Native detected error
+L 03/21/2021 - 23:00:12: [SM] Invalid timer handle da3206d0 (error 3) during timer end, displayed function is timer callback, not the stack trace
+L 03/21/2021 - 23:00:12: [SM] Unable to call function "Timer_Round" due to above error(s).
+L 03/21/2021 - 23:02:16: [freaks/shadow93_abilities.ff2] [SHADoW93 Minions] Nezzie was not resized to avoid getting stuck!
+L 03/21/2021 - 23:02:16: [freaks/ff2_salmon.ff2] [SHADoW93 Minions] Nezzie was not resized to avoid getting stuck!
+L 03/21/2021 - 23:21:13: Error log file session closed.
+L 03/21/2021 - 23:28:34: SourceMod error session started
+L 03/21/2021 - 23:28:34: Info (map "vsh_outdoors_b2a") (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/errors_20210321.log")
+L 03/21/2021 - 23:28:34: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 03/21/2021 - 23:43:21: Error log file session closed.
