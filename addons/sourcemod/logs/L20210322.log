@@ -1,0 +1,74 @@
+L 03/22/2021 - 00:03:44: SourceMod log file session started (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/L20210322.log") (Version "1.10.0.6490")
+L 03/22/2021 - 00:03:44: [mapchooser_extended.smx] Voting for next map has started.
+L 03/22/2021 - 00:04:10: [mapchooser_extended.smx] Voting for next map has started.
+L 03/22/2021 - 00:04:31: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_nebula_rc1.
+L 03/22/2021 - 20:21:20: [SM] Changed map to "vsh_nebula_rc1"
+L 03/22/2021 - 20:21:25: -------- Mapchange to vsh_nebula_rc1 --------
+L 03/22/2021 - 20:21:34: [mapchooser_extended.smx] Loaded map list for tf.
+L 03/22/2021 - 20:27:10: [funcommands.smx] "Nezzie<113><[U:1:107910185]><>" toggled noclip on "Nezzie<113><[U:1:107910185]><>"
+L 03/22/2021 - 20:27:33: [funcommands.smx] "Nezzie<113><[U:1:107910185]><>" toggled noclip on "Nezzie<113><[U:1:107910185]><>"
+L 03/22/2021 - 20:38:01: [respawn.smx] "Nezzie<113><[U:1:107910185]><>" respawned "Mysty-Kun<115><[U:1:85603876]><>"
+L 03/22/2021 - 20:41:50: [mapchooser_extended.smx] Voting for next map has started.
+L 03/22/2021 - 20:42:02: [mapchooser_extended.smx] Voting for next map has started.
+L 03/22/2021 - 20:42:22: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_void_a1f.
+L 03/22/2021 - 20:49:10: [funcommandsX.smx] "Nezzie<113><[U:1:107910185]><>" teleported "Dozii<114><[U:1:94212661]><>"
+L 03/22/2021 - 20:49:13: [funcommandsX.smx] "Nezzie<113><[U:1:107910185]><>" teleported "Dozii<114><[U:1:94212661]><>"
+L 03/22/2021 - 20:51:47: [SM] Changed map to "vsh_void_a1f"
+L 03/22/2021 - 20:51:48: -------- Mapchange to vsh_void_a1f --------
+L 03/22/2021 - 20:51:56: [mapchooser_extended.smx] Loaded map list for tf.
+L 03/22/2021 - 20:57:53: [respawn.smx] "Nezzie<113><[U:1:107910185]><>" respawned "Mysty-Kun<115><[U:1:85603876]><>"
+L 03/22/2021 - 21:08:39: [respawn.smx] "Nezzie<113><[U:1:107910185]><>" respawned "Nezzie<113><[U:1:107910185]><>"
+L 03/22/2021 - 21:09:22: [funcommands.smx] "Nezzie<113><[U:1:107910185]><>" set a beacon on "Dozii<114><[U:1:94212661]><>"
+L 03/22/2021 - 21:09:39: [funcommandsX.smx] "Nezzie<113><[U:1:107910185]><>" teleported "Nezzie<113><[U:1:107910185]><>"
+L 03/22/2021 - 21:09:40: [funcommandsX.smx] "Nezzie<113><[U:1:107910185]><>" teleported "Nezzie<113><[U:1:107910185]><>"
+L 03/22/2021 - 21:09:47: [funcommands.smx] "Nezzie<113><[U:1:107910185]><>" removed a beacon on "Dozii<114><[U:1:94212661]><>"
+L 03/22/2021 - 21:12:12: [mapchooser_extended.smx] Voting for next map has started.
+L 03/22/2021 - 21:12:38: [mapchooser_extended.smx] Voting for next map has started.
+L 03/22/2021 - 21:12:53: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_necropolis_b1.
+L 03/22/2021 - 21:16:30: [funcommandsX.smx] "Nezzie<113><[U:1:107910185]><>" teleported "Nezzie<113><[U:1:107910185]><>"
+L 03/22/2021 - 21:16:35: [funcommandsX.smx] "Nezzie<113><[U:1:107910185]><>" teleported "Dozii<114><[U:1:94212661]><>"
+L 03/22/2021 - 21:16:37: [funcommandsX.smx] "Nezzie<113><[U:1:107910185]><>" teleported "Nezzie<113><[U:1:107910185]><>"
+L 03/22/2021 - 21:16:40: [funcommandsX.smx] "Nezzie<113><[U:1:107910185]><>" teleported "Nezzie<113><[U:1:107910185]><>"
+L 03/22/2021 - 21:16:40: [funcommandsX.smx] "Nezzie<113><[U:1:107910185]><>" teleported "Nezzie<113><[U:1:107910185]><>"
+L 03/22/2021 - 21:16:41: [funcommandsX.smx] "Nezzie<113><[U:1:107910185]><>" teleported "Nezzie<113><[U:1:107910185]><>"
+L 03/22/2021 - 21:16:41: [funcommandsX.smx] "Nezzie<113><[U:1:107910185]><>" teleported "Nezzie<113><[U:1:107910185]><>"
+L 03/22/2021 - 21:16:41: [funcommandsX.smx] "Nezzie<113><[U:1:107910185]><>" teleported "Nezzie<113><[U:1:107910185]><>"
+L 03/22/2021 - 21:16:42: [funcommandsX.smx] "Nezzie<113><[U:1:107910185]><>" teleported "Nezzie<113><[U:1:107910185]><>"
+L 03/22/2021 - 21:16:42: [funcommandsX.smx] "Nezzie<113><[U:1:107910185]><>" teleported "Nezzie<113><[U:1:107910185]><>"
+L 03/22/2021 - 21:16:42: [funcommandsX.smx] "Nezzie<113><[U:1:107910185]><>" teleported "Nezzie<113><[U:1:107910185]><>"
+L 03/22/2021 - 21:16:42: [funcommandsX.smx] "Nezzie<113><[U:1:107910185]><>" teleported "Nezzie<113><[U:1:107910185]><>"
+L 03/22/2021 - 21:16:42: [funcommandsX.smx] "Nezzie<113><[U:1:107910185]><>" teleported "Nezzie<113><[U:1:107910185]><>"
+L 03/22/2021 - 21:16:43: [funcommandsX.smx] "Nezzie<113><[U:1:107910185]><>" teleported "Nezzie<113><[U:1:107910185]><>"
+L 03/22/2021 - 21:16:46: [funcommandsX.smx] "Nezzie<113><[U:1:107910185]><>" teleported "Nezzie<113><[U:1:107910185]><>"
+L 03/22/2021 - 21:16:47: [funcommandsX.smx] "Nezzie<113><[U:1:107910185]><>" teleported "Nezzie<113><[U:1:107910185]><>"
+L 03/22/2021 - 21:16:48: [funcommandsX.smx] "Nezzie<113><[U:1:107910185]><>" teleported "Nezzie<113><[U:1:107910185]><>"
+L 03/22/2021 - 21:16:50: [funcommandsX.smx] "Nezzie<113><[U:1:107910185]><>" teleported "Nezzie<113><[U:1:107910185]><>"
+L 03/22/2021 - 21:16:51: [funcommandsX.smx] "Nezzie<113><[U:1:107910185]><>" teleported "Nezzie<113><[U:1:107910185]><>"
+L 03/22/2021 - 21:16:53: [funcommandsX.smx] "Nezzie<113><[U:1:107910185]><>" teleported "Nezzie<113><[U:1:107910185]><>"
+L 03/22/2021 - 21:16:55: [funcommandsX.smx] "Nezzie<113><[U:1:107910185]><>" teleported "Nezzie<113><[U:1:107910185]><>"
+L 03/22/2021 - 21:17:39: [funcommandsX.smx] "Nezzie<113><[U:1:107910185]><>" teleported "Mysty-Kun<115><[U:1:85603876]><>"
+L 03/22/2021 - 21:17:42: [funcommandsX.smx] "Nezzie<113><[U:1:107910185]><>" teleported "Mysty-Kun<115><[U:1:85603876]><>"
+L 03/22/2021 - 21:17:43: [funcommandsX.smx] "Nezzie<113><[U:1:107910185]><>" teleported "Mysty-Kun<115><[U:1:85603876]><>"
+L 03/22/2021 - 21:17:45: [funcommandsX.smx] "Nezzie<113><[U:1:107910185]><>" teleported "Mysty-Kun<115><[U:1:85603876]><>"
+L 03/22/2021 - 21:17:51: [funcommandsX.smx] "Nezzie<113><[U:1:107910185]><>" teleported "Nezzie<113><[U:1:107910185]><>"
+L 03/22/2021 - 21:17:52: [funcommandsX.smx] "Nezzie<113><[U:1:107910185]><>" teleported "Nezzie<113><[U:1:107910185]><>"
+L 03/22/2021 - 21:17:52: [funcommandsX.smx] "Nezzie<113><[U:1:107910185]><>" teleported "Nezzie<113><[U:1:107910185]><>"
+L 03/22/2021 - 21:17:52: [funcommandsX.smx] "Nezzie<113><[U:1:107910185]><>" teleported "Nezzie<113><[U:1:107910185]><>"
+L 03/22/2021 - 21:17:52: [funcommandsX.smx] "Nezzie<113><[U:1:107910185]><>" teleported "Nezzie<113><[U:1:107910185]><>"
+L 03/22/2021 - 21:17:53: [funcommandsX.smx] "Nezzie<113><[U:1:107910185]><>" teleported "Nezzie<113><[U:1:107910185]><>"
+L 03/22/2021 - 21:17:53: [funcommandsX.smx] "Nezzie<113><[U:1:107910185]><>" teleported "Nezzie<113><[U:1:107910185]><>"
+L 03/22/2021 - 21:21:01: [funcommandsX.smx] "Nezzie<113><[U:1:107910185]><>" teleported "Nezzie<113><[U:1:107910185]><>"
+L 03/22/2021 - 21:21:02: [funcommandsX.smx] "Nezzie<113><[U:1:107910185]><>" teleported "Nezzie<113><[U:1:107910185]><>"
+L 03/22/2021 - 21:21:02: [funcommandsX.smx] "Nezzie<113><[U:1:107910185]><>" teleported "Nezzie<113><[U:1:107910185]><>"
+L 03/22/2021 - 21:21:05: [funcommandsX.smx] "Nezzie<113><[U:1:107910185]><>" teleported "Nezzie<113><[U:1:107910185]><>"
+L 03/22/2021 - 21:21:05: [funcommandsX.smx] "Nezzie<113><[U:1:107910185]><>" teleported "Nezzie<113><[U:1:107910185]><>"
+L 03/22/2021 - 21:21:24: [funcommandsX.smx] "Nezzie<113><[U:1:107910185]><>" teleported "Nezzie<113><[U:1:107910185]><>"
+L 03/22/2021 - 21:21:26: [funcommandsX.smx] "Nezzie<113><[U:1:107910185]><>" teleported "Nezzie<113><[U:1:107910185]><>"
+L 03/22/2021 - 21:21:27: [funcommandsX.smx] "Nezzie<113><[U:1:107910185]><>" teleported "Nezzie<113><[U:1:107910185]><>"
+L 03/22/2021 - 21:21:29: [funcommandsX.smx] "Nezzie<113><[U:1:107910185]><>" teleported "Nezzie<113><[U:1:107910185]><>"
+L 03/22/2021 - 21:22:00: [funcommandsX.smx] "Nezzie<113><[U:1:107910185]><>" teleported "Nezzie<113><[U:1:107910185]><>"
+L 03/22/2021 - 21:23:35: [SM] Changed map to "vsh_necropolis_b1"
+L 03/22/2021 - 21:23:37: -------- Mapchange to vsh_necropolis_b1 --------
+L 03/22/2021 - 21:23:44: [mapchooser_extended.smx] Loaded map list for tf.
+L 03/22/2021 - 21:40:55: [respawn.smx] "Nezzie<113><[U:1:107910185]><>" respawned "Mysty-Kun<115><[U:1:85603876]><>"
+L 03/22/2021 - 21:44:00: [mapchooser_extended.smx] Voting for next map has started.
