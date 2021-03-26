@@ -1,0 +1,43 @@
+L 03/25/2021 - 18:34:42: SourceMod log file session started (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/L20210325.log") (Version "1.10.0.6490")
+L 03/25/2021 - 18:34:42: [SM] Changed map to "vsh_area_54tress_b4"
+L 03/25/2021 - 18:34:49: -------- Mapchange to vsh_area_54tress_b4 --------
+L 03/25/2021 - 18:34:59: [mapchooser_extended.smx] Loaded map list for tf.
+L 03/25/2021 - 18:55:21: [mapchooser_extended.smx] Voting for next map has started.
+L 03/25/2021 - 18:55:42: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_nebula_rc1.
+L 03/25/2021 - 19:06:13: [SM] Changed map to "vsh_nebula_rc1"
+L 03/25/2021 - 19:06:15: -------- Mapchange to vsh_nebula_rc1 --------
+L 03/25/2021 - 19:06:23: [mapchooser_extended.smx] Loaded map list for tf.
+L 03/25/2021 - 19:26:40: [mapchooser_extended.smx] Voting for next map has started.
+L 03/25/2021 - 19:27:01: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_dunger_b2a.
+L 03/25/2021 - 19:38:08: [SM] Changed map to "vsh_dunger_b2a"
+L 03/25/2021 - 19:38:12: -------- Mapchange to vsh_dunger_b2a --------
+L 03/25/2021 - 19:38:20: [mapchooser_extended.smx] Loaded map list for tf.
+L 03/25/2021 - 19:50:56: SourceMod log file session started (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/L20210325.log") (Version "1.10.0.6490")
+L 03/25/2021 - 19:50:56: [TF2ITEMS] "GiveNamedItem" offset = 484
+L 03/25/2021 - 19:50:57: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 03/25/2021 - 19:50:57: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 03/25/2021 - 19:50:57: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 03/25/2021 - 19:50:58: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 03/25/2021 - 19:51:10: [mapchooser_extended.smx] Loaded map list for tf.
+L 03/25/2021 - 19:54:52: SourceMod log file session started (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/L20210325.log") (Version "1.10.0.6490")
+L 03/25/2021 - 19:54:52: [TF2ITEMS] "GiveNamedItem" offset = 484
+L 03/25/2021 - 19:54:52: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 03/25/2021 - 19:54:52: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 03/25/2021 - 19:54:52: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 03/25/2021 - 19:54:53: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 03/25/2021 - 19:55:00: [mapchooser_extended.smx] Loaded map list for tf.
+L 03/25/2021 - 20:01:14: SourceMod log file session started (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/L20210325.log") (Version "1.10.0.6490")
+L 03/25/2021 - 20:01:14: [TF2ITEMS] "GiveNamedItem" offset = 484
+L 03/25/2021 - 20:01:14: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 03/25/2021 - 20:01:14: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 03/25/2021 - 20:01:14: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 03/25/2021 - 20:01:14: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 03/25/2021 - 20:01:22: [mapchooser_extended.smx] Loaded map list for tf.
+L 03/25/2021 - 20:28:17: SourceMod log file session started (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/L20210325.log") (Version "1.10.0.6490")
+L 03/25/2021 - 20:28:17: [TF2ITEMS] "GiveNamedItem" offset = 484
+L 03/25/2021 - 20:28:18: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 03/25/2021 - 20:28:18: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 03/25/2021 - 20:28:18: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 03/25/2021 - 20:28:18: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 03/25/2021 - 20:28:27: [mapchooser_extended.smx] Loaded map list for tf.
+L 03/25/2021 - 22:19:23: [mapchooser_extended.smx] Voting for next map has started.
