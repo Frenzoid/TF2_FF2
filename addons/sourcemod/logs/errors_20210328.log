@@ -1,0 +1,5 @@
+L 03/28/2021 - 22:06:58: SourceMod error session started
+L 03/28/2021 - 22:06:58: Info (map "arena_lumberyard") (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/errors_20210328.log")
+L 03/28/2021 - 22:06:58: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 03/28/2021 - 22:06:59: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 03/28/2021 - 22:08:12: Error log file session closed.

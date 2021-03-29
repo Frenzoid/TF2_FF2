@@ -1,149 +1,5 @@
 "Store"
 {	
-	"Trails"
-	{
-		"8Bit Mushroom"
-		{
-			"material" "materials/sprites/store/trails/8bitmushroom.vmt"
-			"price" "100000"
-			"color" "255 255 255 255"
-			"type" "trail"
-		}
-
-		"8Bit Pow"
-		{
-			"material" "materials/sprites/store/trails/8bitpow.vmt"
-			"price" "100000"
-			"color" "255 255 255 255"
-			"type" "trail"
-		}
-
-		"Airforce"
-		{
-			"material" "materials/sprites/store/trails/airforce.vmt"
-			"price" "100000"
-			"color" "255 255 255 255"
-			"type" "trail"
-		}
-
-		"Airforce 2"
-		{
-			"material" "materials/sprites/store/trails/airforce2.vmt"
-			"price" "100000"
-			"color" "255 255 255 255"
-			"type" "trail"
-		}
-
-		"Apple"
-		{
-			"material" "materials/sprites/store/trails/apple.vmt"
-			"price" "100000"
-			"color" "255 255 255 255"
-			"type" "trail"
-		}
-
-		"Arrow Rainbow"
-		{
-			"material" "materials/sprites/store/trails/arrowrainbow.vmt"
-			"price" "100000"
-			"color" "255 255 255 255"
-			"type" "trail"
-		}
-
-		"Arrows"
-		{
-			"material" "materials/sprites/store/trails/arrows.vmt"
-			"price" "100000"
-			"color" "255 255 255 255"
-			"type" "trail"
-		}
-
-		"Assassin"
-		{
-			"material" "materials/sprites/store/trails/assasin.vmt"
-			"price" "100000"
-			"color" "255 255 255 255"
-			"type" "trail"
-		}
-		"Blue Lightning"
-		{
-			"material" "materials/sprites/store/trails/bluelightning.vmt"
-			"price" "100000"
-			"color" "255 255 255 255"
-			"type" "trail"
-		}
-		"Color Bolt"
-		{
-			"material" "materials/sprites/store/trails/colorbolt.vmt"
-			"price" "100000"
-			"color" "255 255 255 255"
-			"type" "trail"
-		}
-		"Cracked Beam"
-		{
-			"material" "materials/sprites/store/trails/crackedbeam.vmt"
-			"price" "100000"
-			"color" "255 255 255 255"
-			"type" "trail"
-		}
-		"Double Rainbow"
-		{
-			"material" "materials/sprites/store/trails/doublerainbow.vmt"
-			"price" "100000"
-			"color" "255 255 255 255"
-			"type" "trail"
-		}
-		"Dragon"
-		{
-			"material" "materials/sprites/store/trails/dragon.vmt"
-			"price" "100000"
-			"color" "255 255 255 255"
-			"type" "trail"
-		}
-		"Energy Ball"
-		{
-			"material" "materials/sprites/store/trails/energyball.vmt"
-			"price" "100000"
-			"color" "255 255 255 255"
-			"type" "trail"
-		}
-		"Hex"
-		{
-            		"material" "materials/sprites/store/trails/hex.vmt"
-			"price" "100000"
-			"color" "255 255 255 255"
-			"type" "trail"
-      		}
-		"Hypnotic"
-		{
-            		"material" "materials/sprites/store/trails/hypnotic.vmt"
-			"price" "100000"
-			"color" "255 255 255 255"
-			"type" "trail"
-       		}
-		"Lightwave"
-		{
-            		"material" "materials/sprites/store/trails/lightwave.vmt"
-			"price" "100000"
-			"color" "255 255 255 255"
-			"type" "trail"
-        	}
-		"Psych Triangle"
-		{
-            		"material" "materials/sprites/store/trails/psychtriangle.vmt"
-			"price" "100000"
-			"color" "255 255 255 255"
-			"type" "trail"
-        	}
-		"Rainbow"
-		{
-            		"material" "materials/sprites/store/trails/rainbow.vmt"
-			"price" "100000"
-			"color" "255 255 255 255"
-			"type" "trail"
-        	}
-	}
-
 	"Chat stuff"
 	{
 		"Name Tags"
@@ -329,6 +185,18 @@
 				"price" "6969"
 				"type" "nametag"
 			}
+			"Angelic"
+			{
+				"tag" "{skyblue}Angelic{teamcolor} "
+				"price" "7500"
+				"type" "nametag"
+			}
+			"Demonic"
+			{
+				"tag" "{darkred}Demonic{teamcolor} "
+				"price" "7500"
+				"type" "nametag"
+			}
 			"♥"
 			{
 				"tag" "{lightpink}♥{teamcolor} "
@@ -360,5 +228,148 @@
 				"type" "nametag"
 			}
 		}
+	}
+	"Trails"
+	{
+		"8Bit Mushroom"
+		{
+			"material" "materials/sprites/store/trails/8bitmushroom.vmt"
+			"price" "100000"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"8Bit Pow"
+		{
+			"material" "materials/sprites/store/trails/8bitpow.vmt"
+			"price" "100000"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Airforce"
+		{
+			"material" "materials/sprites/store/trails/airforce.vmt"
+			"price" "100000"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Airforce 2"
+		{
+			"material" "materials/sprites/store/trails/airforce2.vmt"
+			"price" "100000"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Apple"
+		{
+			"material" "materials/sprites/store/trails/apple.vmt"
+			"price" "100000"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Arrow Rainbow"
+		{
+			"material" "materials/sprites/store/trails/arrowrainbow.vmt"
+			"price" "100000"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Arrows"
+		{
+			"material" "materials/sprites/store/trails/arrows.vmt"
+			"price" "100000"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+
+		"Assassin"
+		{
+			"material" "materials/sprites/store/trails/assasin.vmt"
+			"price" "100000"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+		"Blue Lightning"
+		{
+			"material" "materials/sprites/store/trails/bluelightning.vmt"
+			"price" "100000"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+		"Color Bolt"
+		{
+			"material" "materials/sprites/store/trails/colorbolt.vmt"
+			"price" "100000"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+		"Cracked Beam"
+		{
+			"material" "materials/sprites/store/trails/crackedbeam.vmt"
+			"price" "100000"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+		"Double Rainbow"
+		{
+			"material" "materials/sprites/store/trails/doublerainbow.vmt"
+			"price" "100000"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+		"Dragon"
+		{
+			"material" "materials/sprites/store/trails/dragon.vmt"
+			"price" "100000"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+		"Energy Ball"
+		{
+			"material" "materials/sprites/store/trails/energyball.vmt"
+			"price" "100000"
+			"color" "255 255 255 255"
+			"type" "trail"
+		}
+		"Hex"
+		{
+            		"material" "materials/sprites/store/trails/hex.vmt"
+			"price" "100000"
+			"color" "255 255 255 255"
+			"type" "trail"
+      		}
+		"Hypnotic"
+		{
+            		"material" "materials/sprites/store/trails/hypnotic.vmt"
+			"price" "100000"
+			"color" "255 255 255 255"
+			"type" "trail"
+       		}
+		"Lightwave"
+		{
+            		"material" "materials/sprites/store/trails/lightwave.vmt"
+			"price" "100000"
+			"color" "255 255 255 255"
+			"type" "trail"
+        	}
+		"Psych Triangle"
+		{
+            		"material" "materials/sprites/store/trails/psychtriangle.vmt"
+			"price" "100000"
+			"color" "255 255 255 255"
+			"type" "trail"
+        	}
+		"Rainbow"
+		{
+            		"material" "materials/sprites/store/trails/rainbow.vmt"
+			"price" "100000"
+			"color" "255 255 255 255"
+			"type" "trail"
+        	}
 	}
 }

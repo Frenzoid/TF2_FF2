@@ -7178,3 +7178,15 @@ L 03/26/2021 - 20:32:27: [freak_fortress_2.smx] [Boss] Character skeleton_king i
 L 03/26/2021 - 20:47:36: [freak_fortress_2.smx] [Boss] Character skeleton_king is missing file 'sound/freak_fortress_2/skeleton_king/sk_respawn_09.mp3' in section 'mod_precache'!
 L 03/26/2021 - 20:53:24: [freak_fortress_2.smx] [Boss] Character sib_wizard is missing file 'sound/freak_fortress_2\sib_wizard\firstlife.mp3' in section 'sound_precache'!
 L 03/26/2021 - 21:03:54: [freak_fortress_2.smx] [Boss] Character skeleton_king is missing file 'models/freak_fortress_2/skeleton_king/skeleton_king.phy'!
+L 03/28/2021 - 06:04:33: [freak_fortress_2.smx] [Boss] Character skeleton_king is missing file 'models/freak_fortress_2/skeleton_king/skeleton_king.phy'!
+L 03/28/2021 - 06:29:25: [freak_fortress_2.smx] [Boss] Character skeleton_king is missing file 'sound/freak_fortress_2/skeleton_king/sk_respawn_09.mp3' in section 'mod_precache'!
+L 03/28/2021 - 06:35:36: [freak_fortress_2.smx] [Boss] Character skeleton_king is missing file 'models/freak_fortress_2/skeleton_king/skeleton_king.phy'!
+L 03/28/2021 - 21:11:35: [freak_fortress_2.smx] [Boss] Character skeleton_king is missing file 'models/freak_fortress_2/skeleton_king/skeleton_king.phy'!
+L 03/28/2021 - 21:31:52: [freak_fortress_2.smx] [Boss] An invalid formula at arg9/ammo for rage_cloneattack!
+L 03/28/2021 - 21:31:52: [freak_fortress_2.smx] [Boss] An invalid formula at arg10/clip for rage_cloneattack!
+L 03/28/2021 - 21:43:46: [freak_fortress_2.smx] [Boss] Character skeleton_king is missing file 'models/freak_fortress_2/skeleton_king/skeleton_king.phy'!
+L 03/28/2021 - 21:52:33: [freak_fortress_2.smx] [Boss] Character sib_wizard is missing file 'sound/freak_fortress_2\sib_wizard\firstlife.mp3' in section 'sound_precache'!
+L 03/28/2021 - 21:54:56: [freak_fortress_2.smx] [Boss] Character ridley is missing file 'sound/freak_fortress_2\ridley\phase3.mp3' in section 'mod_precache'!
+L 03/28/2021 - 22:07:26: [freak_fortress_2.smx] [Boss] Character skeleton_king is missing file 'models/freak_fortress_2/skeleton_king/skeleton_king.phy'!
+L 03/28/2021 - 22:08:19: [freak_fortress_2.smx] [Boss] Character skeleton_king is missing file 'models/freak_fortress_2/skeleton_king/skeleton_king.phy'!
+L 03/28/2021 - 22:11:02: [freak_fortress_2.smx] [Boss] Character skeleton_king is missing file 'sound/freak_fortress_2/skeleton_king/sk_respawn_09.mp3' in section 'mod_precache'!
