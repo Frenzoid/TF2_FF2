@@ -1,0 +1,69 @@
+L 03/30/2021 - 00:02:10: SourceMod log file session started (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/L20210330.log") (Version "1.10.0.6490")
+L 03/30/2021 - 00:02:10: [basechat.smx] "peabis (F1SH)<30><[U:1:445849108]><>" triggered sm_msay (text wrong more like bong)
+L 03/30/2021 - 00:05:15: [SM] Changed map to "vsh_dirtmound_b9"
+L 03/30/2021 - 00:05:16: -------- Mapchange to vsh_dirtmound_b9 --------
+L 03/30/2021 - 00:05:23: [mapchooser_extended.smx] Loaded map list for tf.
+L 03/30/2021 - 00:19:04: [respawn.smx] "Nezzie<28><[U:1:107910185]><>" respawned "peabis (F1SH)<30><[U:1:445849108]><>"
+L 03/30/2021 - 00:22:08: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 03/30/2021 - 00:22:08: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 03/30/2021 - 00:22:08: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 03/30/2021 - 00:22:08: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 03/30/2021 - 00:22:08: [mapchooser_extended.smx] Loaded map list for tf.
+L 03/30/2021 - 00:23:07: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 03/30/2021 - 00:23:07: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 03/30/2021 - 00:23:07: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 03/30/2021 - 00:23:07: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 03/30/2021 - 00:23:08: [mapchooser_extended.smx] Loaded map list for tf.
+L 03/30/2021 - 00:24:05: [respawn.smx] "Nezzie<28><[U:1:107910185]><>" respawned "Nezzie<28><[U:1:107910185]><>"
+L 03/30/2021 - 00:25:41: [mapchooser_extended.smx] Voting for next map has started.
+L 03/30/2021 - 00:25:51: [mapchooser_extended.smx] Voting for next map has started.
+L 03/30/2021 - 00:25:55: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_dunger_b2a.
+L 03/30/2021 - 00:26:55: [respawn.smx] "Nezzie<28><[U:1:107910185]><>" respawned "peabis (F1SH)<30><[U:1:445849108]><>"
+L 03/30/2021 - 00:27:51: [respawn.smx] "Nezzie<28><[U:1:107910185]><>" respawned "peabis (F1SH)<30><[U:1:445849108]><>"
+L 03/30/2021 - 00:28:13: [respawn.smx] "Nezzie<28><[U:1:107910185]><>" respawned "peabis (F1SH)<30><[U:1:445849108]><>"
+L 03/30/2021 - 00:28:41: [respawn.smx] "Nezzie<28><[U:1:107910185]><>" respawned "puzzle<29><[U:1:136056777]><>"
+L 03/30/2021 - 00:30:37: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 03/30/2021 - 00:30:37: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 03/30/2021 - 00:30:37: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 03/30/2021 - 00:30:38: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 03/30/2021 - 00:30:38: [mapchooser_extended.smx] Loaded map list for tf.
+L 03/30/2021 - 00:30:54: [mapchooser_extended.smx] Voting for next map has started.
+L 03/30/2021 - 00:31:31: [mapchooser_extended.smx] Voting for next map has started.
+L 03/30/2021 - 00:32:01: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_outdoors_b2a.
+L 03/30/2021 - 00:32:08: [respawn.smx] "Nezzie<28><[U:1:107910185]><>" respawned "Nezzie<28><[U:1:107910185]><>"
+L 03/30/2021 - 00:34:25: [respawn.smx] "Nezzie<28><[U:1:107910185]><>" respawned "peabis (F1SH)<30><[U:1:445849108]><>"
+L 03/30/2021 - 00:35:18: [respawn.smx] "peabis (F1SH)<30><[U:1:445849108]><>" respawned "peabis (F1SH)<30><[U:1:445849108]><>"
+L 03/30/2021 - 00:38:30: [respawn.smx] "Nezzie<28><[U:1:107910185]><>" respawned "Nezzie<28><[U:1:107910185]><>"
+L 03/30/2021 - 00:39:10: [respawn.smx] "peabis (F1SH)<30><[U:1:445849108]><>" respawned "peabis (F1SH)<30><[U:1:445849108]><>"
+L 03/30/2021 - 00:39:14: [basechat.smx] "Console<0><Console><Console>" triggered sm_say (text The round time has ended, omaewa-mou shindeiru)
+L 03/30/2021 - 00:39:14: [playercommands.smx] "Console<0><Console><Console>" slayed "Nezzie<28><[U:1:107910185]><>"
+L 03/30/2021 - 00:39:14: [playercommands.smx] "Console<0><Console><Console>" slayed "puzzle<29><[U:1:136056777]><>"
+L 03/30/2021 - 00:39:14: [playercommands.smx] "Console<0><Console><Console>" slayed "peabis (F1SH)<30><[U:1:445849108]><>"
+L 03/30/2021 - 00:39:14: [playercommands.smx] "Console<0><Console><Console>" slayed "test<31><BOT><>"
+L 03/30/2021 - 00:39:14: [playercommands.smx] "Console<0><Console><Console>" slayed "test1<32><BOT><>"
+L 03/30/2021 - 00:39:32: [SM] Changed map to "vsh_outdoors_b2a"
+L 03/30/2021 - 00:39:34: -------- Mapchange to vsh_outdoors_b2a --------
+L 03/30/2021 - 00:39:39: [mapchooser_extended.smx] Loaded map list for tf.
+L 03/30/2021 - 00:43:09: [funcommands.smx] "Nezzie<28><[U:1:107910185]><>" set a beacon on "peabis (F1SH)<30><[U:1:445849108]><>"
+L 03/30/2021 - 00:43:23: [funcommands.smx] "Nezzie<28><[U:1:107910185]><>" removed a beacon on "peabis (F1SH)<30><[U:1:445849108]><>"
+L 03/30/2021 - 00:45:24: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 03/30/2021 - 00:45:24: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 03/30/2021 - 00:45:24: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 03/30/2021 - 00:45:24: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 03/30/2021 - 00:45:25: [mapchooser_extended.smx] Loaded map list for tf.
+L 03/30/2021 - 00:53:58: [respawn.smx] "Nezzie<28><[U:1:107910185]><>" respawned "puzzle<29><[U:1:136056777]><>"
+L 03/30/2021 - 00:53:58: [respawn.smx] "Nezzie<28><[U:1:107910185]><>" respawned "Tiburonsin 150 youtube<33><[U:1:1075178660]><>"
+L 03/30/2021 - 00:55:25: [basechat.smx] "Console<0><Console><Console>" triggered sm_say (text The round time has ended, omaewa-mou shindeiru)
+L 03/30/2021 - 00:55:25: [playercommands.smx] "Console<0><Console><Console>" slayed "Nezzie<28><[U:1:107910185]><>"
+L 03/30/2021 - 00:55:25: [playercommands.smx] "Console<0><Console><Console>" slayed "puzzle<29><[U:1:136056777]><>"
+L 03/30/2021 - 00:55:25: [playercommands.smx] "Console<0><Console><Console>" slayed "peabis (F1SH)<30><[U:1:445849108]><>"
+L 03/30/2021 - 00:55:25: [playercommands.smx] "Console<0><Console><Console>" slayed "Tiburonsin 150 youtube<33><[U:1:1075178660]><>"
+L 03/30/2021 - 00:59:56: [mapchooser_extended.smx] Voting for next map has started.
+L 03/30/2021 - 01:00:26: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_skyhigh_resort_b8_sg4.
+L 03/30/2021 - 01:05:38: [respawn.smx] "Nezzie<28><[U:1:107910185]><>" respawned "MarJar<35><[U:1:217073466]><>"
+L 03/30/2021 - 01:11:25: [SM] Changed map to "vsh_skyhigh_resort_b8_sg4"
+L 03/30/2021 - 01:11:26: -------- Mapchange to vsh_skyhigh_resort_b8_sg4 --------
+L 03/30/2021 - 01:11:33: [mapchooser_extended.smx] Loaded map list for tf.
+L 03/30/2021 - 01:15:39: [playercommands.smx] "Nezzie<28><[U:1:107910185]><>" renamed "puzzle<29><[U:1:136056777]><>" (to "puddle")
+L 03/30/2021 - 01:31:48: [mapchooser_extended.smx] Voting for next map has started.
+L 03/30/2021 - 01:32:19: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_intrusion_rc2.

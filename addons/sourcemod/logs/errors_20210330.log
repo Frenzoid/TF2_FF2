@@ -1,0 +1,32 @@
+L 03/30/2021 - 00:22:08: SourceMod error session started
+L 03/30/2021 - 00:22:08: Info (map "vsh_dirtmound_b9") (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/errors_20210330.log")
+L 03/30/2021 - 00:22:08: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 03/30/2021 - 00:22:08: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 03/30/2021 - 00:22:08: [store.smx] Database connection is lost or not yet initialized.
+L 03/30/2021 - 00:22:08: [store.smx] Database connection is lost or not yet initialized.
+L 03/30/2021 - 00:22:08: [store.smx] Database connection is lost or not yet initialized.
+L 03/30/2021 - 00:23:07: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 03/30/2021 - 00:23:07: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 03/30/2021 - 00:23:07: [store.smx] Database connection is lost or not yet initialized.
+L 03/30/2021 - 00:23:07: [store.smx] Database connection is lost or not yet initialized.
+L 03/30/2021 - 00:23:07: [store.smx] Database connection is lost or not yet initialized.
+L 03/30/2021 - 00:30:38: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 03/30/2021 - 00:30:38: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 03/30/2021 - 00:30:38: [store.smx] Database connection is lost or not yet initialized.
+L 03/30/2021 - 00:30:38: [store.smx] Database connection is lost or not yet initialized.
+L 03/30/2021 - 00:30:38: [store.smx] Database connection is lost or not yet initialized.
+L 03/30/2021 - 00:39:14: [SM] Plugin "roundtimer.smx" encountered error 23: Native detected error
+L 03/30/2021 - 00:39:14: [SM] Invalid timer handle d7520969 (error 3) during timer end, displayed function is timer callback, not the stack trace
+L 03/30/2021 - 00:39:14: [SM] Unable to call function "Timer_Round" due to above error(s).
+L 03/30/2021 - 00:39:34: Error log file session closed.
+L 03/30/2021 - 00:45:24: SourceMod error session started
+L 03/30/2021 - 00:45:24: Info (map "vsh_outdoors_b2a") (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/errors_20210330.log")
+L 03/30/2021 - 00:45:24: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 03/30/2021 - 00:45:24: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 03/30/2021 - 00:45:24: [store.smx] Database connection is lost or not yet initialized.
+L 03/30/2021 - 00:45:24: [store.smx] Database connection is lost or not yet initialized.
+L 03/30/2021 - 00:45:24: [store.smx] Database connection is lost or not yet initialized.
+L 03/30/2021 - 00:55:25: [SM] Plugin "roundtimer.smx" encountered error 23: Native detected error
+L 03/30/2021 - 00:55:25: [SM] Invalid timer handle c16c0793 (error 3) during timer end, displayed function is timer callback, not the stack trace
+L 03/30/2021 - 00:55:25: [SM] Unable to call function "Timer_Round" due to above error(s).
+L 03/30/2021 - 01:11:26: Error log file session closed.
