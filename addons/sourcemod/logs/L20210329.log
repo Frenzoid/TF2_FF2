@@ -1,0 +1,106 @@
+L 03/29/2021 - 09:58:25: SourceMod log file session started (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/L20210329.log") (Version "1.10.0.6490")
+L 03/29/2021 - 09:58:25: [SM] Changed map to "vsh_tranquil_b5"
+L 03/29/2021 - 09:58:30: -------- Mapchange to vsh_tranquil_b5 --------
+L 03/29/2021 - 09:58:39: [mapchooser_extended.smx] Loaded map list for tf.
+L 03/29/2021 - 10:18:57: [mapchooser_extended.smx] Voting for next map has started.
+L 03/29/2021 - 16:22:57: [SM] Changed map to "vsh_skyhigh_resort_b8_sg4"
+L 03/29/2021 - 16:23:00: -------- Mapchange to vsh_skyhigh_resort_b8_sg4 --------
+L 03/29/2021 - 16:23:09: [mapchooser_extended.smx] Loaded map list for tf.
+L 03/29/2021 - 16:28:27: [respawn.smx] "Nezzie<11><[U:1:107910185]><>" respawned "Nezzie<11><[U:1:107910185]><>"
+L 03/29/2021 - 16:30:26: [respawn.smx] "Nezzie<11><[U:1:107910185]><>" respawned "Nezzie<11><[U:1:107910185]><>"
+L 03/29/2021 - 16:36:31: [respawn.smx] "Nezzie<11><[U:1:107910185]><>" respawned "Mysty-Kun<14><[U:1:85603876]><>"
+L 03/29/2021 - 16:37:44: [basechat.smx] "Console<0><Console><Console>" triggered sm_say (text The round time has ended, omaewa-mou shindeiru)
+L 03/29/2021 - 16:37:44: [playercommands.smx] "Console<0><Console><Console>" slayed "Nezzie<11><[U:1:107910185]><>"
+L 03/29/2021 - 16:37:44: [playercommands.smx] "Console<0><Console><Console>" slayed "Xandermen<12><[U:1:162508880]><>"
+L 03/29/2021 - 16:37:44: [playercommands.smx] "Console<0><Console><Console>" slayed "puzzle<13><[U:1:136056777]><>"
+L 03/29/2021 - 16:37:44: [playercommands.smx] "Console<0><Console><Console>" slayed "Mysty-Kun<14><[U:1:85603876]><>"
+L 03/29/2021 - 16:43:28: [mapchooser_extended.smx] Voting for next map has started.
+L 03/29/2021 - 16:43:49: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_castle_siege_unreal_sg1.
+L 03/29/2021 - 16:51:44: [respawn.smx] "Nezzie<11><[U:1:107910185]><>" respawned "Xandermen<12><[U:1:162508880]><>"
+L 03/29/2021 - 16:52:38: [respawn.smx] "Nezzie<11><[U:1:107910185]><>" respawned "Mysty-Kun<14><[U:1:85603876]><>"
+L 03/29/2021 - 16:53:10: [respawn.smx] "Nezzie<11><[U:1:107910185]><>" respawned "Xandermen<12><[U:1:162508880]><>"
+L 03/29/2021 - 16:54:53: [SM] Changed map to "vsh_castle_siege_unreal_sg1"
+L 03/29/2021 - 16:54:54: -------- Mapchange to vsh_castle_siege_unreal_sg1 --------
+L 03/29/2021 - 16:55:02: [mapchooser_extended.smx] Loaded map list for tf.
+L 03/29/2021 - 17:02:31: [respawn.smx] "Nezzie<11><[U:1:107910185]><>" respawned "Nezzie<11><[U:1:107910185]><>"
+L 03/29/2021 - 17:14:18: [basechat.smx] "Console<0><Console><Console>" triggered sm_say (text The round time has ended, omaewa-mou shindeiru)
+L 03/29/2021 - 17:14:18: [playercommands.smx] "Console<0><Console><Console>" slayed "Nezzie<11><[U:1:107910185]><>"
+L 03/29/2021 - 17:14:18: [playercommands.smx] "Console<0><Console><Console>" slayed "puzzle<13><[U:1:136056777]><>"
+L 03/29/2021 - 17:15:17: [mapchooser_extended.smx] Voting for next map has started.
+L 03/29/2021 - 17:15:38: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_west_event.
+L 03/29/2021 - 17:25:23: [basechat.smx] "Console<0><Console><Console>" triggered sm_say (text The round time has ended, omaewa-mou shindeiru)
+L 03/29/2021 - 17:25:23: [playercommands.smx] "Console<0><Console><Console>" slayed "Nezzie<11><[U:1:107910185]><>"
+L 03/29/2021 - 17:25:23: [playercommands.smx] "Console<0><Console><Console>" slayed "Bringdown<16><[U:1:312675055]><>"
+L 03/29/2021 - 17:25:41: [SM] Changed map to "vsh_west_event"
+L 03/29/2021 - 17:25:43: -------- Mapchange to vsh_west_event --------
+L 03/29/2021 - 17:25:49: [mapchooser_extended.smx] Loaded map list for tf.
+L 03/29/2021 - 17:29:39: [mapchooser_extended.smx] Starting map vote because outside request
+L 03/29/2021 - 17:29:55: [mapchooser_extended.smx] Voting for next map has started.
+L 03/29/2021 - 17:30:17: [mapchooser_extended.smx] Voting for next map has started.
+L 03/29/2021 - 17:30:21: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_cactustemple_v1.
+L 03/29/2021 - 17:30:25: [SM] Changed map to "vsh_cactustemple_v1"
+L 03/29/2021 - 17:30:27: -------- Mapchange to vsh_cactustemple_v1 --------
+L 03/29/2021 - 17:30:33: [mapchooser_extended.smx] Loaded map list for tf.
+L 03/29/2021 - 17:32:40: [mapchooser_extended.smx] Starting map vote because outside request
+L 03/29/2021 - 17:32:56: [mapchooser_extended.smx] Voting for next map has started.
+L 03/29/2021 - 17:33:02: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_chinatown_b3.
+L 03/29/2021 - 17:33:06: [SM] Changed map to "vsh_chinatown_b3"
+L 03/29/2021 - 17:33:12: -------- Mapchange to vsh_chinatown_b3 --------
+L 03/29/2021 - 17:33:18: [mapchooser_extended.smx] Loaded map list for tf.
+L 03/29/2021 - 17:53:32: [mapchooser_extended.smx] Voting for next map has started.
+L 03/29/2021 - 17:53:43: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_apg_reworked_b2.
+L 03/29/2021 - 19:36:25: [SM] Changed map to "vsh_apg_reworked_b2"
+L 03/29/2021 - 19:36:27: -------- Mapchange to vsh_apg_reworked_b2 --------
+L 03/29/2021 - 19:36:33: [mapchooser_extended.smx] Loaded map list for tf.
+L 03/29/2021 - 19:56:49: [mapchooser_extended.smx] Voting for next map has started.
+L 03/29/2021 - 19:57:00: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_castle_siege_unreal_sg1.
+L 03/29/2021 - 20:09:57: [SM] Changed map to "vsh_castle_siege_unreal_sg1"
+L 03/29/2021 - 20:09:59: -------- Mapchange to vsh_castle_siege_unreal_sg1 --------
+L 03/29/2021 - 20:10:06: [mapchooser_extended.smx] Loaded map list for tf.
+L 03/29/2021 - 20:16:04: [respawn.smx] "Nezzie<21><[U:1:107910185]><>" respawned "Nezzie<21><[U:1:107910185]><>"
+L 03/29/2021 - 20:26:34: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 03/29/2021 - 20:26:34: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 03/29/2021 - 20:26:34: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 03/29/2021 - 20:26:34: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 03/29/2021 - 20:26:35: [mapchooser_extended.smx] Loaded map list for tf.
+L 03/29/2021 - 20:30:25: [mapchooser_extended.smx] Voting for next map has started.
+L 03/29/2021 - 20:30:40: [mapchooser_extended.smx] Voting for next map has started.
+L 03/29/2021 - 20:31:11: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_shipment_v1a.
+L 03/29/2021 - 20:40:59: [SM] Changed map to "vsh_shipment_v1a"
+L 03/29/2021 - 20:41:02: -------- Mapchange to vsh_shipment_v1a --------
+L 03/29/2021 - 20:41:09: [mapchooser_extended.smx] Loaded map list for tf.
+L 03/29/2021 - 20:51:48: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 03/29/2021 - 20:51:48: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 03/29/2021 - 20:51:48: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 03/29/2021 - 20:51:48: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 03/29/2021 - 20:51:48: [mapchooser_extended.smx] Loaded map list for tf.
+L 03/29/2021 - 20:53:05: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 03/29/2021 - 20:53:05: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 03/29/2021 - 20:53:05: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 03/29/2021 - 20:53:06: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 03/29/2021 - 20:53:06: [mapchooser_extended.smx] Loaded map list for tf.
+L 03/29/2021 - 21:01:27: [mapchooser_extended.smx] Voting for next map has started.
+L 03/29/2021 - 21:02:04: [mapchooser_extended.smx] Voting for next map has started.
+L 03/29/2021 - 21:02:34: [mapchooser_extended.smx] Voting for next map has finished. The current map has been extended.
+L 03/29/2021 - 21:21:26: [mapchooser_extended.smx] Voting for next map has started.
+L 03/29/2021 - 21:21:57: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_intrusion_rc2.
+L 03/29/2021 - 21:23:41: [playercommands.smx] "Nezzie<21><[U:1:107910185]><>" slapped "Mysty-Kun<18><[U:1:85603876]><>" (damage "0")
+L 03/29/2021 - 21:23:41: [playercommands.smx] "Nezzie<21><[U:1:107910185]><>" slapped "Mysty-Kun<18><[U:1:85603876]><>" (damage "0")
+L 03/29/2021 - 21:23:41: [playercommands.smx] "Nezzie<21><[U:1:107910185]><>" slapped "Mysty-Kun<18><[U:1:85603876]><>" (damage "0")
+L 03/29/2021 - 21:23:41: [playercommands.smx] "Nezzie<21><[U:1:107910185]><>" slapped "Mysty-Kun<18><[U:1:85603876]><>" (damage "0")
+L 03/29/2021 - 21:23:41: [playercommands.smx] "Nezzie<21><[U:1:107910185]><>" slapped "Mysty-Kun<18><[U:1:85603876]><>" (damage "0")
+L 03/29/2021 - 21:23:42: [playercommands.smx] "Nezzie<21><[U:1:107910185]><>" slapped "Mysty-Kun<18><[U:1:85603876]><>" (damage "0")
+L 03/29/2021 - 21:23:42: [playercommands.smx] "Nezzie<21><[U:1:107910185]><>" slapped "Mysty-Kun<18><[U:1:85603876]><>" (damage "0")
+L 03/29/2021 - 23:34:22: [SM] Changed map to "vsh_intrusion_rc2"
+L 03/29/2021 - 23:34:27: -------- Mapchange to vsh_intrusion_rc2 --------
+L 03/29/2021 - 23:34:35: [mapchooser_extended.smx] Loaded map list for tf.
+L 03/29/2021 - 23:37:30: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 03/29/2021 - 23:37:30: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 03/29/2021 - 23:37:30: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 03/29/2021 - 23:37:30: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 03/29/2021 - 23:37:30: [mapchooser_extended.smx] Loaded map list for tf.
+L 03/29/2021 - 23:41:06: [playercommands.smx] "Nezzie<28><[U:1:107910185]><>" renamed "puzzle<29><[U:1:136056777]><>" (to "wrong")
+L 03/29/2021 - 23:41:22: [basechat.smx] "peabis (F1SH)<30><[U:1:445849108]><>" triggered sm_msay (text puzzle is wrong)
+L 03/29/2021 - 23:52:15: [respawn.smx] "Nezzie<28><[U:1:107910185]><>" respawned "Nezzie<28><[U:1:107910185]><>"
+L 03/29/2021 - 23:54:53: [mapchooser_extended.smx] Voting for next map has started.
+L 03/29/2021 - 23:55:17: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_dirtmound_b9.

@@ -1,0 +1,44 @@
+L 03/29/2021 - 16:37:44: SourceMod error session started
+L 03/29/2021 - 16:37:44: Info (map "vsh_skyhigh_resort_b8_sg4") (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/errors_20210329.log")
+L 03/29/2021 - 16:37:44: [SM] Plugin "roundtimer.smx" encountered error 23: Native detected error
+L 03/29/2021 - 16:37:44: [SM] Invalid timer handle bbd808a4 (error 3) during timer end, displayed function is timer callback, not the stack trace
+L 03/29/2021 - 16:37:44: [SM] Unable to call function "Timer_Round" due to above error(s).
+L 03/29/2021 - 16:54:54: Error log file session closed.
+L 03/29/2021 - 17:14:18: SourceMod error session started
+L 03/29/2021 - 17:14:18: Info (map "vsh_castle_siege_unreal_sg1") (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/errors_20210329.log")
+L 03/29/2021 - 17:14:18: [SM] Plugin "roundtimer.smx" encountered error 23: Native detected error
+L 03/29/2021 - 17:14:18: [SM] Invalid timer handle 6fc209af (error 3) during timer end, displayed function is timer callback, not the stack trace
+L 03/29/2021 - 17:14:18: [SM] Unable to call function "Timer_Round" due to above error(s).
+L 03/29/2021 - 17:25:23: [SM] Plugin "roundtimer.smx" encountered error 23: Native detected error
+L 03/29/2021 - 17:25:23: [SM] Invalid timer handle 21970988 (error 3) during timer end, displayed function is timer callback, not the stack trace
+L 03/29/2021 - 17:25:23: [SM] Unable to call function "Timer_Round" due to above error(s).
+L 03/29/2021 - 17:25:43: Error log file session closed.
+L 03/29/2021 - 20:26:34: SourceMod error session started
+L 03/29/2021 - 20:26:34: Info (map "vsh_castle_siege_unreal_sg1") (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/errors_20210329.log")
+L 03/29/2021 - 20:26:34: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 03/29/2021 - 20:26:34: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 03/29/2021 - 20:26:34: [store.smx] Database connection is lost or not yet initialized.
+L 03/29/2021 - 20:26:34: [store.smx] Database connection is lost or not yet initialized.
+L 03/29/2021 - 20:26:34: [store.smx] Database connection is lost or not yet initialized.
+L 03/29/2021 - 20:26:34: [store.smx] Database connection is lost or not yet initialized.
+L 03/29/2021 - 20:41:02: Error log file session closed.
+L 03/29/2021 - 20:51:48: SourceMod error session started
+L 03/29/2021 - 20:51:48: Info (map "vsh_shipment_v1a") (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/errors_20210329.log")
+L 03/29/2021 - 20:51:48: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 03/29/2021 - 20:51:48: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 03/29/2021 - 20:51:48: [store.smx] Database connection is lost or not yet initialized.
+L 03/29/2021 - 20:51:48: [store.smx] Database connection is lost or not yet initialized.
+L 03/29/2021 - 20:51:48: [store.smx] Database connection is lost or not yet initialized.
+L 03/29/2021 - 20:53:05: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 03/29/2021 - 20:53:06: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 03/29/2021 - 20:53:06: [store.smx] Database connection is lost or not yet initialized.
+L 03/29/2021 - 20:53:06: [store.smx] Database connection is lost or not yet initialized.
+L 03/29/2021 - 20:53:06: [store.smx] Database connection is lost or not yet initialized.
+L 03/29/2021 - 23:34:27: Error log file session closed.
+L 03/29/2021 - 23:37:30: SourceMod error session started
+L 03/29/2021 - 23:37:30: Info (map "vsh_intrusion_rc2") (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/errors_20210329.log")
+L 03/29/2021 - 23:37:30: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 03/29/2021 - 23:37:30: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 03/29/2021 - 23:37:30: [store.smx] Database connection is lost or not yet initialized.
+L 03/29/2021 - 23:37:30: [store.smx] Database connection is lost or not yet initialized.
+L 03/29/2021 - 23:37:30: [store.smx] Database connection is lost or not yet initialized.
