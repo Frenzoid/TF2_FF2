@@ -67,3 +67,117 @@ L 03/30/2021 - 01:11:33: [mapchooser_extended.smx] Loaded map list for tf.
 L 03/30/2021 - 01:15:39: [playercommands.smx] "Nezzie<28><[U:1:107910185]><>" renamed "puzzle<29><[U:1:136056777]><>" (to "puddle")
 L 03/30/2021 - 01:31:48: [mapchooser_extended.smx] Voting for next map has started.
 L 03/30/2021 - 01:32:19: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_intrusion_rc2.
+L 03/30/2021 - 17:08:55: [basecommands.smx] "Nezzie<40><[U:1:107910185]><>" changed map to "vsh_cairo_pyramid_v4"
+L 03/30/2021 - 17:08:58: [SM] Changed map to "vsh_cairo_pyramid_v4"
+L 03/30/2021 - 17:09:03: -------- Mapchange to vsh_cairo_pyramid_v4 --------
+L 03/30/2021 - 17:09:11: [mapchooser_extended.smx] Loaded map list for tf.
+L 03/30/2021 - 17:13:06: [basecommands.smx] "Nezzie<40><[U:1:107910185]><>" changed map to "vsh_apg_reworked_b2"
+L 03/30/2021 - 17:13:09: [SM] Changed map to "vsh_apg_reworked_b2"
+L 03/30/2021 - 17:13:14: -------- Mapchange to vsh_apg_reworked_b2 --------
+L 03/30/2021 - 17:13:20: [mapchooser_extended.smx] Loaded map list for tf.
+L 03/30/2021 - 17:15:19: [basecommands.smx] "Nezzie<40><[U:1:107910185]><>" changed map to "vsh_2roadsisnowhere_dusk_spells"
+L 03/30/2021 - 17:15:22: [SM] Changed map to "vsh_2roadsisnowhere_dusk_spells"
+L 03/30/2021 - 17:15:26: -------- Mapchange to vsh_2roadsisnowhere_dusk_spells --------
+L 03/30/2021 - 17:15:34: [mapchooser_extended.smx] Loaded map list for tf.
+L 03/30/2021 - 17:22:54: [basecommands.smx] "Nezzie<41><[U:1:107910185]><>" changed map to "vsh_frogworks_b4"
+L 03/30/2021 - 17:22:57: [SM] Changed map to "vsh_frogworks_b4"
+L 03/30/2021 - 17:23:01: -------- Mapchange to vsh_frogworks_b4 --------
+L 03/30/2021 - 17:23:09: [mapchooser_extended.smx] Loaded map list for tf.
+L 03/30/2021 - 17:29:45: [funcommands.smx] "Nezzie<41><[U:1:107910185]><>" toggled noclip on "Nezzie<41><[U:1:107910185]><>"
+L 03/30/2021 - 17:29:46: [funcommands.smx] "Nezzie<41><[U:1:107910185]><>" toggled noclip on "Nezzie<41><[U:1:107910185]><>"
+L 03/30/2021 - 17:32:25: [basecommands.smx] "Nezzie<41><[U:1:107910185]><>" changed map to "vsh_egyptyspot_reworked_b2b"
+L 03/30/2021 - 17:32:28: [SM] Changed map to "vsh_egyptyspot_reworked_b2b"
+L 03/30/2021 - 17:32:30: -------- Mapchange to vsh_egyptyspot_reworked_b2b --------
+L 03/30/2021 - 17:32:36: [mapchooser_extended.smx] Loaded map list for tf.
+L 03/30/2021 - 17:38:19: [playercommands.smx] "Nezzie<41><[U:1:107910185]><>" slayed "test1<47><BOT><>"
+L 03/30/2021 - 17:40:07: [basecommands.smx] "Nezzie<41><[U:1:107910185]><>" changed map to "vsh_lobster_shore_rc1"
+L 03/30/2021 - 17:40:10: [SM] Changed map to "vsh_lobster_shore_rc1"
+L 03/30/2021 - 17:40:13: -------- Mapchange to vsh_lobster_shore_rc1 --------
+L 03/30/2021 - 17:40:20: [mapchooser_extended.smx] Loaded map list for tf.
+L 03/30/2021 - 17:48:45: [basecommands.smx] "Nezzie<41><[U:1:107910185]><>" changed map to "vsh_rocketyard_b4b"
+L 03/30/2021 - 17:48:48: [SM] Changed map to "vsh_rocketyard_b4b"
+L 03/30/2021 - 17:48:51: -------- Mapchange to vsh_rocketyard_b4b --------
+L 03/30/2021 - 17:48:58: [mapchooser_extended.smx] Loaded map list for tf.
+L 03/30/2021 - 17:52:22: [playercommands.smx] "Nezzie<41><[U:1:107910185]><>" slayed "test1<52><BOT><>"
+L 03/30/2021 - 17:52:52: [playercommands.smx] "Nezzie<41><[U:1:107910185]><>" slayed "puzzle<50><[U:1:136056777]><>"
+L 03/30/2021 - 17:52:53: [playercommands.smx] "Nezzie<41><[U:1:107910185]><>" slayed "Nezzie<41><[U:1:107910185]><>"
+L 03/30/2021 - 17:52:53: [playercommands.smx] "Nezzie<41><[U:1:107910185]><>" slayed "test<51><BOT><>"
+L 03/30/2021 - 17:52:53: [playercommands.smx] "Nezzie<41><[U:1:107910185]><>" slayed "test1<52><BOT><>"
+L 03/30/2021 - 17:55:04: [respawn.smx] "Nezzie<41><[U:1:107910185]><>" respawned "puzzle<50><[U:1:136056777]><>"
+L 03/30/2021 - 17:55:51: [basecommands.smx] "Nezzie<41><[U:1:107910185]><>" kicked "test<51><BOT><>" (reason "")
+L 03/30/2021 - 17:55:51: [basecommands.smx] "Nezzie<41><[U:1:107910185]><>" kicked "test1<52><BOT><>" (reason "")
+L 03/30/2021 - 17:56:52: [respawn.smx] "Nezzie<41><[U:1:107910185]><>" respawned "test<53><BOT><>"
+L 03/30/2021 - 17:57:17: [basecommands.smx] "Nezzie<41><[U:1:107910185]><>" kicked "test<53><BOT><>" (reason "")
+L 03/30/2021 - 17:57:17: [basecommands.smx] "Nezzie<41><[U:1:107910185]><>" kicked "test1<54><BOT><>" (reason "")
+L 03/30/2021 - 18:03:51: [basecommands.smx] "Nezzie<41><[U:1:107910185]><>" changed map to "vsh_seine_v3"
+L 03/30/2021 - 18:03:54: [SM] Changed map to "vsh_seine_v3"
+L 03/30/2021 - 18:03:57: -------- Mapchange to vsh_seine_v3 --------
+L 03/30/2021 - 18:04:04: [mapchooser_extended.smx] Loaded map list for tf.
+L 03/30/2021 - 18:24:20: [mapchooser_extended.smx] Voting for next map has started.
+L 03/30/2021 - 19:00:47: [basecommands.smx] "Nezzie<55><[U:1:107910185]><>" changed map to "vsh_apg_reworked_b2"
+L 03/30/2021 - 19:00:50: [SM] Changed map to "vsh_apg_reworked_b2"
+L 03/30/2021 - 19:00:52: -------- Mapchange to vsh_apg_reworked_b2 --------
+L 03/30/2021 - 19:00:59: [mapchooser_extended.smx] Loaded map list for tf.
+L 03/30/2021 - 19:01:37: [basecommands.smx] "Nezzie<55><[U:1:107910185]><>" changed map to "vsh_aperture_b4"
+L 03/30/2021 - 19:01:40: [SM] Changed map to "vsh_aperture_b4"
+L 03/30/2021 - 19:01:42: -------- Mapchange to vsh_aperture_b4 --------
+L 03/30/2021 - 19:01:50: [mapchooser_extended.smx] Loaded map list for tf.
+L 03/30/2021 - 19:05:01: [basecommands.smx] "Nezzie<55><[U:1:107910185]><>" changed map to "vsh_roadfromnowhere_v2"
+L 03/30/2021 - 19:05:05: [SM] Changed map to "vsh_roadfromnowhere_v2"
+L 03/30/2021 - 19:05:07: -------- Mapchange to vsh_roadfromnowhere_v2 --------
+L 03/30/2021 - 19:05:14: [mapchooser_extended.smx] Loaded map list for tf.
+L 03/30/2021 - 19:08:02: [respawn.smx] "Nezzie<55><[U:1:107910185]><>" respawned "Nezzie<55><[U:1:107910185]><>"
+L 03/30/2021 - 19:08:02: [respawn.smx] "Nezzie<55><[U:1:107910185]><>" respawned "Nezzie<55><[U:1:107910185]><>"
+L 03/30/2021 - 19:08:02: [respawn.smx] "Nezzie<55><[U:1:107910185]><>" respawned "Nezzie<55><[U:1:107910185]><>"
+L 03/30/2021 - 19:08:21: [basecommands.smx] "Nezzie<55><[U:1:107910185]><>" changed map to "vsh_spotline_reworked"
+L 03/30/2021 - 19:08:24: [SM] Changed map to "vsh_spotline_reworked"
+L 03/30/2021 - 19:08:26: -------- Mapchange to vsh_spotline_reworked --------
+L 03/30/2021 - 19:08:33: [mapchooser_extended.smx] Loaded map list for tf.
+L 03/30/2021 - 19:12:20: [basecommands.smx] "Nezzie<55><[U:1:107910185]><>" changed map to "vsh_west_fix"
+L 03/30/2021 - 19:12:23: [SM] Changed map to "vsh_west_fix"
+L 03/30/2021 - 19:12:25: -------- Mapchange to vsh_west_fix --------
+L 03/30/2021 - 19:12:32: [mapchooser_extended.smx] Loaded map list for tf.
+L 03/30/2021 - 19:23:01: [basechat.smx] "Console<0><Console><Console>" triggered sm_say (text The round time has ended, omaewa-mou shindeiru)
+L 03/30/2021 - 19:23:01: [playercommands.smx] "Console<0><Console><Console>" slayed "Nezzie<55><[U:1:107910185]><>"
+L 03/30/2021 - 19:23:01: [playercommands.smx] "Console<0><Console><Console>" slayed "test<56><BOT><>"
+L 03/30/2021 - 19:23:01: [playercommands.smx] "Console<0><Console><Console>" slayed "test1<57><BOT><>"
+L 03/30/2021 - 19:27:34: [respawn.smx] "Nezzie<55><[U:1:107910185]><>" respawned "Nezzie<55><[U:1:107910185]><>"
+L 03/30/2021 - 19:31:50: [respawn.smx] "Nezzie<55><[U:1:107910185]><>" respawned "Nezzie<55><[U:1:107910185]><>"
+L 03/30/2021 - 19:32:47: [mapchooser_extended.smx] Voting for next map has started.
+L 03/30/2021 - 19:32:49: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_egyptyspot_reworked_b2b.
+L 03/30/2021 - 23:01:56: [rockthevote_extended.smx] RTV changing map manually
+L 03/30/2021 - 23:01:56: [SM] Changed map to "vsh_egyptyspot_reworked_b2b"
+L 03/30/2021 - 23:01:59: -------- Mapchange to vsh_egyptyspot_reworked_b2b --------
+L 03/30/2021 - 23:02:07: [mapchooser_extended.smx] Loaded map list for tf.
+L 03/30/2021 - 23:03:48: [nominations_extended.smx] puzzle nominated vsh_aperture_b4
+L 03/30/2021 - 23:04:47: [mapchooser_extended.smx] Starting map vote because outside request
+L 03/30/2021 - 23:05:03: [mapchooser_extended.smx] Voting for next map has started.
+L 03/30/2021 - 23:05:15: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_aperture_b4.
+L 03/30/2021 - 23:05:19: [SM] Changed map to "vsh_aperture_b4"
+L 03/30/2021 - 23:05:21: -------- Mapchange to vsh_aperture_b4 --------
+L 03/30/2021 - 23:05:29: [mapchooser_extended.smx] Loaded map list for tf.
+L 03/30/2021 - 23:19:04: [nominations_extended.smx] puzzle nominated vsh_frogworks_b4
+L 03/30/2021 - 23:22:19: [mapchooser_extended.smx] Starting map vote because outside request
+L 03/30/2021 - 23:22:35: [mapchooser_extended.smx] Voting for next map has started.
+L 03/30/2021 - 23:22:47: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_frogworks_b4.
+L 03/30/2021 - 23:22:51: [SM] Changed map to "vsh_frogworks_b4"
+L 03/30/2021 - 23:22:55: -------- Mapchange to vsh_frogworks_b4 --------
+L 03/30/2021 - 23:23:03: [mapchooser_extended.smx] Loaded map list for tf.
+L 03/30/2021 - 23:31:31: [nominations_extended.smx] puzzle nominated vsh_lobster_shore_rc1
+L 03/30/2021 - 23:31:33: [mapchooser_extended.smx] Starting map vote because outside request
+L 03/30/2021 - 23:31:49: [mapchooser_extended.smx] Voting for next map has started.
+L 03/30/2021 - 23:32:04: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_lobster_shore_rc1.
+L 03/30/2021 - 23:32:08: [SM] Changed map to "vsh_lobster_shore_rc1"
+L 03/30/2021 - 23:32:11: -------- Mapchange to vsh_lobster_shore_rc1 --------
+L 03/30/2021 - 23:32:18: [mapchooser_extended.smx] Loaded map list for tf.
+L 03/30/2021 - 23:41:54: [basechat.smx] "Console<0><Console><Console>" triggered sm_say (text The round time has ended, omaewa-mou shindeiru)
+L 03/30/2021 - 23:41:54: [playercommands.smx] "Console<0><Console><Console>" slayed "puzzle<58><[U:1:136056777]><>"
+L 03/30/2021 - 23:41:54: [playercommands.smx] "Console<0><Console><Console>" slayed "LOS LOS LOS<64><BOT><>"
+L 03/30/2021 - 23:43:42: [nominations_extended.smx] puzzle nominated vsh_roadfromnowhere_v2
+L 03/30/2021 - 23:43:43: [mapchooser_extended.smx] Starting map vote because outside request
+L 03/30/2021 - 23:43:59: [mapchooser_extended.smx] Voting for next map has started.
+L 03/30/2021 - 23:49:20: [rockthevote_extended.smx] RTV changing map manually
+L 03/30/2021 - 23:49:20: [SM] Changed map to "vsh_aquaticbase_b5"
+L 03/30/2021 - 23:49:23: -------- Mapchange to vsh_aquaticbase_b5 --------
+L 03/30/2021 - 23:49:31: [mapchooser_extended.smx] Loaded map list for tf.
+L 03/31/2021 - 00:00:13: Log file closed.

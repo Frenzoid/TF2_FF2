@@ -1,0 +1,4 @@
+L 03/31/2021 - 00:00:13: SourceMod log file session started (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/L20210331.log") (Version "1.10.0.6490")
+L 03/31/2021 - 00:00:13: [basechat.smx] "Console<0><Console><Console>" triggered sm_say (text The round time has ended, omaewa-mou shindeiru)
+L 03/31/2021 - 00:00:13: [playercommands.smx] "Console<0><Console><Console>" slayed "puzzle<58><[U:1:136056777]><>"
+L 03/31/2021 - 00:00:13: [playercommands.smx] "Console<0><Console><Console>" slayed "DeadHead<66><BOT><>"
