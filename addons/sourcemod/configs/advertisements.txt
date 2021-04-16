@@ -34,6 +34,6 @@
     }
     "4"
     {
-	"chat"		"{lightcyan}Join our discord server! {dodgerblue}discord.gg/5CRKzkXvNs"
+	"chat"		"{lightcyan}Join our discord server! {dodgerblue}discord.gg/hq4YYWRacv"
     }
 }
