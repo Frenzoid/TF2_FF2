@@ -1,0 +1,10 @@
+L 04/17/2021 - 09:08:50: SourceMod log file session started (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/L20210417.log") (Version "1.10.0.6490")
+L 04/17/2021 - 09:08:50: [SM] Changed map to "vsh_castle_siege_unreal_sg1"
+L 04/17/2021 - 09:08:54: -------- Mapchange to vsh_castle_siege_unreal_sg1 --------
+L 04/17/2021 - 09:09:02: [mapchooser_extended.smx] Loaded map list for tf.
+L 04/17/2021 - 09:29:18: [mapchooser_extended.smx] Voting for next map has started.
+L 04/17/2021 - 09:29:27: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_tranquil_b5.
+L 04/17/2021 - 09:40:18: [SM] Changed map to "vsh_tranquil_b5"
+L 04/17/2021 - 09:40:22: -------- Mapchange to vsh_tranquil_b5 --------
+L 04/17/2021 - 09:40:29: [mapchooser_extended.smx] Loaded map list for tf.
+L 04/17/2021 - 10:00:45: [mapchooser_extended.smx] Voting for next map has started.

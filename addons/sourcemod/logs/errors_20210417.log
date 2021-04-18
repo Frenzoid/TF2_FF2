@@ -1,0 +1,3 @@
+L 04/17/2021 - 09:46:15: SourceMod error session started
+L 04/17/2021 - 09:46:15: Info (map "vsh_tranquil_b5") (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/errors_20210417.log")
+L 04/17/2021 - 09:46:15: [freaks/shadow93_bosses.ff2] ERROR: Unable to initialize ff2_sarysapub3:AMS_InitSubability(). Make sure this plugin exists!
