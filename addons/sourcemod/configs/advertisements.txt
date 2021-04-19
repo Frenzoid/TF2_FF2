@@ -36,4 +36,9 @@
     {
 	"chat"		"{lightcyan}Join our discord server! {dodgerblue}discord.gg/hq4YYWRacv"
     }
+    "5"
+    {
+	"chat"		"{lightcyan}Check out or other servers at! {dodgerblue}oldbox.cloud"
+    }
+
 }
