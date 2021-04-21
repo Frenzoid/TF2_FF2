@@ -7340,3 +7340,5 @@ L 04/17/2021 - 09:36:11: [freak_fortress_2.smx] [Boss] Character sib_wizard is m
 L 04/17/2021 - 09:36:41: [freak_fortress_2.smx] [Boss] Character ridley is missing file 'sound/freak_fortress_2\ridley\phase3.mp3' in section 'mod_precache'!
 L 04/17/2021 - 09:40:29: [freak_fortress_2.smx] [Boss] Character skeleton_king is missing file 'models/freak_fortress_2/skeleton_king/skeleton_king.phy'!
 L 04/17/2021 - 09:44:02: [freak_fortress_2.smx] [Boss] Character sib_wizard is missing file 'sound/freak_fortress_2\sib_wizard\firstlife.mp3' in section 'sound_precache'!
+L 04/20/2021 - 03:38:34: [freak_fortress_2.smx] [Boss] Character skeleton_king is missing file 'sound/freak_fortress_2/skeleton_king/sk_respawn_09.mp3' in section 'mod_precache'!
+L 04/20/2021 - 03:39:57: [freak_fortress_2.smx] [Boss] Character skeleton_king is missing file 'models/freak_fortress_2/skeleton_king/skeleton_king.phy'!
