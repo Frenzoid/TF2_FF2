@@ -1,0 +1,16 @@
+L 04/25/2021 - 22:37:47: SourceMod error session started
+L 04/25/2021 - 22:37:47: Info (map "vsh_aquaticbase_b5") (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/errors_20210425.log")
+L 04/25/2021 - 22:37:47: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 04/25/2021 - 22:37:47: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 04/25/2021 - 23:07:57: Error log file session closed.
+L 04/25/2021 - 23:32:25: SourceMod error session started
+L 04/25/2021 - 23:32:25: Info (map "vsh_frogworks_b4") (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/errors_20210425.log")
+L 04/25/2021 - 23:32:25: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 04/25/2021 - 23:32:25: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 04/25/2021 - 23:32:25: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 04/25/2021 - 23:32:25: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 04/25/2021 - 23:38:28: Error log file session closed.
+L 04/25/2021 - 23:47:52: SourceMod error session started
+L 04/25/2021 - 23:47:52: Info (map "vsh_west_fix") (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/errors_20210425.log")
+L 04/25/2021 - 23:47:52: [freaks/shadow93_bosses.ff2] ERROR: Unable to initialize ff2_sarysapub3:AMS_InitSubability(). Make sure this plugin exists!
+L 04/26/2021 - 00:00:02: Error log file session closed.

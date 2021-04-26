@@ -1,0 +1,17 @@
+L 04/25/2021 - 22:35:45: SourceMod log file session started (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/L20210425.log") (Version "1.10.0.6490")
+L 04/25/2021 - 22:35:45: [SM] Changed map to "vsh_aquaticbase_b5"
+L 04/25/2021 - 22:35:49: -------- Mapchange to vsh_aquaticbase_b5 --------
+L 04/25/2021 - 22:36:00: [mapchooser_extended.smx] Loaded map list for tf.
+L 04/25/2021 - 22:56:19: [mapchooser_extended.smx] Voting for next map has started.
+L 04/25/2021 - 22:56:34: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_frogworks_b4.
+L 04/25/2021 - 23:07:51: [SM] Changed map to "vsh_frogworks_b4"
+L 04/25/2021 - 23:07:57: -------- Mapchange to vsh_frogworks_b4 --------
+L 04/25/2021 - 23:08:07: [mapchooser_extended.smx] Loaded map list for tf.
+L 04/25/2021 - 23:28:24: [mapchooser_extended.smx] Voting for next map has started.
+L 04/25/2021 - 23:28:42: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_west_fix.
+L 04/25/2021 - 23:38:24: [SM] Changed map to "vsh_west_fix"
+L 04/25/2021 - 23:38:28: -------- Mapchange to vsh_west_fix --------
+L 04/25/2021 - 23:38:35: [mapchooser_extended.smx] Loaded map list for tf.
+L 04/25/2021 - 23:58:55: [mapchooser_extended.smx] Voting for next map has started.
+L 04/25/2021 - 23:59:31: [mapchooser_extended.smx] Voting for next map has started.
+L 04/26/2021 - 00:00:02: Log file closed.
