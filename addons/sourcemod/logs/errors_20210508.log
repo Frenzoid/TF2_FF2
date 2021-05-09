@@ -1,0 +1,52 @@
+L 05/08/2021 - 21:42:38: SourceMod error session started
+L 05/08/2021 - 21:42:38: Info (map "vsh_spotline_reworked") (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/errors_20210508.log")
+L 05/08/2021 - 21:42:38: [SM] Exception reported: Could not initialize call to CTFPlayer::AddCustomAttribute
+L 05/08/2021 - 21:42:38: [SM] Blaming: tf2attributes.smx
+L 05/08/2021 - 21:42:38: [SM] Call stack trace:
+L 05/08/2021 - 21:42:38: [SM]   [0] SetFailState
+L 05/08/2021 - 21:42:38: [SM]   [1] Line 229, D:\Programs\_Game Tools_\__Source Tools__\SteamCmd\!servers\tf2-dev\tf\addons\sourcemod\scripting\tf2attributes.sp::OnPluginStart
+L 05/08/2021 - 21:42:38: [SM] Unable to load plugin "tf2attributes.smx": Error detected in plugin startup (see error logs)
+L 05/08/2021 - 21:42:39: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 05/08/2021 - 21:42:39: [store.smx] Database connection is lost or not yet initialized.
+L 05/08/2021 - 21:42:39: [store.smx] Database connection is lost or not yet initialized.
+L 05/08/2021 - 21:42:39: [store.smx] Database connection is lost or not yet initialized.
+L 05/08/2021 - 21:42:39: [store.smx] Database connection is lost or not yet initialized.
+L 05/08/2021 - 21:42:39: [store.smx] Database connection is lost or not yet initialized.
+L 05/08/2021 - 21:42:39: [SM] Unable to load plugin "setclassmaxhealth.smx": Could not find required plugin "tf2attributes"
+L 05/08/2021 - 21:56:58: Error log file session closed.
+L 05/08/2021 - 21:56:58: SourceMod error session started
+L 05/08/2021 - 21:56:58: Info (map "vsh_west_fix") (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/errors_20210508.log")
+L 05/08/2021 - 21:56:58: [SM] Unable to load plugin "setclasshealthregen.smx": Could not find required plugin "tf2attributes"
+L 05/08/2021 - 21:56:58: [SM] Unable to load plugin "setclassmaxspeed.smx": Could not find required plugin "tf2attributes"
+L 05/08/2021 - 22:20:10: SourceMod error session started
+L 05/08/2021 - 22:20:10: Info (map "arena_lumberyard") (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/errors_20210508.log")
+L 05/08/2021 - 22:20:10: [SM] Exception reported: Could not initialize call to CTFPlayer::AddCustomAttribute
+L 05/08/2021 - 22:20:10: [SM] Blaming: tf2attributes.smx
+L 05/08/2021 - 22:20:10: [SM] Call stack trace:
+L 05/08/2021 - 22:20:10: [SM]   [0] SetFailState
+L 05/08/2021 - 22:20:10: [SM]   [1] Line 229, D:\Programs\_Game Tools_\__Source Tools__\SteamCmd\!servers\tf2-dev\tf\addons\sourcemod\scripting\tf2attributes.sp::OnPluginStart
+L 05/08/2021 - 22:20:10: [SM] Unable to load plugin "tf2attributes.smx": Error detected in plugin startup (see error logs)
+L 05/08/2021 - 22:20:11: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 05/08/2021 - 22:20:11: [SM] Unable to load plugin "setclassmaxhealth.smx": Could not find required plugin "tf2attributes"
+L 05/08/2021 - 22:20:33: [UPDATER] --- BEGIN ERRORS FROM AUTOMATIC UPDATER ---
+L 05/08/2021 - 22:20:33: [UPDATER] Could not download "http://update.sourcemod.net/update/"
+L 05/08/2021 - 22:20:33: [UPDATER] Error: Couldn't resolve host 'update.sourcemod.net'
+L 05/08/2021 - 22:20:33: [UPDATER] --- END ERRORS FROM AUTOMATIC UPDATER ---
+L 05/08/2021 - 22:43:59: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 05/08/2021 - 22:43:59: [freaks/ff2_1st_set_abilities.ff2] [FF2] Cannot give ammo to weapon tf_weapon_knife (boss )-check your config!
+L 05/08/2021 - 22:50:59: Error log file session closed.
+L 05/08/2021 - 22:50:59: SourceMod error session started
+L 05/08/2021 - 22:50:59: Info (map "vsh_nebula_rc1") (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/errors_20210508.log")
+L 05/08/2021 - 22:50:59: [SM] Unable to load plugin "setclasshealthregen.smx": Could not find required plugin "tf2attributes"
+L 05/08/2021 - 22:50:59: [SM] Unable to load plugin "setclassmaxspeed.smx": Could not find required plugin "tf2attributes"
+L 05/08/2021 - 23:37:38: SourceMod error session started
+L 05/08/2021 - 23:37:38: Info (map "arena_lumberyard") (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/errors_20210508.log")
+L 05/08/2021 - 23:37:38: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 05/08/2021 - 23:37:39: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 05/08/2021 - 23:38:38: [sbpp_comms.smx] Connecting to database failed: [2003]: Can't connect to MySQL server on 'oldbox.cloud' (4)
+L 05/08/2021 - 23:38:39: [SM] Exception reported: Database connection failed to initialize after 4 retrie(s)
+L 05/08/2021 - 23:38:39: [SM] Blaming: store.smx
+L 05/08/2021 - 23:38:39: [SM] Call stack trace:
+L 05/08/2021 - 23:38:39: [SM]   [0] SetFailState
+L 05/08/2021 - 23:38:39: [SM]   [1] Line 2095, store.sp::Timer_DatabaseTimeout
+L 05/08/2021 - 23:38:56: [sbpp_sleuth.smx] SourceSleuth: Database connection error: [2013]: Lost connection to MySQL server at 'reading authorization packet', system error: 0
