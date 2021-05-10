@@ -1,0 +1,17 @@
+L 05/09/2021 - 00:04:09: SourceMod error session started
+L 05/09/2021 - 00:04:09: Info (map "arena_lumberyard") (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/errors_20210509.log")
+L 05/09/2021 - 00:04:09: [SM] Exception reported: Invalid database Handle 0 (error: 4)
+L 05/09/2021 - 00:04:09: [SM] Blaming: sbpp_sleuth.smx
+L 05/09/2021 - 00:04:09: [SM] Call stack trace:
+L 05/09/2021 - 00:04:09: [SM]   [0] SQL_TQuery
+L 05/09/2021 - 00:04:09: [SM]   [1] Line 170, D:\MegaSync\Projects\Sourcemod\scripting\sbpp_sleuth.sp::OnClientPostAdminCheck
+L 05/09/2021 - 00:05:09: [sbpp_comms.smx] Connecting to database failed: [2003]: Can't connect to MySQL server on 'oldbox.cloud' (4)
+L 05/09/2021 - 00:07:58: Error log file session closed.
+L 05/09/2021 - 00:07:58: SourceMod error session started
+L 05/09/2021 - 00:07:58: Info (map "vsh_crevice_b5") (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/errors_20210509.log")
+L 05/09/2021 - 00:07:58: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 05/09/2021 - 00:08:16: [SM] Exception reported: Invalid database Handle 0 (error: 4)
+L 05/09/2021 - 00:08:16: [SM] Blaming: sbpp_sleuth.smx
+L 05/09/2021 - 00:08:16: [SM] Call stack trace:
+L 05/09/2021 - 00:08:16: [SM]   [0] SQL_TQuery
+L 05/09/2021 - 00:08:16: [SM]   [1] Line 170, D:\MegaSync\Projects\Sourcemod\scripting\sbpp_sleuth.sp::OnClientPostAdminCheck

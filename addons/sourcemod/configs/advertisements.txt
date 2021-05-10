@@ -38,7 +38,7 @@
     }
     "5"
     {
-	"chat"		"{lightcyan}Check out or other servers at! {dodgerblue}oldbox.cloud"
+	"chat"		"{lightcyan}Check out or other servers at: {dodgerblue}oldbox.cloud"
     }
 
 }
