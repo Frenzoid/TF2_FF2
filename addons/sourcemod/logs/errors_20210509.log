@@ -15,3 +15,4 @@ L 05/09/2021 - 00:08:16: [SM] Blaming: sbpp_sleuth.smx
 L 05/09/2021 - 00:08:16: [SM] Call stack trace:
 L 05/09/2021 - 00:08:16: [SM]   [0] SQL_TQuery
 L 05/09/2021 - 00:08:16: [SM]   [1] Line 170, D:\MegaSync\Projects\Sourcemod\scripting\sbpp_sleuth.sp::OnClientPostAdminCheck
+L 05/10/2021 - 07:41:38: Error log file session closed.

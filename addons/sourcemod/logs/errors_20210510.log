@@ -1,0 +1,22 @@
+L 05/10/2021 - 07:41:38: SourceMod error session started
+L 05/10/2021 - 07:41:38: Info (map "vsh_crevice_b5") (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/errors_20210510.log")
+L 05/10/2021 - 07:41:38: [SM] Exception reported: Invalid database Handle 0 (error: 4)
+L 05/10/2021 - 07:41:38: [SM] Blaming: sbpp_sleuth.smx
+L 05/10/2021 - 07:41:38: [SM] Call stack trace:
+L 05/10/2021 - 07:41:38: [SM]   [0] SQL_TQuery
+L 05/10/2021 - 07:41:38: [SM]   [1] Line 170, D:\MegaSync\Projects\Sourcemod\scripting\sbpp_sleuth.sp::OnClientPostAdminCheck
+L 05/10/2021 - 07:44:24: Error log file session closed.
+L 05/10/2021 - 07:45:11: SourceMod error session started
+L 05/10/2021 - 07:45:11: Info (map "vsh_seine_v3") (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/errors_20210510.log")
+L 05/10/2021 - 07:45:11: [SM] Exception reported: Invalid database Handle 0 (error: 4)
+L 05/10/2021 - 07:45:11: [SM] Blaming: sbpp_sleuth.smx
+L 05/10/2021 - 07:45:11: [SM] Call stack trace:
+L 05/10/2021 - 07:45:11: [SM]   [0] SQL_TQuery
+L 05/10/2021 - 07:45:11: [SM]   [1] Line 170, D:\MegaSync\Projects\Sourcemod\scripting\sbpp_sleuth.sp::OnClientPostAdminCheck
+L 05/10/2021 - 08:10:15: [SM] Plugin "roundtimer.smx" encountered error 23: Native detected error
+L 05/10/2021 - 08:10:15: [SM] Invalid timer handle 5bd90751 (error 3) during timer end, displayed function is timer callback, not the stack trace
+L 05/10/2021 - 08:10:15: [SM] Unable to call function "Timer_Round" due to above error(s).
+L 05/10/2021 - 08:18:34: [SM] Plugin "roundtimer.smx" encountered error 23: Native detected error
+L 05/10/2021 - 08:18:34: [SM] Invalid timer handle ec960739 (error 3) during timer end, displayed function is timer callback, not the stack trace
+L 05/10/2021 - 08:18:34: [SM] Unable to call function "Timer_Round" due to above error(s).
+L 05/10/2021 - 08:18:54: Error log file session closed.
