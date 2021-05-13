@@ -33,3 +33,6 @@ L 01/14/2021 - 02:09:27: [sbpp_main.smx] Verify Ban Query Failed: Unknown MySQL 
 L 01/14/2021 - 02:10:07: [sbpp_main.smx] Verify Ban Query Failed: Unknown MySQL server host 'oldbox.cloud' (11)
 L 01/14/2021 - 02:10:42: [sbpp_main.smx] Verify Ban Query Failed: Unknown MySQL server host 'oldbox.cloud' (11)
 L 01/18/2021 - 09:00:27: [sbpp_main.smx] Verify Ban Query Failed: Unknown MySQL server host 'oldbox.cloud' (11)
+L 05/12/2021 - 00:16:11: [sbpp_main.smx] Verify Ban Query Failed: Can't connect to MySQL server on 'oldbox.cloud' (111)
+L 05/12/2021 - 00:16:56: [sbpp_main.smx] Verify Ban Query Failed: Can't connect to MySQL server on 'oldbox.cloud' (111)
+L 05/12/2021 - 00:17:42: [sbpp_main.smx] Verify Ban Query Failed: Can't connect to MySQL server on 'oldbox.cloud' (111)
