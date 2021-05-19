@@ -1,0 +1,17 @@
+L 05/18/2021 - 16:29:57: SourceMod error session started
+L 05/18/2021 - 16:29:57: Info (map "vsh_cactustemple_v1") (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/errors_20210518.log")
+L 05/18/2021 - 16:29:57: [SM] Exception reported: Invalid database Handle 0 (error: 4)
+L 05/18/2021 - 16:29:57: [SM] Blaming: sbpp_sleuth.smx
+L 05/18/2021 - 16:29:57: [SM] Call stack trace:
+L 05/18/2021 - 16:29:57: [SM]   [0] SQL_TQuery
+L 05/18/2021 - 16:29:57: [SM]   [1] Line 170, D:\MegaSync\Projects\Sourcemod\scripting\sbpp_sleuth.sp::OnClientPostAdminCheck
+L 05/18/2021 - 16:29:57: [sbpp_comms.smx] Connecting to database failed: [2003]: Can't connect to MySQL server on 'oldbox.cloud' (111)
+L 05/18/2021 - 16:32:15: Error log file session closed.
+L 05/18/2021 - 16:32:36: SourceMod error session started
+L 05/18/2021 - 16:32:36: Info (map "vsh_roadfromnowhere_v2") (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/errors_20210518.log")
+L 05/18/2021 - 16:32:36: [SM] Exception reported: Invalid database Handle 0 (error: 4)
+L 05/18/2021 - 16:32:36: [SM] Blaming: sbpp_sleuth.smx
+L 05/18/2021 - 16:32:36: [SM] Call stack trace:
+L 05/18/2021 - 16:32:36: [SM]   [0] SQL_TQuery
+L 05/18/2021 - 16:32:36: [SM]   [1] Line 170, D:\MegaSync\Projects\Sourcemod\scripting\sbpp_sleuth.sp::OnClientPostAdminCheck
+L 05/18/2021 - 16:32:36: [sbpp_comms.smx] Connecting to database failed: [2003]: Can't connect to MySQL server on 'oldbox.cloud' (111)
