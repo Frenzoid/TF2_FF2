@@ -1,0 +1,18 @@
+L 05/28/2021 - 19:06:41: SourceMod log file session started (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/L20210528.log") (Version "1.10.0.6490")
+L 05/28/2021 - 19:06:41: [SM] Changed map to "vsh_egyptyspot_reworked_b2b"
+L 05/28/2021 - 19:06:45: -------- Mapchange to vsh_egyptyspot_reworked_b2b --------
+L 05/28/2021 - 19:06:53: [mapchooser_extended.smx] Loaded map list for tf.
+L 05/28/2021 - 19:27:11: [mapchooser_extended.smx] Voting for next map has started.
+L 05/28/2021 - 19:27:25: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_nebula_rc1.
+L 05/28/2021 - 19:37:43: [SM] Changed map to "vsh_nebula_rc1"
+L 05/28/2021 - 19:37:47: -------- Mapchange to vsh_nebula_rc1 --------
+L 05/28/2021 - 19:37:54: [mapchooser_extended.smx] Loaded map list for tf.
+L 05/28/2021 - 19:58:09: [mapchooser_extended.smx] Voting for next map has started.
+L 05/28/2021 - 20:09:11: [SM] Changed map to "vsh_shipment_v1a"
+L 05/28/2021 - 20:09:14: -------- Mapchange to vsh_shipment_v1a --------
+L 05/28/2021 - 20:09:20: [mapchooser_extended.smx] Loaded map list for tf.
+L 05/28/2021 - 20:29:35: [mapchooser_extended.smx] Voting for next map has started.
+L 05/28/2021 - 21:01:52: [SM] Changed map to "vsh_tranquil_b5"
+L 05/28/2021 - 21:01:53: -------- Mapchange to vsh_tranquil_b5 --------
+L 05/28/2021 - 21:02:00: [mapchooser_extended.smx] Loaded map list for tf.
+L 05/28/2021 - 21:22:14: [mapchooser_extended.smx] Voting for next map has started.
