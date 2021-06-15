@@ -1,0 +1,32 @@
+L 06/14/2021 - 05:43:53: SourceMod error session started
+L 06/14/2021 - 05:43:53: Info (map "vsh_tranquil_b5") (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/errors_20210614.log")
+L 06/14/2021 - 05:43:53: [SM] Exception reported: Invalid database Handle 0 (error: 4)
+L 06/14/2021 - 05:43:53: [SM] Blaming: sbpp_sleuth.smx
+L 06/14/2021 - 05:43:53: [SM] Call stack trace:
+L 06/14/2021 - 05:43:53: [SM]   [0] SQL_TQuery
+L 06/14/2021 - 05:43:53: [SM]   [1] Line 170, D:\MegaSync\Projects\Sourcemod\scripting\sbpp_sleuth.sp::OnClientPostAdminCheck
+L 06/14/2021 - 05:43:54: [sbpp_comms.smx] Connecting to database failed: [2003]: Can't connect to MySQL server on 'oldbox.cloud' (111)
+L 06/14/2021 - 05:45:32: Error log file session closed.
+L 06/14/2021 - 16:45:58: SourceMod error session started
+L 06/14/2021 - 16:45:58: Info (map "vsh_nebula_rc1") (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/errors_20210614.log")
+L 06/14/2021 - 16:45:58: [SM] Exception reported: Invalid database Handle 0 (error: 4)
+L 06/14/2021 - 16:45:58: [SM] Blaming: sbpp_sleuth.smx
+L 06/14/2021 - 16:45:58: [SM] Call stack trace:
+L 06/14/2021 - 16:45:58: [SM]   [0] SQL_TQuery
+L 06/14/2021 - 16:45:58: [SM]   [1] Line 170, D:\MegaSync\Projects\Sourcemod\scripting\sbpp_sleuth.sp::OnClientPostAdminCheck
+L 06/14/2021 - 16:45:58: [sbpp_comms.smx] Connecting to database failed: [2003]: Can't connect to MySQL server on 'oldbox.cloud' (111)
+L 06/14/2021 - 16:46:44: Error log file session closed.
+L 06/14/2021 - 16:48:18: SourceMod error session started
+L 06/14/2021 - 16:48:18: Info (map "vsh_chinatown_b3") (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/errors_20210614.log")
+L 06/14/2021 - 16:48:18: [SM] Exception reported: Invalid database Handle 0 (error: 4)
+L 06/14/2021 - 16:48:18: [SM] Blaming: sbpp_sleuth.smx
+L 06/14/2021 - 16:48:18: [SM] Call stack trace:
+L 06/14/2021 - 16:48:18: [SM]   [0] SQL_TQuery
+L 06/14/2021 - 16:48:18: [SM]   [1] Line 170, D:\MegaSync\Projects\Sourcemod\scripting\sbpp_sleuth.sp::OnClientPostAdminCheck
+L 06/14/2021 - 16:48:19: [sbpp_comms.smx] Connecting to database failed: [2003]: Can't connect to MySQL server on 'oldbox.cloud' (111)
+L 06/14/2021 - 18:54:21: [SM] Exception reported: Invalid database Handle 0 (error: 4)
+L 06/14/2021 - 18:54:21: [SM] Blaming: sbpp_sleuth.smx
+L 06/14/2021 - 18:54:21: [SM] Call stack trace:
+L 06/14/2021 - 18:54:21: [SM]   [0] SQL_TQuery
+L 06/14/2021 - 18:54:21: [SM]   [1] Line 170, D:\MegaSync\Projects\Sourcemod\scripting\sbpp_sleuth.sp::OnClientPostAdminCheck
+L 06/14/2021 - 18:54:22: [sbpp_comms.smx] Connecting to database failed: [2003]: Can't connect to MySQL server on 'oldbox.cloud' (111)

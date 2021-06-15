@@ -24,3 +24,4 @@ L 06/13/2021 - 16:58:56: [SM] Call stack trace:
 L 06/13/2021 - 16:58:56: [SM]   [0] SQL_TQuery
 L 06/13/2021 - 16:58:56: [SM]   [1] Line 170, D:\MegaSync\Projects\Sourcemod\scripting\sbpp_sleuth.sp::OnClientPostAdminCheck
 L 06/13/2021 - 16:58:56: [sbpp_comms.smx] Connecting to database failed: [2003]: Can't connect to MySQL server on 'oldbox.cloud' (111)
+L 06/14/2021 - 05:43:53: Error log file session closed.
