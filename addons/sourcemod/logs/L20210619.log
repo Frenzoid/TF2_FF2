@@ -1,0 +1,11 @@
+L 06/19/2021 - 21:38:11: SourceMod log file session started (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/L20210619.log") (Version "1.10.0.6490")
+L 06/19/2021 - 21:38:11: [SM] Changed map to "vsh_cairo_pyramid_v4"
+L 06/19/2021 - 21:38:15: -------- Mapchange to vsh_cairo_pyramid_v4 --------
+L 06/19/2021 - 21:38:25: [mapchooser_extended.smx] Loaded map list for tf.
+L 06/19/2021 - 21:58:42: [mapchooser_extended.smx] Voting for next map has started.
+L 06/19/2021 - 21:58:50: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_lobster_shore_rc1.
+L 06/19/2021 - 22:09:49: [SM] Changed map to "vsh_lobster_shore_rc1"
+L 06/19/2021 - 22:09:51: -------- Mapchange to vsh_lobster_shore_rc1 --------
+L 06/19/2021 - 22:09:59: [mapchooser_extended.smx] Loaded map list for tf.
+L 06/19/2021 - 22:30:17: [mapchooser_extended.smx] Voting for next map has started.
+L 06/19/2021 - 22:30:32: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_roadfromnowhere_v2.
