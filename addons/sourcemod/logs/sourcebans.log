@@ -1164,3 +1164,6 @@ L 06/19/2021 - 22:38:45: [sbpp_main.smx] Verify Ban Query Failed: Can't connect 
 L 06/19/2021 - 22:38:45: [sbpp_main.smx] Verify Ban Query Failed: Can't connect to MySQL server on 'oldbox.cloud' (111)
 L 06/21/2021 - 13:39:48: [sbpp_main.smx] Verify Ban Query Failed: Can't connect to MySQL server on 'oldbox.cloud' (111)
 L 06/21/2021 - 13:40:33: [sbpp_main.smx] Verify Ban Query Failed: Can't connect to MySQL server on 'oldbox.cloud' (111)
+L 06/24/2021 - 22:06:49: [sbpp_main.smx] Database failure: [2003]: Can't connect to MySQL server on 'oldbox.cloud' (111). See Docs: https://sbpp.github.io/docs/
+L 06/24/2021 - 23:26:52: [sbpp_main.smx] Database failure: [2003]: Can't connect to MySQL server on 'oldbox.cloud' (111). See Docs: https://sbpp.github.io/docs/
+L 06/24/2021 - 23:37:44: [sbpp_main.smx] Database failure: [2003]: Can't connect to MySQL server on 'oldbox.cloud' (111). See Docs: https://sbpp.github.io/docs/

@@ -1,0 +1,33 @@
+L 06/24/2021 - 22:06:09: SourceMod log file session started (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/L20210624.log") (Version "1.10.0.6490")
+L 06/24/2021 - 22:06:09: [TF2ITEMS] "GiveNamedItem" offset = 484
+L 06/24/2021 - 22:06:14: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 06/24/2021 - 22:06:14: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 06/24/2021 - 22:06:14: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 06/24/2021 - 22:06:15: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 06/24/2021 - 22:06:49: [UPDATER] Successfully updated gamedata file "sm-tf2.games.txt"
+L 06/24/2021 - 22:06:49: [UPDATER] Successfully updated gamedata file "sdktools.games/game.tf.txt"
+L 06/24/2021 - 22:06:49: [UPDATER] Successfully updated gamedata file "sdkhooks.games/engine.ep2v.txt"
+L 06/24/2021 - 22:06:49: [UPDATER] Successfully updated gamedata file "tf2.items.txt"
+L 06/24/2021 - 22:06:49: [UPDATER] SourceMod has been updated, please reload it or restart your server.
+L 06/24/2021 - 22:06:49: [mapchooser_extended.smx] Loaded map list for tf.
+L 06/24/2021 - 23:26:41: SourceMod log file session started (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/L20210624.log") (Version "1.10.0.6490")
+L 06/24/2021 - 23:26:41: [TF2ITEMS] "GiveNamedItem" offset = 485
+L 06/24/2021 - 23:26:42: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 06/24/2021 - 23:26:42: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 06/24/2021 - 23:26:42: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 06/24/2021 - 23:26:42: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 06/24/2021 - 23:26:52: [mapchooser_extended.smx] Loaded map list for tf.
+L 06/24/2021 - 23:37:35: SourceMod log file session started (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/L20210624.log") (Version "1.10.0.6490")
+L 06/24/2021 - 23:37:35: [TF2ITEMS] "GiveNamedItem" offset = 485
+L 06/24/2021 - 23:37:36: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 06/24/2021 - 23:37:36: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 06/24/2021 - 23:37:36: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 06/24/2021 - 23:37:36: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 06/24/2021 - 23:37:44: [mapchooser_extended.smx] Loaded map list for tf.
+L 06/24/2021 - 23:38:52: SourceMod log file session started (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/L20210624.log") (Version "1.10.0.6490")
+L 06/24/2021 - 23:38:52: [TF2ITEMS] "GiveNamedItem" offset = 485
+L 06/24/2021 - 23:38:52: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 06/24/2021 - 23:38:52: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 06/24/2021 - 23:38:52: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 06/24/2021 - 23:38:52: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 06/24/2021 - 23:39:00: [mapchooser_extended.smx] Loaded map list for tf.
