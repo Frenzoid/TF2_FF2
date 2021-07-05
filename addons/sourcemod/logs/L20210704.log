@@ -1,0 +1,43 @@
+L 07/04/2021 - 13:54:50: SourceMod log file session started (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/L20210704.log") (Version "1.10.0.6490")
+L 07/04/2021 - 13:54:50: [SM] Changed map to "vsh_nebula_rc1"
+L 07/04/2021 - 13:54:56: -------- Mapchange to vsh_nebula_rc1 --------
+L 07/04/2021 - 13:55:05: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/04/2021 - 14:15:23: [mapchooser_extended.smx] Voting for next map has started.
+L 07/04/2021 - 14:15:59: [mapchooser_extended.smx] Voting for next map has started.
+L 07/04/2021 - 14:16:30: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_cairo_pyramid_v4.
+L 07/04/2021 - 14:25:19: [SM] Changed map to "vsh_cairo_pyramid_v4"
+L 07/04/2021 - 14:25:21: -------- Mapchange to vsh_cairo_pyramid_v4 --------
+L 07/04/2021 - 14:25:27: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/04/2021 - 14:45:41: [mapchooser_extended.smx] Voting for next map has started.
+L 07/04/2021 - 17:31:19: [SM] Changed map to "vsh_chinatown_b3"
+L 07/04/2021 - 17:31:21: -------- Mapchange to vsh_chinatown_b3 --------
+L 07/04/2021 - 17:31:27: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/04/2021 - 17:51:43: [mapchooser_extended.smx] Voting for next map has started.
+L 07/04/2021 - 17:52:19: [mapchooser_extended.smx] Voting for next map has started.
+L 07/04/2021 - 17:52:50: [mapchooser_extended.smx] Voting for next map has finished. The current map has been extended.
+L 07/04/2021 - 17:56:22: [basechat.smx] "Console<0><Console><Console>" triggered sm_say (text The round time has ended, omaewa-mou shindeiru)
+L 07/04/2021 - 17:56:22: [playercommands.smx] "Console<0><Console><Console>" slayed "OOOODEMOMAN<45><[U:1:1213768871]><>"
+L 07/04/2021 - 17:56:22: [playercommands.smx] "Console<0><Console><Console>" slayed "skullhead<46><[U:1:1129873299]><>"
+L 07/04/2021 - 18:11:44: [mapchooser_extended.smx] Voting for next map has started.
+L 07/04/2021 - 18:12:15: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_minegay_reworked_v2.
+L 07/04/2021 - 18:26:15: [SM] Changed map to "vsh_minegay_reworked_v2"
+L 07/04/2021 - 18:26:17: -------- Mapchange to vsh_minegay_reworked_v2 --------
+L 07/04/2021 - 18:26:23: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/04/2021 - 18:46:39: [mapchooser_extended.smx] Voting for next map has started.
+L 07/04/2021 - 18:47:09: [mapchooser_extended.smx] Voting for next map has finished. The current map has been extended.
+L 07/04/2021 - 18:50:07: [basechat.smx] "Console<0><Console><Console>" triggered sm_say (text The round time has ended, omaewa-mou shindeiru)
+L 07/04/2021 - 18:50:07: [playercommands.smx] "Console<0><Console><Console>" slayed "OOOODEMOMAN<45><[U:1:1213768871]><>"
+L 07/04/2021 - 18:50:07: [playercommands.smx] "Console<0><Console><Console>" slayed "ZanMann<49><[U:1:1132099167]><>"
+L 07/04/2021 - 19:06:40: [mapchooser_extended.smx] Voting for next map has started.
+L 07/04/2021 - 19:07:17: [mapchooser_extended.smx] Voting for next map has started.
+L 07/04/2021 - 19:07:48: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_frogworks_b4.
+L 07/04/2021 - 19:17:10: [SM] Changed map to "vsh_frogworks_b4"
+L 07/04/2021 - 19:17:12: -------- Mapchange to vsh_frogworks_b4 --------
+L 07/04/2021 - 19:17:20: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/04/2021 - 19:37:35: [mapchooser_extended.smx] Voting for next map has started.
+L 07/04/2021 - 19:37:44: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_shipment_v1a.
+L 07/04/2021 - 19:52:00: [SM] Changed map to "vsh_shipment_v1a"
+L 07/04/2021 - 19:52:03: -------- Mapchange to vsh_shipment_v1a --------
+L 07/04/2021 - 19:52:10: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/04/2021 - 20:12:26: [mapchooser_extended.smx] Voting for next map has started.
+L 07/04/2021 - 20:12:38: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_jungle_beach_v3.
