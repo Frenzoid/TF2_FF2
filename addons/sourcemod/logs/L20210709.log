@@ -1,0 +1,10 @@
+L 07/09/2021 - 18:12:11: SourceMod log file session started (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/L20210709.log") (Version "1.10.0.6490")
+L 07/09/2021 - 18:12:11: [SM] Changed map to "vsh_jungle_beach_v3"
+L 07/09/2021 - 18:12:23: -------- Mapchange to vsh_jungle_beach_v3 --------
+L 07/09/2021 - 18:12:33: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/09/2021 - 18:32:49: [mapchooser_extended.smx] Voting for next map has started.
+L 07/09/2021 - 18:32:56: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_roadfromnowhere_v2.
+L 07/09/2021 - 18:47:23: [SM] Changed map to "vsh_roadfromnowhere_v2"
+L 07/09/2021 - 18:47:26: -------- Mapchange to vsh_roadfromnowhere_v2 --------
+L 07/09/2021 - 18:47:32: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/09/2021 - 19:07:47: [mapchooser_extended.smx] Voting for next map has started.
