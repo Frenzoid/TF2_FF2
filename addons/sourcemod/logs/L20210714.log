@@ -1,0 +1,22 @@
+L 07/14/2021 - 15:42:36: SourceMod log file session started (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/L20210714.log") (Version "1.10.0.6490")
+L 07/14/2021 - 15:42:36: [SM] Changed map to "vsh_area_54tress_b4"
+L 07/14/2021 - 15:42:41: -------- Mapchange to vsh_area_54tress_b4 --------
+L 07/14/2021 - 15:42:50: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/14/2021 - 16:03:05: [mapchooser_extended.smx] Voting for next map has started.
+L 07/14/2021 - 19:18:02: [SM] Changed map to "vsh_west_fix"
+L 07/14/2021 - 19:18:04: -------- Mapchange to vsh_west_fix --------
+L 07/14/2021 - 19:18:10: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/14/2021 - 19:38:25: [mapchooser_extended.smx] Voting for next map has started.
+L 07/14/2021 - 20:29:43: [SM] Changed map to "vsh_frogworks_b4"
+L 07/14/2021 - 20:29:46: -------- Mapchange to vsh_frogworks_b4 --------
+L 07/14/2021 - 20:29:54: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/14/2021 - 20:50:11: [mapchooser_extended.smx] Voting for next map has started.
+L 07/14/2021 - 20:50:17: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_crevice_b5.
+L 07/14/2021 - 21:01:23: [SM] Changed map to "vsh_crevice_b5"
+L 07/14/2021 - 21:01:27: -------- Mapchange to vsh_crevice_b5 --------
+L 07/14/2021 - 21:01:35: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/14/2021 - 21:21:50: [mapchooser_extended.smx] Voting for next map has started.
+L 07/14/2021 - 21:32:26: [SM] Changed map to "vsh_cactustemple_v1"
+L 07/14/2021 - 21:32:28: -------- Mapchange to vsh_cactustemple_v1 --------
+L 07/14/2021 - 21:32:35: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/14/2021 - 21:52:51: [mapchooser_extended.smx] Voting for next map has started.
