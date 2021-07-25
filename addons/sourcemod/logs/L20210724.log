@@ -1,0 +1,21 @@
+L 07/24/2021 - 15:33:45: SourceMod log file session started (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/L20210724.log") (Version "1.10.0.6490")
+L 07/24/2021 - 15:33:45: [SM] Changed map to "vsh_intrusion_rc2"
+L 07/24/2021 - 15:33:57: -------- Mapchange to vsh_intrusion_rc2 --------
+L 07/24/2021 - 15:34:13: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/24/2021 - 15:54:29: [mapchooser_extended.smx] Voting for next map has started.
+L 07/24/2021 - 15:54:41: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_tranquil_b5.
+L 07/24/2021 - 16:05:35: [SM] Changed map to "vsh_tranquil_b5"
+L 07/24/2021 - 16:05:36: -------- Mapchange to vsh_tranquil_b5 --------
+L 07/24/2021 - 16:05:44: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/24/2021 - 16:26:00: [mapchooser_extended.smx] Voting for next map has started.
+L 07/24/2021 - 16:26:37: [mapchooser_extended.smx] Voting for next map has started.
+L 07/24/2021 - 16:27:08: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_yammoe_rc3.
+L 07/24/2021 - 16:36:19: [SM] Changed map to "vsh_yammoe_rc3"
+L 07/24/2021 - 16:36:22: -------- Mapchange to vsh_yammoe_rc3 --------
+L 07/24/2021 - 16:36:29: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/24/2021 - 16:56:44: [mapchooser_extended.smx] Voting for next map has started.
+L 07/24/2021 - 16:57:14: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_outdoors_b2a.
+L 07/24/2021 - 17:10:54: [SM] Changed map to "vsh_outdoors_b2a"
+L 07/24/2021 - 17:10:56: -------- Mapchange to vsh_outdoors_b2a --------
+L 07/24/2021 - 17:11:04: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/24/2021 - 17:31:20: [mapchooser_extended.smx] Voting for next map has started.
