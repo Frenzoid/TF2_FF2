@@ -1,0 +1,44 @@
+L 07/26/2021 - 19:46:46: SourceMod log file session started (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/L20210726.log") (Version "1.10.0.6490")
+L 07/26/2021 - 19:46:46: [SM] Changed map to "vsh_void_a1f"
+L 07/26/2021 - 19:46:48: -------- Mapchange to vsh_void_a1f --------
+L 07/26/2021 - 19:46:57: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/26/2021 - 20:07:14: [mapchooser_extended.smx] Voting for next map has started.
+L 07/26/2021 - 20:07:24: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_crevice_b5.
+L 07/26/2021 - 20:17:33: [SM] Changed map to "vsh_crevice_b5"
+L 07/26/2021 - 20:17:39: -------- Mapchange to vsh_crevice_b5 --------
+L 07/26/2021 - 20:17:46: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/26/2021 - 20:23:35: [playercommands.smx] "mochi<122><[U:1:916634286]><>" slapped "Xandermen<125><[U:1:162508880]><>" (damage "0")
+L 07/26/2021 - 20:32:03: SourceMod log file session started (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/L20210726.log") (Version "1.10.0.6490")
+L 07/26/2021 - 20:32:03: [TF2ITEMS] "GiveNamedItem" offset = 485
+L 07/26/2021 - 20:32:04: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 07/26/2021 - 20:32:04: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 07/26/2021 - 20:32:04: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 07/26/2021 - 20:32:04: [freak_fortress_2.smx] Freak Fortress 2 199001 Loading...
+L 07/26/2021 - 20:32:16: [UPDATER] Successfully updated gamedata file "sm-cstrike.games/game.csgo.txt"
+L 07/26/2021 - 20:32:16: [UPDATER] Successfully updated gamedata file "sdktools.games/game.ff.txt"
+L 07/26/2021 - 20:32:16: [UPDATER] Successfully updated gamedata file "sdktools.games/game.bms.txt"
+L 07/26/2021 - 20:32:16: [UPDATER] Successfully updated gamedata file "sdktools.games/engine.contagion.txt"
+L 07/26/2021 - 20:32:16: [UPDATER] Successfully updated gamedata file "sdkhooks.games/game.ff.txt"
+L 07/26/2021 - 20:32:16: [UPDATER] Successfully updated gamedata file "sdkhooks.games/game.bms.txt"
+L 07/26/2021 - 20:32:16: [UPDATER] Successfully updated gamedata file "sdkhooks.games/engine.contagion.txt"
+L 07/26/2021 - 20:32:16: [UPDATER] Successfully updated gamedata file "core.games/common.games.txt"
+L 07/26/2021 - 20:32:16: [UPDATER] SourceMod has been updated, please reload it or restart your server.
+L 07/26/2021 - 20:32:16: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/26/2021 - 20:39:57: [basechat.smx] "mochi<3><[U:1:916634286]><>" triggered sm_msay (text based and rad pilled)
+L 07/26/2021 - 20:44:20: [playercommands.smx] "mochi<3><[U:1:916634286]><>" slayed "hacoblacob<2><[U:1:1036400442]><>"
+L 07/26/2021 - 20:48:43: [respawn.smx] "mochi<3><[U:1:916634286]><>" respawned "hacoblacob<2><[U:1:1036400442]><>"
+L 07/26/2021 - 20:52:35: [mapchooser_extended.smx] Voting for next map has started.
+L 07/26/2021 - 20:52:50: [mapchooser_extended.smx] Voting for next map has started.
+L 07/26/2021 - 20:52:55: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_dirtmound_b9.
+L 07/26/2021 - 20:54:43: [playercommands.smx] "mochi<3><[U:1:916634286]><>" slapped "unspacy<6><[U:1:130638097]><>" (damage "0")
+L 07/26/2021 - 20:54:43: [playercommands.smx] "mochi<3><[U:1:916634286]><>" slapped "unspacy<6><[U:1:130638097]><>" (damage "0")
+L 07/26/2021 - 20:54:43: [playercommands.smx] "mochi<3><[U:1:916634286]><>" slapped "unspacy<6><[U:1:130638097]><>" (damage "0")
+L 07/26/2021 - 20:54:44: [playercommands.smx] "mochi<3><[U:1:916634286]><>" slapped "unspacy<6><[U:1:130638097]><>" (damage "0")
+L 07/26/2021 - 20:54:44: [playercommands.smx] "mochi<3><[U:1:916634286]><>" slapped "unspacy<6><[U:1:130638097]><>" (damage "0")
+L 07/26/2021 - 21:02:54: [SM] Changed map to "vsh_dirtmound_b9"
+L 07/26/2021 - 21:02:56: -------- Mapchange to vsh_dirtmound_b9 --------
+L 07/26/2021 - 21:03:02: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/26/2021 - 21:10:22: [respawn.smx] "mochi<3><[U:1:916634286]><>" respawned "D4RK SP4RT4N 77<8><[U:1:1192978151]><>"
+L 07/26/2021 - 21:16:11: [basecommands.smx] "unspacy<6><[U:1:130638097]><>" kicked "unspacy<6><[U:1:130638097]><>" (reason "'change da world, my final message, goodby'")
+L 07/26/2021 - 21:16:53: [basecommands.smx] "mochi<3><[U:1:916634286]><>" kicked "mochi<3><[U:1:916634286]><>" (reason "bai uwu")
+L 07/26/2021 - 21:23:17: [mapchooser_extended.smx] Voting for next map has started.
