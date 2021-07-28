@@ -1,0 +1,15 @@
+L 07/27/2021 - 01:45:06: SourceMod log file session started (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/L20210727.log") (Version "1.10.0.6490")
+L 07/27/2021 - 01:45:06: [SM] Changed map to "vsh_minegay_reworked_v2"
+L 07/27/2021 - 01:45:07: -------- Mapchange to vsh_minegay_reworked_v2 --------
+L 07/27/2021 - 01:45:14: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/27/2021 - 02:05:30: [mapchooser_extended.smx] Voting for next map has started.
+L 07/27/2021 - 02:06:01: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_frogworks_b4.
+L 07/27/2021 - 02:11:54: [rockthevote_extended.smx] RTV changing map manually
+L 07/27/2021 - 02:11:54: [SM] Changed map to "vsh_frogworks_b4"
+L 07/27/2021 - 02:11:57: -------- Mapchange to vsh_frogworks_b4 --------
+L 07/27/2021 - 02:12:04: [mapchooser_extended.smx] Loaded map list for tf.
+L 07/27/2021 - 02:21:45: [basechat.smx] "Console<0><Console><Console>" triggered sm_say (text The round time has ended, omaewa-mou shindeiru)
+L 07/27/2021 - 02:21:45: [playercommands.smx] "Console<0><Console><Console>" slayed "DaKcBomb<10><[U:1:88639081]><>"
+L 07/27/2021 - 02:21:45: [playercommands.smx] "Console<0><Console><Console>" slayed "Diggle the Mean<14><[U:1:247253916]><>"
+L 07/27/2021 - 02:32:20: [mapchooser_extended.smx] Voting for next map has started.
+L 07/27/2021 - 02:32:50: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_cactustemple_v1.

@@ -1,0 +1,16 @@
+L 07/27/2021 - 01:45:08: SourceMod error session started
+L 07/27/2021 - 01:45:08: Info (map "vsh_minegay_reworked_v2") (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/errors_20210727.log")
+L 07/27/2021 - 01:45:08: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 07/27/2021 - 01:45:08: [admin-flatfile.smx]  (line 88) Section beginning without a matching ending
+L 07/27/2021 - 01:45:08: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 07/27/2021 - 01:45:08: [admin-flatfile.smx]  (line 88) Section beginning without a matching ending
+L 07/27/2021 - 02:11:57: Error log file session closed.
+L 07/27/2021 - 02:11:57: SourceMod error session started
+L 07/27/2021 - 02:11:57: Info (map "vsh_frogworks_b4") (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/errors_20210727.log")
+L 07/27/2021 - 02:11:57: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 07/27/2021 - 02:11:57: [admin-flatfile.smx]  (line 88) Section beginning without a matching ending
+L 07/27/2021 - 02:11:57: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 07/27/2021 - 02:11:57: [admin-flatfile.smx]  (line 88) Section beginning without a matching ending
+L 07/27/2021 - 02:21:45: [SM] Plugin "roundtimer.smx" encountered error 23: Native detected error
+L 07/27/2021 - 02:21:45: [SM] Invalid timer handle c44e089c (error 3) during timer end, displayed function is timer callback, not the stack trace
+L 07/27/2021 - 02:21:45: [SM] Unable to call function "Timer_Round" due to above error(s).
