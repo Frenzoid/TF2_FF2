@@ -1,0 +1,20 @@
+L 07/29/2021 - 15:28:48: SourceMod error session started
+L 07/29/2021 - 15:28:48: Info (map "vsh_cactustemple_v1") (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/errors_20210729.log")
+L 07/29/2021 - 15:28:48: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 07/29/2021 - 15:28:48: [admin-flatfile.smx]  (line 88) Section beginning without a matching ending
+L 07/29/2021 - 15:28:48: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 07/29/2021 - 15:28:48: [admin-flatfile.smx]  (line 88) Section beginning without a matching ending
+L 07/29/2021 - 15:59:29: Error log file session closed.
+L 07/29/2021 - 15:59:30: SourceMod error session started
+L 07/29/2021 - 15:59:30: Info (map "vsh_skyhigh_resort_b8_sg4") (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/errors_20210729.log")
+L 07/29/2021 - 15:59:30: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 07/29/2021 - 15:59:30: [admin-flatfile.smx]  (line 88) Section beginning without a matching ending
+L 07/29/2021 - 15:59:30: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 07/29/2021 - 15:59:30: [admin-flatfile.smx]  (line 88) Section beginning without a matching ending
+L 07/29/2021 - 16:30:23: Error log file session closed.
+L 07/29/2021 - 16:30:24: SourceMod error session started
+L 07/29/2021 - 16:30:24: Info (map "vsh_castle_siege_unreal_sg1") (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/errors_20210729.log")
+L 07/29/2021 - 16:30:24: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 07/29/2021 - 16:30:24: [admin-flatfile.smx]  (line 88) Section beginning without a matching ending
+L 07/29/2021 - 16:30:24: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 07/29/2021 - 16:30:24: [admin-flatfile.smx]  (line 88) Section beginning without a matching ending
