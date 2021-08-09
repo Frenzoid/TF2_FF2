@@ -1,0 +1,12 @@
+L 08/08/2021 - 09:55:17: SourceMod log file session started (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/L20210808.log") (Version "1.10.0.6490")
+L 08/08/2021 - 09:55:17: [rockthevote_extended.smx] RTV changing map manually
+L 08/08/2021 - 09:55:17: [SM] Changed map to "vsh_warebloom_r1a"
+L 08/08/2021 - 09:55:22: -------- Mapchange to vsh_warebloom_r1a --------
+L 08/08/2021 - 09:55:30: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/08/2021 - 09:55:58: [mapchooser_extended.smx] Starting map vote because outside request
+L 08/08/2021 - 09:56:14: [mapchooser_extended.smx] Voting for next map has started.
+L 08/08/2021 - 09:56:19: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_aperture_b4.
+L 08/08/2021 - 09:56:23: [SM] Changed map to "vsh_aperture_b4"
+L 08/08/2021 - 09:56:28: -------- Mapchange to vsh_aperture_b4 --------
+L 08/08/2021 - 09:56:34: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/08/2021 - 10:16:48: [mapchooser_extended.smx] Voting for next map has started.

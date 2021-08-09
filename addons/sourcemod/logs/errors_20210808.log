@@ -1,0 +1,13 @@
+L 08/08/2021 - 09:55:23: SourceMod error session started
+L 08/08/2021 - 09:55:23: Info (map "vsh_warebloom_r1a") (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/errors_20210808.log")
+L 08/08/2021 - 09:55:23: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 08/08/2021 - 09:55:23: [admin-flatfile.smx]  (line 88) Section beginning without a matching ending
+L 08/08/2021 - 09:55:23: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 08/08/2021 - 09:55:23: [admin-flatfile.smx]  (line 88) Section beginning without a matching ending
+L 08/08/2021 - 09:56:28: Error log file session closed.
+L 08/08/2021 - 09:56:28: SourceMod error session started
+L 08/08/2021 - 09:56:28: Info (map "vsh_aperture_b4") (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/errors_20210808.log")
+L 08/08/2021 - 09:56:28: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 08/08/2021 - 09:56:28: [admin-flatfile.smx]  (line 88) Section beginning without a matching ending
+L 08/08/2021 - 09:56:28: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 08/08/2021 - 09:56:28: [admin-flatfile.smx]  (line 88) Section beginning without a matching ending
