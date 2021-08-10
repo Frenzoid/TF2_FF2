@@ -632,6 +632,16 @@ native void FF2_RemoveClientShield(int client);
 native void FF2_LogError(const char[] message, any ...);
 
 /**
+ * Reports an error to FF2's error log with boss name
+ *
+ * @param boss		Boss index
+ * @param message	Message to error log
+ *
+ * @return			error on failure
+ */
+native void FF2_ReportError(int boss, const char[] message, any ...);
+
+/**
  * Returns whether or not debug is enabled
  *
  * @return		True if enabled, false otherwise
@@ -1115,6 +1125,176 @@ stock int FF2_GetArgS(int boss, const char[] plugin_name, const char[] ability_n
 	return strlen(buffer);
 }
 
+methodmap FF2Data
+{
+	/**
+	 * Get boss data given client index
+	 *
+	 * @param client
+	 * @return 			FF2Data, Invalid or error on failure
+	 */
+	public static native FF2Data Unknown(int client);
+	
+	/**
+	 * Get boss data given boss index
+	 *
+	 * @param boss
+	 * @param plugin	optional
+	 * @param ability	optional
+	 * @return 			FF2Data, Invalid or error on failure
+	 */
+	public native FF2Data(int boss, const char[] plugin = "", const char[] ability = "");
+	
+	/**
+	 *	Invalid index
+	 */
+	property bool Invalid
+	{
+		public get() { return view_as<int>(this) == -1; }
+	}
+	
+	/**
+	 *	boss index
+	 */
+	property int boss
+	{
+		public native get();
+	}
+	
+	/**
+	 *	client index
+	 */
+	property int client
+	{
+		public native get();
+	}
+	
+	/**
+	 * boss config file
+	 * @return config, or error
+	 */
+	property KeyValues Config {
+		public native get();
+	}
+	
+	/**
+	 * similar to FF2_GetBossHealth() / FF2_SetBossHealth
+	 * @return 			boss health
+	 */
+	property int Health
+	{
+		public native get();
+		public native set(const int h);
+	}
+	
+	/**
+	 * similar to FF2_GetBossMaxHealth() / FF2_SetBossMaxHealth
+	 * @return 			boss max health
+	 */
+	property int MaxHealth
+	{
+		public native get();
+		public native set(const int h);
+	}
+	
+	/**
+	 * similar to FF2_GetBossLives() / FF2_SetBossLives()
+	 * @return 			boss lives
+	 */
+	property int Lives
+	{
+		public native get();
+		public native set(const int l);
+	}
+	
+	/**
+	 * similar to FF2_GetBossMaxLives() / FF2_SetBossMaxLives()
+	 * @return 			boss max lives
+	 */
+	property int MaxLives
+	{
+		public native get();
+		public native set(const int l);
+	}
+
+	/**
+	 * wrapper to FF2_GetBossCharge() / FF2_SetBossCharge()
+	 * @return 			boss rage
+	 */
+	property float Rage
+	{
+		public get() { return FF2_GetBossCharge(this.boss, 0); }
+		public set(const float c) { FF2_SetBossCharge(this.boss, 0, c); }
+	}
+	
+	/**
+	 * similar to FF2_GetBossRageDamage() / FF2_SetBossRageDamage()
+	 * @return 			boss rage damage
+	 */
+	property int RageDmg
+	{
+		public native get();
+		public native set(const int r);
+	}
+	
+	
+	/**
+	 * similar to FF2_GetBossTeam()
+	 * @return 			boss team
+	 */
+	public static native int BossTeam();
+	
+	/**
+	 * Change ability iterator 
+	 *
+	 * @param plugin
+	 * @param ability
+	 * @return error on failure
+	 */
+	public native void Change(const char[] plugin, const char[] ability);
+	
+	/**
+	 * similar FF2_GetArgNamedI 
+	 *
+	 * @param key		ability key
+	 * @param def		default value if lookup failed
+	 * @param base		retrieve the value as
+	 */
+	public native int GetArgI(const char[] key, int def = 0, int base = 10);
+	
+	/**
+	 * similar FF2_GetArgNamedF
+	 *
+	 * @param key		ability key
+	 * @param def		default value if lookup failed
+	 */
+	public native float GetArgF(const char[] key, float def = 0.0);
+	
+	/**
+	 * retrieve argument value as bool
+	 *
+	 * @param key		ability key
+	 * @param def		default value if lookup failed
+	 */
+	public native bool GetArgB(const char[] key, bool def = false);
+	
+	/**
+	 * similar to FF2_GetArgNamedS
+	 *
+	 * @param key		ability key
+	 * @param def		default value if lookup failed
+	 * @return 			number of bytes written
+	 */
+	public native int GetArgS(const char[] key, char[] res, int maxlen);
+	
+	/**
+	 * similar to FF2_HasAbility
+	 * @return 			error on failure
+	 */
+	public native bool HasAbility();
+}
+
+
 public SharedPlugin __pl_FF2 =
 {
 	name = "freak_fortress_2",
@@ -1179,6 +1359,31 @@ public void __pl_FF2_SetNTVOptional()
 	MarkNativeAsOptional("FF2_SetCheats");
 	MarkNativeAsOptional("FF2_GetCheats");
 	MarkNativeAsOptional("FF2_MakeBoss");
+	MarkNativeAsOptional("FF2_ReportError");
+	
+	MarkNativeAsOptional("FF2Data.Unknown");
+	MarkNativeAsOptional("FF2Data.FF2Data");
+	MarkNativeAsOptional("FF2Data.Invalid");
+	MarkNativeAsOptional("FF2Data.boss.get");
+	MarkNativeAsOptional("FF2Data.client.get");
+	MarkNativeAsOptional("FF2Data.Config.get");
+	MarkNativeAsOptional("FF2Data.Health.get");
+	MarkNativeAsOptional("FF2Data.Health.set");
+	MarkNativeAsOptional("FF2Data.MaxHealth.get");
+	MarkNativeAsOptional("FF2Data.MaxHealth.set");
+	MarkNativeAsOptional("FF2Data.Lives.get");
+	MarkNativeAsOptional("FF2Data.Lives.set");
+	MarkNativeAsOptional("FF2Data.MaxLives.get");
+	MarkNativeAsOptional("FF2Data.MaxLives.set");
+	MarkNativeAsOptional("FF2Data.RageDmg.get");
+	MarkNativeAsOptional("FF2Data.RageDmg.set");
+	MarkNativeAsOptional("FF2Data.Change");
+	MarkNativeAsOptional("FF2Data.GetArgI");
+	MarkNativeAsOptional("FF2Data.GetArgF");
+	MarkNativeAsOptional("FF2Data.GetArgB");
+	MarkNativeAsOptional("FF2Data.GetArgS");
+	MarkNativeAsOptional("FF2Data.HasAbility");
+	MarkNativeAsOptional("FF2Data.BossTeam");
 }
 #endif
 

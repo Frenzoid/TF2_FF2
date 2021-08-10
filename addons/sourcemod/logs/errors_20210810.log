@@ -1,0 +1,58 @@
+L 08/10/2021 - 03:56:34: SourceMod error session started
+L 08/10/2021 - 03:56:34: Info (map "vsh_castle_siege_unreal_sg1") (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/errors_20210810.log")
+L 08/10/2021 - 03:56:34: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 08/10/2021 - 03:56:34: [admin-flatfile.smx]  (line 88) Section beginning without a matching ending
+L 08/10/2021 - 03:56:34: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 08/10/2021 - 03:56:34: [admin-flatfile.smx]  (line 88) Section beginning without a matching ending
+L 08/10/2021 - 04:08:09: SourceMod error session started
+L 08/10/2021 - 04:08:09: Info (map "arena_lumberyard") (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/errors_20210810.log")
+L 08/10/2021 - 04:08:09: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/10/2021 - 04:08:09: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/10/2021 - 04:08:09: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 08/10/2021 - 04:08:09: [admin-flatfile.smx]  (line 88) Section beginning without a matching ending
+L 08/10/2021 - 04:08:09: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 08/10/2021 - 04:08:09: [admin-flatfile.smx]  (line 88) Section beginning without a matching ending
+L 08/10/2021 - 04:40:58: Error log file session closed.
+L 08/10/2021 - 04:40:59: SourceMod error session started
+L 08/10/2021 - 04:40:59: Info (map "vsh_cactustemple_v1") (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/errors_20210810.log")
+L 08/10/2021 - 04:40:59: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 08/10/2021 - 04:40:59: [admin-flatfile.smx]  (line 88) Section beginning without a matching ending
+L 08/10/2021 - 04:40:59: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 08/10/2021 - 04:40:59: [admin-flatfile.smx]  (line 88) Section beginning without a matching ending
+L 08/10/2021 - 04:47:29: Error log file session closed.
+L 08/10/2021 - 04:47:30: SourceMod error session started
+L 08/10/2021 - 04:47:30: Info (map "vsh_crevice_b5") (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/errors_20210810.log")
+L 08/10/2021 - 04:47:30: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 08/10/2021 - 04:47:30: [admin-flatfile.smx]  (line 88) Section beginning without a matching ending
+L 08/10/2021 - 04:47:30: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 08/10/2021 - 04:47:30: [admin-flatfile.smx]  (line 88) Section beginning without a matching ending
+L 08/10/2021 - 04:50:19: [SM] Plugin "roundtimer.smx" encountered error 23: Native detected error
+L 08/10/2021 - 04:50:19: [SM] Invalid timer handle 3c8c0363 (error 3) during timer end, displayed function is timer callback, not the stack trace
+L 08/10/2021 - 04:50:19: [SM] Unable to call function "Timer_Round" due to above error(s).
+L 08/10/2021 - 04:51:21: Error log file session closed.
+L 08/10/2021 - 04:51:21: SourceMod error session started
+L 08/10/2021 - 04:51:21: Info (map "vsh_dirtmound_b9") (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/errors_20210810.log")
+L 08/10/2021 - 04:51:21: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 08/10/2021 - 04:51:21: [admin-flatfile.smx]  (line 88) Section beginning without a matching ending
+L 08/10/2021 - 04:51:21: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 08/10/2021 - 04:51:21: [admin-flatfile.smx]  (line 88) Section beginning without a matching ending
+L 08/10/2021 - 04:54:01: [SM] Plugin "roundtimer.smx" encountered error 23: Native detected error
+L 08/10/2021 - 04:54:01: [SM] Invalid timer handle 6d3804a3 (error 3) during timer end, displayed function is timer callback, not the stack trace
+L 08/10/2021 - 04:54:01: [SM] Unable to call function "Timer_Round" due to above error(s).
+L 08/10/2021 - 04:55:59: [SM] Plugin "roundtimer.smx" encountered error 23: Native detected error
+L 08/10/2021 - 04:55:59: [SM] Invalid timer handle 8d9e0442 (error 3) during timer end, displayed function is timer callback, not the stack trace
+L 08/10/2021 - 04:55:59: [SM] Unable to call function "Timer_Round" due to above error(s).
+L 08/10/2021 - 05:00:16: Error log file session closed.
+L 08/10/2021 - 05:00:16: SourceMod error session started
+L 08/10/2021 - 05:00:16: Info (map "vsh_necropolis_b1") (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/errors_20210810.log")
+L 08/10/2021 - 05:00:16: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 08/10/2021 - 05:00:16: [admin-flatfile.smx]  (line 88) Section beginning without a matching ending
+L 08/10/2021 - 05:00:16: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 08/10/2021 - 05:00:16: [admin-flatfile.smx]  (line 88) Section beginning without a matching ending
+L 08/10/2021 - 05:03:27: Error log file session closed.
+L 08/10/2021 - 05:03:28: SourceMod error session started
+L 08/10/2021 - 05:03:28: Info (map "vsh_spotline_reworked") (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/errors_20210810.log")
+L 08/10/2021 - 05:03:28: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 08/10/2021 - 05:03:28: [admin-flatfile.smx]  (line 88) Section beginning without a matching ending
+L 08/10/2021 - 05:03:28: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
+L 08/10/2021 - 05:03:28: [admin-flatfile.smx]  (line 88) Section beginning without a matching ending
