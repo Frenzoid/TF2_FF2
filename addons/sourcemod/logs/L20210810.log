@@ -5,3 +5,61 @@ L 08/10/2021 - 05:54:31: [simple-chatprocessor.smx] [SCP] Recognized mod [Team F
 L 08/10/2021 - 05:54:31: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
 L 08/10/2021 - 05:54:32: [freak_fortress_2.smx] Freak Fortress 2 202002 Loading...
 L 08/10/2021 - 05:54:41: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/10/2021 - 06:15:50: [mapchooser_extended.smx] Voting for next map has started.
+L 08/10/2021 - 11:19:45: [SM] Changed map to "vsh_shipment_v1a"
+L 08/10/2021 - 11:19:48: -------- Mapchange to vsh_shipment_v1a --------
+L 08/10/2021 - 11:19:54: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/10/2021 - 11:33:38: [basechat.smx] "Console<0><Console><Console>" triggered sm_say (text The round time has ended, omaewa-mou shindeiru)
+L 08/10/2021 - 11:33:38: [playercommands.smx] "Console<0><Console><Console>" slayed "mochi<4><[U:1:916634286]><>"
+L 08/10/2021 - 11:33:38: [playercommands.smx] "Console<0><Console><Console>" slayed "Screamin' Eagles<6><BOT><>"
+L 08/10/2021 - 11:40:08: [mapchooser_extended.smx] Voting for next map has started.
+L 08/10/2021 - 11:40:11: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_tranquil_b5.
+L 08/10/2021 - 11:50:04: [basechat.smx] "Console<0><Console><Console>" triggered sm_say (text The round time has ended, omaewa-mou shindeiru)
+L 08/10/2021 - 11:50:04: [playercommands.smx] "Console<0><Console><Console>" slayed "mochi<4><[U:1:916634286]><>"
+L 08/10/2021 - 11:50:04: [playercommands.smx] "Console<0><Console><Console>" slayed "Screamin' Eagles<6><BOT><>"
+L 08/10/2021 - 11:50:22: [SM] Changed map to "vsh_tranquil_b5"
+L 08/10/2021 - 11:50:24: -------- Mapchange to vsh_tranquil_b5 --------
+L 08/10/2021 - 11:50:31: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/10/2021 - 11:52:56: [basecommands.smx] "mochi<4><[U:1:916634286]><>" changed map to "vsh_castle_siege_unreal_sg1"
+L 08/10/2021 - 11:52:59: [SM] Changed map to "vsh_castle_siege_unreal_sg1"
+L 08/10/2021 - 11:53:01: -------- Mapchange to vsh_castle_siege_unreal_sg1 --------
+L 08/10/2021 - 11:53:07: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/10/2021 - 11:56:47: [freak_fortress_2.smx] "mochi<4><[U:1:916634286]><>" activated infinite RAGE on themselves
+L 08/10/2021 - 11:57:12: [basecommands.smx] "mochi<4><[U:1:916634286]><>" kicked "Herr Doktor<8><BOT><>" (reason "")
+L 08/10/2021 - 12:02:11: [basecommands.smx] "mochi<4><[U:1:916634286]><>" changed map to "vsh_castle_siege_unreal_sg1"
+L 08/10/2021 - 12:02:14: [SM] Changed map to "vsh_castle_siege_unreal_sg1"
+L 08/10/2021 - 12:02:16: -------- Mapchange to vsh_castle_siege_unreal_sg1 --------
+L 08/10/2021 - 12:02:22: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/10/2021 - 12:04:30: [basecommands.smx] "mochi<4><[U:1:916634286]><>" kicked "One-Man Cheeseburger Apocalypse<13><BOT><>" (reason "")
+L 08/10/2021 - 12:05:52: [playercommands.smx] "MrFrenzoid<9><[U:1:91292555]><>" slayed "test<14><BOT><>"
+L 08/10/2021 - 12:05:52: [playercommands.smx] "MrFrenzoid<9><[U:1:91292555]><>" slayed "also_test<15><BOT><>"
+L 08/10/2021 - 12:07:17: [freak_fortress_2.smx] "mochi<4><[U:1:916634286]><>" activated infinite RAGE on themselves
+L 08/10/2021 - 12:11:11: [SetSpeed.smx] "MrFrenzoid<9><[U:1:91292555]><>" set speed of  "mochi<4><[U:1:916634286]><>" to (520.000000)
+L 08/10/2021 - 12:11:11: [SetSpeed.smx] "MrFrenzoid<9><[U:1:91292555]><>" set speed of  "MrFrenzoid<9><[U:1:91292555]><>" to (520.000000)
+L 08/10/2021 - 12:11:11: [SetSpeed.smx] "MrFrenzoid<9><[U:1:91292555]><>" set speed of  "test<14><BOT><>" to (520.000000)
+L 08/10/2021 - 12:11:11: [SetSpeed.smx] "MrFrenzoid<9><[U:1:91292555]><>" set speed of  "also_test<15><BOT><>" to (520.000000)
+L 08/10/2021 - 12:14:34: [respawn.smx] "MrFrenzoid<9><[U:1:91292555]><>" respawned "mochi<4><[U:1:916634286]><>"
+L 08/10/2021 - 12:14:34: [respawn.smx] "MrFrenzoid<9><[U:1:91292555]><>" respawned "MrFrenzoid<9><[U:1:91292555]><>"
+L 08/10/2021 - 12:14:55: [respawn.smx] "MrFrenzoid<9><[U:1:91292555]><>" respawned "mochi<4><[U:1:916634286]><>"
+L 08/10/2021 - 12:14:55: [respawn.smx] "MrFrenzoid<9><[U:1:91292555]><>" respawned "MrFrenzoid<9><[U:1:91292555]><>"
+L 08/10/2021 - 12:17:24: [basechat.smx] "Console<0><Console><Console>" triggered sm_say (text The round time has ended, omaewa-mou shindeiru)
+L 08/10/2021 - 12:17:24: [playercommands.smx] "Console<0><Console><Console>" slayed "mochi<4><[U:1:916634286]><>"
+L 08/10/2021 - 12:17:24: [playercommands.smx] "Console<0><Console><Console>" slayed "MrFrenzoid<9><[U:1:91292555]><>"
+L 08/10/2021 - 12:17:24: [playercommands.smx] "Console<0><Console><Console>" slayed "test<14><BOT><>"
+L 08/10/2021 - 12:17:24: [playercommands.smx] "Console<0><Console><Console>" slayed "also_test<15><BOT><>"
+L 08/10/2021 - 12:18:11: [freak_fortress_2.smx] "MrFrenzoid<9><[U:1:91292555]><>" activated infinite RAGE on themselves
+L 08/10/2021 - 12:19:48: SourceMod log file session started (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/L20210810.log") (Version "1.10.0.6490")
+L 08/10/2021 - 12:19:48: [TF2ITEMS] "GiveNamedItem" offset = 485
+L 08/10/2021 - 12:19:49: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 08/10/2021 - 12:19:50: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 08/10/2021 - 12:19:50: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 08/10/2021 - 12:19:50: [freak_fortress_2.smx] Freak Fortress 2 202002 Loading...
+L 08/10/2021 - 12:20:05: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/10/2021 - 12:22:14: [respawn.smx] "mochi<3><[U:1:916634286]><>" respawned "mochi<3><[U:1:916634286]><>"
+L 08/10/2021 - 12:30:09: SourceMod log file session started (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/L20210810.log") (Version "1.10.0.6490")
+L 08/10/2021 - 12:30:09: [TF2ITEMS] "GiveNamedItem" offset = 485
+L 08/10/2021 - 12:30:09: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 08/10/2021 - 12:30:09: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 08/10/2021 - 12:30:09: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 08/10/2021 - 12:30:10: [freak_fortress_2.smx] Freak Fortress 2 202002 Loading...
+L 08/10/2021 - 12:30:17: [mapchooser_extended.smx] Loaded map list for tf.

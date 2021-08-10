@@ -2,3 +2,26 @@ L 08/10/2021 - 05:54:31: SourceMod error session started
 L 08/10/2021 - 05:54:31: Info (map "arena_lumberyard") (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/errors_20210810.log")
 L 08/10/2021 - 05:54:31: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
 L 08/10/2021 - 05:54:31: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/10/2021 - 11:19:48: Error log file session closed.
+L 08/10/2021 - 11:33:38: SourceMod error session started
+L 08/10/2021 - 11:33:38: Info (map "vsh_shipment_v1a") (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/errors_20210810.log")
+L 08/10/2021 - 11:33:38: [SM] Plugin "roundtimer.smx" encountered error 23: Native detected error
+L 08/10/2021 - 11:33:38: [SM] Invalid timer handle 6d5303b7 (error 3) during timer end, displayed function is timer callback, not the stack trace
+L 08/10/2021 - 11:33:38: [SM] Unable to call function "Timer_Round" due to above error(s).
+L 08/10/2021 - 11:50:04: [SM] Plugin "roundtimer.smx" encountered error 23: Native detected error
+L 08/10/2021 - 11:50:04: [SM] Invalid timer handle 7bee0496 (error 3) during timer end, displayed function is timer callback, not the stack trace
+L 08/10/2021 - 11:50:04: [SM] Unable to call function "Timer_Round" due to above error(s).
+L 08/10/2021 - 11:50:24: Error log file session closed.
+L 08/10/2021 - 12:17:24: SourceMod error session started
+L 08/10/2021 - 12:17:24: Info (map "vsh_castle_siege_unreal_sg1") (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/errors_20210810.log")
+L 08/10/2021 - 12:17:24: [SM] Plugin "roundtimer.smx" encountered error 23: Native detected error
+L 08/10/2021 - 12:17:24: [SM] Invalid timer handle e6c6052b (error 3) during timer end, displayed function is timer callback, not the stack trace
+L 08/10/2021 - 12:17:24: [SM] Unable to call function "Timer_Round" due to above error(s).
+L 08/10/2021 - 12:19:50: SourceMod error session started
+L 08/10/2021 - 12:19:50: Info (map "arena_lumberyard") (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/errors_20210810.log")
+L 08/10/2021 - 12:19:50: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/10/2021 - 12:19:50: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/10/2021 - 12:30:09: SourceMod error session started
+L 08/10/2021 - 12:30:09: Info (map "arena_lumberyard") (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/errors_20210810.log")
+L 08/10/2021 - 12:30:09: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/10/2021 - 12:30:10: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
