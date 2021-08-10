@@ -1,5 +1,0 @@
-L 07/30/2020 - 13:59:09: SourceMod error session started
-L 07/30/2020 - 13:59:09: Info (map "koth_brazil") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200730.log")
-L 07/30/2020 - 13:59:09: [SM] Fatal error encountered parsing translation file "ff2_1st_set.phrases.txt"
-L 07/30/2020 - 13:59:09: [SM] Error (line 0, column 0): Stream failed to open
-L 07/31/2020 - 01:54:43: Error log file session closed.

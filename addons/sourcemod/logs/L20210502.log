@@ -1,8 +1,0 @@
-L 05/02/2021 - 20:32:48: SourceMod log file session started (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/L20210502.log") (Version "1.10.0.6490")
-L 05/02/2021 - 20:32:48: [SM] Changed map to "vsh_dunger_b2a"
-L 05/02/2021 - 20:32:54: -------- Mapchange to vsh_dunger_b2a --------
-L 05/02/2021 - 20:33:02: [mapchooser_extended.smx] Loaded map list for tf.
-L 05/02/2021 - 20:53:19: [mapchooser_extended.smx] Voting for next map has started.
-L 05/02/2021 - 20:53:38: [mapchooser_extended.smx] Voting for next map has started.
-L 05/02/2021 - 20:54:09: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_void_a1f.
-L 05/04/2021 - 18:59:48: Log file closed.

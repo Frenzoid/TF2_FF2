@@ -1,6 +1,0 @@
-L 02/17/2021 - 22:23:38: SourceMod error session started
-L 02/17/2021 - 22:23:38: Info (map "vsh_void_a1f") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20210217.log")
-L 02/17/2021 - 22:23:38: [SM] Plugin "roundtimer.smx" encountered error 23: Native detected error
-L 02/17/2021 - 22:23:38: [SM] Invalid timer handle 2809240c (error 3) during timer end, displayed function is timer callback, not the stack trace
-L 02/17/2021 - 22:23:38: [SM] Unable to call function "Timer_Round" due to above error(s).
-L 02/17/2021 - 22:24:02: Error log file session closed.

@@ -1,6 +1,0 @@
-L 01/20/2021 - 21:19:05: SourceMod log file session started (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/L20210120.log") (Version "1.10.0.6490")
-L 01/20/2021 - 21:19:05: [SM] Changed map to "vsh_gyros_v5"
-L 01/20/2021 - 21:19:10: -------- Mapchange to vsh_gyros_v5 --------
-L 01/20/2021 - 21:19:22: [mapchooser_extended.smx] Loaded map list for tf.
-L 01/20/2021 - 21:39:40: [mapchooser_extended.smx] Voting for next map has started.
-L 01/21/2021 - 00:02:02: Log file closed.

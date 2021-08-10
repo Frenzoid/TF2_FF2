@@ -1,7 +1,0 @@
-L 08/02/2021 - 12:06:39: SourceMod error session started
-L 08/02/2021 - 12:06:39: Info (map "vsh_outdoors_b2a") (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/errors_20210802.log")
-L 08/02/2021 - 12:06:39: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
-L 08/02/2021 - 12:06:39: [admin-flatfile.smx]  (line 88) Section beginning without a matching ending
-L 08/02/2021 - 12:06:39: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admin_groups.cfg
-L 08/02/2021 - 12:06:39: [admin-flatfile.smx]  (line 88) Section beginning without a matching ending
-L 08/06/2021 - 20:51:55: Error log file session closed.

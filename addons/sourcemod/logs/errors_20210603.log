@@ -1,9 +1,0 @@
-L 06/03/2021 - 20:19:36: SourceMod error session started
-L 06/03/2021 - 20:19:36: Info (map "vsh_crevice_b5") (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/errors_20210603.log")
-L 06/03/2021 - 20:19:36: [SM] Exception reported: Invalid database Handle 0 (error: 4)
-L 06/03/2021 - 20:19:36: [SM] Blaming: sbpp_sleuth.smx
-L 06/03/2021 - 20:19:36: [SM] Call stack trace:
-L 06/03/2021 - 20:19:36: [SM]   [0] SQL_TQuery
-L 06/03/2021 - 20:19:36: [SM]   [1] Line 170, D:\MegaSync\Projects\Sourcemod\scripting\sbpp_sleuth.sp::OnClientPostAdminCheck
-L 06/03/2021 - 20:19:37: [sbpp_comms.smx] Connecting to database failed: [2003]: Can't connect to MySQL server on 'oldbox.cloud' (111)
-L 06/03/2021 - 20:20:42: Error log file session closed.

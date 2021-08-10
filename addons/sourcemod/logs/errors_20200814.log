@@ -1,9 +1,0 @@
-L 08/14/2020 - 22:44:37: SourceMod error session started
-L 08/14/2020 - 22:44:37: Info (map "arena_lumberyard") (file "/home/steamsrv/tf2/tf/addons/sourcemod/logs/errors_20200814.log")
-L 08/14/2020 - 22:44:37: [SM] Plugin "roundtimer.smx" encountered error 23: Native detected error
-L 08/14/2020 - 22:44:37: [SM] Invalid timer handle d31f0c6e (error 3) during timer end, displayed function is timer callback, not the stack trace
-L 08/14/2020 - 22:44:37: [SM] Unable to call function "Timer_Round" due to above error(s).
-L 08/14/2020 - 22:52:55: [SM] Plugin "roundtimer.smx" encountered error 23: Native detected error
-L 08/14/2020 - 22:52:55: [SM] Invalid timer handle 57370c19 (error 3) during timer end, displayed function is timer callback, not the stack trace
-L 08/14/2020 - 22:52:55: [SM] Unable to call function "Timer_Round" due to above error(s).
-L 08/14/2020 - 22:56:07: Error log file session closed.

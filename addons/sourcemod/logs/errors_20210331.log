@@ -1,6 +1,0 @@
-L 03/31/2021 - 00:00:13: SourceMod error session started
-L 03/31/2021 - 00:00:13: Info (map "vsh_aquaticbase_b5") (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/errors_20210331.log")
-L 03/31/2021 - 00:00:13: [SM] Plugin "roundtimer.smx" encountered error 23: Native detected error
-L 03/31/2021 - 00:00:13: [SM] Invalid timer handle c10f0446 (error 3) during timer end, displayed function is timer callback, not the stack trace
-L 03/31/2021 - 00:00:13: [SM] Unable to call function "Timer_Round" due to above error(s).
-L 03/31/2021 - 17:05:48: Error log file session closed.

@@ -1,41 +1,7 @@
-L 08/10/2021 - 03:56:29: SourceMod log file session started (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/L20210810.log") (Version "1.10.0.6490")
-L 08/10/2021 - 03:56:29: [SM] Changed map to "vsh_castle_siege_unreal_sg1"
-L 08/10/2021 - 03:56:33: -------- Mapchange to vsh_castle_siege_unreal_sg1 --------
-L 08/10/2021 - 03:56:41: [mapchooser_extended.smx] Loaded map list for tf.
-L 08/10/2021 - 04:08:05: SourceMod log file session started (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/L20210810.log") (Version "1.10.0.6490")
-L 08/10/2021 - 04:08:06: [TF2ITEMS] "GiveNamedItem" offset = 485
-L 08/10/2021 - 04:08:09: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
-L 08/10/2021 - 04:08:09: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
-L 08/10/2021 - 04:08:09: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
-L 08/10/2021 - 04:08:09: [freak_fortress_2.smx] Freak Fortress 2 202002 Loading...
-L 08/10/2021 - 04:08:24: [mapchooser_extended.smx] Loaded map list for tf.
-L 08/10/2021 - 04:31:10: [mapchooser_extended.smx] Voting for next map has started.
-L 08/10/2021 - 04:40:54: [basecommands.smx] "MrFrenzoid<2><[U:1:91292555]><>" changed map to "vsh_cactustemple_v1"
-L 08/10/2021 - 04:40:57: [SM] Changed map to "vsh_cactustemple_v1"
-L 08/10/2021 - 04:40:58: -------- Mapchange to vsh_cactustemple_v1 --------
-L 08/10/2021 - 04:41:04: [mapchooser_extended.smx] Loaded map list for tf.
-L 08/10/2021 - 04:47:24: [basecommands.smx] "MrFrenzoid<2><[U:1:91292555]><>" changed map to "vsh_crevice_b5"
-L 08/10/2021 - 04:47:28: [SM] Changed map to "vsh_crevice_b5"
-L 08/10/2021 - 04:47:29: -------- Mapchange to vsh_crevice_b5 --------
-L 08/10/2021 - 04:47:36: [mapchooser_extended.smx] Loaded map list for tf.
-L 08/10/2021 - 04:50:19: [basechat.smx] "Console<0><Console><Console>" triggered sm_say (text The round time has ended, omaewa-mou shindeiru)
-L 08/10/2021 - 04:50:19: [playercommands.smx] "Console<0><Console><Console>" slayed "MrFrenzoid<2><[U:1:91292555]><>"
-L 08/10/2021 - 04:50:19: [playercommands.smx] "Console<0><Console><Console>" slayed "Humans Are Weak<5><BOT><>"
-L 08/10/2021 - 04:51:16: [basecommands.smx] "MrFrenzoid<2><[U:1:91292555]><>" changed map to "vsh_dirtmound_b9"
-L 08/10/2021 - 04:51:19: [SM] Changed map to "vsh_dirtmound_b9"
-L 08/10/2021 - 04:51:21: -------- Mapchange to vsh_dirtmound_b9 --------
-L 08/10/2021 - 04:51:27: [mapchooser_extended.smx] Loaded map list for tf.
-L 08/10/2021 - 04:54:01: [basechat.smx] "Console<0><Console><Console>" triggered sm_say (text The round time has ended, omaewa-mou shindeiru)
-L 08/10/2021 - 04:54:01: [playercommands.smx] "Console<0><Console><Console>" slayed "MrFrenzoid<2><[U:1:91292555]><>"
-L 08/10/2021 - 04:54:01: [playercommands.smx] "Console<0><Console><Console>" slayed "C++<6><BOT><>"
-L 08/10/2021 - 04:55:59: [basechat.smx] "Console<0><Console><Console>" triggered sm_say (text The round time has ended, omaewa-mou shindeiru)
-L 08/10/2021 - 04:55:59: [playercommands.smx] "Console<0><Console><Console>" slayed "MrFrenzoid<2><[U:1:91292555]><>"
-L 08/10/2021 - 04:55:59: [playercommands.smx] "Console<0><Console><Console>" slayed "C++<6><BOT><>"
-L 08/10/2021 - 05:00:11: [basecommands.smx] "MrFrenzoid<2><[U:1:91292555]><>" changed map to "vsh_necropolis_b1"
-L 08/10/2021 - 05:00:14: [SM] Changed map to "vsh_necropolis_b1"
-L 08/10/2021 - 05:00:16: -------- Mapchange to vsh_necropolis_b1 --------
-L 08/10/2021 - 05:00:22: [mapchooser_extended.smx] Loaded map list for tf.
-L 08/10/2021 - 05:03:22: [basecommands.smx] "MrFrenzoid<2><[U:1:91292555]><>" changed map to "vsh_spotline_reworked"
-L 08/10/2021 - 05:03:26: [SM] Changed map to "vsh_spotline_reworked"
-L 08/10/2021 - 05:03:27: -------- Mapchange to vsh_spotline_reworked --------
-L 08/10/2021 - 05:03:33: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/10/2021 - 05:54:30: SourceMod log file session started (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/L20210810.log") (Version "1.10.0.6490")
+L 08/10/2021 - 05:54:30: [TF2ITEMS] "GiveNamedItem" offset = 485
+L 08/10/2021 - 05:54:31: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 08/10/2021 - 05:54:31: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 08/10/2021 - 05:54:31: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 08/10/2021 - 05:54:32: [freak_fortress_2.smx] Freak Fortress 2 202002 Loading...
+L 08/10/2021 - 05:54:41: [mapchooser_extended.smx] Loaded map list for tf.
