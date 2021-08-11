@@ -1,0 +1,53 @@
+L 08/11/2021 - 12:58:14: SourceMod error session started
+L 08/11/2021 - 12:58:14: Info (map "vsh_aquaticbase_b5") (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/errors_20210811.log")
+L 08/11/2021 - 12:58:14: [SM] Plugin "roundtimer.smx" encountered error 23: Native detected error
+L 08/11/2021 - 12:58:14: [SM] Invalid timer handle eb64036d (error 3) during timer end, displayed function is timer callback, not the stack trace
+L 08/11/2021 - 12:58:14: [SM] Unable to call function "Timer_Round" due to above error(s).
+L 08/11/2021 - 12:59:15: Error log file session closed.
+L 08/11/2021 - 14:14:59: SourceMod error session started
+L 08/11/2021 - 14:14:59: Info (map "vsh_castle_siege_unreal_sg1") (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/errors_20210811.log")
+L 08/11/2021 - 14:14:59: [SM] Exception reported: Attributes size out of bounds: 16 [0 ... 15]
+L 08/11/2021 - 14:14:59: [SM] Blaming: freak_fortress_2.smx
+L 08/11/2021 - 14:14:59: [SM] Call stack trace:
+L 08/11/2021 - 14:14:59: [SM]   [0] TF2Items_SetNumAttributes
+L 08/11/2021 - 14:14:59: [SM]   [1] Line 18693, Unofficial Freak Fortress::FF2_SpawnWeapon
+L 08/11/2021 - 14:14:59: [SM]   [2] Line 7225, Unofficial Freak Fortress::EquipBoss
+L 08/11/2021 - 14:14:59: [SM]   [3] Line 8002, Unofficial Freak Fortress::Timer_MakeBoss
+L 08/11/2021 - 14:14:59: [SM] Exception reported: Attributes size out of bounds: 16 [0 ... 15]
+L 08/11/2021 - 14:14:59: [SM] Blaming: freak_fortress_2.smx
+L 08/11/2021 - 14:14:59: [SM] Call stack trace:
+L 08/11/2021 - 14:14:59: [SM]   [0] TF2Items_SetNumAttributes
+L 08/11/2021 - 14:14:59: [SM]   [1] Line 18693, Unofficial Freak Fortress::FF2_SpawnWeapon
+L 08/11/2021 - 14:14:59: [SM]   [2] Line 7225, Unofficial Freak Fortress::EquipBoss
+L 08/11/2021 - 14:14:59: [SM]   [3] Line 8002, Unofficial Freak Fortress::Timer_MakeBoss
+L 08/11/2021 - 14:15:00: [SM] Exception reported: Attributes size out of bounds: 16 [0 ... 15]
+L 08/11/2021 - 14:15:00: [SM] Blaming: freak_fortress_2.smx
+L 08/11/2021 - 14:15:00: [SM] Call stack trace:
+L 08/11/2021 - 14:15:00: [SM]   [0] TF2Items_SetNumAttributes
+L 08/11/2021 - 14:15:00: [SM]   [1] Line 18693, Unofficial Freak Fortress::FF2_SpawnWeapon
+L 08/11/2021 - 14:15:00: [SM]   [2] Line 7225, Unofficial Freak Fortress::EquipBoss
+L 08/11/2021 - 14:15:00: [SM]   [3] Line 8002, Unofficial Freak Fortress::Timer_MakeBoss
+L 08/11/2021 - 14:18:16: Error log file session closed.
+L 08/11/2021 - 14:29:03: SourceMod error session started
+L 08/11/2021 - 14:29:03: Info (map "vsh_castle_siege_unreal_sg1") (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/errors_20210811.log")
+L 08/11/2021 - 14:29:03: [SM] Plugin "roundtimer.smx" encountered error 23: Native detected error
+L 08/11/2021 - 14:29:03: [SM] Invalid timer handle 79af07dd (error 3) during timer end, displayed function is timer callback, not the stack trace
+L 08/11/2021 - 14:29:03: [SM] Unable to call function "Timer_Round" due to above error(s).
+L 08/11/2021 - 15:24:33: Error log file session closed.
+L 08/11/2021 - 16:14:08: SourceMod error session started
+L 08/11/2021 - 16:14:08: Info (map "vsh_starboard_rc2") (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/errors_20210811.log")
+L 08/11/2021 - 16:14:08: [freaks/shadow93_abilities.ff2] [SHADoW93 Minions] mochi was not resized to avoid getting stuck!
+L 08/11/2021 - 16:14:08: [freaks/ff2_salmon.ff2] [SHADoW93 Minions] mochi was not resized to avoid getting stuck!
+L 08/11/2021 - 16:31:57: Error log file session closed.
+L 08/11/2021 - 16:55:52: SourceMod error session started
+L 08/11/2021 - 16:55:52: Info (map "arena_lumberyard") (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/errors_20210811.log")
+L 08/11/2021 - 16:55:52: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/11/2021 - 16:55:52: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/11/2021 - 17:02:38: SourceMod error session started
+L 08/11/2021 - 17:02:38: Info (map "arena_lumberyard") (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/errors_20210811.log")
+L 08/11/2021 - 17:02:38: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/11/2021 - 17:02:38: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/11/2021 - 17:07:40: SourceMod error session started
+L 08/11/2021 - 17:07:40: Info (map "arena_lumberyard") (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/errors_20210811.log")
+L 08/11/2021 - 17:07:40: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/11/2021 - 17:07:40: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)

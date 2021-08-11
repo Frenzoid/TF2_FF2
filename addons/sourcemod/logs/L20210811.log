@@ -1,0 +1,309 @@
+L 08/11/2021 - 12:47:00: SourceMod log file session started (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/L20210811.log") (Version "1.10.0.6490")
+L 08/11/2021 - 12:47:00: [sm_eviltrail.smx] "mochi<22><[U:1:916634286]><>" removed an evil trail from "also_test<24><BOT><>"
+L 08/11/2021 - 12:47:01: [sm_eviltrail.smx] "mochi<22><[U:1:916634286]><>" removed an evil trail from "test<23><BOT><>"
+L 08/11/2021 - 12:47:02: [sm_eviltrail.smx] "mochi<22><[U:1:916634286]><>" added an evil trail to "mochi<22><[U:1:916634286]><>"
+L 08/11/2021 - 12:47:18: [playercommands.smx] "mochi<22><[U:1:916634286]><>" slayed "test<23><BOT><>"
+L 08/11/2021 - 12:47:18: [playercommands.smx] "mochi<22><[U:1:916634286]><>" slayed "also_test<24><BOT><>"
+L 08/11/2021 - 12:47:36: [SM] Changed map to "vsh_aquaticbase_b5"
+L 08/11/2021 - 12:47:37: -------- Mapchange to vsh_aquaticbase_b5 --------
+L 08/11/2021 - 12:47:44: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/11/2021 - 12:49:55: [playercommands.smx] "mochi<22><[U:1:916634286]><>" slayed "test<25><BOT><>"
+L 08/11/2021 - 12:49:55: [playercommands.smx] "mochi<22><[U:1:916634286]><>" slayed "also_test<26><BOT><>"
+L 08/11/2021 - 12:58:14: [basechat.smx] "Console<0><Console><Console>" triggered sm_say (text The round time has ended, omaewa-mou shindeiru)
+L 08/11/2021 - 12:58:14: [playercommands.smx] "Console<0><Console><Console>" slayed "mochi<22><[U:1:916634286]><>"
+L 08/11/2021 - 12:58:14: [playercommands.smx] "Console<0><Console><Console>" slayed "test<25><BOT><>"
+L 08/11/2021 - 12:58:14: [playercommands.smx] "Console<0><Console><Console>" slayed "also_test<26><BOT><>"
+L 08/11/2021 - 12:59:11: [basecommands.smx] "mochi<22><[U:1:916634286]><>" changed map to "vsh_castle_siege_unreal_sg1"
+L 08/11/2021 - 12:59:14: [SM] Changed map to "vsh_castle_siege_unreal_sg1"
+L 08/11/2021 - 12:59:15: -------- Mapchange to vsh_castle_siege_unreal_sg1 --------
+L 08/11/2021 - 12:59:22: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/11/2021 - 13:01:13: [basecommands.smx] "mochi<22><[U:1:916634286]><>" changed map to "vsh_castle_siege_unreal_sg1"
+L 08/11/2021 - 13:01:16: [SM] Changed map to "vsh_castle_siege_unreal_sg1"
+L 08/11/2021 - 13:01:17: -------- Mapchange to vsh_castle_siege_unreal_sg1 --------
+L 08/11/2021 - 13:01:22: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/11/2021 - 13:05:58: [basecommands.smx] "mochi<22><[U:1:916634286]><>" changed map to "vsh_castle_siege_unreal_sg1"
+L 08/11/2021 - 13:06:01: [SM] Changed map to "vsh_castle_siege_unreal_sg1"
+L 08/11/2021 - 13:06:02: -------- Mapchange to vsh_castle_siege_unreal_sg1 --------
+L 08/11/2021 - 13:06:08: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/11/2021 - 13:13:03: [freak_fortress_2.smx] "mochi<22><[U:1:916634286]><>" activated infinite RAGE on themselves
+L 08/11/2021 - 13:18:30: [freak_fortress_2.smx] "mochi<22><[U:1:916634286]><>" activated infinite RAGE on themselves
+L 08/11/2021 - 13:26:23: [mapchooser_extended.smx] Voting for next map has started.
+L 08/11/2021 - 13:26:53: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_aquaticbase_b5.
+L 08/11/2021 - 13:33:37: [respawn.smx] "mochi<22><[U:1:916634286]><>" respawned "Azel<28><[U:1:101368949]><>"
+L 08/11/2021 - 13:34:06: [freak_fortress_2.smx] "mochi<22><[U:1:916634286]><>" activated infinite RAGE on themselves
+L 08/11/2021 - 13:38:21: [SM] Changed map to "vsh_aquaticbase_b5"
+L 08/11/2021 - 13:38:22: -------- Mapchange to vsh_aquaticbase_b5 --------
+L 08/11/2021 - 13:38:28: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/11/2021 - 13:42:58: [freak_fortress_2.smx] "mochi<22><[U:1:916634286]><>" activated infinite RAGE on themselves
+L 08/11/2021 - 13:50:29: [basecommands.smx] "mochi<22><[U:1:916634286]><>" changed map to "vsh_castle_siege_unreal_sg1"
+L 08/11/2021 - 13:50:32: [SM] Changed map to "vsh_castle_siege_unreal_sg1"
+L 08/11/2021 - 13:50:34: -------- Mapchange to vsh_castle_siege_unreal_sg1 --------
+L 08/11/2021 - 13:50:41: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/11/2021 - 13:53:14: [freak_fortress_2.smx] "mochi<22><[U:1:916634286]><>" activated infinite RAGE on themselves
+L 08/11/2021 - 13:54:48: [funcommands.smx] "mochi<22><[U:1:916634286]><>" set a beacon on "Azel<28><[U:1:101368949]><>"
+L 08/11/2021 - 13:54:59: [funcommands.smx] "mochi<22><[U:1:916634286]><>" froze "Azel<28><[U:1:101368949]><>"
+L 08/11/2021 - 13:58:58: [respawn.smx] "Azel<28><[U:1:101368949]><>" respawned "Azel<28><[U:1:101368949]><>"
+L 08/11/2021 - 14:01:01: [playercommands.smx] "mochi<22><[U:1:916634286]><>" slapped "Azel<28><[U:1:101368949]><>" (damage "0")
+L 08/11/2021 - 14:01:02: [playercommands.smx] "mochi<22><[U:1:916634286]><>" slapped "Azel<28><[U:1:101368949]><>" (damage "0")
+L 08/11/2021 - 14:01:02: [playercommands.smx] "mochi<22><[U:1:916634286]><>" slapped "Azel<28><[U:1:101368949]><>" (damage "0")
+L 08/11/2021 - 14:01:02: [playercommands.smx] "mochi<22><[U:1:916634286]><>" slapped "Azel<28><[U:1:101368949]><>" (damage "0")
+L 08/11/2021 - 14:01:02: [playercommands.smx] "mochi<22><[U:1:916634286]><>" slapped "Azel<28><[U:1:101368949]><>" (damage "0")
+L 08/11/2021 - 14:01:02: [playercommands.smx] "mochi<22><[U:1:916634286]><>" slapped "Azel<28><[U:1:101368949]><>" (damage "0")
+L 08/11/2021 - 14:01:02: [playercommands.smx] "mochi<22><[U:1:916634286]><>" slapped "Azel<28><[U:1:101368949]><>" (damage "0")
+L 08/11/2021 - 14:01:02: [playercommands.smx] "mochi<22><[U:1:916634286]><>" slapped "Azel<28><[U:1:101368949]><>" (damage "0")
+L 08/11/2021 - 14:01:03: [playercommands.smx] "mochi<22><[U:1:916634286]><>" slapped "Azel<28><[U:1:101368949]><>" (damage "0")
+L 08/11/2021 - 14:01:13: [playercommands.smx] "Azel<28><[U:1:101368949]><>" slapped "Azel<28><[U:1:101368949]><>" (damage "0")
+L 08/11/2021 - 14:01:13: [playercommands.smx] "Azel<28><[U:1:101368949]><>" slapped "Azel<28><[U:1:101368949]><>" (damage "0")
+L 08/11/2021 - 14:01:13: [playercommands.smx] "Azel<28><[U:1:101368949]><>" slapped "Azel<28><[U:1:101368949]><>" (damage "0")
+L 08/11/2021 - 14:01:13: [playercommands.smx] "Azel<28><[U:1:101368949]><>" slapped "Azel<28><[U:1:101368949]><>" (damage "0")
+L 08/11/2021 - 14:01:13: [playercommands.smx] "Azel<28><[U:1:101368949]><>" slapped "Azel<28><[U:1:101368949]><>" (damage "0")
+L 08/11/2021 - 14:01:14: [playercommands.smx] "Azel<28><[U:1:101368949]><>" slapped "Azel<28><[U:1:101368949]><>" (damage "0")
+L 08/11/2021 - 14:01:14: [playercommands.smx] "Azel<28><[U:1:101368949]><>" slapped "Azel<28><[U:1:101368949]><>" (damage "0")
+L 08/11/2021 - 14:01:19: [playercommands.smx] "Azel<28><[U:1:101368949]><>" slapped "Azel<28><[U:1:101368949]><>" (damage "0")
+L 08/11/2021 - 14:01:19: [playercommands.smx] "Azel<28><[U:1:101368949]><>" slapped "Azel<28><[U:1:101368949]><>" (damage "0")
+L 08/11/2021 - 14:01:19: [playercommands.smx] "Azel<28><[U:1:101368949]><>" slapped "Azel<28><[U:1:101368949]><>" (damage "0")
+L 08/11/2021 - 14:01:22: [playercommands.smx] "Azel<28><[U:1:101368949]><>" slapped "Azel<28><[U:1:101368949]><>" (damage "0")
+L 08/11/2021 - 14:01:22: [playercommands.smx] "Azel<28><[U:1:101368949]><>" slapped "Azel<28><[U:1:101368949]><>" (damage "0")
+L 08/11/2021 - 14:01:23: [playercommands.smx] "Azel<28><[U:1:101368949]><>" slapped "Azel<28><[U:1:101368949]><>" (damage "0")
+L 08/11/2021 - 14:01:23: [playercommands.smx] "Azel<28><[U:1:101368949]><>" slapped "Azel<28><[U:1:101368949]><>" (damage "0")
+L 08/11/2021 - 14:01:24: [playercommands.smx] "Azel<28><[U:1:101368949]><>" slapped "Azel<28><[U:1:101368949]><>" (damage "0")
+L 08/11/2021 - 14:01:24: [playercommands.smx] "Azel<28><[U:1:101368949]><>" slapped "Azel<28><[U:1:101368949]><>" (damage "0")
+L 08/11/2021 - 14:01:24: [playercommands.smx] "Azel<28><[U:1:101368949]><>" slapped "Azel<28><[U:1:101368949]><>" (damage "0")
+L 08/11/2021 - 14:01:24: [playercommands.smx] "Azel<28><[U:1:101368949]><>" slapped "Azel<28><[U:1:101368949]><>" (damage "0")
+L 08/11/2021 - 14:01:24: [playercommands.smx] "Azel<28><[U:1:101368949]><>" slapped "Azel<28><[U:1:101368949]><>" (damage "0")
+L 08/11/2021 - 14:01:25: [playercommands.smx] "Azel<28><[U:1:101368949]><>" slapped "Azel<28><[U:1:101368949]><>" (damage "0")
+L 08/11/2021 - 14:01:25: [playercommands.smx] "Azel<28><[U:1:101368949]><>" slapped "Azel<28><[U:1:101368949]><>" (damage "0")
+L 08/11/2021 - 14:01:25: [playercommands.smx] "Azel<28><[U:1:101368949]><>" slapped "Azel<28><[U:1:101368949]><>" (damage "0")
+L 08/11/2021 - 14:01:25: [playercommands.smx] "Azel<28><[U:1:101368949]><>" slapped "Azel<28><[U:1:101368949]><>" (damage "0")
+L 08/11/2021 - 14:01:25: [playercommands.smx] "Azel<28><[U:1:101368949]><>" slapped "Azel<28><[U:1:101368949]><>" (damage "0")
+L 08/11/2021 - 14:01:26: [playercommands.smx] "Azel<28><[U:1:101368949]><>" slapped "Azel<28><[U:1:101368949]><>" (damage "0")
+L 08/11/2021 - 14:01:26: [playercommands.smx] "Azel<28><[U:1:101368949]><>" slapped "Azel<28><[U:1:101368949]><>" (damage "0")
+L 08/11/2021 - 14:01:40: [funcommands.smx] "mochi<22><[U:1:916634286]><>" set a beacon on "Azel<28><[U:1:101368949]><>"
+L 08/11/2021 - 14:01:42: [playercommands.smx] "Azel<28><[U:1:101368949]><>" slapped "Portable Dispenser :P<27><[U:1:1083392120]><>" (damage "0")
+L 08/11/2021 - 14:01:42: [playercommands.smx] "Azel<28><[U:1:101368949]><>" slapped "Portable Dispenser :P<27><[U:1:1083392120]><>" (damage "0")
+L 08/11/2021 - 14:01:42: [playercommands.smx] "Azel<28><[U:1:101368949]><>" slapped "Portable Dispenser :P<27><[U:1:1083392120]><>" (damage "0")
+L 08/11/2021 - 14:01:43: [playercommands.smx] "Azel<28><[U:1:101368949]><>" slapped "Portable Dispenser :P<27><[U:1:1083392120]><>" (damage "0")
+L 08/11/2021 - 14:01:43: [playercommands.smx] "Azel<28><[U:1:101368949]><>" slapped "Portable Dispenser :P<27><[U:1:1083392120]><>" (damage "0")
+L 08/11/2021 - 14:01:48: [playercommands.smx] "Azel<28><[U:1:101368949]><>" slapped "Portable Dispenser :P<27><[U:1:1083392120]><>" (damage "0")
+L 08/11/2021 - 14:01:49: [playercommands.smx] "Azel<28><[U:1:101368949]><>" slapped "Portable Dispenser :P<27><[U:1:1083392120]><>" (damage "0")
+L 08/11/2021 - 14:01:51: [funcommands.smx] "mochi<22><[U:1:916634286]><>" froze "Azel<28><[U:1:101368949]><>"
+L 08/11/2021 - 14:01:53: [playercommands.smx] "Azel<28><[U:1:101368949]><>" slapped "Portable Dispenser :P<27><[U:1:1083392120]><>" (damage "0")
+L 08/11/2021 - 14:01:53: [playercommands.smx] "Azel<28><[U:1:101368949]><>" slapped "Portable Dispenser :P<27><[U:1:1083392120]><>" (damage "0")
+L 08/11/2021 - 14:01:53: [playercommands.smx] "Azel<28><[U:1:101368949]><>" slapped "Portable Dispenser :P<27><[U:1:1083392120]><>" (damage "0")
+L 08/11/2021 - 14:01:54: [playercommands.smx] "Azel<28><[U:1:101368949]><>" slapped "Portable Dispenser :P<27><[U:1:1083392120]><>" (damage "0")
+L 08/11/2021 - 14:01:54: [playercommands.smx] "Azel<28><[U:1:101368949]><>" slapped "Portable Dispenser :P<27><[U:1:1083392120]><>" (damage "0")
+L 08/11/2021 - 14:01:54: [playercommands.smx] "Azel<28><[U:1:101368949]><>" slapped "Portable Dispenser :P<27><[U:1:1083392120]><>" (damage "0")
+L 08/11/2021 - 14:01:54: [playercommands.smx] "Azel<28><[U:1:101368949]><>" slapped "Portable Dispenser :P<27><[U:1:1083392120]><>" (damage "0")
+L 08/11/2021 - 14:01:54: [playercommands.smx] "Azel<28><[U:1:101368949]><>" slapped "Portable Dispenser :P<27><[U:1:1083392120]><>" (damage "0")
+L 08/11/2021 - 14:01:54: [playercommands.smx] "Azel<28><[U:1:101368949]><>" slapped "Portable Dispenser :P<27><[U:1:1083392120]><>" (damage "0")
+L 08/11/2021 - 14:01:55: [playercommands.smx] "Azel<28><[U:1:101368949]><>" slapped "Portable Dispenser :P<27><[U:1:1083392120]><>" (damage "0")
+L 08/11/2021 - 14:01:55: [playercommands.smx] "Azel<28><[U:1:101368949]><>" slapped "Portable Dispenser :P<27><[U:1:1083392120]><>" (damage "0")
+L 08/11/2021 - 14:01:56: [playercommands.smx] "Azel<28><[U:1:101368949]><>" slapped "Portable Dispenser :P<27><[U:1:1083392120]><>" (damage "0")
+L 08/11/2021 - 14:01:56: [playercommands.smx] "Azel<28><[U:1:101368949]><>" slapped "Portable Dispenser :P<27><[U:1:1083392120]><>" (damage "0")
+L 08/11/2021 - 14:01:56: [playercommands.smx] "Azel<28><[U:1:101368949]><>" slapped "Portable Dispenser :P<27><[U:1:1083392120]><>" (damage "0")
+L 08/11/2021 - 14:01:56: [playercommands.smx] "Azel<28><[U:1:101368949]><>" slapped "Portable Dispenser :P<27><[U:1:1083392120]><>" (damage "0")
+L 08/11/2021 - 14:01:56: [playercommands.smx] "Azel<28><[U:1:101368949]><>" slapped "Portable Dispenser :P<27><[U:1:1083392120]><>" (damage "0")
+L 08/11/2021 - 14:01:56: [playercommands.smx] "Azel<28><[U:1:101368949]><>" slapped "Portable Dispenser :P<27><[U:1:1083392120]><>" (damage "0")
+L 08/11/2021 - 14:01:57: [playercommands.smx] "Azel<28><[U:1:101368949]><>" slapped "Portable Dispenser :P<27><[U:1:1083392120]><>" (damage "0")
+L 08/11/2021 - 14:01:57: [playercommands.smx] "Azel<28><[U:1:101368949]><>" slapped "Portable Dispenser :P<27><[U:1:1083392120]><>" (damage "0")
+L 08/11/2021 - 14:01:57: [playercommands.smx] "Azel<28><[U:1:101368949]><>" slapped "Portable Dispenser :P<27><[U:1:1083392120]><>" (damage "0")
+L 08/11/2021 - 14:01:57: [playercommands.smx] "Azel<28><[U:1:101368949]><>" slapped "Portable Dispenser :P<27><[U:1:1083392120]><>" (damage "0")
+L 08/11/2021 - 14:01:57: [playercommands.smx] "Azel<28><[U:1:101368949]><>" slapped "Portable Dispenser :P<27><[U:1:1083392120]><>" (damage "0")
+L 08/11/2021 - 14:01:57: [playercommands.smx] "Azel<28><[U:1:101368949]><>" slapped "Portable Dispenser :P<27><[U:1:1083392120]><>" (damage "0")
+L 08/11/2021 - 14:01:57: [playercommands.smx] "Azel<28><[U:1:101368949]><>" slapped "Portable Dispenser :P<27><[U:1:1083392120]><>" (damage "0")
+L 08/11/2021 - 14:01:58: [playercommands.smx] "Azel<28><[U:1:101368949]><>" slapped "Portable Dispenser :P<27><[U:1:1083392120]><>" (damage "0")
+L 08/11/2021 - 14:01:58: [playercommands.smx] "Azel<28><[U:1:101368949]><>" slapped "Portable Dispenser :P<27><[U:1:1083392120]><>" (damage "0")
+L 08/11/2021 - 14:01:58: [playercommands.smx] "Azel<28><[U:1:101368949]><>" slapped "Portable Dispenser :P<27><[U:1:1083392120]><>" (damage "0")
+L 08/11/2021 - 14:01:59: [playercommands.smx] "Azel<28><[U:1:101368949]><>" slapped "Portable Dispenser :P<27><[U:1:1083392120]><>" (damage "0")
+L 08/11/2021 - 14:01:59: [playercommands.smx] "Azel<28><[U:1:101368949]><>" slapped "Portable Dispenser :P<27><[U:1:1083392120]><>" (damage "0")
+L 08/11/2021 - 14:02:00: [playercommands.smx] "Azel<28><[U:1:101368949]><>" slapped "Portable Dispenser :P<27><[U:1:1083392120]><>" (damage "0")
+L 08/11/2021 - 14:02:00: [playercommands.smx] "Azel<28><[U:1:101368949]><>" slapped "Portable Dispenser :P<27><[U:1:1083392120]><>" (damage "0")
+L 08/11/2021 - 14:02:21: [funcommandsX.smx] "Azel<28><[U:1:101368949]><>" teleported "Azel<28><[U:1:101368949]><>"
+L 08/11/2021 - 14:02:22: [funcommandsX.smx] "Azel<28><[U:1:101368949]><>" teleported "Azel<28><[U:1:101368949]><>"
+L 08/11/2021 - 14:02:25: [funcommandsX.smx] "Azel<28><[U:1:101368949]><>" teleported "Azel<28><[U:1:101368949]><>"
+L 08/11/2021 - 14:02:30: [funcommandsX.smx] "Azel<28><[U:1:101368949]><>" teleported "Azel<28><[U:1:101368949]><>"
+L 08/11/2021 - 14:02:37: [funcommandsX.smx] "mochi<22><[U:1:916634286]><>" teleported "Azel<28><[U:1:101368949]><>"
+L 08/11/2021 - 14:10:56: [mapchooser_extended.smx] Voting for next map has started.
+L 08/11/2021 - 14:12:38: [basecommands.smx] "mochi<22><[U:1:916634286]><>" changed map to "vsh_castle_siege_unreal_sg1"
+L 08/11/2021 - 14:12:41: [SM] Changed map to "vsh_castle_siege_unreal_sg1"
+L 08/11/2021 - 14:12:42: -------- Mapchange to vsh_castle_siege_unreal_sg1 --------
+L 08/11/2021 - 14:12:48: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/11/2021 - 14:15:26: [freak_fortress_2.smx] "mochi<22><[U:1:916634286]><>" activated infinite RAGE on themselves
+L 08/11/2021 - 14:18:11: [basecommands.smx] "mochi<22><[U:1:916634286]><>" changed map to "vsh_castle_siege_unreal_sg1"
+L 08/11/2021 - 14:18:14: [SM] Changed map to "vsh_castle_siege_unreal_sg1"
+L 08/11/2021 - 14:18:16: -------- Mapchange to vsh_castle_siege_unreal_sg1 --------
+L 08/11/2021 - 14:18:21: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/11/2021 - 14:19:04: [playercommands.smx] "mochi<22><[U:1:916634286]><>" slayed "also_test<32><BOT><>"
+L 08/11/2021 - 14:19:54: [playercommands.smx] "mochi<22><[U:1:916634286]><>" slayed "also_test<32><BOT><>"
+L 08/11/2021 - 14:20:30: [freak_fortress_2.smx] "mochi<22><[U:1:916634286]><>" deactivated infinite RAGE on themselves
+L 08/11/2021 - 14:20:41: [freak_fortress_2.smx] "mochi<22><[U:1:916634286]><>" activated infinite RAGE on themselves
+L 08/11/2021 - 14:29:03: [basechat.smx] "Console<0><Console><Console>" triggered sm_say (text The round time has ended, omaewa-mou shindeiru)
+L 08/11/2021 - 14:29:03: [playercommands.smx] "Console<0><Console><Console>" slayed "mochi<22><[U:1:916634286]><>"
+L 08/11/2021 - 14:29:03: [playercommands.smx] "Console<0><Console><Console>" slayed "test<31><BOT><>"
+L 08/11/2021 - 14:29:03: [playercommands.smx] "Console<0><Console><Console>" slayed "also_test<32><BOT><>"
+L 08/11/2021 - 14:38:35: [mapchooser_extended.smx] Voting for next map has started.
+L 08/11/2021 - 15:24:24: [basecommands.smx] "mochi<34><[U:1:916634286]><>" kicked "test<36><BOT><>" (reason "")
+L 08/11/2021 - 15:24:25: [basecommands.smx] "mochi<34><[U:1:916634286]><>" kicked "also_test<37><BOT><>" (reason "")
+L 08/11/2021 - 15:24:31: [SM] Changed map to "vsh_area_54tress_b4"
+L 08/11/2021 - 15:24:33: -------- Mapchange to vsh_area_54tress_b4 --------
+L 08/11/2021 - 15:24:40: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/11/2021 - 15:26:53: [funcommands.smx] "mochi<34><[U:1:916634286]><>" set a beacon on "Azel<35><[U:1:101368949]><>"
+L 08/11/2021 - 15:28:00: [nominations_extended.smx] mochi nominated vsh_starboard_rc2
+L 08/11/2021 - 15:33:57: [funcommands.smx] "mochi<34><[U:1:916634286]><>" ignited "Azel<35><[U:1:101368949]><>" (seconds "20.000000")
+L 08/11/2021 - 15:34:24: [funcommands.smx] "mochi<34><[U:1:916634286]><>" ignited "Azel<35><[U:1:101368949]><>" (seconds "20.000000")
+L 08/11/2021 - 15:34:27: [funcommands.smx] "mochi<34><[U:1:916634286]><>" froze "Azel<35><[U:1:101368949]><>"
+L 08/11/2021 - 15:44:55: [mapchooser_extended.smx] Voting for next map has started.
+L 08/11/2021 - 15:45:03: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_starboard_rc2.
+L 08/11/2021 - 15:56:45: [SM] Changed map to "vsh_starboard_rc2"
+L 08/11/2021 - 15:56:47: -------- Mapchange to vsh_starboard_rc2 --------
+L 08/11/2021 - 15:56:54: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/11/2021 - 16:02:15: [respawn.smx] "mochi<34><[U:1:916634286]><>" respawned "Portable Dispenser :P<39><[U:1:1083392120]><>"
+L 08/11/2021 - 16:03:20: [funcommands.smx] "mochi<34><[U:1:916634286]><>" toggled noclip on "mochi<34><[U:1:916634286]><>"
+L 08/11/2021 - 16:03:50: [funcommands.smx] "mochi<34><[U:1:916634286]><>" toggled noclip on "mochi<34><[U:1:916634286]><>"
+L 08/11/2021 - 16:10:43: [sm_eviltrail.smx] "MrFrenzoid<38><[U:1:91292555]><>" added an evil trail to "MrFrenzoid<38><[U:1:91292555]><>"
+L 08/11/2021 - 16:14:35: [SetSpeed.smx] "MrFrenzoid<38><[U:1:91292555]><>" set speed of  "Mysty-Kun<33><[U:1:85603876]><>" to (520.000000)
+L 08/11/2021 - 16:14:35: [SetSpeed.smx] "MrFrenzoid<38><[U:1:91292555]><>" set speed of  "mochi<34><[U:1:916634286]><>" to (520.000000)
+L 08/11/2021 - 16:14:35: [SetSpeed.smx] "MrFrenzoid<38><[U:1:91292555]><>" set speed of  "Azel<35><[U:1:101368949]><>" to (520.000000)
+L 08/11/2021 - 16:14:35: [SetSpeed.smx] "MrFrenzoid<38><[U:1:91292555]><>" set speed of  "MrFrenzoid<38><[U:1:91292555]><>" to (520.000000)
+L 08/11/2021 - 16:14:35: [SetSpeed.smx] "MrFrenzoid<38><[U:1:91292555]><>" set speed of  "Portable Dispenser :P<39><[U:1:1083392120]><>" to (520.000000)
+L 08/11/2021 - 16:14:35: [SetSpeed.smx] "MrFrenzoid<38><[U:1:91292555]><>" set speed of  "Milk<40><[U:1:350726162]><>" to (520.000000)
+L 08/11/2021 - 16:14:59: [funcommandsX.smx] "MrFrenzoid<38><[U:1:91292555]><>" made "Mysty-Kun<33><[U:1:85603876]><>" gold
+L 08/11/2021 - 16:15:08: [funcommandsX.smx] "MrFrenzoid<38><[U:1:91292555]><>" enabled disco mode
+L 08/11/2021 - 16:15:51: [funcommands.smx] "MrFrenzoid<38><[U:1:91292555]><>" set a beacon on "Mysty-Kun<33><[U:1:85603876]><>"
+L 08/11/2021 - 16:15:53: [funcommands.smx] "MrFrenzoid<38><[U:1:91292555]><>" removed a beacon on "Mysty-Kun<33><[U:1:85603876]><>"
+L 08/11/2021 - 16:16:15: [nominations_extended.smx] mochi nominated vsh_portside_rc1
+L 08/11/2021 - 16:17:10: [mapchooser_extended.smx] Voting for next map has started.
+L 08/11/2021 - 16:17:23: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_roadfromnowhere_v2.
+L 08/11/2021 - 16:20:56: [respawn.smx] "MrFrenzoid<38><[U:1:91292555]><>" respawned "Azel<35><[U:1:101368949]><>"
+L 08/11/2021 - 16:27:28: [ResizePlayers.smx] "Console<0><Console><Console>" resized "MrFrenzoid<38><[U:1:91292555]><>" to 0.4.
+L 08/11/2021 - 16:27:35: [ResizePlayers.smx] "Console<0><Console><Console>" resized "Mysty-Kun<33><[U:1:85603876]><>" to 0.4.
+L 08/11/2021 - 16:27:35: [ResizePlayers.smx] "Console<0><Console><Console>" resized "mochi<34><[U:1:916634286]><>" to 0.4.
+L 08/11/2021 - 16:27:35: [ResizePlayers.smx] "Console<0><Console><Console>" resized "Azel<35><[U:1:101368949]><>" to 0.4.
+L 08/11/2021 - 16:27:35: [ResizePlayers.smx] "Console<0><Console><Console>" resized "MrFrenzoid<38><[U:1:91292555]><>" to 0.4.
+L 08/11/2021 - 16:27:35: [ResizePlayers.smx] "Console<0><Console><Console>" resized "Portable Dispenser :P<39><[U:1:1083392120]><>" to 0.4.
+L 08/11/2021 - 16:27:35: [ResizePlayers.smx] "Console<0><Console><Console>" resized "Milk<43><[U:1:350726162]><>" to 0.4.
+L 08/11/2021 - 16:28:01: [ResizePlayers.smx] "MrFrenzoid<38><[U:1:91292555]><>" resized "MrFrenzoid<38><[U:1:91292555]><>"'s torso to 7.0.
+L 08/11/2021 - 16:28:14: [ResizePlayers.smx] "MrFrenzoid<38><[U:1:91292555]><>" resized "Mysty-Kun<33><[U:1:85603876]><>"'s torso to 7.0.
+L 08/11/2021 - 16:28:14: [ResizePlayers.smx] "MrFrenzoid<38><[U:1:91292555]><>" resized "mochi<34><[U:1:916634286]><>"'s torso to 7.0.
+L 08/11/2021 - 16:28:14: [ResizePlayers.smx] "MrFrenzoid<38><[U:1:91292555]><>" resized "Azel<35><[U:1:101368949]><>"'s torso to 7.0.
+L 08/11/2021 - 16:28:14: [ResizePlayers.smx] "MrFrenzoid<38><[U:1:91292555]><>" resized "MrFrenzoid<38><[U:1:91292555]><>"'s torso to 7.0.
+L 08/11/2021 - 16:28:14: [ResizePlayers.smx] "MrFrenzoid<38><[U:1:91292555]><>" resized "Portable Dispenser :P<39><[U:1:1083392120]><>"'s torso to 7.0.
+L 08/11/2021 - 16:28:14: [ResizePlayers.smx] "MrFrenzoid<38><[U:1:91292555]><>" resized "Milk<43><[U:1:350726162]><>"'s torso to 7.0.
+L 08/11/2021 - 16:28:19: [ResizePlayers.smx] "Console<0><Console><Console>" resized "Mysty-Kun<33><[U:1:85603876]><>" to 0.1.
+L 08/11/2021 - 16:28:19: [ResizePlayers.smx] "Console<0><Console><Console>" resized "mochi<34><[U:1:916634286]><>" to 0.1.
+L 08/11/2021 - 16:28:19: [ResizePlayers.smx] "Console<0><Console><Console>" resized "Azel<35><[U:1:101368949]><>" to 0.1.
+L 08/11/2021 - 16:28:19: [ResizePlayers.smx] "Console<0><Console><Console>" resized "MrFrenzoid<38><[U:1:91292555]><>" to 0.1.
+L 08/11/2021 - 16:28:19: [ResizePlayers.smx] "Console<0><Console><Console>" resized "Portable Dispenser :P<39><[U:1:1083392120]><>" to 0.1.
+L 08/11/2021 - 16:28:19: [ResizePlayers.smx] "Console<0><Console><Console>" resized "Milk<43><[U:1:350726162]><>" to 0.1.
+L 08/11/2021 - 16:28:24: [ResizePlayers.smx] "Console<0><Console><Console>" resized "Mysty-Kun<33><[U:1:85603876]><>" to 0.05.
+L 08/11/2021 - 16:28:24: [ResizePlayers.smx] "Console<0><Console><Console>" resized "mochi<34><[U:1:916634286]><>" to 0.05.
+L 08/11/2021 - 16:28:24: [ResizePlayers.smx] "Console<0><Console><Console>" resized "Azel<35><[U:1:101368949]><>" to 0.05.
+L 08/11/2021 - 16:28:24: [ResizePlayers.smx] "Console<0><Console><Console>" resized "MrFrenzoid<38><[U:1:91292555]><>" to 0.05.
+L 08/11/2021 - 16:28:24: [ResizePlayers.smx] "Console<0><Console><Console>" resized "Portable Dispenser :P<39><[U:1:1083392120]><>" to 0.05.
+L 08/11/2021 - 16:28:24: [ResizePlayers.smx] "Console<0><Console><Console>" resized "Milk<43><[U:1:350726162]><>" to 0.05.
+L 08/11/2021 - 16:28:28: [ResizePlayers.smx] "Console<0><Console><Console>" resized "Mysty-Kun<33><[U:1:85603876]><>" to 0.09.
+L 08/11/2021 - 16:28:28: [ResizePlayers.smx] "Console<0><Console><Console>" resized "mochi<34><[U:1:916634286]><>" to 0.09.
+L 08/11/2021 - 16:28:28: [ResizePlayers.smx] "Console<0><Console><Console>" resized "Azel<35><[U:1:101368949]><>" to 0.09.
+L 08/11/2021 - 16:28:28: [ResizePlayers.smx] "Console<0><Console><Console>" resized "MrFrenzoid<38><[U:1:91292555]><>" to 0.09.
+L 08/11/2021 - 16:28:28: [ResizePlayers.smx] "Console<0><Console><Console>" resized "Portable Dispenser :P<39><[U:1:1083392120]><>" to 0.09.
+L 08/11/2021 - 16:28:28: [ResizePlayers.smx] "Console<0><Console><Console>" resized "Milk<43><[U:1:350726162]><>" to 0.09.
+L 08/11/2021 - 16:28:31: [ResizePlayers.smx] "Console<0><Console><Console>" resized "Mysty-Kun<33><[U:1:85603876]><>" to 0.1.
+L 08/11/2021 - 16:28:31: [ResizePlayers.smx] "Console<0><Console><Console>" resized "mochi<34><[U:1:916634286]><>" to 0.1.
+L 08/11/2021 - 16:28:31: [ResizePlayers.smx] "Console<0><Console><Console>" resized "Azel<35><[U:1:101368949]><>" to 0.1.
+L 08/11/2021 - 16:28:31: [ResizePlayers.smx] "Console<0><Console><Console>" resized "MrFrenzoid<38><[U:1:91292555]><>" to 0.1.
+L 08/11/2021 - 16:28:31: [ResizePlayers.smx] "Console<0><Console><Console>" resized "Portable Dispenser :P<39><[U:1:1083392120]><>" to 0.1.
+L 08/11/2021 - 16:28:31: [ResizePlayers.smx] "Console<0><Console><Console>" resized "Milk<43><[U:1:350726162]><>" to 0.1.
+L 08/11/2021 - 16:28:46: [ResizePlayers.smx] "Console<0><Console><Console>" resized "Mysty-Kun<33><[U:1:85603876]><>" to 0.5.
+L 08/11/2021 - 16:28:46: [ResizePlayers.smx] "Console<0><Console><Console>" resized "mochi<34><[U:1:916634286]><>" to 0.5.
+L 08/11/2021 - 16:28:46: [ResizePlayers.smx] "Console<0><Console><Console>" resized "Azel<35><[U:1:101368949]><>" to 0.5.
+L 08/11/2021 - 16:28:46: [ResizePlayers.smx] "Console<0><Console><Console>" resized "MrFrenzoid<38><[U:1:91292555]><>" to 0.5.
+L 08/11/2021 - 16:28:46: [ResizePlayers.smx] "Console<0><Console><Console>" resized "Portable Dispenser :P<39><[U:1:1083392120]><>" to 0.5.
+L 08/11/2021 - 16:28:46: [ResizePlayers.smx] "Console<0><Console><Console>" resized "Milk<43><[U:1:350726162]><>" to 0.5.
+L 08/11/2021 - 16:30:00: [ResizePlayers.smx] "Console<0><Console><Console>" resized "Mysty-Kun<33><[U:1:85603876]><>"'s head to 2.0.
+L 08/11/2021 - 16:30:00: [ResizePlayers.smx] "Console<0><Console><Console>" resized "mochi<34><[U:1:916634286]><>"'s head to 2.0.
+L 08/11/2021 - 16:30:00: [ResizePlayers.smx] "Console<0><Console><Console>" resized "Azel<35><[U:1:101368949]><>"'s head to 2.0.
+L 08/11/2021 - 16:30:00: [ResizePlayers.smx] "Console<0><Console><Console>" resized "MrFrenzoid<38><[U:1:91292555]><>"'s head to 2.0.
+L 08/11/2021 - 16:30:00: [ResizePlayers.smx] "Console<0><Console><Console>" resized "Portable Dispenser :P<39><[U:1:1083392120]><>"'s head to 2.0.
+L 08/11/2021 - 16:30:00: [ResizePlayers.smx] "Console<0><Console><Console>" resized "Milk<43><[U:1:350726162]><>"'s head to 2.0.
+L 08/11/2021 - 16:30:01: [ResizePlayers.smx] "Console<0><Console><Console>" resized "Mysty-Kun<33><[U:1:85603876]><>"'s head to 3.0.
+L 08/11/2021 - 16:30:01: [ResizePlayers.smx] "Console<0><Console><Console>" resized "mochi<34><[U:1:916634286]><>"'s head to 3.0.
+L 08/11/2021 - 16:30:01: [ResizePlayers.smx] "Console<0><Console><Console>" resized "Azel<35><[U:1:101368949]><>"'s head to 3.0.
+L 08/11/2021 - 16:30:01: [ResizePlayers.smx] "Console<0><Console><Console>" resized "MrFrenzoid<38><[U:1:91292555]><>"'s head to 3.0.
+L 08/11/2021 - 16:30:01: [ResizePlayers.smx] "Console<0><Console><Console>" resized "Portable Dispenser :P<39><[U:1:1083392120]><>"'s head to 3.0.
+L 08/11/2021 - 16:30:01: [ResizePlayers.smx] "Console<0><Console><Console>" resized "Milk<43><[U:1:350726162]><>"'s head to 3.0.
+L 08/11/2021 - 16:30:04: [ResizePlayers.smx] "Console<0><Console><Console>" resized "Mysty-Kun<33><[U:1:85603876]><>"'s head to 10.0.
+L 08/11/2021 - 16:30:04: [ResizePlayers.smx] "Console<0><Console><Console>" resized "mochi<34><[U:1:916634286]><>"'s head to 10.0.
+L 08/11/2021 - 16:30:04: [ResizePlayers.smx] "Console<0><Console><Console>" resized "Azel<35><[U:1:101368949]><>"'s head to 10.0.
+L 08/11/2021 - 16:30:04: [ResizePlayers.smx] "Console<0><Console><Console>" resized "MrFrenzoid<38><[U:1:91292555]><>"'s head to 10.0.
+L 08/11/2021 - 16:30:04: [ResizePlayers.smx] "Console<0><Console><Console>" resized "Portable Dispenser :P<39><[U:1:1083392120]><>"'s head to 10.0.
+L 08/11/2021 - 16:30:04: [ResizePlayers.smx] "Console<0><Console><Console>" resized "Milk<43><[U:1:350726162]><>"'s head to 10.0.
+L 08/11/2021 - 16:31:04: [ResizePlayers.smx] "Console<0><Console><Console>" resized "Mysty-Kun<33><[U:1:85603876]><>"'s head to 1.0.
+L 08/11/2021 - 16:31:04: [ResizePlayers.smx] "Console<0><Console><Console>" resized "mochi<34><[U:1:916634286]><>"'s head to 1.0.
+L 08/11/2021 - 16:31:04: [ResizePlayers.smx] "Console<0><Console><Console>" resized "Azel<35><[U:1:101368949]><>"'s head to 1.0.
+L 08/11/2021 - 16:31:04: [ResizePlayers.smx] "Console<0><Console><Console>" resized "MrFrenzoid<38><[U:1:91292555]><>"'s head to 1.0.
+L 08/11/2021 - 16:31:04: [ResizePlayers.smx] "Console<0><Console><Console>" resized "Portable Dispenser :P<39><[U:1:1083392120]><>"'s head to 1.0.
+L 08/11/2021 - 16:31:04: [ResizePlayers.smx] "Console<0><Console><Console>" resized "Milk<43><[U:1:350726162]><>"'s head to 1.0.
+L 08/11/2021 - 16:31:13: [ResizePlayers.smx] "Console<0><Console><Console>" resized "Mysty-Kun<33><[U:1:85603876]><>"'s head to 0.01.
+L 08/11/2021 - 16:31:13: [ResizePlayers.smx] "Console<0><Console><Console>" resized "mochi<34><[U:1:916634286]><>"'s head to 0.01.
+L 08/11/2021 - 16:31:13: [ResizePlayers.smx] "Console<0><Console><Console>" resized "Azel<35><[U:1:101368949]><>"'s head to 0.01.
+L 08/11/2021 - 16:31:13: [ResizePlayers.smx] "Console<0><Console><Console>" resized "MrFrenzoid<38><[U:1:91292555]><>"'s head to 0.01.
+L 08/11/2021 - 16:31:13: [ResizePlayers.smx] "Console<0><Console><Console>" resized "Portable Dispenser :P<39><[U:1:1083392120]><>"'s head to 0.01.
+L 08/11/2021 - 16:31:13: [ResizePlayers.smx] "Console<0><Console><Console>" resized "Milk<43><[U:1:350726162]><>"'s head to 0.01.
+L 08/11/2021 - 16:31:28: [ResizePlayers.smx] "Console<0><Console><Console>" resized "Mysty-Kun<33><[U:1:85603876]><>"'s torso to 0.1.
+L 08/11/2021 - 16:31:28: [ResizePlayers.smx] "Console<0><Console><Console>" resized "mochi<34><[U:1:916634286]><>"'s torso to 0.1.
+L 08/11/2021 - 16:31:28: [ResizePlayers.smx] "Console<0><Console><Console>" resized "Azel<35><[U:1:101368949]><>"'s torso to 0.1.
+L 08/11/2021 - 16:31:28: [ResizePlayers.smx] "Console<0><Console><Console>" resized "MrFrenzoid<38><[U:1:91292555]><>"'s torso to 0.1.
+L 08/11/2021 - 16:31:28: [ResizePlayers.smx] "Console<0><Console><Console>" resized "Portable Dispenser :P<39><[U:1:1083392120]><>"'s torso to 0.1.
+L 08/11/2021 - 16:31:28: [ResizePlayers.smx] "Console<0><Console><Console>" resized "Milk<43><[U:1:350726162]><>"'s torso to 0.1.
+L 08/11/2021 - 16:31:37: [ResizePlayers.smx] "Console<0><Console><Console>" resized "Mysty-Kun<33><[U:1:85603876]><>" to 1.0.
+L 08/11/2021 - 16:31:37: [ResizePlayers.smx] "Console<0><Console><Console>" resized "mochi<34><[U:1:916634286]><>" to 1.0.
+L 08/11/2021 - 16:31:37: [ResizePlayers.smx] "Console<0><Console><Console>" resized "Azel<35><[U:1:101368949]><>" to 1.0.
+L 08/11/2021 - 16:31:37: [ResizePlayers.smx] "Console<0><Console><Console>" resized "MrFrenzoid<38><[U:1:91292555]><>" to 1.0.
+L 08/11/2021 - 16:31:37: [ResizePlayers.smx] "Console<0><Console><Console>" resized "Portable Dispenser :P<39><[U:1:1083392120]><>" to 1.0.
+L 08/11/2021 - 16:31:37: [ResizePlayers.smx] "Console<0><Console><Console>" resized "Milk<43><[U:1:350726162]><>" to 1.0.
+L 08/11/2021 - 16:31:55: [SM] Changed map to "vsh_roadfromnowhere_v2"
+L 08/11/2021 - 16:31:57: -------- Mapchange to vsh_roadfromnowhere_v2 --------
+L 08/11/2021 - 16:32:03: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/11/2021 - 16:33:56: [respawn.smx] "MrFrenzoid<38><[U:1:91292555]><>" respawned "Mysty-Kun<33><[U:1:85603876]><>"
+L 08/11/2021 - 16:33:57: [respawn.smx] "MrFrenzoid<38><[U:1:91292555]><>" respawned "mochi<34><[U:1:916634286]><>"
+L 08/11/2021 - 16:35:17: [freak_fortress_2.smx] "mochi<34><[U:1:916634286]><>" activated infinite RAGE on themselves
+L 08/11/2021 - 16:37:09: [ResizePlayers.smx] "Console<0><Console><Console>" resized "Mysty-Kun<33><[U:1:85603876]><>"'s torso to 0.1.
+L 08/11/2021 - 16:37:09: [ResizePlayers.smx] "Console<0><Console><Console>" resized "mochi<34><[U:1:916634286]><>"'s torso to 0.1.
+L 08/11/2021 - 16:37:09: [ResizePlayers.smx] "Console<0><Console><Console>" resized "MrFrenzoid<38><[U:1:91292555]><>"'s torso to 0.1.
+L 08/11/2021 - 16:37:09: [ResizePlayers.smx] "Console<0><Console><Console>" resized "Portable Dispenser :P<39><[U:1:1083392120]><>"'s torso to 0.1.
+L 08/11/2021 - 16:37:09: [ResizePlayers.smx] "Console<0><Console><Console>" resized "Milk<43><[U:1:350726162]><>"'s torso to 0.1.
+L 08/11/2021 - 16:37:19: [ResizePlayers.smx] "Console<0><Console><Console>" resized "Mysty-Kun<33><[U:1:85603876]><>"'s head to 3.0.
+L 08/11/2021 - 16:37:19: [ResizePlayers.smx] "Console<0><Console><Console>" resized "mochi<34><[U:1:916634286]><>"'s head to 3.0.
+L 08/11/2021 - 16:37:19: [ResizePlayers.smx] "Console<0><Console><Console>" resized "MrFrenzoid<38><[U:1:91292555]><>"'s head to 3.0.
+L 08/11/2021 - 16:37:19: [ResizePlayers.smx] "Console<0><Console><Console>" resized "Portable Dispenser :P<39><[U:1:1083392120]><>"'s head to 3.0.
+L 08/11/2021 - 16:37:19: [ResizePlayers.smx] "Console<0><Console><Console>" resized "Milk<43><[U:1:350726162]><>"'s head to 3.0.
+L 08/11/2021 - 16:48:56: [basecommands.smx] "MrFrenzoid<45><[U:1:91292555]><>" changed map to "vsh_crevice_b5"
+L 08/11/2021 - 16:48:59: [SM] Changed map to "vsh_crevice_b5"
+L 08/11/2021 - 16:49:02: -------- Mapchange to vsh_crevice_b5 --------
+L 08/11/2021 - 16:49:08: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/11/2021 - 16:53:08: [basecommands.smx] "MrFrenzoid<45><[U:1:91292555]><>" changed map to "vsh_crevice_b5"
+L 08/11/2021 - 16:53:11: [SM] Changed map to "vsh_crevice_b5"
+L 08/11/2021 - 16:53:13: -------- Mapchange to vsh_crevice_b5 --------
+L 08/11/2021 - 16:53:19: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/11/2021 - 16:55:32: Log file closed.
+L 08/11/2021 - 16:55:51: SourceMod log file session started (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/L20210811.log") (Version "1.10.0.6490")
+L 08/11/2021 - 16:55:51: [TF2ITEMS] "GiveNamedItem" offset = 485
+L 08/11/2021 - 16:55:52: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 08/11/2021 - 16:55:52: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 08/11/2021 - 16:55:52: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 08/11/2021 - 16:55:52: [freak_fortress_2.smx] Freak Fortress 2 202002 Loading...
+L 08/11/2021 - 16:56:05: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/11/2021 - 17:02:38: SourceMod log file session started (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/L20210811.log") (Version "1.10.0.6490")
+L 08/11/2021 - 17:02:38: [TF2ITEMS] "GiveNamedItem" offset = 485
+L 08/11/2021 - 17:02:38: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 08/11/2021 - 17:02:38: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 08/11/2021 - 17:02:38: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 08/11/2021 - 17:02:38: [freak_fortress_2.smx] Freak Fortress 2 202002 Loading...
+L 08/11/2021 - 17:02:45: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/11/2021 - 17:07:40: SourceMod log file session started (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/L20210811.log") (Version "1.10.0.6490")
+L 08/11/2021 - 17:07:40: [TF2ITEMS] "GiveNamedItem" offset = 485
+L 08/11/2021 - 17:07:40: [funcommandsX.smx] Game detected as Team Fortress 2: Source (GAME_TF2)
+L 08/11/2021 - 17:07:40: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 08/11/2021 - 17:07:40: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 08/11/2021 - 17:07:40: [freak_fortress_2.smx] Freak Fortress 2 202002 Loading...
+L 08/11/2021 - 17:07:48: [mapchooser_extended.smx] Loaded map list for tf.
