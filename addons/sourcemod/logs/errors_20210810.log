@@ -25,3 +25,25 @@ L 08/10/2021 - 12:30:09: SourceMod error session started
 L 08/10/2021 - 12:30:09: Info (map "arena_lumberyard") (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/errors_20210810.log")
 L 08/10/2021 - 12:30:09: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
 L 08/10/2021 - 12:30:10: [store.smx] Gifts! isn't installed or failed to load. Gifts support will be disabled. Please install Gifts. (http://forums.alliedmods.net/showthread.php?t=175185)
+L 08/10/2021 - 13:03:59: [SM] Plugin "roundtimer.smx" encountered error 23: Native detected error
+L 08/10/2021 - 13:03:59: [SM] Invalid timer handle 97d504b7 (error 3) during timer end, displayed function is timer callback, not the stack trace
+L 08/10/2021 - 13:03:59: [SM] Unable to call function "Timer_Round" due to above error(s).
+L 08/10/2021 - 13:04:19: Error log file session closed.
+L 08/10/2021 - 13:30:26: SourceMod error session started
+L 08/10/2021 - 13:30:26: Info (map "vsh_nebula_rc1") (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/errors_20210810.log")
+L 08/10/2021 - 13:30:26: [SM] Plugin "roundtimer.smx" encountered error 23: Native detected error
+L 08/10/2021 - 13:30:26: [SM] Invalid timer handle 70aa04b3 (error 3) during timer end, displayed function is timer callback, not the stack trace
+L 08/10/2021 - 13:30:26: [SM] Unable to call function "Timer_Round" due to above error(s).
+L 08/10/2021 - 13:42:44: Error log file session closed.
+L 08/10/2021 - 16:20:37: SourceMod error session started
+L 08/10/2021 - 16:20:37: Info (map "vsh_castle_siege_unreal_sg1") (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/errors_20210810.log")
+L 08/10/2021 - 16:20:37: [SM] Plugin "roundtimer.smx" encountered error 23: Native detected error
+L 08/10/2021 - 16:20:37: [SM] Invalid timer handle b8fb051b (error 3) during timer end, displayed function is timer callback, not the stack trace
+L 08/10/2021 - 16:20:37: [SM] Unable to call function "Timer_Round" due to above error(s).
+L 08/10/2021 - 16:28:55: [SM] Plugin "roundtimer.smx" encountered error 23: Native detected error
+L 08/10/2021 - 16:28:55: [SM] Invalid timer handle 405204de (error 3) during timer end, displayed function is timer callback, not the stack trace
+L 08/10/2021 - 16:28:55: [SM] Unable to call function "Timer_Round" due to above error(s).
+L 08/10/2021 - 16:37:13: [SM] Plugin "roundtimer.smx" encountered error 23: Native detected error
+L 08/10/2021 - 16:37:13: [SM] Invalid timer handle c96704de (error 3) during timer end, displayed function is timer callback, not the stack trace
+L 08/10/2021 - 16:37:13: [SM] Unable to call function "Timer_Round" due to above error(s).
+L 08/10/2021 - 16:37:34: Error log file session closed.
