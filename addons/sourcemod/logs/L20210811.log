@@ -307,3 +307,19 @@ L 08/11/2021 - 17:07:40: [simple-chatprocessor.smx] [SCP] Recognized mod [Team F
 L 08/11/2021 - 17:07:40: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
 L 08/11/2021 - 17:07:40: [freak_fortress_2.smx] Freak Fortress 2 202002 Loading...
 L 08/11/2021 - 17:07:48: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/11/2021 - 17:37:18: [respawn.smx] "mochi<3><[U:1:916634286]><>" respawned "fuzzle<2><[U:1:136056777]><>"
+L 08/11/2021 - 17:37:45: [respawn.smx] "mochi<3><[U:1:916634286]><>" respawned "fuzzle<2><[U:1:136056777]><>"
+L 08/11/2021 - 17:38:09: [respawn.smx] "mochi<3><[U:1:916634286]><>" respawned "fuzzle<2><[U:1:136056777]><>"
+L 08/11/2021 - 17:46:01: [basecommands.smx] "mochi<3><[U:1:916634286]><>" changed map to "vsh_aperture_b4"
+L 08/11/2021 - 17:46:04: [SM] Changed map to "vsh_aperture_b4"
+L 08/11/2021 - 17:46:07: -------- Mapchange to vsh_aperture_b4 --------
+L 08/11/2021 - 17:46:14: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/11/2021 - 17:55:49: [basechat.smx] "Console<0><Console><Console>" triggered sm_say (text The round time has ended, omaewa-mou shindeiru)
+L 08/11/2021 - 17:55:49: [playercommands.smx] "Console<0><Console><Console>" slayed "fuzzle<2><[U:1:136056777]><>"
+L 08/11/2021 - 17:55:49: [playercommands.smx] "Console<0><Console><Console>" slayed "mochi<3><[U:1:916634286]><>"
+L 08/11/2021 - 17:55:49: [playercommands.smx] "Console<0><Console><Console>" slayed "test<6><BOT><>"
+L 08/11/2021 - 17:58:36: [basecommands.smx] "mochi<3><[U:1:916634286]><>" changed map to "vsh_castle_siege_unreal_sg1"
+L 08/11/2021 - 17:58:39: [SM] Changed map to "vsh_castle_siege_unreal_sg1"
+L 08/11/2021 - 17:58:41: -------- Mapchange to vsh_castle_siege_unreal_sg1 --------
+L 08/11/2021 - 17:58:47: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/11/2021 - 18:19:01: [mapchooser_extended.smx] Voting for next map has started.
