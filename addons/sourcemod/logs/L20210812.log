@@ -1,0 +1,27 @@
+L 08/12/2021 - 09:47:04: SourceMod log file session started (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/L20210812.log") (Version "1.10.0.6490")
+L 08/12/2021 - 09:47:04: [SM] Changed map to "vsh_skyhigh_resort_b8_sg4"
+L 08/12/2021 - 09:47:06: -------- Mapchange to vsh_skyhigh_resort_b8_sg4 --------
+L 08/12/2021 - 09:47:13: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/12/2021 - 10:00:17: [respawn.smx] "mochi<9><[U:1:916634286]><>" respawned "Noperman<11><[U:1:873188556]><>"
+L 08/12/2021 - 10:00:31: [respawn.smx] "mochi<9><[U:1:916634286]><>" respawned "fuzzle<10><[U:1:136056777]><>"
+L 08/12/2021 - 10:00:48: [respawn.smx] "mochi<9><[U:1:916634286]><>" respawned "fuzzle<10><[U:1:136056777]><>"
+L 08/12/2021 - 10:01:08: [respawn.smx] "mochi<9><[U:1:916634286]><>" respawned "fuzzle<10><[U:1:136056777]><>"
+L 08/12/2021 - 10:02:01: [respawn.smx] "mochi<9><[U:1:916634286]><>" respawned "fuzzle<10><[U:1:136056777]><>"
+L 08/12/2021 - 10:02:17: [playercommands.smx] "mochi<9><[U:1:916634286]><>" renamed "fuzzle<10><[U:1:136056777]><>" (to "muzzle")
+L 08/12/2021 - 10:03:00: [respawn.smx] "mochi<9><[U:1:916634286]><>" respawned "muzzle<10><[U:1:136056777]><>"
+L 08/12/2021 - 10:03:17: [sm_eviltrail.smx] "mochi<9><[U:1:916634286]><>" added an evil trail to "muzzle<10><[U:1:136056777]><>"
+L 08/12/2021 - 10:03:18: [sm_eviltrail.smx] "mochi<9><[U:1:916634286]><>" added an evil trail to "Noperman<11><[U:1:873188556]><>"
+L 08/12/2021 - 10:03:18: [sm_eviltrail.smx] "mochi<9><[U:1:916634286]><>" added an evil trail to "mochi<9><[U:1:916634286]><>"
+L 08/12/2021 - 10:05:13: [basechat.smx] "Console<0><Console><Console>" triggered sm_say (text The round time has ended, omaewa-mou shindeiru)
+L 08/12/2021 - 10:05:13: [playercommands.smx] "Console<0><Console><Console>" slayed "mochi<9><[U:1:916634286]><>"
+L 08/12/2021 - 10:05:13: [playercommands.smx] "Console<0><Console><Console>" slayed "muzzle<10><[U:1:136056777]><>"
+L 08/12/2021 - 10:05:13: [playercommands.smx] "Console<0><Console><Console>" slayed "Noperman<11><[U:1:873188556]><>"
+L 08/12/2021 - 10:07:01: [respawn.smx] "mochi<9><[U:1:916634286]><>" respawned "mochi<9><[U:1:916634286]><>"
+L 08/12/2021 - 10:07:28: [mapchooser_extended.smx] Voting for next map has started.
+L 08/12/2021 - 10:08:04: [mapchooser_extended.smx] Voting for next map has started.
+L 08/12/2021 - 10:08:12: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_gyros_v5.
+L 08/12/2021 - 10:09:56: [sm_eviltrail.smx] "mochi<9><[U:1:916634286]><>" removed an evil trail from "Noperman<11><[U:1:873188556]><>"
+L 08/12/2021 - 10:18:34: [SM] Changed map to "vsh_gyros_v5"
+L 08/12/2021 - 10:18:39: -------- Mapchange to vsh_gyros_v5 --------
+L 08/12/2021 - 10:18:45: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/12/2021 - 10:39:00: [mapchooser_extended.smx] Voting for next map has started.

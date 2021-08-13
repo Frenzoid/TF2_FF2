@@ -1,0 +1,6 @@
+L 08/12/2021 - 10:05:13: SourceMod error session started
+L 08/12/2021 - 10:05:13: Info (map "vsh_skyhigh_resort_b8_sg4") (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/errors_20210812.log")
+L 08/12/2021 - 10:05:13: [SM] Plugin "roundtimer.smx" encountered error 23: Native detected error
+L 08/12/2021 - 10:05:13: [SM] Invalid timer handle 1ffd04ff (error 3) during timer end, displayed function is timer callback, not the stack trace
+L 08/12/2021 - 10:05:13: [SM] Unable to call function "Timer_Round" due to above error(s).
+L 08/12/2021 - 10:18:39: Error log file session closed.
