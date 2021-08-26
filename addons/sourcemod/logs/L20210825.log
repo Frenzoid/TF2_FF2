@@ -1,0 +1,24 @@
+L 08/25/2021 - 21:14:33: SourceMod log file session started (file "/home/frenzoid/TF2_FF2/tf/addons/sourcemod/logs/L20210825.log") (Version "1.10.0.6490")
+L 08/25/2021 - 21:14:33: [SM] Changed map to "vsh_cairo_pyramid_v4"
+L 08/25/2021 - 21:14:35: -------- Mapchange to vsh_cairo_pyramid_v4 --------
+L 08/25/2021 - 21:14:43: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/25/2021 - 21:21:46: [mapchooser_extended.smx] Starting map vote because outside request
+L 08/25/2021 - 21:22:00: [nominations_extended.smx] Prince Anxiolf nominated vsh_nebula_rc1
+L 08/25/2021 - 21:22:02: [mapchooser_extended.smx] Voting for next map has started.
+L 08/25/2021 - 21:22:33: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_void_a1f.
+L 08/25/2021 - 21:22:37: [SM] Changed map to "vsh_void_a1f"
+L 08/25/2021 - 21:22:38: -------- Mapchange to vsh_void_a1f --------
+L 08/25/2021 - 21:22:44: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/25/2021 - 21:43:01: [mapchooser_extended.smx] Voting for next map has started.
+L 08/25/2021 - 21:43:26: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_portside_rc1.
+L 08/25/2021 - 21:53:52: [SM] Changed map to "vsh_portside_rc1"
+L 08/25/2021 - 21:53:54: -------- Mapchange to vsh_portside_rc1 --------
+L 08/25/2021 - 21:54:00: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/25/2021 - 22:13:22: [mapchooser_extended.smx] Starting map vote because outside request
+L 08/25/2021 - 22:13:38: [mapchooser_extended.smx] Voting for next map has started.
+L 08/25/2021 - 22:13:58: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_manncohq_v14.
+L 08/25/2021 - 22:14:02: [SM] Changed map to "vsh_manncohq_v14"
+L 08/25/2021 - 22:14:04: -------- Mapchange to vsh_manncohq_v14 --------
+L 08/25/2021 - 22:14:10: [mapchooser_extended.smx] Loaded map list for tf.
+L 08/25/2021 - 22:34:26: [mapchooser_extended.smx] Voting for next map has started.
+L 08/25/2021 - 22:34:56: [mapchooser_extended.smx] Voting for next map has finished. Nextmap: vsh_intrusion_rc2.
