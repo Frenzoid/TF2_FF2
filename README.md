@@ -122,6 +122,9 @@
 - The `automated` folder contains the following:
   -  `compressallbz2.sh`: A script that compresses all INDIVIDUAL files recusivelly inside their own folder, takes as first argument the path to compress the files from.
   -  `compilemaps.sh`: A script that compiles all maps from `maps/` into `sourcemod/config/mapchooser-extended/maps/tf.txt` and `cfg/mapcycle.txt`
+
+-  `autocommit.sh`: A script ran by crontab every 2 days, it updates this repository with any changes that devs / admins made during the week.
+-  `ipdrop.sh`: A script used to root-block via iptables any ip passded as parameter ( used during a time when people tried to DDoS and Brute Force password attack our services ).
   
 - **ALL CUSTOM FILES MUST HAVE THEIR UNCOMPRESSED BZ2 VERSION BESIDE THEM, FAILURE TO PERFORM THE FOLLOWING *WILL* CAUSE SERVER SIDE ARTIFACTS**
 - `nginxconf.txt`: A default usable FDL NGINX server configuration.
