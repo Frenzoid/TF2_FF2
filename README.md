@@ -116,8 +116,9 @@
 ## How to run this repo on your server.
 - 1) Install your TF2 server on a directory ( any directory will do ).
 - 2) Copy-Paste or git-clone this repository directly in that directory.
-- 3) Configure the rcon password and the databases credentials and addresses.
-- 4) Restart the server.
+- 3) Uncompress all maps, models, sounds... ( look below, theres a bash command which does all of this for you ).
+- 4) Configure the rcon password and the databases credentials and addresses.
+- 5) Restart the server.
 
 ## Contributors.
 - I+D Plugins, sourcepawn scripting, permissions, plugins management and dev  -> [Frenzoid][frenzoidsteam]
