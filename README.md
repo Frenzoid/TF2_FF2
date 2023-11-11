@@ -122,7 +122,7 @@
 - 6) OPTIONAL: If you use a FDL with Nginx, theres a configuration which you might find helpful.
 - 8) OPTIONAL: If you have the `screen` command installed, you can start the server by running the `start_server.sh` script.
 - 9) Start the server.
-- 10) Pray it doesn't crash because of SourceMod has to cope with 100 different plugins developed for different versions of SourcePawn from 1984 to 2024.
+- 10) Pray it doesn't crash because of SourceMod has to cope with 100 different plugins developed for different versions of SourcePawn from the past 24 years.
 
 ## Contributors.
 - I+D Plugins, sourcepawn scripting, permissions, plugins management and dev  -> [Frenzoid][frenzoidsteam]
