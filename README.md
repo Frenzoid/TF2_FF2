@@ -114,11 +114,15 @@
 - 107 "Freak Fortress 2: Ready to Mann Up?" (1.0) by M7
 
 ## How to run this repo on your server.
-- 1) Install your TF2 server on a directory ( any directory will do ).
-- 2) Copy-Paste or git-clone this repository directly in that directory.
-- 3) Uncompress all maps, models, sounds... ( look below, theres a bash command which does all of this for you ).
-- 4) Configure the rcon password and the databases credentials and addresses.
-- 5) Restart the server.
+- 1) Install your TF2 vanilla server on a directory ( any directory will do ).
+- 2) Stop the server.
+- 3) Copy-Paste or git-clone this repository directly in your tf2 server dir.
+- 4) Uncompress all materials, below you'll find a bash command which does all of this for you.
+- 5) Configure the rcon password and the databases credentials and addresses.
+- 6) OPTIONAL: If you use a FDL with Nginx, theres a configuration which you might find helpful.
+- 8) OPTIONAL: If you have the `screen` command installed, you can start the server by running the `start_server.sh` script.
+- 9) Start the server.
+- 10) Pray it doesn't crash because of SourceMod has to cope with 100 different plugins developed for different versions of SourcePawn from the last decade.
 
 ## Contributors.
 - I+D Plugins, sourcepawn scripting, permissions, plugins management and dev  -> [Frenzoid][frenzoidsteam]
